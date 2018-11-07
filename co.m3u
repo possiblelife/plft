@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,05/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,07/11/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -6138,16 +6138,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",
 
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 HD 
-https://sportsbar.pw/lba/123/g5/SportTV1.m3u8|Referer=https://sport7.pw/
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 
-https://sportsbar.pw/lba/123/g7/Sport2PT.m3u8|Referer=https://sport7.pw/
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 
-https://sportsbar.pw/lba/123/g3/SportTV3.m3u8|Referer=https://sport7.pw/
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4 
-https://sportsbar.pw/lba/123/g4/Sport4PT.m3u8|Referer=https://sport7.pw/
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png",SPORT TV 5 
-https://sportsbar.pw/lba/123/g9/SportTV5.m3u8|Referer=https://sport7.pw/
 
 
 
@@ -10532,6 +10522,7 @@ http://..........
 #EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://i.imgur.com/nNuWCbP.jpg",Canada Star TV
 http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
 
+
 #EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/07/starplus001.jpg",Star Plus
 
 #EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png/revision/latest?cb=20170728071015" ,Star Sports 1 HD
@@ -11775,67 +11766,6 @@ http://prima.janberyan.giize.com/135.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
-
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 1 HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/1.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 2 HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/2.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 3 HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/3.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 4 HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/4.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 5 HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/5.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 6 HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/6.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 7 HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/7.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 8 HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/8.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 9 HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/9.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 1 SD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/116.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 2 SD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/117.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 3 SD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/118.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 4 SD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/119.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 5 SD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/120.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 6 SD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/121.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 7 SD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/122.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 8 SD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/123.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 9 SD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/124.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN SPORTS 1 HD (FR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/10.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN SPORTS 2 HD (FR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/11.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN SPORTS 3 HD (FR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/12.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sport HD (ES)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/13.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports USA HD (US)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/14.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Turkish Bein Sports 1 (TR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/15.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-------------Movies Channels-------------
-http://68.183.106.158:8000/movie/K1M2XV1wSf/freeiptvdaily.cf/21.mp4
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN MOVIES 1HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/17.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN MOVIES 2HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/18.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN MOVIES 3 HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/19.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN MOVIES 4 HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/20.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Fox Movies HD (AR)
-http://68.183.106.158:8000/live/K1M2XV1wSf/freeiptvdaily.cf/16.ts
 
 
 
