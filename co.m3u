@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,08/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,09/11/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -160,7 +160,7 @@ https://www.youtube.com/watch?v=oJbm78ZoMj4
 #EXTINF:-1 group-title="Greece" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
 http://www.anacon.org/app/chans/gr/megag.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube
-https://www.youtube.com/watch?v=sMYwWQHesuc
+https://www.youtube.com/watch?v=QlI8pnEoBW8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
 http://www.anacon.org/app/chans/gr/skai.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
@@ -2579,6 +2579,500 @@ http://s1.wssiptv.com:8000/live/wsspassphp/234654d54f6d5/74.ts?.coms|user-agent=
 #EXTINF:-1 group-title="UK PREMIUM-SERVER3",
 
 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BBC One HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6597
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BBC One FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6598
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BBC One Scotland HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17466
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BBC Two HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6595
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BBC Two FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6596
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BBC Two Scotland
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17465
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: ITV 1 HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6592
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: ITV 1 FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6593
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: ITV 1 +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17576
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: STV FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17443
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Channel 4 HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6584
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Channel 4 FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6585
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Channel 4 +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17574
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Channel 5 HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6579
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Channel 5 FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6580
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Channel 5 +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17573
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky One FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6577
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Two FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6539
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKS: Sky Witness FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/24583
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Atlantic FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6572
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Arts FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6548
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: ITV 2 FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6556
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: ITV 2 +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17575
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: ITV 3 HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6554
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: ITV 3+1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/22927
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: ITV 4 HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6552
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: ITV 4 +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/22926
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: ITV BE
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6550
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: CBBC HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6414
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BBC Four HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6558
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: 5 Star
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6516
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: 5 Star  1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6515
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: 5 Usa
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6518
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: 5 Usa  1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6517
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: 5 Select
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17473
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: 5Spike*
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17474
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Good food
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/11240
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Good Food +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17563
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Food Network.
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/11241
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Home
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/22929
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Home+1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/22928
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: E!
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6513
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: E4 FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6535
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: E4 +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17567
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: More 4
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6531
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: More 4 HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6532
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: AMC FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6545
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Showcase*
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17475
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sony Crime Channel
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/11404
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Comedy Central HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6563
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Comedy Central +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17572
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Comedy Central Extra
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6540
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: CBS Action
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6525
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: CBS Drama
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6526
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: CBS Reality
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6527
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: TruTV
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17551
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: TruTV +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17550
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Challenge
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6528
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Dave
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6565
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Dave Ja Vu
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6546
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Dmax
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6511
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Dmax +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17571
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Drama
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6536
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Fox HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6544
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKS: Gold
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6566
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Gold +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17564
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Universal Channel
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6562
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Lifetime FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6522
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Pick
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6524
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Quest
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6529
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Quest +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17472
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Quest Red*
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17471
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Quest Red+1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17470
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Blaze
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6476
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Yesterday
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17476
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Yesterday +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17552
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Really
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6523
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Real Lives
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6514
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: 4 Seven HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6530
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKS: Alibi
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6537
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Alibi +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17578
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Living FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6574
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Syfy HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6561
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: SyFy +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17558
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: TLC
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6542
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: TLC +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17556
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Travel Channel
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6510
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKS: W FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6568
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: W +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17553
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Animal Planet
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6494
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Animal Planet HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6495
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Animal Planet +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17577
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: National Geographic HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6485
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Nat Geo Wild FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6483
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: History FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6481
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: H2 FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6478
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Discovery Channel FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6496
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Discovery Home & Health
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17442
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Discovery Shed
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6520
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Discovery Turbo
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6492
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Discovery Science*
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/16701
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Discovery Science +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17569
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Crime & Investigation HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6475
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: I.D HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6487
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: I.D +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17560
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Eden HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6477
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Eden +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17566
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Cinema Premier HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9110
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Cinema Premier FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9111
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Cinema Premier +1 HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9109
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Cinema Action HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9096
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Cinema Action FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9097
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Cinema Comedy HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9094
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Cinema Comedy FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9095
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Cinema Disney HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9100
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Cinema Disney FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9101
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky cinema Family HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9098
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Cinema Family FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9099
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Cinema SciFi And Horror HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9090
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Cinema SciFi And Horror FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9091
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Cinema Hits HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9104
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Cinema Hits FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9105
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Cinema Select HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9088
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Cinema Select FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9089
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Cinema Greats HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9102
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Cinema Greats FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9103
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Cinema Drama HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9106
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Cinema Drama FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9107
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Cinema Thriller HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9092
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Cinema Thriller FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9093
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Movies 24
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6422
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Movies4Men
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6421
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sony Movies
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6423
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: True Movies
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6424
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: True Movies +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17554
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Film4 HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6428
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Film4 +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17565
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: TCM FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6426
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: TCM +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17557
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Horror Channel*
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6425
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Horror Channel +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17561
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Christmas24
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/25048
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Christmas24+
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/25047
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Main Event HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9137
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Main Event FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9136
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Main Event UHD.
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18767
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Sports Premier League HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9132
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Premier League FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9134
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Premier League UHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18764
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Sports Football HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9130
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Football FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9131
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Football UHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18769
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Sports Action HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9122
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Action FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9123
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Action UHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18773
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Arena HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9120
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Arena FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9121
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Arena UHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18772
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Sports Cricket HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9128
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Cricket  FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9129
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Cricket UHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18771
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Sports Golf HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9126
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Golf FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9127
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Golf UHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18768
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Sports Mix HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9116
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports MIX FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9117
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports Mix UHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18766
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Sports News HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9118
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports News FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9119
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports News UHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18765
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Sky Sports F1 HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9124
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports F1 FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9125
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky Sports F1 UHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18770
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Premier Sport HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6298
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Eurosport 1 FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9114
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Eurosport 2 FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9112
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",Eir Sports 1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/10659
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",Eir Sports 2
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/10658
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: At The Races
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6305
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Racing UK HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6292
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BoxNation
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6289
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: SIS Europe
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6276
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Horse And Country
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/17528
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Free Sports
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6293
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Ladbrokes TV
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6279
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: William Hill TV
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6281
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Coral TV
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6280
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Motorsport.tv
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6287
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: New Boyles Sports
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6278
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sheffield Steelers
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6277
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: BT Sport 1 HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9147
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: BT Sport 1 FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9149
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BT Sports 1 FHD (50FPS)
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18763
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: BT Sport 2HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9144
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: BT Sport 2 FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9146
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BT Sports 2 FHD (50FPS)
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18762
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: BT Sport 3 HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9141
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: BT Sport 3 FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9143
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BT Sports 3 FHD (50FPS)
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18761
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: BT Sport ESPN HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9138
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BT Sport ESPN FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9140
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BT Sports ESPN FHD (50FPS)
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/18760
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: BT Sport Extra 1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6286
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BT Sport Extra 2
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6285
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BT Sport Extra 3
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6284
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BT Sport Extra 4
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6283
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BT Sport Extra 5
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6282
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Baby TV
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6413
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Boomerang
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6418
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: CBeebies FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6412
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Cartoon Network HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6419
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Cartoonito
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6417
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Disney Channel
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6411
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Disney Junior HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6409
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Disney XD HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6406
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Nick JR Too
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6404
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Nick Junior
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6405
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: NickToons
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6415
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Nickelodeon
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6416
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Tiny Pop*
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/11406
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: MTV HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6541
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: MTV +1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/22924
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: MTV OMG
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/12676
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: MTV Base
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6401
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: MTV Classics
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6396
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: MTV Dance
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6398
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: MTV Hits
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6400
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: MTV Rocks
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6397
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: MTV Music
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6402
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: VH1
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6395
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Magic
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6391
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: KISS
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6392
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKL: Keep It Country
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6378
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Box Hits
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6393
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKd: Now 80s
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/9164
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UKd: 90s music channel
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6384
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: ViVA
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6399
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Virgin Radio Tv
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6379
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Viceland HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6508
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: The Vault
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6390
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Scuzz
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6385
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Al Jazeera*
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/11411
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: BBC News HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6377
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: CNN FHD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/11564
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Euronews
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/11563
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3",UK: Sky News HD
+http://evolutiontvpro.com:8080/JVlgULNlz6/eTqFJbaT1U/6375
+
+
 
 
 
@@ -4672,135 +5166,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",
 
 
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",ZDF HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/761.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Vox HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/760.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Tele 5
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/759.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Super RTL HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/758.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sport 1 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/756.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport Austria
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/755.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 9
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/754.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 8
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/753.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 7
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/752.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 6
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/751.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 5
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/750.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 4
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/749.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 3
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/748.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 2
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/747.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 11
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/746.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 10
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/745.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Sport 1
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/744.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Select 7 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/743.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Select 6 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/742.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Select 5 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/741.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Select 4 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/740.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Select 3 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/739.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Select 2 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/738.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Select 1 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/737.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Krimi
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/736.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Emotion
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/735.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Comedy
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/734.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Cinema Nostalgie
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/733.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Cinema Hits
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/732.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Cinema Family
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/731.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Cinema
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/730.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Bundesliga 9 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/729.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Bundesliga 7 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/727.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Bundesliga 6 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/726.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Bundesliga 5 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/725.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Bundesliga 4 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/724.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Bundesliga 3 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/723.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Bundesliga 2 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/722.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Bundesliga 10 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/721.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Bundesliga 1 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/720.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Atlantic  1
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/718.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sky Action
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/717.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sat 1 Gold
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/716.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Sat 1
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/715.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL Plus
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/714.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL Passion
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/713.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL Nitro
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/712.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/711.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL Crime
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/710.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL 2
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/709.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Pro 7 Maxx HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/708.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",PRO 7 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/706.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Nickelodeon HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/705.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",National Geographic HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/704.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Nat Geo Wild HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/703.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Kika HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/702.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Kabel 1 HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/701.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",History Channel HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/700.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Eurosport 1
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/699.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Disney Channel HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/698.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Cartoon Network HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/696.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",Animal Planet HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/695.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",3Sat HD
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/694.m3u8
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",RTL 2
-http://163.172.211.229:8000/live/dergcghglkfr/desdtfryyygyde/693.m3u8
-
 
 
 
@@ -6562,6 +6927,18 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER2",
 
 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" ,RTP 1
+http://62.28.213.14:9981/stream/channelid/1439506767
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" ,RTP 2
+http://62.28.213.14:9981/stream/channelid/1580833545
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" ,SIC
+http://62.28.213.14:9981/stream/channelid/1682111017
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" ,TVI
+http://62.28.213.14:9981/stream/channelid/1402355728
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" ,RTP 3
+http://62.28.213.14:9981/stream/channelid/1434611461
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" ,RTP MEMORIA
+http://62.28.213.14:9981/stream/channelid/775982095
 
 
 
@@ -6740,102 +7117,292 @@ http://148.71.7.211:4022/udp/239.100.23.9:1234
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png",RTP 1 
-http://ip.mountservers.com:7020/live/ian/jones/926.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png",RTP 2 
-http://ip.mountservers.com:7020/live/ian/jones/927.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI 
-http://ip.mountservers.com:7020/live/ian/jones/929.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png",SIC NOTICIAS 
-http://ip.mountservers.com:7020/live/ian/jones/931.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png",RTP 3 
-http://ip.mountservers.com:7020/live/ian/jones/965.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png",TVI24 
-http://ip.mountservers.com:7020/live/ian/jones/932.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CM TV 
-http://ip.mountservers.com:7020/live/ian/jones/959.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png",PORTO CANAL 
-http://ip.mountservers.com:7020/live/ian/jones/934.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png",SIC RADICAL 
-http://ip.mountservers.com:7020/live/ian/jones/935.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png",RTP MEMORIA 
-http://ip.mountservers.com:7020/live/ian/jones/971.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 
-http://ip.mountservers.com:7020/live/ian/jones/936.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 HD 
-http://ip.mountservers.com:7020/live/ian/jones/937.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 HD 
-http://ip.mountservers.com:7020/live/ian/jones/938.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 HD 
-http://ip.mountservers.com:7020/live/ian/jones/939.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4 HD 
-http://ip.mountservers.com:7020/live/ian/jones/940.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png",SPORT TV 5 HD 
-http://ip.mountservers.com:7020/live/ian/jones/941.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV HD 
-http://ip.mountservers.com:7020/live/ian/jones/943.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png",SPORTING TV 
-http://ip.mountservers.com:7020/live/ian/jones/945.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORTNEWS.png",EUROSPORT NEWS 
-http://ip.mountservers.com:7020/live/ian/jones/972.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png",NICKELODEON 
-http://ip.mountservers.com:7020/live/ian/jones/956.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png",PANDA 
-http://ip.mountservers.com:7020/live/ian/jones/947.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png",SIC K 
-http://ip.mountservers.com:7020/live/ian/jones/946.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png",BABY TV 
-http://ip.mountservers.com:7020/live/ian/jones/957.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICCAO 
-http://ip.mountservers.com:7020/live/ian/jones/933.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png",TVI REALITY 
-http://ip.mountservers.com:7020/live/ian/jones/930.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TVCINE 1 
-http://ip.mountservers.com:7020/live/ian/jones/1861.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png",TVCINE 2 
-http://ip.mountservers.com:7020/live/ian/jones/1862.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png",TVCINE 3 
-http://ip.mountservers.com:7020/live/ian/jones/1864.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png",TVCINE 4 
-http://ip.mountservers.com:7020/live/ian/jones/1863.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD 
-http://ip.mountservers.com:7020/live/ian/jones/951.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEMUNDO.png",CINEMUNDO 
-http://ip.mountservers.com:7020/live/ian/jones/952.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png",FOX MOVIES 
-http://ip.mountservers.com:7020/live/ian/jones/950.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX 
-http://ip.mountservers.com:7020/live/ian/jones/949.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png",AXN 
-http://ip.mountservers.com:7020/live/ian/jones/948.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png",SYFY 
-http://ip.mountservers.com:7020/live/ian/jones/953.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC 
-http://ip.mountservers.com:7020/live/ian/jones/954.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png",VH1 EUROPE 
-http://ip.mountservers.com:7020/live/ian/jones/955.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",DISCOVERY 
-http://ip.mountservers.com:7020/live/ian/jones/961.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png",NATIONAL GEOGRAPHIC WILD 
-http://ip.mountservers.com:7020/live/ian/jones/962.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png",HISTORIA 
-http://ip.mountservers.com:7020/live/ian/jones/970.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISSEIA.png",ODISSEIA 
-http://ip.mountservers.com:7020/live/ian/jones/960.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png",E! ENTERTAINMENT 
-http://ip.mountservers.com:7020/live/ian/jones/958.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png",TRAVEL CHANNEL 
-http://ip.mountservers.com:7020/live/ian/jones/964.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png",FOOD NETWORK 
-http://ip.mountservers.com:7020/live/ian/jones/969.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png",RTP AFRICA 
-http://ip.mountservers.com:7020/live/ian/jones/968.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png",DISCOVERY SHOWCASE 
-http://ip.mountservers.com:7020/live/ian/jones/963.m3u8
-
-
-
-
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP 1 HD 
+http://tvdomel.com:8880/meireles9/421307/927 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",rtp 1 pt 
+http://tvdomel.com:8880/meireles9/421307/511 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",rtp2 
+http://tvdomel.com:8880/meireles9/421307/734 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",sic pt 
+http://tvdomel.com:8880/meireles9/421307/508 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tvi pt 
+http://tvdomel.com:8880/meireles9/421307/522 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI hd 
+http://tvdomel.com:8880/meireles9/421307/213 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sic HD 
+http://tvdomel.com:8880/meireles9/421307/1673 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tvi reality pt 
+http://tvdomel.com:8880/meireles9/421307/504 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tvi reality Mosaico 
+http://tvdomel.com:8880/meireles9/421307/2277 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tvi ficção 
+http://tvdomel.com:8880/meireles9/421307/456 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI 24 
+http://tvdomel.com:8880/meireles9/421307/214 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",sic radical 
+http://tvdomel.com:8880/meireles9/421307/527 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sic Mulher 
+http://tvdomel.com:8880/meireles9/421307/872 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sic K 
+http://tvdomel.com:8880/meireles9/421307/452 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Rtp madeira 
+http://tvdomel.com:8880/meireles9/421307/761 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Rtp açores 
+http://tvdomel.com:8880/meireles9/421307/817 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Rtp África 
+http://tvdomel.com:8880/meireles9/421307/1183 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",rtp 3 
+http://tvdomel.com:8880/meireles9/421307/483 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",sic noticias pt 
+http://tvdomel.com:8880/meireles9/421307/510 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",cmtv pt 
+http://tvdomel.com:8880/meireles9/421307/514 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",euronews 
+http://tvdomel.com:8880/meireles9/421307/460 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",a bola pt 
+http://tvdomel.com:8880/meireles9/421307/515 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Porto canal 
+http://tvdomel.com:8880/meireles9/421307/267 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",rtp memoria 
+http://tvdomel.com:8880/meireles9/421307/742 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",disney channel 
+http://tvdomel.com:8880/meireles9/421307/282 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Panda 
+http://tvdomel.com:8880/meireles9/421307/225 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Panda biggs 
+http://tvdomel.com:8880/meireles9/421307/743 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nick Jr 
+http://tvdomel.com:8880/meireles9/421307/2013 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Niclelodeon 
+http://tvdomel.com:8880/meireles9/421307/528 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Disney Junior 
+http://tvdomel.com:8880/meireles9/421307/218 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cartoon NetWork 
+http://tvdomel.com:8880/meireles9/421307/885 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Jim Jam 
+http://tvdomel.com:8880/meireles9/421307/852 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",BABY TV 
+http://tvdomel.com:8880/meireles9/421307/873 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",globo Now 
+http://tvdomel.com:8880/meireles9/421307/268 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Globo tv 
+http://tvdomel.com:8880/meireles9/421307/932 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Multishow 
+http://tvdomel.com:8880/meireles9/421307/2330 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tv record 
+http://tvdomel.com:8880/meireles9/421307/535 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fine Living Network HD pt 
+http://tvdomel.com:8880/meireles9/421307/1652 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",My Cuisine 
+http://tvdomel.com:8880/meireles9/421307/893 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Food network pt 
+http://tvdomel.com:8880/meireles9/421307/1623 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",24 Kitchen 
+http://tvdomel.com:8880/meireles9/421307/534 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Travel Channel 
+http://tvdomel.com:8880/meireles9/421307/875 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sic caras 
+http://tvdomel.com:8880/meireles9/421307/803 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Blaze pt 
+http://tvdomel.com:8880/meireles9/421307/1624 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",S mais 
+http://tvdomel.com:8880/meireles9/421307/2449 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Más Chic pt 
+http://tvdomel.com:8880/meireles9/421307/1626 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TLC 
+http://tvdomel.com:8880/meireles9/421307/802 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Canal Q 
+http://tvdomel.com:8880/meireles9/421307/997 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",E Entertainment 
+http://tvdomel.com:8880/meireles9/421307/576 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",CBS Reality 
+http://tvdomel.com:8880/meireles9/421307/637 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",MOTORVISION 
+http://tvdomel.com:8880/meireles9/421307/816 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nat Geographic 
+http://tvdomel.com:8880/meireles9/421307/281 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",National Geographic pt 
+http://tvdomel.com:8880/meireles9/421307/853 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nat Geo Wild 
+http://tvdomel.com:8880/meireles9/421307/934 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Discovery ShowCase 
+http://tvdomel.com:8880/meireles9/421307/564 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",ID Investigation Discovery 
+http://tvdomel.com:8880/meireles9/421307/2730 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",canal Historia 
+http://tvdomel.com:8880/meireles9/421307/526 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Odisseia 
+http://tvdomel.com:8880/meireles9/421307/666 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",discovery PT pt 
+http://tvdomel.com:8880/meireles9/421307/277 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Crime + Investigation 
+http://tvdomel.com:8880/meireles9/421307/1649 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Canal Toros TV 
+http://tvdomel.com:8880/meireles9/421307/525 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Iberalia TV 
+http://tvdomel.com:8880/meireles9/421307/1842 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",caça e pesca 
+http://tvdomel.com:8880/meireles9/421307/254 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",cacavision 
+http://tvdomel.com:8880/meireles9/421307/849 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nautical HD 
+http://tvdomel.com:8880/meireles9/421307/2627 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Insight TV 
+http://tvdomel.com:8880/meireles9/421307/2729 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Outdoor Channel 
+http://tvdomel.com:8880/meireles9/421307/2138 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Extreme sports 
+http://tvdomel.com:8880/meireles9/421307/1787 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fuel tv 
+http://tvdomel.com:8880/meireles9/421307/1030 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Kombat Sport 
+http://tvdomel.com:8880/meireles9/421307/995 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fight Network 
+http://tvdomel.com:8880/meireles9/421307/2137 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Combate HD 
+http://tvdomel.com:8880/meireles9/421307/2278 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport Fight 
+http://tvdomel.com:8880/meireles9/421307/1167 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",FightBox 
+http://tvdomel.com:8880/meireles9/421307/1280 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Boxnation 
+http://tvdomel.com:8880/meireles9/421307/1281 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",in: Sony TV HD Asia 
+http://tvdomel.com:8880/meireles9/421307/1631 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",in: Sony TV HD Max 
+http://tvdomel.com:8880/meireles9/421307/1632 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",in: Zee Tv 
+http://tvdomel.com:8880/meireles9/421307/1630 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fr: TF1 
+http://tvdomel.com:8880/meireles9/421307/961 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fr: M6 HD 
+http://tvdomel.com:8880/meireles9/421307/960 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fr: Canal + 
+http://tvdomel.com:8880/meireles9/421307/1960 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",UK: ITV 1 HD 
+http://tvdomel.com:8880/meireles9/421307/992 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",UK: ITV 4 
+http://tvdomel.com:8880/meireles9/421307/2226 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Bloomberg TV 
+http://tvdomel.com:8880/meireles9/421307/2595 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",France 24 
+http://tvdomel.com:8880/meireles9/421307/1434 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",CNN 
+http://tvdomel.com:8880/meireles9/421307/1694 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sky News 
+http://tvdomel.com:8880/meireles9/421307/963 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",BBC One HD 
+http://tvdomel.com:8880/meireles9/421307/1006 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",BBC Entertainment 
+http://tvdomel.com:8880/meireles9/421307/964 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Luxe TV 
+http://tvdomel.com:8880/meireles9/421307/2496 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fashion TV 
+http://tvdomel.com:8880/meireles9/421307/1924 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Ginx TV 
+http://tvdomel.com:8880/meireles9/421307/1041 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PFC 
+http://tvdomel.com:8880/meireles9/421307/455 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVCine 1 pt 
+http://tvdomel.com:8880/meireles9/421307/518 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVcine 2 pt 
+http://tvdomel.com:8880/meireles9/421307/520 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tvcine 3 pt 
+http://tvdomel.com:8880/meireles9/421307/972 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tvcine 4 pt 
+http://tvdomel.com:8880/meireles9/421307/973 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVCINE 1 
+http://tvdomel.com:8880/meireles9/421307/262 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVCINE 2 
+http://tvdomel.com:8880/meireles9/421307/263 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVCINE 3 
+http://tvdomel.com:8880/meireles9/421307/264 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVCINE 4 
+http://tvdomel.com:8880/meireles9/421307/265 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Tv series HD 
+http://tvdomel.com:8880/meireles9/421307/1849 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVseries 
+http://tvdomel.com:8880/meireles9/421307/469 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",HollyWood HD 
+http://tvdomel.com:8880/meireles9/421307/1000 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",hollywood SD pt 
+http://tvdomel.com:8880/meireles9/421307/566 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",AMC HD 
+http://tvdomel.com:8880/meireles9/421307/1784 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",amc pt 
+http://tvdomel.com:8880/meireles9/421307/616 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",syfy pt 
+http://tvdomel.com:8880/meireles9/421307/509 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",syfy HD 
+http://tvdomel.com:8880/meireles9/421307/1534 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",axn white 
+http://tvdomel.com:8880/meireles9/421307/538 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",AXN White sd pt 
+http://tvdomel.com:8880/meireles9/421307/1750 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",axn black 
+http://tvdomel.com:8880/meireles9/421307/465 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",axn black sd pt 
+http://tvdomel.com:8880/meireles9/421307/1647 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",axn SD pt 
+http://tvdomel.com:8880/meireles9/421307/667 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",axn 
+http://tvdomel.com:8880/meireles9/421307/276 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox crime 
+http://tvdomel.com:8880/meireles9/421307/461 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox crime sd pt 
+http://tvdomel.com:8880/meireles9/421307/1627 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox SD pt 
+http://tvdomel.com:8880/meireles9/421307/592 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox hd 
+http://tvdomel.com:8880/meireles9/421307/278 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox life HD 
+http://tvdomel.com:8880/meireles9/421307/229 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fox life sd pt 
+http://tvdomel.com:8880/meireles9/421307/1101 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox comedy 
+http://tvdomel.com:8880/meireles9/421307/536 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fox Comedy HD 
+http://tvdomel.com:8880/meireles9/421307/1786 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox movies 
+http://tvdomel.com:8880/meireles9/421307/565 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fox movies HD 
+http://tvdomel.com:8880/meireles9/421307/1785 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sundance HD pt 
+http://tvdomel.com:8880/meireles9/421307/1648 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",cinemundo 
+http://tvdomel.com:8880/meireles9/421307/244 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Kuriakos TV pt 
+http://tvdomel.com:8880/meireles9/421307/1651 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Localvisao TV 
+http://tvdomel.com:8880/meireles9/421307/1820 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Dog TV 
+http://tvdomel.com:8880/meireles9/421307/2549 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TPA 
+http://tvdomel.com:8880/meireles9/421307/1821 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TCV Internacional 
+http://tvdomel.com:8880/meireles9/421307/2141 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Canção Nova 
+http://tvdomel.com:8880/meireles9/421307/1448 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",radio comercial 
+http://tvdomel.com:8880/meireles9/421307/638 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RFM 
+http://tvdomel.com:8880/meireles9/421307/640 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Mega Hits 
+http://tvdomel.com:8880/meireles9/421307/639 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cidade FM 
+http://tvdomel.com:8880/meireles9/421307/641 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Vodafone FM 
+http://tvdomel.com:8880/meireles9/421307/760 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Radio Orbital 
+http://tvdomel.com:8880/meireles9/421307/894 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RFM 80 
+http://tvdomel.com:8880/meireles9/421307/895 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Super FM 
+http://tvdomel.com:8880/meireles9/421307/905 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nova era 
+http://tvdomel.com:8880/meireles9/421307/1718 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Radio amalia 
+http://tvdomel.com:8880/meireles9/421307/1182
 
 
 
