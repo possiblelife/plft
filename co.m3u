@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,09/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,10/11/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -75,20 +75,17 @@ http://www.alphacyprus.com.cy/page/live|webnoagent$$start=url: 'http://$$end=',\
 http://www.ant1iwo.com/webtv/web-tv-live/|webnoagent$$start=href=\"http://l$$end=\" data-in$$replace=href=\"$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
 http://www.fireshow.xyz/ant1cym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
-http://master.cystreams.com:25461/live/greek/otinane/14.ts
+
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://www.anacon.org/app/chans/cy/capitalcy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
-http://master.cystreams.com:25461/live/greek/otinane/15.ts
+
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
 http://www.anacon.org/app/chans/cy/extracy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus
 http://www.anacon.org/app/chans/cy/pluscy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
-http://master.cystreams.com:25461/live/greek/otinane/119.ts
+
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://www.lakatamia.tv/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
@@ -163,14 +160,12 @@ http://www.anacon.org/app/chans/gr/megag.html|agentdown$$start=src:  "$$end=.m3u
 https://www.youtube.com/watch?v=QlI8pnEoBW8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
 http://www.anacon.org/app/chans/gr/skai.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
-http://master.cystreams.com:25461/live/greek/otinane/42.ts
+
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI official Web
 http://www.skai.gr/mobile/tv-live/|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://www.anacon.org/app/chans/gr/starg.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
-http://master.cystreams.com:25461/live/greek/otinane/40.ts
+
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA (USE GREECE VPN)
@@ -179,8 +174,7 @@ https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
 http://www.anacon.org/app/chans/gr/open.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
-http://master.cystreams.com:25461/live/greek/otinane/43.ts
+
 #EXTINF:-1 group-title="Greece" tvg-name="Macedonia TV" epg-id="Macedonia.gr" tvg-logo="https://goo.gl/CsM9Iu" ,M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
@@ -3281,20 +3275,11 @@ http://..........
 
 #EXTINF:-1 group-title="Romania-SERVER3",
 
-#EXTINF:-1 group-title="Romania-SERVER3",KanalD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$KanalD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",HISTORY
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TheHistoryChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",PARAMOUNT CHANNEL
-http://telekomtv.ro.edgesuite.net/shls/LIVE$Paramount/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",Food Network
-http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
+
 #EXTINF:-1 group-title="Romania-SERVER3",BOLLYWOOD TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",BOLLYWOOD CLASSIC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",COMEDY CENTRAL
-http://telekomtv.ro.edgesuite.net/shls/LIVE$ComedyCentral/6.m3u8/Level(1677721)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",MOOZ HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
 #EXTINF:-1 group-title="Romania-SERVER3",MOOZ DANCE
@@ -3303,18 +3288,10 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?sta
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",MOOZ HITS
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1472768646553
-#EXTINF:-1 group-title="Romania-SERVER3",BOOMERANG
-http://telekomtv.ro.edgesuite.net/shls/LIVE$Boomerang/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",DISNEY CHANNEL
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyChannel/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",DISNEY JUNIOR
 http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyJunior/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",DUCK TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DuckTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",BBC NEWS
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",NickJR
-http://telekomtv.ro.edgesuite.net/shls/LIVE$NickJR/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",TV CITY
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TVCITY/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",Erdely TV
@@ -3327,14 +3304,8 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",BBC Earth HD
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",Dolce Sport 4
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport4/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",Dolce Sport 3
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DolceSport3/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",Speranta
 http://telekomtv.ro.edgesuite.net/shls/LIVE$SperantaTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",Eurosport 2
-http://telekomtv.ro.edgesuite.net/shls/LIVE$Eurosport2/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",Travel Mix
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
 
@@ -4752,6 +4723,32 @@ http://prima.janberyan.giize.com/103.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER3",
 
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:BeinSport.Max4"  ,FR:BeinSport.Max4
+http://appleiptv.com:8080/ferruh@/turkbro!/15047
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:BeinSport.Max5"  ,FR:BeinSport.Max5
+http://appleiptv.com:8080/ferruh@/turkbro!/15046
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:BeinSport.Max6"  ,FR:BeinSport.Max6
+http://appleiptv.com:8080/ferruh@/turkbro!/15045
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:BeinSport.Max7"  ,FR:BeinSport.Max7
+http://appleiptv.com:8080/ferruh@/turkbro!/15044
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:BeinSport.Max8"  ,FR:BeinSport.Max8
+http://appleiptv.com:8080/ferruh@/turkbro!/15043
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR: BeIN Sport 1"  ,FR: BeIN Sport 1
+http://appleiptv.com:8080/ferruh@/turkbro!/15050
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:beINSport2"  ,FR:beINSport2
+http://appleiptv.com:8080/ferruh@/turkbro!/15049
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:beINSport3"  ,FR:beINSport3
+http://appleiptv.com:8080/ferruh@/turkbro!/15048
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:RMC.Sport1"  ,FR:RMC.Sport1
+http://appleiptv.com:8080/ferruh@/turkbro!/15054
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:RMC.Sport2"  ,FR:RMC.Sport2
+http://appleiptv.com:8080/ferruh@/turkbro!/15053
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:RMC.Sport3"  ,FR:RMC.Sport3
+http://appleiptv.com:8080/ferruh@/turkbro!/15052
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR: RMC Sport 4 HD"  ,FR: RMC Sport 4 HD
+http://appleiptv.com:8080/ferruh@/turkbro!/15051
+#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:Infosport"  ,FR:Infosport
+http://appleiptv.com:8080/ferruh@/turkbro!/15058
 
 
 
@@ -7415,6 +7412,16 @@ http://tvdomel.com:8880/meireles9/421307/1182
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",
 
 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT: SPORT TV 1 HD" ,PT: SPORT TV 1 HD
+http://appleiptv.com:8080/ferruh@/turkbro!/475
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT: SPORT TV 2 HD" ,PT: SPORT TV 2 HD
+http://appleiptv.com:8080/ferruh@/turkbro!/474
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT: SPORT TV 3 HD" ,PT: SPORT TV 3 HD
+http://appleiptv.com:8080/ferruh@/turkbro!/473
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT: SPORT TV 4 HD",PT: SPORT TV 4 HD
+http://appleiptv.com:8080/ferruh@/turkbro!/472
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT: SPORT TV 5HD",PT: SPORT TV 5HD
+http://appleiptv.com:8080/ferruh@/turkbro!/471
 
 
 
@@ -12758,7 +12765,186 @@ http://prima.janberyan.giize.com/135.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein1 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1286.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein2 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1285.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein3 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1284.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein4 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1283.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein5 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1282.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein6 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1281.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein7 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1280.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein8 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1279.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein9 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1278.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein10 1M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1277.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein1 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1296.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein2 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1295.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein3 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1294.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein4 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1293.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein5 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1292.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein6 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1291.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein7 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1290.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein8 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1289.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein9 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1288.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein10 2M
+http://2111.space:25461/live/admin_182223/wGBfWji1/1287.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 512 KBB
+http://2111.space:25461/live/admin_182223/wGBfWji1/1336.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport2 512 KBB
+http://2111.space:25461/live/admin_182223/wGBfWji1/1335.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport3 512 KBB
+http://2111.space:25461/live/admin_182223/wGBfWji1/1334.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport4 512 KBB
+http://2111.space:25461/live/admin_182223/wGBfWji1/1333.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 512 KBB
+http://2111.space:25461/live/admin_182223/wGBfWji1/1332.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 512 KBB
+http://2111.space:25461/live/admin_182223/wGBfWji1/1331.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7 512 KBB
+http://2111.space:25461/live/admin_182223/wGBfWji1/1330.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 512 KBB
+http://2111.space:25461/live/admin_182223/wGBfWji1/1329.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 512 KBB
+http://2111.space:25461/live/admin_182223/wGBfWji1/1328.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 512 KBB
+http://2111.space:25461/live/admin_182223/wGBfWji1/1327.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1_VERY_LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1356.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 2 VERY LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1355.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 3 VERY LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1354.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 4 VERY LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1353.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 5 VERY LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1352.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 6 VERY LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1351.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport_7_VERY_LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1350.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 8 VERY LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1349.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 9 VERY LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1348.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 10 VERY LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1347.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 512 KB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1326.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport2 512KB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1325.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport3 512KB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1324.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport4 512KB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1323.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 512KB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1322.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 512KB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1321.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7 512KB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1320.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 512KB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1319.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 512KB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1318.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 512KB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1317.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 1MB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1346.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 2 1MB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1345.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 3 1MB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1344.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 4 1MB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1343.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 1MB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1342.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 1MB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1341.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7_1MB_LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1340.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 1MB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1339.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 1MB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1338.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 1MB LOW
+http://2111.space:25461/live/admin_182223/wGBfWji1/1337.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 FULL HD
+http://2111.space:25461/live/admin_182223/wGBfWji1/1316.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport2 FULL HD
+http://2111.space:25461/live/admin_182223/wGBfWji1/1315.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport3 FULL HD
+http://2111.space:25461/live/admin_182223/wGBfWji1/1314.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport4 FULL HD
+http://2111.space:25461/live/admin_182223/wGBfWji1/1313.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 FULL HD
+http://2111.space:25461/live/admin_182223/wGBfWji1/1312.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 FULL HD
+http://2111.space:25461/live/admin_182223/wGBfWji1/1311.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7 FULL HD
+http://2111.space:25461/live/admin_182223/wGBfWji1/1310.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 FULL HD
+http://2111.space:25461/live/admin_182223/wGBfWji1/1309.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 FULL HD
+http://2111.space:25461/live/admin_182223/wGBfWji1/1308.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 FULL HD
+http://2111.space:25461/live/admin_182223/wGBfWji1/1307.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 4KB PLUSE
+http://2111.space:25461/live/admin_182223/wGBfWji1/1306.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport2 4KB PLUSE
+http://2111.space:25461/live/admin_182223/wGBfWji1/1305.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport3 4KB PLUSE
+http://2111.space:25461/live/admin_182223/wGBfWji1/1304.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport4 4KB PLUSE
+http://2111.space:25461/live/admin_182223/wGBfWji1/1303.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 4KB PLUSE
+http://2111.space:25461/live/admin_182223/wGBfWji1/1302.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 4KB PLUSE
+http://2111.space:25461/live/admin_182223/wGBfWji1/1301.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7 4KB PLUSE
+http://2111.space:25461/live/admin_182223/wGBfWji1/1300.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 4KB PLUSE
+http://2111.space:25461/live/admin_182223/wGBfWji1/1299.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 4KB PLUSE
+http://2111.space:25461/live/admin_182223/wGBfWji1/1298.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 4KB PLUSE
+http://2111.space:25461/live/admin_182223/wGBfWji1/1297.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports1 EX
+http://2111.space:25461/live/admin_182223/wGBfWji1/1276.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports2 EX
+http://2111.space:25461/live/admin_182223/wGBfWji1/1275.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports3 EX
+http://2111.space:25461/live/admin_182223/wGBfWji1/1274.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports4 EX
+http://2111.space:25461/live/admin_182223/wGBfWji1/1273.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports5 EX
+http://2111.space:25461/live/admin_182223/wGBfWji1/1272.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports6 EX
+http://2111.space:25461/live/admin_182223/wGBfWji1/1271.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports7 EX
+http://2111.space:25461/live/admin_182223/wGBfWji1/1270.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports8 EX
+http://2111.space:25461/live/admin_182223/wGBfWji1/1269.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports9 EX
+http://2111.space:25461/live/admin_182223/wGBfWji1/1268.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports10 EX
+http://2111.space:25461/live/admin_182223/wGBfWji1/1267.m3u8
 
 
 
@@ -12780,6 +12966,30 @@ http://prima.janberyan.giize.com/135.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
 
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 1 HD"  ,AR: BEIN SPORTS 1 HD
+http://appleiptv.com:8080/live/ferruh@/turkbro!/64.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS  2 HD"  ,AR: BEIN SPORTS  2 HD
+http://appleiptv.com:8080/live/ferruh@/turkbro!/63.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 3 HD"  ,AR: BEIN SPORTS 3 HD
+http://appleiptv.com:8080/live/ferruh@/turkbro!/62.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 4 HD"  ,AR: BEIN SPORTS 4 HD
+http://appleiptv.com:8080/live/ferruh@/turkbro!/61.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 5 HD"  ,AR: BEIN SPORTS 5 HD
+http://appleiptv.com:8080/live/ferruh@/turkbro!/60.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 6 HD"  ,AR: BEIN SPORTS 6 HD
+http://appleiptv.com:8080/live/ferruh@/turkbro!/59.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 7 HD"  ,AR: BEIN SPORTS 7 HD
+http://appleiptv.com:8080/live/ferruh@/turkbro!/58.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 8 HD"  ,AR: BEIN SPORTS 8 HD
+http://appleiptv.com:8080/live/ferruh@/turkbro!/57.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 9 HD"  ,AR: BEIN SPORTS 9 HD
+http://appleiptv.com:8080/live/ferruh@/turkbro!/56.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 10 HD"  ,AR: BEIN SPORTS 10 HD
+http://appleiptv.com:8080/live/ferruh@/turkbro!/55.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 11 HD"  ,AR: BEIN SPORTS 11 HD
+http://appleiptv.com:8080/live/ferruh@/turkbro!/54.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 12 HD"  ,AR: BEIN SPORTS 12 HD
+http://appleiptv.com:8080/live/ferruh@/turkbro!/53.ts
 
 
 
