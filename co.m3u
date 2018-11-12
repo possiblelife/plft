@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,10/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,12/11/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -53,47 +53,74 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|agentnodown$$start=file: "htt
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
 http://www.fireshow.xyz/rik1.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
+http://216.241.148.28:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png" ,RIK2
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u88
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
 http://www.fireshow.xyz/rik2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
+http://216.241.148.28:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/rik-hd-jpg-H1Uop6wxQ.jpg" ,RIK HD
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/rik-hd-jpg-H1Uop6wxQ.jpg" ,RIK HD
+http://216.241.148.28:8000/play/a00l/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA (Retry if failed)
 http://www.omegatv.com.cy/live/|webnoagent$$start=file: \"http://$$end=\"},$$replace=file: \"$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA
 http://www.fireshow.xyz/megacym.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA
+http://216.241.148.28:8000/play/a00n/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://www.fireshow.xyz/sigmam.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
+http://216.241.148.28:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
 http://www.alphacyprus.com.cy/page/live|agentnodown$$start=http://l$$end=        }],$$replace=',$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
 http://www.alphacyprus.com.cy/page/live|webnoagent$$start=url: 'http://$$end=',\n        }]$$replace=url: '$$replacewith=$$add=
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
+http://216.241.148.28:8000/play/a00u/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus
 http://www.ant1iwo.com/webtv/web-tv-live/|webnoagent$$start=href=\"http://l$$end=\" data-in$$replace=href=\"$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
 http://www.fireshow.xyz/ant1cym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
-
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
+http://216.241.148.28:8000/play/a00m/index.m
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
+http://master.cystreams.com:25461/live/greek/smartwatch/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://www.anacon.org/app/chans/cy/capitalcy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
+http://216.241.148.28:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
+http://master.cystreams.com:25461/live/greek/smartwatch/15.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
 http://www.anacon.org/app/chans/cy/extracy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
+http://216.241.148.28:8000/play/a00q/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus
 http://www.anacon.org/app/chans/cy/pluscy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus
+http://216.241.148.28:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
-
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
+http://master.cystreams.com:25461/live/greek/smartwatch/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://www.lakatamia.tv/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
+http://216.241.148.28:8000/play/a00v/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
 https://www.youtube.com/watch?v=1CgdJs4ayqg
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS
 http://gr.euronews.com/live|webnoagent$$start=https://euronews-$$end=playlist.m3u8$$replace=$$replacewith=$$add=playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/cbctvmall.gif" ,TV Mall
 http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/cbctvmall.gif" ,TV Mall
+http://216.241.148.28:8000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
 https://istoikona.com/CYSPORTS|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.radioepistrofi.com/templates/olympus/images/logo.jpg" ,RADIO EPISTROFI - TopFM99.9
@@ -102,7 +129,12 @@ http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.ts
 http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://farosonair.com/iconfaros.png",FAROS on Air
 http://master.cystreams.com:25461/live/faros/farostv/1866.m3u8
-
+#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
+https://www.youtube.com/watch?v=qRY56sJJ2to
+#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
+http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8
+#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
+http://216.241.148.28:8000/play/a00j/index.m3u8
 
 
 
@@ -160,12 +192,14 @@ http://www.anacon.org/app/chans/gr/megag.html|agentdown$$start=src:  "$$end=.m3u
 https://www.youtube.com/watch?v=QlI8pnEoBW8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
 http://www.anacon.org/app/chans/gr/skai.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-
+#EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
+http://master.cystreams.com:25461/live/greek/smartwatch/42.ts
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI official Web
 http://www.skai.gr/mobile/tv-live/|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://www.anacon.org/app/chans/gr/starg.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-
+#EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
+http://master.cystreams.com:25461/live/greek/smartwatch/40.ts
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA (USE GREECE VPN)
@@ -174,7 +208,8 @@ https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
 http://www.anacon.org/app/chans/gr/open.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-
+#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
+http://master.cystreams.com:25461/live/greek/smartwatch/43.ts
 #EXTINF:-1 group-title="Greece" tvg-name="Macedonia TV" epg-id="Macedonia.gr" tvg-logo="https://goo.gl/CsM9Iu" ,M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
@@ -594,7 +629,7 @@ http://qvclvp2.mmdlive.lldns.net/qvclvp2/9aa645c89c5447a8937537011e8f8d0d/manife
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Rai_News_-_Logo_2010.svg/1200px-Rai_News_-_Logo_2010.svg.png",RAI NEWS 24
 http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://static.tumblr.com/f9da82faf4956cc7fa2cc1ce6e2e2e20/pk9s04n/vC5nh2fuf/tumblr_static_914sssk3j7k00ww4k840w4okg.png" ,Russia Today America
-https://secure-streams.akamaized.net/rt-usa/index.m3u8
+https://rt-usa.secure.footprint.net/1105-inadv-qidx-2k_v3.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://www.ryeny.gov/images/ryeTV/button.jpg" ,Rye TV
 http://oflash.dfw.swagit.com/live/ryeny/smil:std-4x3-1-a/playlist.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://pbs.twimg.com/profile_images/566359150813143040/WqkPT9so.jpeg" ,Seattle Channel
@@ -1458,7 +1493,7 @@ http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m
 #EXTINF:-1 group-title="UK-WEBTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/QVC_logo_2015.png/200px-QVC_logo_2015.png" ,QVC 4
 http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
 #EXTINF:-1 group-title="UK-WEBTV" tvg-logo="https://yt3.ggpht.com/-rYFeIFqsCxg/AAAAAAAAAAI/AAAAAAAAAAA/lSsBZ4jxgsg/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" ,Russia Today UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
+https://rt-uk.secure.footprint.net/1106-inadv-qidx-1k_v3.m3u8
 #EXTINF:0 group-title="UK-WEBTV" tvg-logo="https://pbs.twimg.com/profile_images/596404466200489984/cZjPh8eP.png" ,Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
 #EXTINF:0 group-title="UK-WEBTV" tvg-logo="http://scholarships.istitutomarangoni.com/upload/dream/573a9db65187d8.174338942FRTW%20logo.png" ,World Fashion
@@ -4723,32 +4758,7 @@ http://prima.janberyan.giize.com/103.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER3",
 
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:BeinSport.Max4"  ,FR:BeinSport.Max4
-http://appleiptv.com:8080/ferruh@/turkbro!/15047
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:BeinSport.Max5"  ,FR:BeinSport.Max5
-http://appleiptv.com:8080/ferruh@/turkbro!/15046
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:BeinSport.Max6"  ,FR:BeinSport.Max6
-http://appleiptv.com:8080/ferruh@/turkbro!/15045
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:BeinSport.Max7"  ,FR:BeinSport.Max7
-http://appleiptv.com:8080/ferruh@/turkbro!/15044
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:BeinSport.Max8"  ,FR:BeinSport.Max8
-http://appleiptv.com:8080/ferruh@/turkbro!/15043
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR: BeIN Sport 1"  ,FR: BeIN Sport 1
-http://appleiptv.com:8080/ferruh@/turkbro!/15050
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:beINSport2"  ,FR:beINSport2
-http://appleiptv.com:8080/ferruh@/turkbro!/15049
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:beINSport3"  ,FR:beINSport3
-http://appleiptv.com:8080/ferruh@/turkbro!/15048
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:RMC.Sport1"  ,FR:RMC.Sport1
-http://appleiptv.com:8080/ferruh@/turkbro!/15054
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:RMC.Sport2"  ,FR:RMC.Sport2
-http://appleiptv.com:8080/ferruh@/turkbro!/15053
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:RMC.Sport3"  ,FR:RMC.Sport3
-http://appleiptv.com:8080/ferruh@/turkbro!/15052
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR: RMC Sport 4 HD"  ,FR: RMC Sport 4 HD
-http://appleiptv.com:8080/ferruh@/turkbro!/15051
-#EXTINF:-1 group-title="France PREMIUM-SERVER3"  tvg-name="FR:Infosport"  ,FR:Infosport
-http://appleiptv.com:8080/ferruh@/turkbro!/15058
+
 
 
 
@@ -5162,7 +5172,306 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",
 
-
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 13th Street
+http://diamond.cybergroup.top:15800/live/pier/1234/12227.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 13th Street HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12226.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 3Sat HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12225.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: A&E HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12224.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Alex Berlin
+http://diamond.cybergroup.top:15800/live/pier/1234/12223.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Animal Planet HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12222.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Anixe HD Series
+http://diamond.cybergroup.top:15800/live/pier/1234/12221.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Arte HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12220.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Augsburg TV
+http://diamond.cybergroup.top:15800/live/pier/1234/12219.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Austria 24
+http://diamond.cybergroup.top:15800/live/pier/1234/12218.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: AXN HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12217.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Boomerang HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12216.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Das Erste
+http://diamond.cybergroup.top:15800/live/pier/1234/12215.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Discovery Channel HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12214.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Disney Channel HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12213.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Disney Cinemagic HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12212.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Disney XD HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12211.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: E! HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12210.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Euronews DE
+http://diamond.cybergroup.top:15800/live/pier/1234/12209.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Eurosport 1
+http://diamond.cybergroup.top:15800/live/pier/1234/12208.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Eurosport 2
+http://diamond.cybergroup.top:15800/live/pier/1234/12207.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Film Club 1 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12206.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Film Club 2 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12205.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Film Club 3 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12204.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Film Club 4 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12203.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Film Club 5 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12202.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Film Club 6 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12201.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: FOX HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12200.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Heimat Kanal HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12199.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: History Channel HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12198.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Kabel 1
+http://diamond.cybergroup.top:15800/live/pier/1234/12196.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KABEL 1 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12195.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Kabel Classic HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12194.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Kabel1 Doku
+http://diamond.cybergroup.top:15800/live/pier/1234/12193.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KIKA HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12192.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KinoFilme (Die Schöne und das Biest 2017)
+http://diamond.cybergroup.top:15800/live/pier/1234/12191.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KinoFilme (Logan:The Wolverine 2017)
+http://diamond.cybergroup.top:15800/live/pier/1234/12190.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KinoFilme (Power Rangers 2017)
+http://diamond.cybergroup.top:15800/live/pier/1234/12189.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Kinowelt TV HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12188.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Motorvision HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12187.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: MTV Germany
+http://diamond.cybergroup.top:15800/live/pier/1234/12186.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Munchen TV
+http://diamond.cybergroup.top:15800/live/pier/1234/12185.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: N24
+http://diamond.cybergroup.top:15800/live/pier/1234/12184.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nat Geo People HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12183.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nat Geo Wild HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12182.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: National Geographic HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12181.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NDR HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12180.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nick HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12179.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nick JR HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12178.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nickelodeon HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12177.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nickelodeon Schweiz HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12176.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF 1 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12175.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF 2 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12174.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF 3 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12173.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF Sport   HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12172.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PLANET HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12171.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Pro7 Maxx HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12170.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Prosieben HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12167.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ProSieben Maxx
+http://diamond.cybergroup.top:15800/live/pier/1234/12166.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Romance TV HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12165.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL 2 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12164.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL 2 SD
+http://diamond.cybergroup.top:15800/live/pier/1234/12163.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL Crime
+http://diamond.cybergroup.top:15800/live/pier/1234/12162.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12161.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL Living HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12160.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL NITRO
+http://diamond.cybergroup.top:15800/live/pier/1234/12159.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL Passion
+http://diamond.cybergroup.top:15800/live/pier/1234/12158.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL SD
+http://diamond.cybergroup.top:15800/live/pier/1234/12157.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL You HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12156.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sat 1
+http://diamond.cybergroup.top:15800/live/pier/1234/12155.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sat 1 Emotions
+http://diamond.cybergroup.top:15800/live/pier/1234/12154.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sat 1 Gold
+http://diamond.cybergroup.top:15800/live/pier/1234/12153.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sixx
+http://diamond.cybergroup.top:15800/live/pier/1234/12152.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky 1 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12151.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Atlantic
+http://diamond.cybergroup.top:15800/live/pier/1234/12150.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cartoon Network HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12149.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema  1 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12148.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema  24 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12147.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema Action HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12146.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema Comedy HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12145.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema Emotion HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12144.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12143.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",De: Sky Cinema Hits HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12142.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema Nostalgie HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12141.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky DMAX
+http://diamond.cybergroup.top:15800/live/pier/1234/12140.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Krimi
+http://diamond.cybergroup.top:15800/live/pier/1234/12139.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Programmübersicht Sky Select
+http://diamond.cybergroup.top:15800/live/pier/1234/16448.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 1
+http://diamond.cybergroup.top:15800/live/pier/1234/16447.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 2
+http://diamond.cybergroup.top:15800/live/pier/1234/16446.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 3
+http://diamond.cybergroup.top:15800/live/pier/1234/16445.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 4
+http://diamond.cybergroup.top:15800/live/pier/1234/16444.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 5
+http://diamond.cybergroup.top:15800/live/pier/1234/16443.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 6
+http://diamond.cybergroup.top:15800/live/pier/1234/16442.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 7
+http://diamond.cybergroup.top:15800/live/pier/1234/16441.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 8
+http://diamond.cybergroup.top:15800/live/pier/1234/16440.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 9
+http://diamond.cybergroup.top:15800/live/pier/1234/16439.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 10
+http://diamond.cybergroup.top:15800/live/pier/1234/16438.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 11
+http://diamond.cybergroup.top:15800/live/pier/1234/16437.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 12
+http://diamond.cybergroup.top:15800/live/pier/1234/16436.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 1
+http://diamond.cybergroup.top:15800/live/pier/1234/12086.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 2
+http://diamond.cybergroup.top:15800/live/pier/1234/12082.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 1 BackUp
+http://diamond.cybergroup.top:15800/live/pier/1234/12085.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 2 BackUp
+http://diamond.cybergroup.top:15800/live/pier/1234/12081.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 1 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12084.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 2 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12080.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 3 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12079.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 4 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12078.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 5 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12077.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 6 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12076.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 7 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12075.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 8 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12074.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 9 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12073.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 10 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12083.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Austria HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12072.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 1 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12071.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 2 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12068.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 3 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12066.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 4 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12064.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 5 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12062.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 6 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12060.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 7 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12059.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 8 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12058.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 9 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12057.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 10 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12069.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 1 SD
+http://diamond.cybergroup.top:15800/live/pier/1234/12070.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 2 SD
+http://diamond.cybergroup.top:15800/live/pier/1234/12067.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 3 SD
+http://diamond.cybergroup.top:15800/live/pier/1234/12065.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 4 SD
+http://diamond.cybergroup.top:15800/live/pier/1234/12063.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 5 SD
+http://diamond.cybergroup.top:15800/live/pier/1234/12061.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY Sport News HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12056.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sony HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12055.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sport Digital HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12053.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPORT 1 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12054.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPORT1  HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12052.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SRF 1 HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12051.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SRF 2
+http://diamond.cybergroup.top:15800/live/pier/1234/12050.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Super RTL HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12049.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SYFY HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12048.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Tele 5 tv HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12047.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TNT Comedy HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12046.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TNT Film HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12045.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TNT Serie HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12044.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Universal Channel HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12043.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: VIP: Sport 1 US HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12042.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: VIVA / COMEDY CENTRAL
+http://diamond.cybergroup.top:15800/live/pier/1234/12041.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: VOX HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12040.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: WDR HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12039.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZDF
+http://diamond.cybergroup.top:15800/live/pier/1234/12038.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZDF Info HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12037.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Zee one HD
+http://diamond.cybergroup.top:15800/live/pier/1234/12036.ts
 
 
 
@@ -6436,7 +6745,7 @@ rtmp://streamer1.streamhost.org/salive/GMIredadvenirl
 #EXTINF:-1 group-title="Latino-WebTV"  tvg-logo="https://willmckinley.files.wordpress.com/2014/05/logo.png" ,Retro TV
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 group-title="Latino-WebTV"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/302px-Russia-today-logo.svg.png" ,RT Russia Today
-http://rt.ashttp14.visionip.tv/live/rt-global-live-HD/playlist.m3u8
+https://rt-news.secure.footprint.net/1103.m3u8
 #EXTINF:-1 group-title="Latino-WebTV" tvg-logo="http://www.alertamundial.com/wp-content/uploads/2015/04/RT-en-Espa%C3%B1ol.jpg" ,Russia Today Espanol
 https://secure-streams.akamaized.net/rt-esp/index.m3u8
 #EXTINF:-1 group-title="Latino-WebTV" group-title="Latino-WebTV",TDTV
@@ -7114,292 +7423,6 @@ http://148.71.7.211:4022/udp/239.100.23.9:1234
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RTP 1 HD 
-http://tvdomel.com:8880/meireles9/421307/927 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",rtp 1 pt 
-http://tvdomel.com:8880/meireles9/421307/511 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",rtp2 
-http://tvdomel.com:8880/meireles9/421307/734 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",sic pt 
-http://tvdomel.com:8880/meireles9/421307/508 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tvi pt 
-http://tvdomel.com:8880/meireles9/421307/522 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI hd 
-http://tvdomel.com:8880/meireles9/421307/213 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sic HD 
-http://tvdomel.com:8880/meireles9/421307/1673 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tvi reality pt 
-http://tvdomel.com:8880/meireles9/421307/504 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tvi reality Mosaico 
-http://tvdomel.com:8880/meireles9/421307/2277 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tvi ficção 
-http://tvdomel.com:8880/meireles9/421307/456 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVI 24 
-http://tvdomel.com:8880/meireles9/421307/214 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",sic radical 
-http://tvdomel.com:8880/meireles9/421307/527 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sic Mulher 
-http://tvdomel.com:8880/meireles9/421307/872 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sic K 
-http://tvdomel.com:8880/meireles9/421307/452 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Rtp madeira 
-http://tvdomel.com:8880/meireles9/421307/761 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Rtp açores 
-http://tvdomel.com:8880/meireles9/421307/817 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Rtp África 
-http://tvdomel.com:8880/meireles9/421307/1183 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",rtp 3 
-http://tvdomel.com:8880/meireles9/421307/483 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",sic noticias pt 
-http://tvdomel.com:8880/meireles9/421307/510 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",cmtv pt 
-http://tvdomel.com:8880/meireles9/421307/514 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",euronews 
-http://tvdomel.com:8880/meireles9/421307/460 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",a bola pt 
-http://tvdomel.com:8880/meireles9/421307/515 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Porto canal 
-http://tvdomel.com:8880/meireles9/421307/267 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",rtp memoria 
-http://tvdomel.com:8880/meireles9/421307/742 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",disney channel 
-http://tvdomel.com:8880/meireles9/421307/282 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Panda 
-http://tvdomel.com:8880/meireles9/421307/225 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Panda biggs 
-http://tvdomel.com:8880/meireles9/421307/743 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nick Jr 
-http://tvdomel.com:8880/meireles9/421307/2013 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Niclelodeon 
-http://tvdomel.com:8880/meireles9/421307/528 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Disney Junior 
-http://tvdomel.com:8880/meireles9/421307/218 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cartoon NetWork 
-http://tvdomel.com:8880/meireles9/421307/885 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Jim Jam 
-http://tvdomel.com:8880/meireles9/421307/852 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",BABY TV 
-http://tvdomel.com:8880/meireles9/421307/873 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",globo Now 
-http://tvdomel.com:8880/meireles9/421307/268 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Globo tv 
-http://tvdomel.com:8880/meireles9/421307/932 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Multishow 
-http://tvdomel.com:8880/meireles9/421307/2330 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tv record 
-http://tvdomel.com:8880/meireles9/421307/535 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fine Living Network HD pt 
-http://tvdomel.com:8880/meireles9/421307/1652 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",My Cuisine 
-http://tvdomel.com:8880/meireles9/421307/893 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Food network pt 
-http://tvdomel.com:8880/meireles9/421307/1623 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",24 Kitchen 
-http://tvdomel.com:8880/meireles9/421307/534 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Travel Channel 
-http://tvdomel.com:8880/meireles9/421307/875 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sic caras 
-http://tvdomel.com:8880/meireles9/421307/803 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Blaze pt 
-http://tvdomel.com:8880/meireles9/421307/1624 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",S mais 
-http://tvdomel.com:8880/meireles9/421307/2449 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Más Chic pt 
-http://tvdomel.com:8880/meireles9/421307/1626 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TLC 
-http://tvdomel.com:8880/meireles9/421307/802 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Canal Q 
-http://tvdomel.com:8880/meireles9/421307/997 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",E Entertainment 
-http://tvdomel.com:8880/meireles9/421307/576 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",CBS Reality 
-http://tvdomel.com:8880/meireles9/421307/637 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",MOTORVISION 
-http://tvdomel.com:8880/meireles9/421307/816 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nat Geographic 
-http://tvdomel.com:8880/meireles9/421307/281 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",National Geographic pt 
-http://tvdomel.com:8880/meireles9/421307/853 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nat Geo Wild 
-http://tvdomel.com:8880/meireles9/421307/934 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Discovery ShowCase 
-http://tvdomel.com:8880/meireles9/421307/564 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",ID Investigation Discovery 
-http://tvdomel.com:8880/meireles9/421307/2730 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",canal Historia 
-http://tvdomel.com:8880/meireles9/421307/526 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Odisseia 
-http://tvdomel.com:8880/meireles9/421307/666 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",discovery PT pt 
-http://tvdomel.com:8880/meireles9/421307/277 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Crime + Investigation 
-http://tvdomel.com:8880/meireles9/421307/1649 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Canal Toros TV 
-http://tvdomel.com:8880/meireles9/421307/525 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Iberalia TV 
-http://tvdomel.com:8880/meireles9/421307/1842 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",caça e pesca 
-http://tvdomel.com:8880/meireles9/421307/254 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",cacavision 
-http://tvdomel.com:8880/meireles9/421307/849 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nautical HD 
-http://tvdomel.com:8880/meireles9/421307/2627 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Insight TV 
-http://tvdomel.com:8880/meireles9/421307/2729 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Outdoor Channel 
-http://tvdomel.com:8880/meireles9/421307/2138 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Extreme sports 
-http://tvdomel.com:8880/meireles9/421307/1787 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fuel tv 
-http://tvdomel.com:8880/meireles9/421307/1030 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Kombat Sport 
-http://tvdomel.com:8880/meireles9/421307/995 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fight Network 
-http://tvdomel.com:8880/meireles9/421307/2137 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Combate HD 
-http://tvdomel.com:8880/meireles9/421307/2278 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sport Fight 
-http://tvdomel.com:8880/meireles9/421307/1167 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",FightBox 
-http://tvdomel.com:8880/meireles9/421307/1280 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Boxnation 
-http://tvdomel.com:8880/meireles9/421307/1281 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",in: Sony TV HD Asia 
-http://tvdomel.com:8880/meireles9/421307/1631 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",in: Sony TV HD Max 
-http://tvdomel.com:8880/meireles9/421307/1632 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",in: Zee Tv 
-http://tvdomel.com:8880/meireles9/421307/1630 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fr: TF1 
-http://tvdomel.com:8880/meireles9/421307/961 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fr: M6 HD 
-http://tvdomel.com:8880/meireles9/421307/960 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fr: Canal + 
-http://tvdomel.com:8880/meireles9/421307/1960 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",UK: ITV 1 HD 
-http://tvdomel.com:8880/meireles9/421307/992 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",UK: ITV 4 
-http://tvdomel.com:8880/meireles9/421307/2226 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Bloomberg TV 
-http://tvdomel.com:8880/meireles9/421307/2595 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",France 24 
-http://tvdomel.com:8880/meireles9/421307/1434 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",CNN 
-http://tvdomel.com:8880/meireles9/421307/1694 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sky News 
-http://tvdomel.com:8880/meireles9/421307/963 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",BBC One HD 
-http://tvdomel.com:8880/meireles9/421307/1006 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",BBC Entertainment 
-http://tvdomel.com:8880/meireles9/421307/964 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Luxe TV 
-http://tvdomel.com:8880/meireles9/421307/2496 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fashion TV 
-http://tvdomel.com:8880/meireles9/421307/1924 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Ginx TV 
-http://tvdomel.com:8880/meireles9/421307/1041 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",PFC 
-http://tvdomel.com:8880/meireles9/421307/455 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVCine 1 pt 
-http://tvdomel.com:8880/meireles9/421307/518 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVcine 2 pt 
-http://tvdomel.com:8880/meireles9/421307/520 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tvcine 3 pt 
-http://tvdomel.com:8880/meireles9/421307/972 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",tvcine 4 pt 
-http://tvdomel.com:8880/meireles9/421307/973 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVCINE 1 
-http://tvdomel.com:8880/meireles9/421307/262 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVCINE 2 
-http://tvdomel.com:8880/meireles9/421307/263 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVCINE 3 
-http://tvdomel.com:8880/meireles9/421307/264 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVCINE 4 
-http://tvdomel.com:8880/meireles9/421307/265 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Tv series HD 
-http://tvdomel.com:8880/meireles9/421307/1849 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TVseries 
-http://tvdomel.com:8880/meireles9/421307/469 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",HollyWood HD 
-http://tvdomel.com:8880/meireles9/421307/1000 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",hollywood SD pt 
-http://tvdomel.com:8880/meireles9/421307/566 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",AMC HD 
-http://tvdomel.com:8880/meireles9/421307/1784 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",amc pt 
-http://tvdomel.com:8880/meireles9/421307/616 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",syfy pt 
-http://tvdomel.com:8880/meireles9/421307/509 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",syfy HD 
-http://tvdomel.com:8880/meireles9/421307/1534 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",axn white 
-http://tvdomel.com:8880/meireles9/421307/538 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",AXN White sd pt 
-http://tvdomel.com:8880/meireles9/421307/1750 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",axn black 
-http://tvdomel.com:8880/meireles9/421307/465 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",axn black sd pt 
-http://tvdomel.com:8880/meireles9/421307/1647 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",axn SD pt 
-http://tvdomel.com:8880/meireles9/421307/667 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",axn 
-http://tvdomel.com:8880/meireles9/421307/276 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox crime 
-http://tvdomel.com:8880/meireles9/421307/461 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox crime sd pt 
-http://tvdomel.com:8880/meireles9/421307/1627 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox SD pt 
-http://tvdomel.com:8880/meireles9/421307/592 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox hd 
-http://tvdomel.com:8880/meireles9/421307/278 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox life HD 
-http://tvdomel.com:8880/meireles9/421307/229 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fox life sd pt 
-http://tvdomel.com:8880/meireles9/421307/1101 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox comedy 
-http://tvdomel.com:8880/meireles9/421307/536 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fox Comedy HD 
-http://tvdomel.com:8880/meireles9/421307/1786 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",fox movies 
-http://tvdomel.com:8880/meireles9/421307/565 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Fox movies HD 
-http://tvdomel.com:8880/meireles9/421307/1785 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Sundance HD pt 
-http://tvdomel.com:8880/meireles9/421307/1648 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",cinemundo 
-http://tvdomel.com:8880/meireles9/421307/244 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Kuriakos TV pt 
-http://tvdomel.com:8880/meireles9/421307/1651 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Localvisao TV 
-http://tvdomel.com:8880/meireles9/421307/1820 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Dog TV 
-http://tvdomel.com:8880/meireles9/421307/2549 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TPA 
-http://tvdomel.com:8880/meireles9/421307/1821 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TCV Internacional 
-http://tvdomel.com:8880/meireles9/421307/2141 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",TV Canção Nova 
-http://tvdomel.com:8880/meireles9/421307/1448 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",radio comercial 
-http://tvdomel.com:8880/meireles9/421307/638 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RFM 
-http://tvdomel.com:8880/meireles9/421307/640 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Mega Hits 
-http://tvdomel.com:8880/meireles9/421307/639 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Cidade FM 
-http://tvdomel.com:8880/meireles9/421307/641 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Vodafone FM 
-http://tvdomel.com:8880/meireles9/421307/760 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Radio Orbital 
-http://tvdomel.com:8880/meireles9/421307/894 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",RFM 80 
-http://tvdomel.com:8880/meireles9/421307/895 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Super FM 
-http://tvdomel.com:8880/meireles9/421307/905 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Nova era 
-http://tvdomel.com:8880/meireles9/421307/1718 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",Radio amalia 
-http://tvdomel.com:8880/meireles9/421307/1182
 
 
 
@@ -7411,17 +7434,6 @@ http://tvdomel.com:8880/meireles9/421307/1182
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",
 
-
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT: SPORT TV 1 HD" ,PT: SPORT TV 1 HD
-http://appleiptv.com:8080/ferruh@/turkbro!/475
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT: SPORT TV 2 HD" ,PT: SPORT TV 2 HD
-http://appleiptv.com:8080/ferruh@/turkbro!/474
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT: SPORT TV 3 HD" ,PT: SPORT TV 3 HD
-http://appleiptv.com:8080/ferruh@/turkbro!/473
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT: SPORT TV 4 HD",PT: SPORT TV 4 HD
-http://appleiptv.com:8080/ferruh@/turkbro!/472
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5"  tvg-name="PT: SPORT TV 5HD",PT: SPORT TV 5HD
-http://appleiptv.com:8080/ferruh@/turkbro!/471
 
 
 
@@ -12965,31 +12977,6 @@ http://2111.space:25461/live/admin_182223/wGBfWji1/1267.m3u8
 
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
-
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 1 HD"  ,AR: BEIN SPORTS 1 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/64.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS  2 HD"  ,AR: BEIN SPORTS  2 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/63.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 3 HD"  ,AR: BEIN SPORTS 3 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/62.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 4 HD"  ,AR: BEIN SPORTS 4 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/61.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 5 HD"  ,AR: BEIN SPORTS 5 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/60.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 6 HD"  ,AR: BEIN SPORTS 6 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/59.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 7 HD"  ,AR: BEIN SPORTS 7 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/58.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 8 HD"  ,AR: BEIN SPORTS 8 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/57.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 9 HD"  ,AR: BEIN SPORTS 9 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/56.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 10 HD"  ,AR: BEIN SPORTS 10 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/55.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 11 HD"  ,AR: BEIN SPORTS 11 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/54.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4"  tvg-name="AR: BEIN SPORTS 12 HD"  ,AR: BEIN SPORTS 12 HD
-http://appleiptv.com:8080/live/ferruh@/turkbro!/53.ts
 
 
 
