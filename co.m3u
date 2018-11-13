@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,12/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,13/11/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -3972,96 +3972,846 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Supertennis
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/4.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",NOVE TV
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/23.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DE:Romance TV
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/214.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT - CARTOONITO
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/162.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT - CARTOON NETWORK
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/164.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT - BOING
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/163.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT;SUPER!
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/161.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT:K2
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/160.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",History HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/1267.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai yoyo
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/101.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Sport   HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/99.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Sport
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/100.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/1265.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery Science
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/1266.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nat Geo HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/1264.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nat Geo People HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/1263.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nat Geo Wild HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/106.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Scuola
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/97.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Premium
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/96.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai News 24
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/95.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Movie
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/93.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Gulp
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/92.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 5
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/91.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 4
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/90.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3 HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/89.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2 HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/88.ts
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 1 HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/87.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Studio Universal
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/135.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Stories
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/133.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Joy
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/131.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Investigation Discovery
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/130.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Energy HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/129.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Emotion
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/128.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Crime HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/127.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Comedy
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/125.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/124.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cartoon Network
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/120.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Calcio 6
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/119.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Calcio 5
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/118.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Calcio 4
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/117.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Calcio 3
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/116.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Calcio 2
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/115.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Action HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/112.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 1 HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/103.ts
+http://diamond.cybergroup.top:15800/live/Willy/1234/1637.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 1 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35614.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35631.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1638.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35615.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35632.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1639.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35616.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rete 4 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35633.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rete 4 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1654.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rete 4 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35617.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 5 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35634.ts
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 5 HD
-http://tw2017.ddns.net:3434/live/dioni2018/2TFFskcszG/102.ts
+http://diamond.cybergroup.top:15800/live/Willy/1234/1623.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 5 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35618.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 1 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35635.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 1 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1629.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 1 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35619.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La7 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1632.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La 7d HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1633.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TV8
+http://diamond.cybergroup.top:15800/live/Willy/1234/1659.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nove HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1625.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RSI LA 1 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35620.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RSI LA 2 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35621.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 4 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1641.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 5 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1642.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Scuola
+http://diamond.cybergroup.top:15800/live/Willy/1234/35630.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Iris
+http://diamond.cybergroup.top:15800/live/Willy/1234/1628.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La 5
+http://diamond.cybergroup.top:15800/live/Willy/1234/1631.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Movie HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1646.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Premium HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1649.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Mediaset Italia 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/1630.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Mediaset Extra
+http://diamond.cybergroup.top:15800/live/Willy/1234/1635.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TV 2000
+http://diamond.cybergroup.top:15800/live/Willy/1234/1658.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cielo
+http://diamond.cybergroup.top:15800/live/Willy/1234/1624.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Spike
+http://diamond.cybergroup.top:15800/live/Willy/1234/1627.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",20 Mediaset
+http://diamond.cybergroup.top:15800/live/Willy/1234/22785.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dmax
+http://diamond.cybergroup.top:15800/live/Willy/1234/1626.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Top Crime
+http://diamond.cybergroup.top:15800/live/Willy/1234/1657.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dmax +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/1660.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Dove TV
+http://diamond.cybergroup.top:15800/live/Willy/1234/22031.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Real Time
+http://diamond.cybergroup.top:15800/live/Willy/1234/1652.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Real Time +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/1653.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Zelig TV
+http://diamond.cybergroup.top:15800/live/Willy/1234/35677.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Padre Pio Tv
+http://diamond.cybergroup.top:15800/live/Willy/1234/16257.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Sport =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/299.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Sport 1 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1650.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sport Italia
+http://diamond.cybergroup.top:15800/live/Willy/1234/1498.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Top Calcio 24
+http://diamond.cybergroup.top:15800/live/Willy/1234/16309.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Sky Cinema HD =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/2052.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema 1 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22000.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema 1 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/254.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema 1 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29967.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema +1 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/256.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema +1 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29959.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema +24 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35636.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema +24 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/258.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema +24 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29968.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Passion UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22007.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Passion HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/266.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Passion SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29960.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Passion HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2604.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Family UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22004.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Family HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/262.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Family SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29963.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Family HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2602.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Comedy UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22002.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Comedy HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/270.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Comedy SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29965.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Comedy HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2610.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Hits UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22005.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Hits HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/260.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Hits SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29962.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Hits HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2600.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Max UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22006.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Max HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/272.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Max SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29961.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Max HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2606.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Cult UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22003.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Cult HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/275.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Cult SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29964.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Cult HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2608.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Classic HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1170.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Classics SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29966.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Classic HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2612.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Commedita Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/35857.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Commedita Channel 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/35856.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Action Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/30092.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cult '80 Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/30093.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Gomorra Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/35855.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Gomorra Channel 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/35854.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Gomorra Channel 3
+http://diamond.cybergroup.top:15800/live/Willy/1234/35853.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Marvell Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/30095.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Sky Intrattenimento HD =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/2054.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22019.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/280.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29933.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2664.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno HD +2
+http://diamond.cybergroup.top:15800/live/Willy/1234/35660.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/16287.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/283.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29970.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2666.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic HD +2
+http://diamond.cybergroup.top:15800/live/Willy/1234/35661.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22015.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/287.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29947.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2668.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY Fox Life UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22013.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Life HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/289.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Life SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29948.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Life HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2670.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Crime  UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1338.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Crime HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/291.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Crime SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29949.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Crime HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2672.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Comedy UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1339.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Comedy HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/294.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Comedy SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29950.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Comedy HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/35663.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Animation UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21985.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Animation HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/295.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Animation SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29951.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Animation HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/35662.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Comedy Central
+http://diamond.cybergroup.top:15800/live/Willy/1234/2319.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Comedy Central +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/5717.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Blaze UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21983.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Blaze HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/16298.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Blaze HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/35665.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky LaEffe
+http://diamond.cybergroup.top:15800/live/Willy/1234/7991.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Lei
+http://diamond.cybergroup.top:15800/live/Willy/1234/8051.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Auto Moto TV
+http://diamond.cybergroup.top:15800/live/Willy/1234/2079.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MotorTrend
+http://diamond.cybergroup.top:15800/live/Willy/1234/35669.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Notizie =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/800.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai News 24
+http://diamond.cybergroup.top:15800/live/Willy/1234/1647.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky TG 24
+http://diamond.cybergroup.top:15800/live/Willy/1234/1357.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TgCom24
+http://diamond.cybergroup.top:15800/live/Willy/1234/35678.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TgNorba 24
+http://diamond.cybergroup.top:15800/live/Willy/1234/1364.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Sky Sport HD =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/2058.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 24 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22022.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 24 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/300.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sports 24 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29938.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 1 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22020.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 1 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/301.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sports 1 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29940.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Arena UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22021.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Arena HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/303.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Arena SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29939.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Serie A UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22025.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Serie A HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/324.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Serie A SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29935.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Football UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22023.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Football HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/305.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Football SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29937.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport F1 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22012.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport F1 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/311.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sports F1 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29936.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sports F1 HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/35671.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Moto GP UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22017.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Moto GP HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/312.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Moto GP SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29944.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Moto GP HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/35672.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fight NetWork
+http://diamond.cybergroup.top:15800/live/Willy/1234/5692.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Golf  UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22014.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Golf HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/307.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Golf SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29946.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Golf HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/35673.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport NBA UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22024.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport NBA HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/309.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport NBA SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35629.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY Bike Channel UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21990.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Bike Channel HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/321.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Supertennis HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1655.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Class Horse TV
+http://diamond.cybergroup.top:15800/live/Willy/1234/1343.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",WWE Wrestling HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35668.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",UNIRESAT HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35666.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== SKY CALCIO =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/323.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Info Calcio HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/2061.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 251 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21548.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 251 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/326.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 251 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35626.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 252 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21993.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 252 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/328.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 252 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35627.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 253 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21994.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 253 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/330.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 253 SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35628.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 254 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21995.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 254 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/332.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 255 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21996.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 255 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/334.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 256 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21997.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 256 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/336.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 257 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21998.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 257 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/338.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 258 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/340.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 259 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/12020.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 260 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/12021.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 261 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35670.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Roma Tv UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35640.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Roma Tv
+http://diamond.cybergroup.top:15800/live/Willy/1234/317.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Milan TV UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35638.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Milan TV
+http://diamond.cybergroup.top:15800/live/Willy/1234/315.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Inter TV UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35639.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Inter TV
+http://diamond.cybergroup.top:15800/live/Willy/1234/314.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Lazio Tv
+http://diamond.cybergroup.top:15800/live/Willy/1234/5978.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Torino Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/16308.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",=======DAZN=======
+http://diamond.cybergroup.top:15800/live/Willy/1234/35490.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN SERIE-A 1 (DVB-S) Full-HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35822.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN SERIE-A 1 (DVB-S) HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35821.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN SERIE-A 1 (DVB-S) SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35820.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN SERIE-A 2 (DVB-S) Full-HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35819.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN SERIE-A 2 (DVB-S) HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35818.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN SERIE-A 2 (DVB-S) SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35817.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 1
+http://diamond.cybergroup.top:15800/live/Willy/1234/35489.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/35488.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 3
+http://diamond.cybergroup.top:15800/live/Willy/1234/35487.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 4
+http://diamond.cybergroup.top:15800/live/Willy/1234/35486.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 5
+http://diamond.cybergroup.top:15800/live/Willy/1234/35485.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 6
+http://diamond.cybergroup.top:15800/live/Willy/1234/35484.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 7
+http://diamond.cybergroup.top:15800/live/Willy/1234/35483.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 8
+http://diamond.cybergroup.top:15800/live/Willy/1234/35482.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 9
+http://diamond.cybergroup.top:15800/live/Willy/1234/35481.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 10
+http://diamond.cybergroup.top:15800/live/Willy/1234/35480.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 11
+http://diamond.cybergroup.top:15800/live/Willy/1234/35479.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 12
+http://diamond.cybergroup.top:15800/live/Willy/1234/35478.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 13
+http://diamond.cybergroup.top:15800/live/Willy/1234/35477.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 14
+http://diamond.cybergroup.top:15800/live/Willy/1234/35476.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Lega Pro =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/35774.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] ALBINOLEFFE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35773.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] ALBISSOLA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35772.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] ALESSANDRIA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35771.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] AREZZO
+http://diamond.cybergroup.top:15800/live/Willy/1234/35770.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] ARZACHENA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35769.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] BISCEGLIE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35768.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CARRARESE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35767.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CASERTANA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35766.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CATANIA
+http://diamond.cybergroup.top:15800/live/Willy/1234/36077.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CATANZARO
+http://diamond.cybergroup.top:15800/live/Willy/1234/35765.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CUNEO
+http://diamond.cybergroup.top:15800/live/Willy/1234/35764.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] FANO
+http://diamond.cybergroup.top:15800/live/Willy/1234/35763.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] FERALPISAL
+http://diamond.cybergroup.top:15800/live/Willy/1234/35762.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] FERMANA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35761.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] GIANA ERMINIO
+http://diamond.cybergroup.top:15800/live/Willy/1234/35760.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] GOZZANO
+http://diamond.cybergroup.top:15800/live/Willy/1234/35759.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] GUBBIO
+http://diamond.cybergroup.top:15800/live/Willy/1234/35758.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] IMOLESE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35757.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] JUVE STABIA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35756.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] JUVENTUS 23
+http://diamond.cybergroup.top:15800/live/Willy/1234/35755.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] LUCCHESE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35754.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] MATERA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35753.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] MONOPOLI
+http://diamond.cybergroup.top:15800/live/Willy/1234/35752.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] MONZA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35751.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] NOVARA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35750.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] OLBIA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35749.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PAGANESE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35748.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PIACENZA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35747.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PISA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35746.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PISTOIESE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35745.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PONTEDERA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35744.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PORDENONE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35743.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] POTENZA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35742.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PRO VERCELLI
+http://diamond.cybergroup.top:15800/live/Willy/1234/35741.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PROPATRIA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35740.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RAVENNA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35739.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] REGGINA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35738.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RENATE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35737.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RENDE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35736.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RIETI
+http://diamond.cybergroup.top:15800/live/Willy/1234/35735.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RIMINI
+http://diamond.cybergroup.top:15800/live/Willy/1234/35734.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SANBENEDETTESE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35733.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SICULA LEONZIO
+http://diamond.cybergroup.top:15800/live/Willy/1234/35732.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SIENA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35731.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SIRACUSA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35730.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SUD TIROL
+http://diamond.cybergroup.top:15800/live/Willy/1234/35729.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] TERAMO
+http://diamond.cybergroup.top:15800/live/Willy/1234/35728.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] TERNANA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35727.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] TRAPANI
+http://diamond.cybergroup.top:15800/live/Willy/1234/35726.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] TRIESTINA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35725.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIBONESE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35724.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VICENZA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35723.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIRTUS ENTELLA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35722.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIRTUS FRANCAVILLA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35721.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIRTUS VERONA
+http://diamond.cybergroup.top:15800/live/Willy/1234/35720.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIS PESARO
+http://diamond.cybergroup.top:15800/live/Willy/1234/35719.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VITERBESE CASTRESE
+http://diamond.cybergroup.top:15800/live/Willy/1234/35718.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== CULTURA =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/342.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky  Arte UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21982.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Arte HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/355.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Arte SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35623.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Arte HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/35664.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Classica HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1321.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Alice
+http://diamond.cybergroup.top:15800/live/Willy/1234/1621.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Animal Planet
+http://diamond.cybergroup.top:15800/live/Willy/1234/1342.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Caccia Pesca
+http://diamond.cybergroup.top:15800/live/Willy/1234/319.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Pesca Caccia
+http://diamond.cybergroup.top:15800/live/Willy/1234/320.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Pescare&Cacciare TV
+http://diamond.cybergroup.top:15800/live/Willy/1234/5693.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky CI Crime Investigation UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22008.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky CI Crime Investigation HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/293.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Crime & Investigation SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/29958.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky CI Crime Investigation +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/5718.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Gambero Rosso UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21986.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Gambero Rosso HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/350.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Gambero Rosso SD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35625.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Food Network
+http://diamond.cybergroup.top:15800/live/Willy/1234/16312.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Nat Geo Wild UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/21987.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Nat Geo Wild HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1356.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Nat Geo People UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22018.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Nat Geo People HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1355.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky National Geographic UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35637.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky National Geographic HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1354.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Marcopolo
+http://diamond.cybergroup.top:15800/live/Willy/1234/1634.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky History UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22016.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky History Channel HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1352.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky History Channel HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/1397.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Giallo
+http://diamond.cybergroup.top:15800/live/Willy/1234/1351.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Focus
+http://diamond.cybergroup.top:15800/live/Willy/1234/1349.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Discovery T&L UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22027.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Discovery T&L HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1346.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Italian Fishing
+http://diamond.cybergroup.top:15800/live/Willy/1234/1353.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Discovery Sci UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22009.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Discovery Sci HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1345.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY Discovery UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/22010.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Discovery HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1344.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Wine TV
+http://diamond.cybergroup.top:15800/live/Willy/1234/35667.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== BAMBINI =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/362.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Frisbee
+http://diamond.cybergroup.top:15800/live/Willy/1234/1350.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky DeaKids
+http://diamond.cybergroup.top:15800/live/Willy/1234/8036.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky DeaJunior
+http://diamond.cybergroup.top:15800/live/Willy/1234/35675.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Disney Channel HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/372.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Disney Channel HD +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/1171.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Disney Channel HD +2
+http://diamond.cybergroup.top:15800/live/Willy/1234/2025.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Disney Junior
+http://diamond.cybergroup.top:15800/live/Willy/1234/2146.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Disney Junior +1
+http://diamond.cybergroup.top:15800/live/Willy/1234/2147.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Disney XD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1347.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cartonito
+http://diamond.cybergroup.top:15800/live/Willy/1234/1302.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Boing
+http://diamond.cybergroup.top:15800/live/Willy/1234/1301.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Nick Jr
+http://diamond.cybergroup.top:15800/live/Willy/1234/22030.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Nickelodeon
+http://diamond.cybergroup.top:15800/live/Willy/1234/8035.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Super
+http://diamond.cybergroup.top:15800/live/Willy/1234/1403.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky K2
+http://diamond.cybergroup.top:15800/live/Willy/1234/1303.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Manga
+http://diamond.cybergroup.top:15800/live/Willy/1234/364.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Super
+http://diamond.cybergroup.top:15800/live/Willy/1234/1359.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Yoyo HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1651.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Gulp HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1644.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Boing
+http://diamond.cybergroup.top:15800/live/Willy/1234/1622.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cartoon Network
+http://diamond.cybergroup.top:15800/live/Willy/1234/1477.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Baby TV
+http://diamond.cybergroup.top:15800/live/Willy/1234/16313.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",POP
+http://diamond.cybergroup.top:15800/live/Willy/1234/16322.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Boomerang
+http://diamond.cybergroup.top:15800/live/Willy/1234/35674.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Ken Il Guerriero Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/30094.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Me Contro Te Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/22782.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Me Contro Te 2 Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/22783.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Me Contro Te 3 Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/22784.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",BarbaPapÃ  Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/8061.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",I Griffin Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/12019.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Il Corpo Umano Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/12018.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La Casa di Topolino Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/12017.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Masha & Orso Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/8056.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Masha & Orso Channel 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/35676.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Paw Patrol Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/12016.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Peppa Pig Channel 1
+http://diamond.cybergroup.top:15800/live/Willy/1234/8055.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Peppa Pig Channel 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/8054.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Peppa Pig Channel 3
+http://diamond.cybergroup.top:15800/live/Willy/1234/8053.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Peppa Pig Channel 4
+http://diamond.cybergroup.top:15800/live/Willy/1234/8052.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PJ Masks Pigiamini Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/8057.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Scooby Doo Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/8058.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Super Wings Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/15524.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Tom & Jerry Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/8060.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Yattaman Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/30096.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Walt Disney Channel
+http://diamond.cybergroup.top:15800/live/Willy/1234/8059.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== PREMIUM CINEMA =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/2063.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35645.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema  HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1479.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema +24 UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35642.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema +24
+http://diamond.cybergroup.top:15800/live/Willy/1234/1478.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Comedy UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35643.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Comedy HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1482.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema Energy UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35644.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema Energy HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1501.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema Energy  24
+http://diamond.cybergroup.top:15800/live/Willy/1234/1503.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Studio Universal
+http://diamond.cybergroup.top:15800/live/Willy/1234/1497.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Energy
+http://diamond.cybergroup.top:15800/live/Willy/1234/1486.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Emotion UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35647.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Emotion HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1485.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Crime UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35646.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Crime HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1484.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Crime  +24
+http://diamond.cybergroup.top:15800/live/Willy/1234/1483.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Action UHD
+http://diamond.cybergroup.top:15800/live/Willy/1234/35641.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Action HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1468.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Action  +24
+http://diamond.cybergroup.top:15800/live/Willy/1234/1467.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Paramount Channel HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1465.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Premium Intrattenimento =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/2066.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Joy
+http://diamond.cybergroup.top:15800/live/Willy/1234/1489.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Stories
+http://diamond.cybergroup.top:15800/live/Willy/1234/1495.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Investigation Discovery
+http://diamond.cybergroup.top:15800/live/Willy/1234/1502.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Premium Sport =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/2064.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Sport 2 HD
+http://diamond.cybergroup.top:15800/live/Willy/1234/1494.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Sport 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/1493.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Eurosport 1
+http://diamond.cybergroup.top:15800/live/Willy/1234/1487.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Eurosport 2
+http://diamond.cybergroup.top:15800/live/Willy/1234/1488.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== PrimaFila Live =====
+http://diamond.cybergroup.top:15800/live/Willy/1234/7990.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 1 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5694.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 2 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5695.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 3 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5696.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 4 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5697.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 5 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5698.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 6 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5699.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 7 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5700.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 8 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5701.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 9 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5702.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Primafila 10 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5703.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 11 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5704.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 12 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5705.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 13 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5706.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 14 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5707.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 15 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5708.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 16 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5709.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 17 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5710.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 18 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5711.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 19 Live
+http://diamond.cybergroup.top:15800/live/Willy/1234/5712.ts
 
 
 
@@ -4758,7 +5508,382 @@ http://prima.janberyan.giize.com/103.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]13eme Rue
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21852.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]6ter
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21836.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]6ter HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21835.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]A La Carte 1 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21708.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]A La Carte 2 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21707.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]A La Carte 3 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21706.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]A La Carte 4 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21705.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]A La Carte 5 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21704.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]AB Moteurs
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21772.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]AB1 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21809.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]AB3
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21808.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Action
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21816.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Africa 24
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21732.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Alsace 20
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21731.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Animaux HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21739.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Arte
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21869.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS 1
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21795.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS 1 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21793.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS 1 SD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21794.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS 2
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21792.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS 2 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21791.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS 3
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21790.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS 3 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21789.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS MAX 4 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21788.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS MAX 5 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21787.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS MAX 6 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21786.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS MAX 7 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21785.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS MAX 8
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21784.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]beIN SPORTS MAX 8 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21783.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Bet HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21750.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]BFM Business HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21830.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]BFM TV
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21831.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Boing
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21752.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Boomerang
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21753.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]C-8 FHD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21845.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]C-8 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21844.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]C-News
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21729.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]C-Star
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21843.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]C-Star HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21842.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]CANAL  Cinema HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21828.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]CANAL  Decale HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21826.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]CANAL  Family HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21827.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]CANAL  HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21829.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]CANAL  Series HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21825.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]CANAL  Sport HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21799.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Canal Alpha JU
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21833.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Canal J
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21759.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Canal Play 1 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21703.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Canal Play 2 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21702.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Canal Play 3 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21701.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Canal Play 4 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21700.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Canal Play 5 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21699.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Cartoon Network
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21754.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Chasse et Pêche
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21728.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Chérie 25
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21837.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Ciné  Classic HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21821.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Ciné  Emotion HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21819.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Ciné  Famiz
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21823.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Ciné  Famiz HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21822.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Ciné  Premier HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21824.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Ciné FX HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21817.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Ciné isson HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21820.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Ciné Polar
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21818.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Clubbing TV
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21727.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Comédie
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21810.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Demain TV
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21726.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Discovery Channel HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21742.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Discovery Science HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21741.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Disney Channel  1
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21766.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Disney Channel HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21767.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Disney Cinema
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21765.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Disney Cinema HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21764.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Disney Junior HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21763.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Disney XD HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21762.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]E!
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21811.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Elle Girl HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21768.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]eNORME TV
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21714.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Equidia Life
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21778.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Equidia Live HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21777.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Euronews
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21725.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Eurosport 1
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21781.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Eurosport 2 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21780.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]FOOT  24/24
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21771.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]France 2
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21859.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]France 2 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21858.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]France 24
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21724.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]France 3
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21857.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]France 3 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21856.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]France 4 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21855.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]France 5
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21854.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]France Info
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21832.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]France Ô
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21853.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Game One
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21749.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]GOLF  HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21773.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Gulli HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21757.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]HD1
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21850.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Histoire
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21736.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]i24NEWS
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21713.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]ILTV
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21723.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]InfoSport
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21782.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Investigation Discovery HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21740.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]J-One
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21722.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]KTO
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21751.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]L'Equipe 21 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21779.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]La Chaîne Normande TV
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21721.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]La Une HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21718.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]M6
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21862.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]M6 Boutique
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21863.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]M6 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21861.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]M6 Music
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21860.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Mangas HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21758.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]MCM
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21807.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Mezzo Live HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21806.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]MTV
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21804.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]MTV Base
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21805.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]MTV Hits
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21803.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]MTV Music
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21802.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Nat Geo Wild HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21743.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]National Geographic HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21744.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Nick Jr.
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21761.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]NRJ 12
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21841.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]NRJ Hits
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21840.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]NT1 (TFX)
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21848.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]NT1 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21847.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Numéro 23
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21834.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]OCS Choc
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21712.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]OCS City
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21711.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]OCS Geants
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21710.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]OCS Go Cinema 1 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21698.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]OCS Go Cinema 2 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21697.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]OCS Go Cinema 3 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21696.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]OCS Go Cinema 4 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21695.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]OCS Go Cinema 5 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21694.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]OCS Max
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21709.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Ofive TV
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21719.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]OLTV
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21770.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Orange Cinema 1 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21693.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Orange Cinema 2 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21692.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Orange Cinema 3 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21691.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Orange Cinema 4 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21690.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Orange Cinema 5 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21689.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Orange Cinema Action HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21688.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Orange Cinema Aventure HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21687.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Orange Cinema HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21686.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Orange Cinema Horreur HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21685.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Orange Comment C'Est Fait HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21684.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Orange Documentaire HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21683.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Orange Enquete Exlusive HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21682.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Paramount Channel HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21814.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Paris Premiere
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21776.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Piwi  HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21756.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Planète  A&E HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21747.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Planète  CI HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21746.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Planète  HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21745.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]RFM
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21801.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]RMC Decouverte HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21748.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]RTL 9
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21849.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]RTS Deux HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21866.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]RTS Un HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21867.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Science & Vie TV
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21717.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Seasons HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21769.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]serieclub
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21851.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]SFR Sport 1 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21798.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]SFR Sport 2 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21797.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]SFR Sport 3 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21796.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Stingray Brava
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21716.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Syfy
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21812.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]TCM Cinéma HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21815.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]téléTOON
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21760.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]téva
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21775.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]téva HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21774.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]TF1
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21865.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]TF1 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21864.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]TheBlaze TV PL
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21730.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Tiji HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21755.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]TMC
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21813.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Toute l'Histoire
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21735.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Trace Urban
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21800.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Trek HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21737.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]TV Breizh HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21838.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]TV5 Monde
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21868.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]TVBreizh
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21839.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Ushuaïa TV
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21734.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Vosges Télévision HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21715.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Voyage
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21738.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]W9 HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21846.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Weo HD
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21720.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",[ FR ]Zouzous
+http://ceso.wezzy.pro:8888/live/moviesinema/Y6EDObat2k/21733.ts
 
 
 
@@ -5172,308 +6297,358 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 13th Street
-http://diamond.cybergroup.top:15800/live/pier/1234/12227.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 13th Street HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12226.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 3Sat HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12225.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: A&E HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12224.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Alex Berlin
-http://diamond.cybergroup.top:15800/live/pier/1234/12223.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Animal Planet HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12222.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Anixe HD Series
-http://diamond.cybergroup.top:15800/live/pier/1234/12221.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Arte HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12220.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Augsburg TV
-http://diamond.cybergroup.top:15800/live/pier/1234/12219.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Austria 24
-http://diamond.cybergroup.top:15800/live/pier/1234/12218.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3238.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA +1 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1452.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA  +24 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/286.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY 1 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5099.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA HITS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/291.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY ACTION HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/288.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY COMEDY
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/289.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA FAMILY
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5168.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA EMOTION
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/290.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY KINOWELT TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1731.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY NOSTALGIE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1117.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 13TH STREET HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1043.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SONY TV HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3079.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY FOX
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/824.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: HEIMAT KANAL
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1785.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",----- UNTERHALTUNG -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/329.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DISCOVERY CHANNEL
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/325.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NAT GEO WILD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/322.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NATIONAL GEO HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/321.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY ATLANTIC HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/293.ts
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: AXN HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12217.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Boomerang HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12216.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Das Erste
-http://diamond.cybergroup.top:15800/live/pier/1234/12215.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Discovery Channel HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12214.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Disney Channel HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12213.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Disney Cinemagic HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12212.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Disney XD HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12211.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: E! HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12210.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Euronews DE
-http://diamond.cybergroup.top:15800/live/pier/1234/12209.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Eurosport 1
-http://diamond.cybergroup.top:15800/live/pier/1234/12208.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Eurosport 2
-http://diamond.cybergroup.top:15800/live/pier/1234/12207.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Film Club 1 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12206.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Film Club 2 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12205.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Film Club 3 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12204.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Film Club 4 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12203.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Film Club 5 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12202.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Film Club 6 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12201.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: FOX HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12200.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Heimat Kanal HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12199.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: History Channel HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12198.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Kabel 1
-http://diamond.cybergroup.top:15800/live/pier/1234/12196.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KABEL 1 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12195.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Kabel Classic HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12194.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Kabel1 Doku
-http://diamond.cybergroup.top:15800/live/pier/1234/12193.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KIKA HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12192.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KinoFilme (Die Schöne und das Biest 2017)
-http://diamond.cybergroup.top:15800/live/pier/1234/12191.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KinoFilme (Logan:The Wolverine 2017)
-http://diamond.cybergroup.top:15800/live/pier/1234/12190.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KinoFilme (Power Rangers 2017)
-http://diamond.cybergroup.top:15800/live/pier/1234/12189.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Kinowelt TV HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12188.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Motorvision HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12187.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: MTV Germany
-http://diamond.cybergroup.top:15800/live/pier/1234/12186.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Munchen TV
-http://diamond.cybergroup.top:15800/live/pier/1234/12185.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: N24
-http://diamond.cybergroup.top:15800/live/pier/1234/12184.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nat Geo People HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12183.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nat Geo Wild HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12182.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: National Geographic HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12181.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NDR HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12180.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nick HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12179.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nick JR HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12178.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nickelodeon HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12177.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nickelodeon Schweiz HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12176.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF 1 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12175.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF 2 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12174.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF 3 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12173.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF Sport   HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12172.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PLANET HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12171.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Pro7 Maxx HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12170.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Prosieben HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12167.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ProSieben Maxx
-http://diamond.cybergroup.top:15800/live/pier/1234/12166.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Romance TV HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12165.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL 2 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12164.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL 2 SD
-http://diamond.cybergroup.top:15800/live/pier/1234/12163.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL Crime
-http://diamond.cybergroup.top:15800/live/pier/1234/12162.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12161.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL Living HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12160.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL NITRO
-http://diamond.cybergroup.top:15800/live/pier/1234/12159.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL Passion
-http://diamond.cybergroup.top:15800/live/pier/1234/12158.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL SD
-http://diamond.cybergroup.top:15800/live/pier/1234/12157.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL You HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12156.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sat 1
-http://diamond.cybergroup.top:15800/live/pier/1234/12155.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sat 1 Emotions
-http://diamond.cybergroup.top:15800/live/pier/1234/12154.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sat 1 Gold
-http://diamond.cybergroup.top:15800/live/pier/1234/12153.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sixx
-http://diamond.cybergroup.top:15800/live/pier/1234/12152.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky 1 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12151.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Atlantic
-http://diamond.cybergroup.top:15800/live/pier/1234/12150.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cartoon Network HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12149.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema  1 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12148.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema  24 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12147.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema Action HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12146.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema Comedy HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12145.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema Emotion HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12144.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12143.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",De: Sky Cinema Hits HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12142.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema Nostalgie HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12141.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky DMAX
-http://diamond.cybergroup.top:15800/live/pier/1234/12140.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Krimi
-http://diamond.cybergroup.top:15800/live/pier/1234/12139.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Programmübersicht Sky Select
-http://diamond.cybergroup.top:15800/live/pier/1234/16448.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 1
-http://diamond.cybergroup.top:15800/live/pier/1234/16447.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 2
-http://diamond.cybergroup.top:15800/live/pier/1234/16446.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 3
-http://diamond.cybergroup.top:15800/live/pier/1234/16445.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 4
-http://diamond.cybergroup.top:15800/live/pier/1234/16444.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 5
-http://diamond.cybergroup.top:15800/live/pier/1234/16443.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 6
-http://diamond.cybergroup.top:15800/live/pier/1234/16442.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 7
-http://diamond.cybergroup.top:15800/live/pier/1234/16441.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 8
-http://diamond.cybergroup.top:15800/live/pier/1234/16440.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 9
-http://diamond.cybergroup.top:15800/live/pier/1234/16439.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 10
-http://diamond.cybergroup.top:15800/live/pier/1234/16438.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 11
-http://diamond.cybergroup.top:15800/live/pier/1234/16437.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select Live 12
-http://diamond.cybergroup.top:15800/live/pier/1234/16436.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 1
-http://diamond.cybergroup.top:15800/live/pier/1234/12086.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 2
-http://diamond.cybergroup.top:15800/live/pier/1234/12082.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 1 BackUp
-http://diamond.cybergroup.top:15800/live/pier/1234/12085.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 2 BackUp
-http://diamond.cybergroup.top:15800/live/pier/1234/12081.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 1 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12084.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 2 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12080.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 3 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12079.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 4 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12078.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 5 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12077.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 6 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12076.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 7 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12075.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 8 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12074.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 9 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12073.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 10 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12083.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Austria HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12072.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 1 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12071.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 2 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12068.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 3 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12066.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 4 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12064.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 5 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12062.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 6 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12060.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 7 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12059.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 8 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12058.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 9 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12057.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 10 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12069.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 1 SD
-http://diamond.cybergroup.top:15800/live/pier/1234/12070.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 2 SD
-http://diamond.cybergroup.top:15800/live/pier/1234/12067.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 3 SD
-http://diamond.cybergroup.top:15800/live/pier/1234/12065.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 4 SD
-http://diamond.cybergroup.top:15800/live/pier/1234/12063.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 5 SD
-http://diamond.cybergroup.top:15800/live/pier/1234/12061.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY Sport News HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12056.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sony HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12055.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sport Digital HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12053.ts
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/284.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY KRIMI
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/280.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL CRIME
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1779.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL LIVING
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2920.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: UNIVERSAL HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1901.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL PASSION
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1778.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ROMANCE TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1899.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: HISTORY CHANNEL
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1453.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY TNT SERIE HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/297.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPIEGEL TV WISSEN HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5167.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SYFY HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/275.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TNT FILM (TCM)
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/281.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TNT COMEDY HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2494.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: A&E
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2649.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",----- KINDER -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/330.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DISNEY XD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1783.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DISNEY JUNIOR
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1536.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: JUNIOR
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/4492.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: BOOMERANG
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/4493.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DISNEY CHANNEL
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2648.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DISNEY CINEMAGIC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/324.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: CARTOON NETWORK
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6363.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",----- SKY SPORT -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/327.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT NEWS HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1677.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 1 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/303.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 2 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1716.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 3 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1717.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 4 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1718.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 5 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1719.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 6 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1720.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 7 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1721.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 8 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1722.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 9 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1723.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 10 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1724.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 1
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2849.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2850.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 3
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2851.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 4
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2852.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 5
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2853.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 6
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2854.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 7
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2855.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 8
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2856.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 9
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2857.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 10
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2858.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 1 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/304.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 2 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/305.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 3 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2929.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 4 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2926.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 5 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2925.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 6 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2924.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 7 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2923.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 8 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2922.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 9 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2921.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 10 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2928.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 11 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2927.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 1
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3749.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3750.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 3
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2840.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 4
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2841.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 5
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2842.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 6
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2843.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 7
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2844.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 8
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2845.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 9
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2846.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 10
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2847.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 11
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2848.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT AUSTRIA HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2714.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: EUROSPORT 1 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/299.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: EUROSPORT 2 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5897.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: EUROSPORT 2 HD XTRA ( BULI )
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6385.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPORTDIGITAL HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1678.ts
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPORT 1 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12054.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPORT1  HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12052.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SRF 1 HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12051.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SRF 2
-http://diamond.cybergroup.top:15800/live/pier/1234/12050.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Super RTL HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12049.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SYFY HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12048.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Tele 5 tv HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12047.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TNT Comedy HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12046.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TNT Film HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12045.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TNT Serie HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12044.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Universal Channel HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12043.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: VIP: Sport 1 US HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12042.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: VIVA / COMEDY CENTRAL
-http://diamond.cybergroup.top:15800/live/pier/1234/12041.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: VOX HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12040.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: WDR HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12039.ts
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3899.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPORT 1 PLUS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1042.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPORT 1 US HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5895.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: FC BAYERN TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6449.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: MOTORVISION TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2740.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",----- SKY SELECT -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/331.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 1
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/313.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/314.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 3
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/315.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 4
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/316.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 5
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/317.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 6
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/318.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 7
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/319.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 8
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/320.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",----- SKY SELECT LIVE -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2768.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 1 LIVE : Jurassic World Das gefallene Koenigreich
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2771.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 2 LIVE : Tomb Raider
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2772.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 3 LIVE : Roman J. Israel Esq
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2773.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 4 LIVE : Solo A Star Wars Story
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2775.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 5 LIVE : Rampage Big Meets Bigger
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2776.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 6 LIVE : Hot Dog
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2777.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 7 LIVE : The First Purge
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2778.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 8 LIVE : Ocean´s 8
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2779.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",***---*** DEUTSCHE SENDER ***---***
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/259.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ARD HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/264.ts
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZDF
-http://diamond.cybergroup.top:15800/live/pier/1234/12038.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZDF Info HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12037.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Zee one HD
-http://diamond.cybergroup.top:15800/live/pier/1234/12036.ts
-
-
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/265.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZDF HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5316.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/266.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL II
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/267.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SUPER RTL HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/268.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL PLUS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/4010.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NITRO.
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/272.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PRO 7 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/270.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SAT 1 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/271.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SAT 1 GOLD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2655.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SAT 1 EMOTIONS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16248.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: VOX HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/273.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PRO 7 MAXX
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1114.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KABEL 1 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1115.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TELE 5 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5892.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 3SAT HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/261.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SIXX HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/269.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZEEONE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5428.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DMAX HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/277.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ARTE HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/276.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NDR HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/279.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SWR HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5801.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: WELT HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1455.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PHOENIX
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1701.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NTV HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1702.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DELUX MUSIC HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2744.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: M2O MUSIC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1781.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: XITE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5894.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: JUKE BOX
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2650.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KIKA-HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1704.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TOGGO PLUS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1679.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NICKELODEON
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2817.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPIEGEL GESCHICHTE HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1676.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PLANET HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5429.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TLC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2815.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: EURO NEWS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2656.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: E! ENTERTAINMENT
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2653.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KABEL EINS DOKU
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5215.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KABEL 1 CLASSIC HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6450.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PRO 7 FUN HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5891.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: WELT DER WUNDER
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6866.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TRAVEL CHANNEL
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6440.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ARD ALPHA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/8376.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZDF NEO
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2651.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ONE HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6305.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: COMEDY CENTRAL
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2652.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: WDR HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1700.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE+ WDR HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7908.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: CLASSICA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2859.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ANIXE HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1730.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ATV HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6451.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ATV 2 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7335.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: FS1
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16100.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Puls 4
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/20669.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SERVUS TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2495.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: AUSTRIA 24
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6306.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF 1 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/283.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF 2 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/282.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF III HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5893.ts
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF SPORT +
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5998.ts
 
 
 
@@ -7237,14 +8412,15 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/961.m3u8$http-refferer=
 http://62.28.213.14:9981/stream/channelid/1439506767
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" ,RTP 2
 http://62.28.213.14:9981/stream/channelid/1580833545
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" ,SIC
-http://62.28.213.14:9981/stream/channelid/1682111017
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" ,TVI
-http://62.28.213.14:9981/stream/channelid/1402355728
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" ,RTP 3
 http://62.28.213.14:9981/stream/channelid/1434611461
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" ,RTP MEMORIA
 http://62.28.213.14:9981/stream/channelid/775982095
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" ,SIC
+http://62.28.213.14:9981/stream/channelid/1682111017
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" ,TVI
+http://62.28.213.14:9981/stream/channelid/1402355728
+
 
 
 
@@ -12978,7 +14154,472 @@ http://2111.space:25461/live/admin_182223/wGBfWji1/1267.m3u8
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
 
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- MARROCO -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3151.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: 2M MONDE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1516.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: 2M MAROC HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5608.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TAMAZIGHT
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1312.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MEDIA 1 TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/989.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL OULA TV INT
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2303.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ASSADISSA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1313.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NUMIDIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3179.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ARRABIAA TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3178.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ARRIADIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3150.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TELE MAROC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/8842.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL MAGHRIBIA NEWS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5693.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CANAL ATLAS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/8883.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AFLAM 7
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9025.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CHADA TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9026.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM MOVIE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9589.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM CHAABI TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9582.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM COMEDIA TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9587.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM DOCUMENTAIRE TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9585.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM ALWAN
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9588.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM TECHNO
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9583.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM KATAKIT TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9584.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM MUSIC TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9581.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM RAP ARAB TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9580.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM TAMAZIGHT TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9586.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- TUNISIA CHANNEL -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3284.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TUNISIE NAT 1
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1518.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TUNISIA NAT 2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1519.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ELHIWAR ETTOUNSI
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2559.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: FIRST CHANNEL
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2563.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TELVZATV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16153.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TOUNESNA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2564.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ATTESSIA TUNISIE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2562.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: HANNIBAL
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2560.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL HIWAR TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7025.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ZITOUNA TUNIS TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2566.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NESSMA TUNISIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2561.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: JANOUBIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2565.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL MUSTAKILLAH
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2569.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: M TUNISIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2567.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL INSEN TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6199.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CARTHAGE TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7312.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",---- DJAZAIR CHANNELS -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5047.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ALGERIE 3
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3319.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CANAL ALGERIE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3318.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ENNAHAR TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3335.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: SAMIRA TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3340.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DZAIR NEWS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3338.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ECHOUROUK
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5052.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DZAIER TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5048.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ENTV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5053.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TAMAZIGHT (ALG4)
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5055.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MAGHARIBIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5799.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: EL HEDDAF TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5051.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: EL FADJR TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7026.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: EL KHABAR KBC ALGERIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6229.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL BERBERE TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6230.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL BERBERE JEUNESSE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6232.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: EL BILAD TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5050.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL BERBERE MUSIC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6231.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: EL DJAZAIRIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/8843.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BAHIA TV ALG
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7027.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- ARABIC MIX -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3285.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: RASHEED TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3399.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NOOR DUBAI
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3397.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL SUMARIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3432.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL SHARQYIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3430.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL SHARQIYA NEWS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3431.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL JAZEERA DOC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3396.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL JADEED
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5536.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MEKAMELEEN
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6663.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CIMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3357.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: PANORAMA FOOD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3360.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: PANORAMA FILM
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3361.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: PANORAMA DRAMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3364.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: PANORAMA DRAMA 2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3362.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DREAM 1
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2164.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: FUTURE TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3359.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: LBC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1792.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC 1
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/993.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC 2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/994.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC 3
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/995.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC 4
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/996.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: LDC LEBANON
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5132.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MTV LEBANON
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5130.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NBN HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5133.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DUBAI TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2165.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DUBAI ONE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2166.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DUBAI ZAMAN
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3760.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL HAYAT
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2163.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TV SYRIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1496.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: SYRIA DRAMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/4015.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: SAMA SYRIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/4016.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: HALAB TODAY
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7030.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: JORDAN SPORT
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5797.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: JORDAN TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5796.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: JORDAN ROUYA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5798.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: WANASAH
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1000.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ABU DHABI TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/992.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL ITEJAH TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7046.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL KAHERA WAL NAS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7045.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL KAHERA WAL NAS  2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7044.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL MASRIYA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7043.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL OULA MASR
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7036.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL THANYA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7034.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: PALESTINIAN TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5788.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: LIBYA TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6365.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ELMOURITANIA.2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6288.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL-MAJD-QURAN
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2932.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: EL SHARQ
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3261.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: KSA SUNNAH
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2298.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ON DRAMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2301.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: SAUDI QURAN
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3128.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: IQRAA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3126.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL RESALAH
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3127.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ISHTAR TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16231.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- AL-MUSIKA -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2193.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MAZZIKA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5884.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Rotana Music
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18053.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ROTANA CLASSIC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/986.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ROTANA CLIP
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/985.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ROTANA DRAMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/983.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ROTANA KHALIJIAH
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/984.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Afrah TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18055.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mazzika 2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18060.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Free TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18052.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MUSIC AL ARRAB
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18054.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Music Alhanen
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18057.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:Hawacom
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18056.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AGHANI
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7032.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- AL-ATFAL -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2192.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CARTOON NETWORK
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9590.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TOYOR JANNAH
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3119.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TOYOR BABY
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5886.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BARAEM
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3761.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MAJDKIDS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3757.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: JEEM EUROPE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3759.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MODY KIDS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3758.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- AL-AKHBAR -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2191.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE NEWS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1078.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TRT ARABIC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2185.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: SKY NEWS ARABIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2182.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ECHOUROUK NEWS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3337.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BBC ARABIC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2186.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ALIKHBARIA SYRIA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2321.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL MAYADEEN
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1512.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL MANAR
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1517.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: RT NEWS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5129.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ALJAZEERA ARABIC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2184.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ANN NEWS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2187.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL ARABIYA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2183.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL AQSA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5840.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- AL-AFLAM -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2194.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CAIRO CINEMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3358.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OTV LEBANON
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2158.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC MAX
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/998.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC DRAMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/999.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC VARIETY
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3901.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC ACTION
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/997.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC MASR 2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1498.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC MASR
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1499.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC BOLLYWOOD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1504.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OSN CINEMA 1
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2671.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OSN CINEMA 2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1571.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OSN ON DEMAND HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2677.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OSN MOVIE PREMIERE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1566.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OSN MOVIE ACTION HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1563.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN MOVIE 1
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3393.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN MOVIE 2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3395.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN MOVIE 3
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5842.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN MOVIE 4
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5843.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN SERIES 1 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/20088.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN SERIES 2 HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/20089.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN FOX MOVIES
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9596.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MELODY CLASSIC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5885.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ALHAYAT MUSLSALAT
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3903.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TOKTOK AFLAM
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3904.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CINEMA PRO
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3902.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ZEE ALWAN
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1494.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ZEE AFLAM
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1495.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ART AFLAM 1
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1509.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ART AFLAM 2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1510.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ART HEKAYAT 1
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1500.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ART HEKAYAT 2
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1501.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ART CINEMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1511.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ROTANA CINEMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/987.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ROTANA AFLAM
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1502.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CBC
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1508.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CBC EXTRA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1506.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CBC DRAMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1507.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CBC SOFRA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7033.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE CINEMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1072.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE COMEDY
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1073.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE CULTURE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1075.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE DRAMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1074.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE LIFE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1076.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL NAHAR AL YOUM
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7040.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL NAHAR DRAMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7037.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- WATHAYIQIIA -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9621.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN GROUMMET
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9595.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:  NAT GEO
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5035.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- AL-RIYADA -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2195.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ON SPORT HD
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5841.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DMC SPORTS
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6018.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE SPORT
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1077.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Pyramids
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/19800.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- Sudan Channels -----
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16133.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Alamanal
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16140.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Ashoroqq
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16139.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Blue Nile
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16146.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Dabanga
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16138.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SU: ESTV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5596.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Jazeera Green
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16145.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SU: KALSAN TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5416.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Kassala
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16144.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SU: KGS TV (somalia)
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5413.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Knowledge
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16143.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Music
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16141.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Om Dorman
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16142.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SU: SNTV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5598.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SU: SOMALI CABLE
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5597.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Sport
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16134.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Sudan 24
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16137.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Sudan Drama
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16136.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Sudan TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16147.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Sudan TV (Somalia)
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16135.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SU: UNIVERSAL SOMAL
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5595.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: YEMEN
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16393.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: YEMEN AL SAEEDAH
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16388.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: YEMEN EDUCATION TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16392.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: YEMEN SAMA
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16387.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: YEMEN SHABAB
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16390.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: YEMEN TODAY TV
+http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16391.ts
 
 
 
