@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,13/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,14/11/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -88,7 +88,7 @@ http://www.ant1iwo.com/webtv/web-tv-live/|webnoagent$$start=href=\"http://l$$end
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
 http://www.fireshow.xyz/ant1cym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
-http://216.241.148.28:8000/play/a00m/index.m
+http://216.241.148.28:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://master.cystreams.com:25461/live/greek/smartwatch/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
@@ -2096,6 +2096,30 @@ http://81.171.27.106:9002/play/a00g
 
 #EXTINF:-1 group-title="UK-SERVER5", 
 
+#EXTINF:-1 group-title="UK-SERVER5" ,BBC Alba X
+http://185.53.163.214:5678/ipvt_008
+#EXTINF:-1 group-title="UK-SERVER5" ,BBC GB
+http://185.53.163.214:5678/ipvt_009
+#EXTINF:-1 group-title="UK-SERVER5" ,BBC News
+http://185.53.163.214:5678/ipvt_006
+#EXTINF:-1 group-title="UK-SERVER5" ,BBC News
+http://185.53.163.214:5678/ipvt_010
+#EXTINF:-1 group-title="UK-SERVER5" ,BBC Two
+http://185.53.163.214:5678/ipvt_007
+#EXTINF:-1 group-title="UK-SERVER5" ,ITV1
+http://185.53.163.214:5678/ipvt_001
+#EXTINF:-1 group-title="UK-SERVER5" ,ITV2
+http://185.53.163.214:5678/ipvt_002
+#EXTINF:-1 group-title="UK-SERVER5" ,ITV3
+http://185.53.163.214:5678/ipvt_003
+#EXTINF:-1 group-title="UK-SERVER5" ,ITV4
+http://185.53.163.214:5678/ipvt_004
+#EXTINF:-1 group-title="UK-SERVER5" ,ITVBe
+http://185.53.163.214:5678/ipvt_005
+#EXTINF:-1 group-title="UK-SERVER5" ,STV
+http://185.53.163.214:5678/ipvt_011
+#EXTINF:-1 group-title="UK-SERVER5" ,UTV
+http://185.53.163.214:5678/ipvt_012
 
 
 
@@ -3467,8 +3491,496 @@ http://185.134.228.141:8891
 
 
 
-#EXTINF:4 group-title="Bulgaria-SERVER2",
+#EXTINF:-1 group-title="Bulgaria-SERVER2",
 
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,24 Kitchen HD
+http://84.54.185.208:4057
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,24 TEXHO
+http://84.54.185.208:4168
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,24Kitchen
+http://84.54.185.208:4056
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,2M Monde
+http://84.54.185.208:4278
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Agro TV
+http://84.54.185.208:4046
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Al Jazeera
+http://84.54.185.208:4219
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Alfa TV
+http://84.54.185.208:4196
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Algerie 3
+http://84.54.185.208:4282
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,amc
+http://84.54.185.208:4218
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Animal Planet
+http://84.54.185.208:4039
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Animal Planet HD
+http://84.54.185.208:4040
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Arena Sport 1
+http://84.54.185.208:4087
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Arena Sport 2
+http://84.54.185.208:4088
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Arena Sport 3
+http://84.54.185.208:4089
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Arena Sport 4
+http://84.54.185.208:4090
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Arena Sport 5
+http://84.54.185.208:4091
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Armenia 1 TV
+http://84.54.185.208:4277
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Armenia TV
+http://84.54.185.208:4226
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,AutoMotorSport HD
+http://84.54.185.208:4076
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,AXN
+http://84.54.185.208:4018
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,AXN Black
+http://84.54.185.208:4019
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,AXN White
+http://84.54.185.208:4020
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Baby TV
+http://84.54.185.208:4155
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Balkanika Music
+http://84.54.185.208:4106
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Balkanika Music TV HD
+http://84.54.185.208:4107
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BBC World News
+http://84.54.185.208:4240
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BBC World News Europe HD
+http://84.54.185.208:4238
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BG Music Channel
+http://84.54.185.208:4108
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BG Music Channel HD
+http://84.54.185.208:4109
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BG-DNES HD
+http://84.54.185.208:4194
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BiT
+http://84.54.185.208:4058
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BiT HD
+http://84.54.185.208:4059
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Bloomberg Europe TV
+http://84.54.185.208:4204
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Bloomberg TV Bulgaria
+http://84.54.185.208:4048
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Bloomberg TV Bulgaria HD
+http://84.54.185.208:4285
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BNP TV
+http://84.54.185.208:4197
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BNT 1
+http://84.54.185.208:4001
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BNT 1 HD
+http://84.54.185.208:4188
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BNT 2
+http://84.54.185.208:4189
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BNT HD
+http://84.54.185.208:4187
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BNT World
+http://84.54.185.208:4210
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Boomerang
+http://84.54.185.208:4152
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Box HD
+http://84.54.185.208:4114
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Box TV
+http://84.54.185.208:4113
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Brazzers TV Europe HD
+http://84.54.185.208:4176
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV
+http://84.54.185.208:4002
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV Action
+http://84.54.185.208:4007
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV Action
+http://84.54.185.208:4006
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV Cinema
+http://84.54.185.208:4004
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV Comedy
+http://84.54.185.208:4005
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV HD
+http://84.54.185.208:4003
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV Lady
+http://84.54.185.208:4008
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Bulgaria 24
+http://84.54.185.208:4049
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Bulgaria On Air
+http://84.54.185.208:4047
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,C I Network
+http://84.54.185.208:4022
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Cartoon Network
+http://84.54.185.208:4154
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CBS Reality
+http://84.54.185.208:4241
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CBS Reality
+http://84.54.185.208:4158
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CCTV F
+http://84.54.185.208:4224
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CCTV News
+http://84.54.185.208:4230
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CCTV-4
+http://84.54.185.208:4225
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CCTV9 Documentary
+http://84.54.185.208:4288
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CCTV9 Documentary
+http://84.54.185.208:4237
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CENTOXCENTO TV
+http://84.54.185.208:4178
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Chasse
+http://84.54.185.208:4236
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Chasse Peche
+http://84.54.185.208:4289
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Cherno More
+http://84.54.185.208:4195
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Cinemax
+http://84.54.185.208:4140
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Cinemax 2
+http://84.54.185.208:4138
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Cinemax 2 HD
+http://84.54.185.208:4139
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Cinemax HD
+http://84.54.185.208:4141
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CITY TV
+http://84.54.185.208:4112
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CNBC Europe
+http://84.54.185.208:4235
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CNN
+http://84.54.185.208:4215
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CodeFashion TV HD
+http://84.54.185.208:4279
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CodeFashion TV HD
+http://84.54.185.208:4228
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Comedy Central Extra
+http://84.54.185.208:4128
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,DaVinci Learning
+http://84.54.185.208:4043
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Deluxe Lounge HD
+http://84.54.185.208:4233
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Destination BG
+http://84.54.185.208:4050
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Diema
+http://84.54.185.208:4011
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Diema Family
+http://84.54.185.208:4012
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Diema Sport
+http://84.54.185.208:4070
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Diema Sport 2
+http://84.54.185.208:4069
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Diema Sport HD
+http://84.54.185.208:4071
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Discovery Channel
+http://84.54.185.208:4024
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Discovery Science
+http://84.54.185.208:4026
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Discovery Science HD
+http://84.54.185.208:4027
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Discovery Showcase HD
+http://84.54.185.208:4025
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Disney Channel
+http://84.54.185.208:4146
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Disney Junior
+http://84.54.185.208:4148
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,DM Sat
+http://84.54.185.208:4216
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Dorcel TV
+http://84.54.185.208:4183
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,DSTV
+http://84.54.185.208:4105
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Duck TV
+http://84.54.185.208:4145
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,DW Europe
+http://84.54.185.208:4203
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,EKids
+http://84.54.185.208:4156
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Euro D
+http://84.54.185.208:4142
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Euronews
+http://84.54.185.208:4081
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Eurosport
+http://84.54.185.208:4077
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Eurosport 1 HD
+http://84.54.185.208:4078
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Eurosport 2
+http://84.54.185.208:4079
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Eurosport 2 HD
+http://84.54.185.208:4080
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Eurosport News
+http://84.54.185.208:4095
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,EvilAngel TV
+http://84.54.185.208:4182
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Evrokom
+http://84.54.185.208:4193
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,EXOTICA TV
+http://84.54.185.208:4185
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,F+
+http://84.54.185.208:4066
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fashion One HD
+http://84.54.185.208:4214
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fashion TV
+http://84.54.185.208:4217
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fashion TV HD
+http://84.54.185.208:4212
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fen Folk TV
+http://84.54.185.208:4103
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FEN TV
+http://84.54.185.208:4101
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fen TV HD
+http://84.54.185.208:4102
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FilmBox HD
+http://84.54.185.208:4133
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FilmBox HD
+http://84.54.185.208:4144
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fine Living
+http://84.54.185.208:4045
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fishing Hunting TV
+http://84.54.185.208:4252
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Folklor TV
+http://84.54.185.208:4099
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Food Network HD
+http://84.54.185.208:4055
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FOX
+http://84.54.185.208:4013
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FOX Crime
+http://84.54.185.208:4016
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fox Crime HD
+http://84.54.185.208:4017
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FOX HD
+http://84.54.185.208:4201
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FOX HD
+http://84.54.185.208:4065
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FOX Life
+http://84.54.185.208:4014
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fox Life HD
+http://84.54.185.208:4015
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FOX TV
+http://84.54.185.208:4064
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,France 24
+http://84.54.185.208:4227
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,France 5 HD
+http://84.54.185.208:4305
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HBO
+http://84.54.185.208:4134
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HBO 2
+http://84.54.185.208:4136
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HBO 2 HD
+http://84.54.185.208:4137
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HBO 3 HD
+http://87.246.0.155:5286/tv_HBO_3
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HBO HD
+http://84.54.185.208:4135
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HBO HD
+http://87.246.0.155:5286/tv_HBO
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HD
+http://84.54.185.208:4073
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,History Channel
+http://84.54.185.208:4037
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,History Channel HD
+http://84.54.185.208:4038
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Hobby lov
+http://84.54.185.208:4063
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Hobby TV
+http://84.54.185.208:4061
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Hobby TV HD
+http://84.54.185.208:4062
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Hustler HD
+http://84.54.185.208:4181
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,iConcert
+http://84.54.185.208:4118
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,ID Xtra
+http://84.54.185.208:4130
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,ID Xtra HD
+http://84.54.185.208:4131
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Kanal 3
+http://84.54.185.208:4192
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Karussel
+http://84.54.185.208:4163
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,KCN Music 2
+http://84.54.185.208:4124
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Kino Nova
+http://84.54.185.208:4010
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Kiss TV
+http://84.54.185.208:4115
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Magic TV
+http://84.54.185.208:4116
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Mezzo
+http://84.54.185.208:4120
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Mezzo Live HD
+http://84.54.185.208:4122
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Moviestar
+http://84.54.185.208:4021
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,MTV
+http://84.54.185.208:4117
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,MTV Hits
+http://84.54.185.208:4121
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,MTV Live HD
+http://84.54.185.208:4119
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,MTV Rocks
+http://84.54.185.208:4123
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,N/A
+http://84.54.185.208:4072
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Nat Geo HD
+http://84.54.185.208:4030
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Nat Geo Wild HD
+http://84.54.185.208:4032
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,NatGeo Wild
+http://84.54.185.208:4031
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,National Geographic
+http://84.54.185.208:4029
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,NEWS 24 Ukraine
+http://84.54.185.208:4161
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,NHK World TV
+http://84.54.185.208:4246
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Nick Jr
+http://84.54.185.208:4149
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Nickelodeon
+http://84.54.185.208:4150
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Nova Sport HD
+http://84.54.185.208:4067
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Nova TV
+http://84.54.185.208:4009
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,ORT1
+http://84.54.185.208:4248
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Outdoor Channel HD
+http://84.54.185.208:4041
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Penthouse 1 HD
+http://84.54.185.208:4180
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,PINK O TV
+http://84.54.185.208:4186
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Planeta Folk
+http://84.54.185.208:4098
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Planeta HD
+http://84.54.185.208:4097
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Planeta TV
+http://84.54.185.208:4096
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,PP TV
+http://84.54.185.208:4250
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rai 1
+http://84.54.185.208:4253
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rai 2
+http://84.54.185.208:4254
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rai 3
+http://84.54.185.208:4229
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rai News 24
+http://84.54.185.208:4290
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rai Sport 1
+http://84.54.185.208:4092
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Redlight HD
+http://84.54.185.208:4184
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rodina TV
+http://84.54.185.208:4104
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rossiya 24
+http://84.54.185.208:4167
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,RTR Planeta
+http://84.54.185.208:4162
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,RTR Planeta
+http://84.54.185.208:4222
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,RTVi
+http://84.54.185.208:4170
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Russia Today
+http://84.54.185.208:4258
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Russia Today Documentary
+http://84.54.185.208:4259
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Russia Today Documentary HD
+http://84.54.185.208:4173
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Russia Today HD
+http://84.54.185.208:4174
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Satellite TVAlgerie
+http://84.54.185.208:4287
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Satisfaction TV
+http://84.54.185.208:4177
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Shanson TV
+http://84.54.185.208:4202
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,SKAT
+http://84.54.185.208:4198
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Sky News
+http://84.54.185.208:4175
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Smile of a Child
+http://84.54.185.208:4153
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,STS International
+http://84.54.185.208:4306
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Sunrise Music
+http://84.54.185.208:4110
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Supertennis HD
+http://84.54.185.208:4094
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Telecafe
+http://84.54.185.208:4286
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,The Voice
+http://84.54.185.208:4111
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Tiankov Folk
+http://84.54.185.208:4261
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Tiankov Folk HD
+http://84.54.185.208:4262
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Tiankov Orient Folk
+http://84.54.185.208:4126
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Tiankov Orient Folk HD
+http://84.54.185.208:4127
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TLC
+http://84.54.185.208:4044
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Trace Sport Stars
+http://84.54.185.208:4082
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Trace Sport Stars HD
+http://84.54.185.208:4068
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Travel Channel
+http://84.54.185.208:4051
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Travel Channel HD
+http://84.54.185.208:4052
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Travel TV
+http://84.54.185.208:4054
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Travel TV HD
+http://84.54.185.208:4053
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV Centr
+http://84.54.185.208:4263
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV Evropa
+http://84.54.185.208:4190
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV+
+http://84.54.185.208:4264
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV1
+http://84.54.185.208:4265
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV1 HD
+http://84.54.185.208:4223
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV1000
+http://84.54.185.208:4143
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV5MONDE EUROPE
+http://84.54.185.208:4266
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TVE
+http://84.54.185.208:4268
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TVP Polonia
+http://84.54.185.208:4269
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TVRUS
+http://84.54.185.208:4302
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TVRUS
+http://84.54.185.208:4164
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TVT
+http://84.54.185.208:4270
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,UNITEL CLASSICA HD
+http://84.54.185.208:4244
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,VH1
+http://84.54.185.208:4271
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,VH1 Classic
+http://84.54.185.208:4272
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Viasat Explorer
+http://84.54.185.208:4033
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Viasat History
+http://84.54.185.208:4034
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Viasat History HD
+http://84.54.185.208:4035
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Viasat Nature
+http://84.54.185.208:4036
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,VTK
+http://84.54.185.208:4200
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Wild TV HD
+http://84.54.185.208:4042
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,World Fight Channel HD
+http://84.54.185.208:4084
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Время
+http://84.54.185.208:4160
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Детский Мир
+http://84.54.185.208:4172
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Дом Кино
+http://84.54.185.208:4159
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Музыка
+http://84.54.185.208:4166
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Наше Кино
+http://84.54.185.208:4165
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,НТВ Мир
+http://84.54.185.208:4169
+#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Охота и рыбалка
+http://84.54.185.208:4060
 
 
 
@@ -5367,127 +5879,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="France PREMIUM-SERVER2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
-http://..........
 
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",USHUAIA_TV-HD
-http://prima.janberyan.giize.com/93.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",TIJI
-http://prima.janberyan.giize.com/98.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",TF1-SD
-http://prima.janberyan.giize.com/63.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",TELETOON-HD
-http://prima.janberyan.giize.com/104.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",PIWI-HD
-http://prima.janberyan.giize.com/97.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS_MAX
-http://prima.janberyan.giize.com/86.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS_GEANT
-http://prima.janberyan.giize.com/84.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS_CITY
-http://prima.janberyan.giize.com/85.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS_CHOC
-http://prima.janberyan.giize.com/83.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",NICKELODEON_JUNIOR
-http://prima.janberyan.giize.com/106.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",NICKELODEON
-http://prima.janberyan.giize.com/105.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",NATIONAL-GEO
-http://prima.janberyan.giize.com/89.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",ACTION
-http://prima.janberyan.giize.com/88.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",NAT-GEO-WILD
-http://prima.janberyan.giize.com/90.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",MANGAS
-http://prima.janberyan.giize.com/102.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",M6-SD
-http://prima.janberyan.giize.com/64.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",LCI
-http://prima.janberyan.giize.com/96.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",INFOSPORT-HD
-http://prima.janberyan.giize.com/113.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",GULLI
-http://prima.janberyan.giize.com/101.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_0-SD
-http://prima.janberyan.giize.com/69.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_2-SD
-http://prima.janberyan.giize.com/65.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_2-HD
-http://prima.janberyan.giize.com/119.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_3-SD
-http://prima.janberyan.giize.com/66.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_3-HD
-http://prima.janberyan.giize.com/120.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_4-SD
-http://prima.janberyan.giize.com/67.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_5-SD
-http://prima.janberyan.giize.com/68.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE_24
-http://prima.janberyan.giize.com/94.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FOOT 24-HD
-http://prima.janberyan.giize.com/112.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",DISNEY_XD
-http://prima.janberyan.giize.com/110.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",DISNEY_JUNIOR
-http://prima.janberyan.giize.com/107.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",DISNEY_CINEMA
-http://prima.janberyan.giize.com/109.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",DISNEY_CHANNEL
-http://prima.janberyan.giize.com/108.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",DISCOVRY-SCI
-http://prima.janberyan.giize.com/92.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",DISCOVRY
-http://prima.janberyan.giize.com/91.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Discovery-ID-HD
-http://prima.janberyan.giize.com/25.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",COMEDIE
-http://prima.janberyan.giize.com/87.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_PREMIER
-http://prima.janberyan.giize.com/75.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_POLAR
-http://prima.janberyan.giize.com/81.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_FX
-http://prima.janberyan.giize.com/82.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_FRISSON
-http://prima.janberyan.giize.com/76.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_FAMIZ
-http://prima.janberyan.giize.com/80.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_EMOTION
-http://prima.janberyan.giize.com/77.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_CLUB
-http://prima.janberyan.giize.com/79.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CINE_CLASSIC
-http://prima.janberyan.giize.com/78.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CARTON_NET-HD
-http://prima.janberyan.giize.com/100.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL_PLAY_1
-http://prima.janberyan.giize.com/114.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL_PLAY_2
-http://prima.janberyan.giize.com/115.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL_PLAY_3
-http://prima.janberyan.giize.com/116.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL_PLAY_4
-http://prima.janberyan.giize.com/117.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL_PLAY_5
-http://prima.janberyan.giize.com/118.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL SPORT-HD
-http://prima.janberyan.giize.com/111.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL SERIES
-http://prima.janberyan.giize.com/74.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL FAMILY
-http://prima.janberyan.giize.com/73.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL DECALE
-http://prima.janberyan.giize.com/72.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL CINEMA
-http://prima.janberyan.giize.com/71.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL
-http://prima.janberyan.giize.com/70.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",C NEWS
-http://prima.janberyan.giize.com/95.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",BOOMERANG-HD
-http://prima.janberyan.giize.com/99.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",BOING
-http://prima.janberyan.giize.com/103.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
 
 
 
@@ -6297,358 +6689,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3238.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA +1 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1452.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA  +24 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/286.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY 1 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5099.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA HITS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/291.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY ACTION HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/288.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY COMEDY
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/289.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA FAMILY
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5168.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA EMOTION
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/290.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY KINOWELT TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1731.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY NOSTALGIE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1117.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 13TH STREET HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1043.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SONY TV HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3079.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY FOX
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/824.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: HEIMAT KANAL
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1785.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",----- UNTERHALTUNG -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/329.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DISCOVERY CHANNEL
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/325.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NAT GEO WILD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/322.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NATIONAL GEO HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/321.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY ATLANTIC HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/293.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: AXN HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/284.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY KRIMI
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/280.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL CRIME
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1779.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL LIVING
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2920.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: UNIVERSAL HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1901.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL PASSION
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1778.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ROMANCE TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1899.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: HISTORY CHANNEL
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1453.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY TNT SERIE HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/297.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPIEGEL TV WISSEN HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5167.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SYFY HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/275.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TNT FILM (TCM)
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/281.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TNT COMEDY HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2494.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: A&E
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2649.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",----- KINDER -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/330.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DISNEY XD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1783.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DISNEY JUNIOR
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1536.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: JUNIOR
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/4492.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: BOOMERANG
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/4493.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DISNEY CHANNEL
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2648.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DISNEY CINEMAGIC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/324.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: CARTOON NETWORK
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6363.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",----- SKY SPORT -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/327.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT NEWS HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1677.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 1 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/303.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 2 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1716.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 3 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1717.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 4 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1718.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 5 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1719.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 6 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1720.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 7 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1721.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 8 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1722.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 9 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1723.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 10 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1724.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 1
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2849.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2850.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 3
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2851.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 4
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2852.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 5
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2853.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 6
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2854.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 7
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2855.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 8
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2856.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 9
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2857.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 10
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2858.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 1 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/304.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 2 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/305.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 3 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2929.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 4 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2926.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 5 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2925.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 6 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2924.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 7 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2923.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 8 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2922.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 9 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2921.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 10 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2928.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 11 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2927.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 1
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3749.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3750.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 3
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2840.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 4
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2841.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 5
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2842.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 6
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2843.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 7
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2844.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 8
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2845.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 9
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2846.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 10
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2847.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT 11
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2848.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SPORT AUSTRIA HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2714.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: EUROSPORT 1 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/299.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: EUROSPORT 2 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5897.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: EUROSPORT 2 HD XTRA ( BULI )
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6385.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPORTDIGITAL HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1678.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPORT 1 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3899.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPORT 1 PLUS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1042.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPORT 1 US HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5895.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: FC BAYERN TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6449.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: MOTORVISION TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2740.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",----- SKY SELECT -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/331.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 1
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/313.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/314.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 3
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/315.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 4
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/316.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 5
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/317.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 6
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/318.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 7
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/319.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT HD 8
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/320.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",----- SKY SELECT LIVE -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2768.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 1 LIVE : Jurassic World Das gefallene Koenigreich
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2771.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 2 LIVE : Tomb Raider
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2772.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 3 LIVE : Roman J. Israel Esq
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2773.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 4 LIVE : Solo A Star Wars Story
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2775.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 5 LIVE : Rampage Big Meets Bigger
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2776.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 6 LIVE : Hot Dog
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2777.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 7 LIVE : The First Purge
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2778.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 8 LIVE : Ocean´s 8
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2779.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",***---*** DEUTSCHE SENDER ***---***
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/259.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ARD HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/264.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZDF
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/265.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZDF HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5316.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/266.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL II
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/267.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SUPER RTL HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/268.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL PLUS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/4010.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NITRO.
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/272.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PRO 7 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/270.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SAT 1 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/271.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SAT 1 GOLD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2655.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SAT 1 EMOTIONS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16248.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: VOX HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/273.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PRO 7 MAXX
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1114.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KABEL 1 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1115.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TELE 5 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5892.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 3SAT HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/261.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SIXX HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/269.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZEEONE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5428.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DMAX HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/277.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ARTE HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/276.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NDR HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/279.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SWR HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5801.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: WELT HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1455.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PHOENIX
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1701.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NTV HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1702.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DELUX MUSIC HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2744.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: M2O MUSIC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1781.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: XITE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5894.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: JUKE BOX
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2650.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KIKA-HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1704.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TOGGO PLUS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1679.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NICKELODEON
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2817.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPIEGEL GESCHICHTE HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1676.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PLANET HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5429.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TLC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2815.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: EURO NEWS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2656.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: E! ENTERTAINMENT
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2653.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KABEL EINS DOKU
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5215.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: KABEL 1 CLASSIC HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6450.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PRO 7 FUN HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5891.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: WELT DER WUNDER
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6866.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TRAVEL CHANNEL
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6440.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ARD ALPHA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/8376.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZDF NEO
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2651.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ONE HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6305.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: COMEDY CENTRAL
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2652.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: WDR HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1700.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE+ WDR HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7908.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: CLASSICA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2859.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ANIXE HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1730.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ATV HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6451.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ATV 2 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7335.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: FS1
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16100.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Puls 4
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/20669.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SERVUS TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2495.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: AUSTRIA 24
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6306.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF 1 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/283.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF 2 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/282.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF III HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5893.ts
-#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ORF SPORT +
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5998.ts
 
 
 
@@ -13680,253 +13720,12 @@ http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?id=bahrain_tv
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
-http://..........
-
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======MBC=======
-http://......
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBC1.png",MBC_1
-http://prima.janberyan.giize.com/217.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBC2.png",MBC_2
-http://prima.janberyan.giize.com/218.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBC3.png",MBC_3
-http://prima.janberyan.giize.com/219.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBC4.png",MBC_4
-http://prima.janberyan.giize.com/220.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://1.bp.blogspot.com/-fvhnC5WyXHk/WO_uws-YsoI/AAAAAAAAFD0/YR3KM8a0hJca-5aruYeWECmJaeQX9osXQCLcB/s1600/mbc_ae_drama_us.png",MBC_DRAMA
-http://prima.janberyan.giize.com/225.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBCMAX.png",MBC_MAX
-http://prima.janberyan.giize.com/222.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBCAction.png",MBC_ACTION
-http://prima.janberyan.giize.com/221.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBC_MASR.png",MBC_MASR_1
-http://prima.janberyan.giize.com/223.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBC_Masr2.png",MBC_MASR_2
-http://prima.janberyan.giize.com/224.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/MBCBollywood.png",MBC_BOLLYWOOD
-http://prima.janberyan.giize.com/226.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://cdn6.aptoide.com/imgs/c/2/c/c2c8fbe3bd97068c81e69c4133b052b0_icon.png?w=240",MBC_ZEE_Alwan
-http://prima.janberyan.giize.com/227.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://www.broadcastprome.com/wp-content/uploads/2012/11/Zee-Aflam.gif",MBC_ZEE_Aflam
-http://prima.janberyan.giize.com/228.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://www.broadcastprome.com/wp-content/uploads/2012/11/Zee-Aflam.gif",MBC_B4U_AFLAM
-http://prima.janberyan.giize.com/229.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======BEIN=======
-http://......
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/The_new_logo_of_beIN_SERIES_at_2017.jpg",beIN_Series-HD
-http://prima.janberyan.giize.com/191.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://2.bp.blogspot.com/--S-DeGvqRAg/WRyfY5wYLpI/AAAAAAAAGLU/yC70XhXSm38-LjDpx6C0ZXZKwqbEYuLHwCLcB/s1600/jeem_tv_qa.png",beIN_Jeem_HD
-http://prima.janberyan.giize.com/18.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN_Gourmet
-http://prima.janberyan.giize.com/17.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://i.fatafeat.com/static/images/logo.png" ,beIN_Fatafeat
-http://prima.janberyan.giize.com/153.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://4.bp.blogspot.com/-lLLGwGe0SU0/VvfF-Wf-PgI/AAAAAAAAD1w/4wuF8M2X9YsckWaAfPSXdIPTDVgcPaSnQ/s1600/be_in_movies_1_hd.png",beIN-Movies-1HD
-http://prima.janberyan.giize.com/187.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://www.tvchannel.biz/wp-content/uploads/2016/10/beinmovies2.jpg",beIN-Movies-2HD
-http://prima.janberyan.giize.com/188.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://bein.net/ar/wp-content/uploads/sites/4/2015/09/beINMOVIES_3HD.png",beIN-Movies-3HD
-http://prima.janberyan.giize.com/189.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://frequencyme.com/wp-content/uploads/-%D9%82%D9%86%D8%A7%D8%A9-%D8%A8%D9%8A-%D8%A5%D9%86-%D9%85%D9%88%D9%81%D9%8A-4-bein-movies-hd-e1508615691131.gif",beIN-Movies-4HD
-http://prima.janberyan.giize.com/190.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Junior
-http://prima.janberyan.giize.com/19.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Fox-Action
-http://prima.janberyan.giize.com/193.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Dmax
-http://prima.janberyan.giize.com/192.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baraem.jpg",beIN-Baraem
-http://prima.janberyan.giize.com/15.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",beIN-Animal-Planet
-http://prima.janberyan.giize.com/16.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======OSN=======
-http://......
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Yahala_Shabab_HD
-http://prima.janberyan.giize.com/209.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Yahala_HD
-http://prima.janberyan.giize.com/207.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Yahala_Drama_HD
-http://prima.janberyan.giize.com/208.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Yahala_Cinema_HD
-http://prima.janberyan.giize.com/210.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeViiDrama-HD.png",OSN_SeeVii_Drama_HD.
-http://prima.janberyan.giize.com/213.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeViiBeelink-HD.png",OSN_SeeVii_Beelink_HD
-http://prima.janberyan.giize.com/216.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeVii_AlAoula-HD.png",OSN_SeeVii_Al oula_HD
-http://prima.janberyan.giize.com/214.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-SeeVii-Shamiya.png",OSN_SeeVii-Shamia
-http://prima.janberyan.giize.com/215.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Ondemend_Extra_HD
-http://prima.janberyan.giize.com/206.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Ondemand_HD
-http://prima.janberyan.giize.com/205.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_ON DEMAND 3FHD
-http://prima.janberyan.giize.com/197.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_ON DEMAND 2FHD
-http://prima.janberyan.giize.com/196.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_ON DEMAND 1FHD
-http://prima.janberyan.giize.com/195.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_Premiere_2
-http://prima.janberyan.giize.com/203.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_Premiere
-http://prima.janberyan.giize.com/202.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_HD
-http://prima.janberyan.giize.com/198.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_Comedy_HD
-http://prima.janberyan.giize.com/204.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_Action_HD
-http://prima.janberyan.giize.com/200.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_Action_2_HD
-http://prima.janberyan.giize.com/201.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Movies_2_HD
-http://prima.janberyan.giize.com/199.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Cinema_2HD
-http://prima.janberyan.giize.com/212.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN_Cinema_1HD
-http://prima.janberyan.giize.com/211.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============
-http://......
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2"  tvg-logo="https://sc.dish.com/shared/images/station-logos/iqraa.png",IQRAA
-http://prima.janberyan.giize.com/185.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/Almajd-Quran.png",Al_Majd_Quran
-http://prima.janberyan.giize.com/180.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al_Majd_Hadith
-http://prima.janberyan.giize.com/181.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2017/04/AlMajd3-200x150.png",Al_Majd
-http://prima.janberyan.giize.com/182.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alresalah
-http://prima.janberyan.giize.com/186.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://www.alrahma.tv/app/Resources/2016/images/logo.png",Alrahma
-http://prima.janberyan.giize.com/183.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alnas
-http://prima.janberyan.giize.com/184.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al_Ekhbariya
-http://prima.janberyan.giize.com/168.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png",Aljazeera
-http://prima.janberyan.giize.com/164.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alhadath
-http://prima.janberyan.giize.com/166.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alarabiyia
-http://prima.janberyan.giize.com/165.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/8a/Sky_uk_news_arabia_hd.png/revision/latest?cb=20140329133721",Skynews
-http://prima.janberyan.giize.com/167.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/BBCArabic.png",BBC-Arabic
-http://prima.janberyan.giize.com/171.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-FRANCE24.png",France_24
-http://prima.janberyan.giize.com/169.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",RT
-http://prima.janberyan.giize.com/170.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Logo_Quest_Arabiya_2015.png",Quest-Arabia
-http://prima.janberyan.giize.com/174.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",National_Geo-Abudhabi
-http://prima.janberyan.giize.com/173.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://www.aljazeera.com/mritems/assets/images/aj-logo-lg.png",Aljazeera_Doc
-http://prima.janberyan.giize.com/172.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/baraem.jpg",baraem
-http://prima.janberyan.giize.com/177.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/toyor_al_janah.jpg",Toyour_ElJannah
-http://prima.janberyan.giize.com/178.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://photosarab.com/wp-content/uploads/2016/09/22122014-104024PM.png",Toyour_Baby
-http://prima.janberyan.giize.com/179.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/spacetoon.jpg",Space Toon
-http://prima.janberyan.giize.com/176.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" ,CN_Arabia
-http://prima.janberyan.giize.com/175.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======Maroc=======
-http://......
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/SNRT-Al-Aoula.png",MA_Al-Aoula-Inter
-http://prima.janberyan.giize.com/123.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://tendance-video.com/wp-content/uploads/2016/07/2mlivestreaming.png" ,MA_2M-Monde
-http://prima.janberyan.giize.com/124.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Arriadia-TNT
-http://prima.janberyan.giize.com/129.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://picons.karrié.de/snp.kodi.transparent-white_2015-08-31--20-35-24/tv/arrabiaa.png",MA_Arrabia
-http://prima.janberyan.giize.com/127.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a5/Al_Magharibia.png" ,MA_Al-Maghribia
-http://prima.janberyan.giize.com/125.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Assadisa
-http://prima.janberyan.giize.com/128.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://lh6.googleusercontent.com/proxy/tYqI483fou7pT5W7Kcc9g_JZv1_TAK1N3gfeBMGm5xnblIR6455QD6Ozv-aI5VRlAGhCGcGBjIhW2vK3URZo7w3I4UvNqh9uetO4lAU6KpAknX1PNYM3CQ=s0-d" ,MA_Tamazight
-http://prima.janberyan.giize.com/126.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/c/ca/Medi_1_TV_logo.png",MA_Medi-1-TV
-http://prima.janberyan.giize.com/122.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MA_Tele-Maroc
-http://prima.janberyan.giize.com/121.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======Tunesia=======
-http://......
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/Ar-ZITOUNA-HEDAYA.png" ,TN_Zitouna
-http://prima.janberyan.giize.com/160.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://tunisie14.tn/www/img/media/television-tunisienne/29.jpg",TN_Tunesia_2
-http://prima.janberyan.giize.com/155.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://tunisie14.tn/www/img/media/television-tunisienne/28.jpg",TN_Tunesia_1
-http://prima.janberyan.giize.com/154.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Tonesna
-http://prima.janberyan.giize.com/156.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TN_Telvaza
-http://prima.janberyan.giize.com/162.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7f/Nessma_logo_2016.png",TN_Nessma
-http://prima.janberyan.giize.com/159.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-hannibal.png",TN_Hannibal
-http://prima.janberyan.giize.com/158.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://sen-decors.com/wp-content/uploads/2016/09/362x263-363x263-el-hiwar-ettounsi-50078-300x218.png",TN_El-HiwEttounsi
-http://prima.janberyan.giize.com/157.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://lh3.googleusercontent.com/DoxUlfsSlT1N46-PRkyzA4r8t6td4AGp4ygrS457u3xOiTGMdKHHhasy3Kg0Qdwsso4=w300",TN_Attasiaa
-http://prima.janberyan.giize.com/161.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://www.streaminghd.tn/img/tv/janoubia.png",TN_Al-Janoubia
-http://prima.janberyan.giize.com/163.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Samira-TV.png",DZ_Samira-Tv
-http://prima.janberyan.giize.com/152.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Programme.National
-http://prima.janberyan.giize.com/133.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Kbc_Algeria
-http://prima.janberyan.giize.com/142.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/0/0f/Ennahar_TV_%28logo_actuel%29.svg/1200px-Ennahar_TV_%28logo_actuel%29.svg.png",DZ_EnnahTV
-http://prima.janberyan.giize.com/137.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Ennahar-Laki.png",DZ_EnnahLaki
-http://prima.janberyan.giize.com/138.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/93/Eldjazairiaone1234.png",DZ_Eljazairia-TV-1
-http://prima.janberyan.giize.com/145.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Elhaddaf-TV
-http://prima.janberyan.giize.com/144.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Elbilad.png",DZ_Elbilad
-http://prima.janberyan.giize.com/143.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Echourouk_TV_logo.svg/1200px-Echourouk_TV_logo.svg.png" ,DZ_Echorouk_TV
-http://prima.janberyan.giize.com/131.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/ECHOUROUK-NEWS.png",DZ_Echorouk_News
-http://prima.janberyan.giize.com/130.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Echorouk_Benna
-http://prima.janberyan.giize.com/132.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-DZAIR-news.png",DZ_Dzai_News
-http://prima.janberyan.giize.com/140.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/AR-Dzair_TV.png",DZ_Dzair_TV
-http://prima.janberyan.giize.com/141.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Canal_Alg%C3%A9rie_logo.svg/1200px-Canal_Alg%C3%A9rie_logo.svg.png",DZ_Canal-Algerie
-http://prima.janberyan.giize.com/134.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/e/e6/Beur_TV.png",DZ_Beur-TV
-http://prima.janberyan.giize.com/148.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2"  tvg-logo="http://brtvwork.alpha-layer.com/defaults/all/img/logo_berbereTV.png",DZ_Berbere-TV
-http://prima.janberyan.giize.com/149.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Berbere-Music
-http://prima.janberyan.giize.com/150.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Berbere-Jeuness
-http://prima.janberyan.giize.com/151.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_BAHIA_TV
-http://prima.janberyan.giize.com/139.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://4.bp.blogspot.com/-78Q6MPQ7SEY/Vi6VvlDpwtI/AAAAAAAAAk0/Eqme70YxNEU/s1600/Al_Magharibia_Tv_Algerie.jpg",DZ_Al_Magharibia-2
-http://prima.janberyan.giize.com/147.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2"  tvg-logo="https://upload.wikimedia.org/wikipedia/fr/a/a5/Al_Magharibia.png",DZ_Al_Magharibia-1
-http://prima.janberyan.giize.com/146.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DZ_Algeria_5
-http://prima.janberyan.giize.com/136.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2" tvg-logo="http://149.202.206.141:7070/logo/Algeria3.png" ,DZ_Algeria_3
-http://prima.janberyan.giize.com/135.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-git
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Roya
+http://178.214.76.162:8051/Roya
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",SpaceToon
+http://178.214.76.162:8057/SpaceToon
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",StarWorld
+http://178.214.76.162:8061/StarWorl
 
 
 
@@ -13953,187 +13752,7 @@ http://prima.janberyan.giize.com/135.ts|user-agent=VLC/3.0.0-git LibVLC/3.0.0-gi
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein1 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1286.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein2 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1285.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein3 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1284.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein4 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1283.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein5 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1282.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein6 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1281.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein7 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1280.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein8 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1279.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein9 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1278.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein10 1M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1277.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein1 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1296.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein2 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1295.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein3 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1294.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein4 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1293.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein5 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1292.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein6 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1291.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein7 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1290.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein8 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1289.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein9 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1288.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein10 2M
-http://2111.space:25461/live/admin_182223/wGBfWji1/1287.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 512 KBB
-http://2111.space:25461/live/admin_182223/wGBfWji1/1336.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport2 512 KBB
-http://2111.space:25461/live/admin_182223/wGBfWji1/1335.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport3 512 KBB
-http://2111.space:25461/live/admin_182223/wGBfWji1/1334.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport4 512 KBB
-http://2111.space:25461/live/admin_182223/wGBfWji1/1333.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 512 KBB
-http://2111.space:25461/live/admin_182223/wGBfWji1/1332.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 512 KBB
-http://2111.space:25461/live/admin_182223/wGBfWji1/1331.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7 512 KBB
-http://2111.space:25461/live/admin_182223/wGBfWji1/1330.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 512 KBB
-http://2111.space:25461/live/admin_182223/wGBfWji1/1329.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 512 KBB
-http://2111.space:25461/live/admin_182223/wGBfWji1/1328.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 512 KBB
-http://2111.space:25461/live/admin_182223/wGBfWji1/1327.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1_VERY_LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1356.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 2 VERY LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1355.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 3 VERY LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1354.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 4 VERY LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1353.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 5 VERY LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1352.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 6 VERY LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1351.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport_7_VERY_LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1350.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 8 VERY LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1349.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 9 VERY LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1348.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 10 VERY LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1347.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 512 KB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1326.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport2 512KB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1325.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport3 512KB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1324.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport4 512KB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1323.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 512KB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1322.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 512KB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1321.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7 512KB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1320.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 512KB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1319.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 512KB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1318.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 512KB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1317.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 1MB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1346.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 2 1MB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1345.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 3 1MB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1344.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport 4 1MB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1343.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 1MB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1342.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 1MB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1341.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7_1MB_LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1340.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 1MB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1339.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 1MB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1338.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 1MB LOW
-http://2111.space:25461/live/admin_182223/wGBfWji1/1337.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 FULL HD
-http://2111.space:25461/live/admin_182223/wGBfWji1/1316.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport2 FULL HD
-http://2111.space:25461/live/admin_182223/wGBfWji1/1315.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport3 FULL HD
-http://2111.space:25461/live/admin_182223/wGBfWji1/1314.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport4 FULL HD
-http://2111.space:25461/live/admin_182223/wGBfWji1/1313.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 FULL HD
-http://2111.space:25461/live/admin_182223/wGBfWji1/1312.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 FULL HD
-http://2111.space:25461/live/admin_182223/wGBfWji1/1311.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7 FULL HD
-http://2111.space:25461/live/admin_182223/wGBfWji1/1310.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 FULL HD
-http://2111.space:25461/live/admin_182223/wGBfWji1/1309.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 FULL HD
-http://2111.space:25461/live/admin_182223/wGBfWji1/1308.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 FULL HD
-http://2111.space:25461/live/admin_182223/wGBfWji1/1307.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 4KB PLUSE
-http://2111.space:25461/live/admin_182223/wGBfWji1/1306.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport2 4KB PLUSE
-http://2111.space:25461/live/admin_182223/wGBfWji1/1305.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport3 4KB PLUSE
-http://2111.space:25461/live/admin_182223/wGBfWji1/1304.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport4 4KB PLUSE
-http://2111.space:25461/live/admin_182223/wGBfWji1/1303.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 4KB PLUSE
-http://2111.space:25461/live/admin_182223/wGBfWji1/1302.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 4KB PLUSE
-http://2111.space:25461/live/admin_182223/wGBfWji1/1301.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7 4KB PLUSE
-http://2111.space:25461/live/admin_182223/wGBfWji1/1300.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 4KB PLUSE
-http://2111.space:25461/live/admin_182223/wGBfWji1/1299.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 4KB PLUSE
-http://2111.space:25461/live/admin_182223/wGBfWji1/1298.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 4KB PLUSE
-http://2111.space:25461/live/admin_182223/wGBfWji1/1297.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports1 EX
-http://2111.space:25461/live/admin_182223/wGBfWji1/1276.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports2 EX
-http://2111.space:25461/live/admin_182223/wGBfWji1/1275.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports3 EX
-http://2111.space:25461/live/admin_182223/wGBfWji1/1274.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports4 EX
-http://2111.space:25461/live/admin_182223/wGBfWji1/1273.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports5 EX
-http://2111.space:25461/live/admin_182223/wGBfWji1/1272.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports6 EX
-http://2111.space:25461/live/admin_182223/wGBfWji1/1271.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports7 EX
-http://2111.space:25461/live/admin_182223/wGBfWji1/1270.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports8 EX
-http://2111.space:25461/live/admin_182223/wGBfWji1/1269.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports9 EX
-http://2111.space:25461/live/admin_182223/wGBfWji1/1268.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports10 EX
-http://2111.space:25461/live/admin_182223/wGBfWji1/1267.m3u8
-
+d
 
 
 
@@ -14154,472 +13773,7 @@ http://2111.space:25461/live/admin_182223/wGBfWji1/1267.m3u8
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- MARROCO -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3151.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: 2M MONDE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1516.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: 2M MAROC HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5608.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TAMAZIGHT
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1312.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MEDIA 1 TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/989.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL OULA TV INT
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2303.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ASSADISSA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1313.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NUMIDIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3179.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ARRABIAA TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3178.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ARRIADIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3150.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TELE MAROC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/8842.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL MAGHRIBIA NEWS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5693.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CANAL ATLAS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/8883.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AFLAM 7
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9025.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CHADA TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9026.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM MOVIE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9589.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM CHAABI TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9582.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM COMEDIA TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9587.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM DOCUMENTAIRE TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9585.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM ALWAN
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9588.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM TECHNO
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9583.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM KATAKIT TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9584.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM MUSIC TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9581.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM RAP ARAB TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9580.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: GM TAMAZIGHT TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9586.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- TUNISIA CHANNEL -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3284.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TUNISIE NAT 1
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1518.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TUNISIA NAT 2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1519.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ELHIWAR ETTOUNSI
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2559.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: FIRST CHANNEL
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2563.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TELVZATV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16153.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TOUNESNA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2564.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ATTESSIA TUNISIE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2562.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: HANNIBAL
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2560.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL HIWAR TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7025.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ZITOUNA TUNIS TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2566.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NESSMA TUNISIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2561.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: JANOUBIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2565.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL MUSTAKILLAH
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2569.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: M TUNISIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2567.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL INSEN TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6199.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CARTHAGE TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7312.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",---- DJAZAIR CHANNELS -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5047.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ALGERIE 3
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3319.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CANAL ALGERIE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3318.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ENNAHAR TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3335.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: SAMIRA TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3340.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DZAIR NEWS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3338.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ECHOUROUK
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5052.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DZAIER TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5048.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ENTV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5053.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TAMAZIGHT (ALG4)
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5055.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MAGHARIBIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5799.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: EL HEDDAF TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5051.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: EL FADJR TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7026.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: EL KHABAR KBC ALGERIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6229.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL BERBERE TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6230.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL BERBERE JEUNESSE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6232.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: EL BILAD TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5050.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL BERBERE MUSIC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6231.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: EL DJAZAIRIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/8843.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BAHIA TV ALG
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7027.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- ARABIC MIX -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3285.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: RASHEED TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3399.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NOOR DUBAI
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3397.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL SUMARIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3432.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL SHARQYIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3430.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL SHARQIYA NEWS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3431.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL JAZEERA DOC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3396.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL JADEED
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5536.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MEKAMELEEN
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6663.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CIMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3357.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: PANORAMA FOOD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3360.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: PANORAMA FILM
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3361.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: PANORAMA DRAMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3364.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: PANORAMA DRAMA 2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3362.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DREAM 1
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2164.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: FUTURE TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3359.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: LBC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1792.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC 1
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/993.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC 2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/994.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC 3
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/995.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC 4
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/996.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: LDC LEBANON
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5132.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MTV LEBANON
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5130.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NBN HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5133.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DUBAI TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2165.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DUBAI ONE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2166.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DUBAI ZAMAN
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3760.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL HAYAT
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2163.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TV SYRIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1496.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: SYRIA DRAMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/4015.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: SAMA SYRIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/4016.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: HALAB TODAY
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7030.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: JORDAN SPORT
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5797.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: JORDAN TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5796.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: JORDAN ROUYA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5798.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: WANASAH
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1000.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ABU DHABI TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/992.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL ITEJAH TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7046.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL KAHERA WAL NAS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7045.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL KAHERA WAL NAS  2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7044.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL MASRIYA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7043.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL OULA MASR
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7036.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL THANYA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7034.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: PALESTINIAN TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5788.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: LIBYA TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6365.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ELMOURITANIA.2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6288.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL-MAJD-QURAN
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2932.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: EL SHARQ
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3261.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: KSA SUNNAH
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2298.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ON DRAMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2301.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: SAUDI QURAN
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3128.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: IQRAA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3126.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL RESALAH
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3127.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ISHTAR TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16231.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- AL-MUSIKA -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2193.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MAZZIKA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5884.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Rotana Music
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18053.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ROTANA CLASSIC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/986.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ROTANA CLIP
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/985.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ROTANA DRAMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/983.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ROTANA KHALIJIAH
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/984.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Afrah TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18055.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Mazzika 2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18060.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Free TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18052.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MUSIC AL ARRAB
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18054.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Music Alhanen
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18057.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:Hawacom
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/18056.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AGHANI
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7032.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- AL-ATFAL -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2192.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CARTOON NETWORK
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9590.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TOYOR JANNAH
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3119.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TOYOR BABY
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5886.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BARAEM
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3761.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MAJDKIDS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3757.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: JEEM EUROPE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3759.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MODY KIDS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3758.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- AL-AKHBAR -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2191.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE NEWS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1078.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TRT ARABIC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2185.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: SKY NEWS ARABIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2182.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ECHOUROUK NEWS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3337.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BBC ARABIC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2186.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ALIKHBARIA SYRIA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2321.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL MAYADEEN
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1512.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL MANAR
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1517.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: RT NEWS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5129.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ALJAZEERA ARABIC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2184.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ANN NEWS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2187.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL ARABIYA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2183.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL AQSA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5840.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- AL-AFLAM -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2194.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CAIRO CINEMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3358.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OTV LEBANON
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2158.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC MAX
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/998.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC DRAMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/999.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC VARIETY
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3901.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC ACTION
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/997.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC MASR 2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1498.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC MASR
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1499.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MBC BOLLYWOOD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1504.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OSN CINEMA 1
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2671.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OSN CINEMA 2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1571.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OSN ON DEMAND HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2677.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OSN MOVIE PREMIERE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1566.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: OSN MOVIE ACTION HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1563.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN MOVIE 1
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3393.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN MOVIE 2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3395.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN MOVIE 3
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5842.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN MOVIE 4
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5843.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN SERIES 1 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/20088.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN SERIES 2 HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/20089.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN FOX MOVIES
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9596.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: MELODY CLASSIC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5885.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ALHAYAT MUSLSALAT
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3903.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: TOKTOK AFLAM
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3904.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CINEMA PRO
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/3902.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ZEE ALWAN
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1494.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ZEE AFLAM
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1495.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ART AFLAM 1
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1509.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ART AFLAM 2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1510.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ART HEKAYAT 1
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1500.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ART HEKAYAT 2
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1501.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ART CINEMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1511.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ROTANA CINEMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/987.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ROTANA AFLAM
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1502.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CBC
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1508.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CBC EXTRA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1506.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CBC DRAMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1507.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CBC SOFRA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7033.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE CINEMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1072.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE COMEDY
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1073.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE CULTURE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1075.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE DRAMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1074.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE LIFE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1076.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL NAHAR AL YOUM
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7040.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: AL NAHAR DRAMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/7037.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- WATHAYIQIIA -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9621.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: BEIN GROUMMET
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/9595.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:  NAT GEO
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5035.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- AL-RIYADA -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/2195.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: ON SPORT HD
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5841.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: DMC SPORTS
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/6018.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: NILE SPORT
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/1077.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: Pyramids
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/19800.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",----- Sudan Channels -----
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16133.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Alamanal
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16140.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Ashoroqq
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16139.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Blue Nile
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16146.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Dabanga
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16138.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SU: ESTV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5596.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Jazeera Green
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16145.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SU: KALSAN TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5416.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Kassala
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16144.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SU: KGS TV (somalia)
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5413.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Knowledge
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16143.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Music
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16141.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Om Dorman
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16142.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SU: SNTV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5598.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SU: SOMALI CABLE
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5597.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Sport
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16134.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Sudan 24
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16137.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Sudan Drama
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16136.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Sudan TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16147.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Su: Sudan TV (Somalia)
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16135.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SU: UNIVERSAL SOMAL
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/5595.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: YEMEN
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16393.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: YEMEN AL SAEEDAH
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16388.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: YEMEN EDUCATION TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16392.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: YEMEN SAMA
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16387.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: YEMEN SHABAB
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16390.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: YEMEN TODAY TV
-http://os2.freesrv.org:8000/live/gianni-frero-hbffGHJJJKC/qxV8PKlJPF/16391.ts
+
 
 
 
