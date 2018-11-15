@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,14/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,15/11/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -4484,847 +4484,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 1 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1637.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 1 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35614.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35631.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1638.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35615.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35632.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1639.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35616.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rete 4 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35633.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rete 4 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1654.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rete 4 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35617.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 5 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35634.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 5 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1623.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 5 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35618.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 1 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35635.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 1 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1629.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 1 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35619.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La7 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1632.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La 7d HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1633.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TV8
-http://diamond.cybergroup.top:15800/live/Willy/1234/1659.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nove HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1625.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RSI LA 1 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35620.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RSI LA 2 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35621.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 4 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1641.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 5 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1642.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Scuola
-http://diamond.cybergroup.top:15800/live/Willy/1234/35630.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Iris
-http://diamond.cybergroup.top:15800/live/Willy/1234/1628.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La 5
-http://diamond.cybergroup.top:15800/live/Willy/1234/1631.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Movie HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1646.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Premium HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1649.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Mediaset Italia 2
-http://diamond.cybergroup.top:15800/live/Willy/1234/1630.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Mediaset Extra
-http://diamond.cybergroup.top:15800/live/Willy/1234/1635.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TV 2000
-http://diamond.cybergroup.top:15800/live/Willy/1234/1658.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cielo
-http://diamond.cybergroup.top:15800/live/Willy/1234/1624.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Spike
-http://diamond.cybergroup.top:15800/live/Willy/1234/1627.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",20 Mediaset
-http://diamond.cybergroup.top:15800/live/Willy/1234/22785.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dmax
-http://diamond.cybergroup.top:15800/live/Willy/1234/1626.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Top Crime
-http://diamond.cybergroup.top:15800/live/Willy/1234/1657.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dmax +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/1660.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Dove TV
-http://diamond.cybergroup.top:15800/live/Willy/1234/22031.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Real Time
-http://diamond.cybergroup.top:15800/live/Willy/1234/1652.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Real Time +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/1653.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Zelig TV
-http://diamond.cybergroup.top:15800/live/Willy/1234/35677.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Padre Pio Tv
-http://diamond.cybergroup.top:15800/live/Willy/1234/16257.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Sport =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/299.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Sport 1 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1650.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sport Italia
-http://diamond.cybergroup.top:15800/live/Willy/1234/1498.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Top Calcio 24
-http://diamond.cybergroup.top:15800/live/Willy/1234/16309.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Sky Cinema HD =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/2052.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema 1 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22000.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema 1 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/254.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema 1 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29967.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema +1 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/256.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema +1 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29959.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema +24 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35636.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema +24 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/258.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema +24 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29968.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Passion UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22007.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Passion HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/266.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Passion SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29960.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Passion HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2604.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Family UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22004.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Family HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/262.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Family SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29963.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Family HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2602.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Comedy UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22002.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Comedy HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/270.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Comedy SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29965.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Comedy HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2610.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Hits UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22005.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Hits HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/260.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Hits SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29962.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Hits HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2600.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Max UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22006.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Max HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/272.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Max SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29961.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Max HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2606.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Cult UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22003.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Cult HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/275.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Cult SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29964.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Cult HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2608.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Classic HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1170.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Classics SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29966.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Classic HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2612.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Commedita Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/35857.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Commedita Channel 2
-http://diamond.cybergroup.top:15800/live/Willy/1234/35856.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Action Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/30092.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cult '80 Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/30093.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Gomorra Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/35855.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Gomorra Channel 2
-http://diamond.cybergroup.top:15800/live/Willy/1234/35854.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Gomorra Channel 3
-http://diamond.cybergroup.top:15800/live/Willy/1234/35853.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Marvell Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/30095.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Sky Intrattenimento HD =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/2054.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22019.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/280.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29933.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2664.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno HD +2
-http://diamond.cybergroup.top:15800/live/Willy/1234/35660.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/16287.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/283.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29970.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2666.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic HD +2
-http://diamond.cybergroup.top:15800/live/Willy/1234/35661.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22015.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/287.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29947.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2668.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY Fox Life UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22013.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Life HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/289.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Life SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29948.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Life HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2670.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Crime  UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1338.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Crime HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/291.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Crime SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29949.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Crime HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2672.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Comedy UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1339.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Comedy HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/294.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Comedy SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29950.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Comedy HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/35663.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Animation UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21985.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Animation HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/295.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Animation SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29951.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Animation HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/35662.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Comedy Central
-http://diamond.cybergroup.top:15800/live/Willy/1234/2319.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Comedy Central +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/5717.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Blaze UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21983.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Blaze HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/16298.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Blaze HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/35665.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky LaEffe
-http://diamond.cybergroup.top:15800/live/Willy/1234/7991.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Lei
-http://diamond.cybergroup.top:15800/live/Willy/1234/8051.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Auto Moto TV
-http://diamond.cybergroup.top:15800/live/Willy/1234/2079.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MotorTrend
-http://diamond.cybergroup.top:15800/live/Willy/1234/35669.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Notizie =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/800.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai News 24
-http://diamond.cybergroup.top:15800/live/Willy/1234/1647.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky TG 24
-http://diamond.cybergroup.top:15800/live/Willy/1234/1357.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TgCom24
-http://diamond.cybergroup.top:15800/live/Willy/1234/35678.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TgNorba 24
-http://diamond.cybergroup.top:15800/live/Willy/1234/1364.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Sky Sport HD =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/2058.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 24 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22022.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 24 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/300.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sports 24 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29938.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 1 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22020.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 1 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/301.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sports 1 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29940.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Arena UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22021.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Arena HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/303.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Arena SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29939.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Serie A UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22025.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Serie A HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/324.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Serie A SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29935.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Football UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22023.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Football HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/305.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Football SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29937.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport F1 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22012.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport F1 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/311.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sports F1 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29936.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sports F1 HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/35671.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Moto GP UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22017.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Moto GP HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/312.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Moto GP SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29944.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Moto GP HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/35672.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fight NetWork
-http://diamond.cybergroup.top:15800/live/Willy/1234/5692.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Golf  UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22014.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Golf HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/307.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Golf SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29946.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Golf HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/35673.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport NBA UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22024.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport NBA HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/309.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport NBA SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35629.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY Bike Channel UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21990.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Bike Channel HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/321.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Supertennis HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1655.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Class Horse TV
-http://diamond.cybergroup.top:15800/live/Willy/1234/1343.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",WWE Wrestling HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35668.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",UNIRESAT HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35666.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== SKY CALCIO =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/323.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Info Calcio HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/2061.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 251 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21548.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 251 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/326.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 251 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35626.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 252 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21993.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 252 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/328.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 252 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35627.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 253 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21994.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 253 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/330.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 253 SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35628.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 254 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21995.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 254 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/332.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 255 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21996.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 255 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/334.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 256 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21997.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 256 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/336.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 257 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21998.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 257 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/338.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 258 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/340.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 259 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/12020.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 260 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/12021.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 261 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35670.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Roma Tv UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35640.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Roma Tv
-http://diamond.cybergroup.top:15800/live/Willy/1234/317.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Milan TV UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35638.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Milan TV
-http://diamond.cybergroup.top:15800/live/Willy/1234/315.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Inter TV UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35639.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Inter TV
-http://diamond.cybergroup.top:15800/live/Willy/1234/314.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Lazio Tv
-http://diamond.cybergroup.top:15800/live/Willy/1234/5978.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Torino Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/16308.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",=======DAZN=======
-http://diamond.cybergroup.top:15800/live/Willy/1234/35490.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN SERIE-A 1 (DVB-S) Full-HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35822.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN SERIE-A 1 (DVB-S) HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35821.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN SERIE-A 1 (DVB-S) SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35820.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN SERIE-A 2 (DVB-S) Full-HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35819.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN SERIE-A 2 (DVB-S) HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35818.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN SERIE-A 2 (DVB-S) SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35817.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 1
-http://diamond.cybergroup.top:15800/live/Willy/1234/35489.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 2
-http://diamond.cybergroup.top:15800/live/Willy/1234/35488.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 3
-http://diamond.cybergroup.top:15800/live/Willy/1234/35487.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 4
-http://diamond.cybergroup.top:15800/live/Willy/1234/35486.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 5
-http://diamond.cybergroup.top:15800/live/Willy/1234/35485.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 6
-http://diamond.cybergroup.top:15800/live/Willy/1234/35484.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 7
-http://diamond.cybergroup.top:15800/live/Willy/1234/35483.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 8
-http://diamond.cybergroup.top:15800/live/Willy/1234/35482.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 9
-http://diamond.cybergroup.top:15800/live/Willy/1234/35481.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 10
-http://diamond.cybergroup.top:15800/live/Willy/1234/35480.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 11
-http://diamond.cybergroup.top:15800/live/Willy/1234/35479.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 12
-http://diamond.cybergroup.top:15800/live/Willy/1234/35478.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 13
-http://diamond.cybergroup.top:15800/live/Willy/1234/35477.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 14
-http://diamond.cybergroup.top:15800/live/Willy/1234/35476.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Lega Pro =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/35774.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] ALBINOLEFFE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35773.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] ALBISSOLA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35772.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] ALESSANDRIA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35771.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] AREZZO
-http://diamond.cybergroup.top:15800/live/Willy/1234/35770.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] ARZACHENA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35769.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] BISCEGLIE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35768.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CARRARESE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35767.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CASERTANA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35766.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CATANIA
-http://diamond.cybergroup.top:15800/live/Willy/1234/36077.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CATANZARO
-http://diamond.cybergroup.top:15800/live/Willy/1234/35765.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CUNEO
-http://diamond.cybergroup.top:15800/live/Willy/1234/35764.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] FANO
-http://diamond.cybergroup.top:15800/live/Willy/1234/35763.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] FERALPISAL
-http://diamond.cybergroup.top:15800/live/Willy/1234/35762.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] FERMANA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35761.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] GIANA ERMINIO
-http://diamond.cybergroup.top:15800/live/Willy/1234/35760.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] GOZZANO
-http://diamond.cybergroup.top:15800/live/Willy/1234/35759.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] GUBBIO
-http://diamond.cybergroup.top:15800/live/Willy/1234/35758.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] IMOLESE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35757.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] JUVE STABIA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35756.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] JUVENTUS 23
-http://diamond.cybergroup.top:15800/live/Willy/1234/35755.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] LUCCHESE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35754.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] MATERA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35753.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] MONOPOLI
-http://diamond.cybergroup.top:15800/live/Willy/1234/35752.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] MONZA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35751.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] NOVARA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35750.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] OLBIA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35749.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PAGANESE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35748.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PIACENZA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35747.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PISA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35746.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PISTOIESE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35745.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PONTEDERA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35744.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PORDENONE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35743.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] POTENZA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35742.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PRO VERCELLI
-http://diamond.cybergroup.top:15800/live/Willy/1234/35741.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PROPATRIA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35740.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RAVENNA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35739.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] REGGINA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35738.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RENATE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35737.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RENDE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35736.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RIETI
-http://diamond.cybergroup.top:15800/live/Willy/1234/35735.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RIMINI
-http://diamond.cybergroup.top:15800/live/Willy/1234/35734.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SANBENEDETTESE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35733.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SICULA LEONZIO
-http://diamond.cybergroup.top:15800/live/Willy/1234/35732.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SIENA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35731.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SIRACUSA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35730.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SUD TIROL
-http://diamond.cybergroup.top:15800/live/Willy/1234/35729.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] TERAMO
-http://diamond.cybergroup.top:15800/live/Willy/1234/35728.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] TERNANA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35727.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] TRAPANI
-http://diamond.cybergroup.top:15800/live/Willy/1234/35726.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] TRIESTINA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35725.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIBONESE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35724.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VICENZA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35723.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIRTUS ENTELLA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35722.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIRTUS FRANCAVILLA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35721.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIRTUS VERONA
-http://diamond.cybergroup.top:15800/live/Willy/1234/35720.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIS PESARO
-http://diamond.cybergroup.top:15800/live/Willy/1234/35719.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VITERBESE CASTRESE
-http://diamond.cybergroup.top:15800/live/Willy/1234/35718.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== CULTURA =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/342.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky  Arte UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21982.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Arte HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/355.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Arte SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35623.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Arte HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/35664.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Classica HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1321.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Alice
-http://diamond.cybergroup.top:15800/live/Willy/1234/1621.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Animal Planet
-http://diamond.cybergroup.top:15800/live/Willy/1234/1342.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Caccia Pesca
-http://diamond.cybergroup.top:15800/live/Willy/1234/319.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Pesca Caccia
-http://diamond.cybergroup.top:15800/live/Willy/1234/320.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Pescare&Cacciare TV
-http://diamond.cybergroup.top:15800/live/Willy/1234/5693.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky CI Crime Investigation UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22008.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky CI Crime Investigation HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/293.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Crime & Investigation SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/29958.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky CI Crime Investigation +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/5718.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Gambero Rosso UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21986.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Gambero Rosso HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/350.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Gambero Rosso SD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35625.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Food Network
-http://diamond.cybergroup.top:15800/live/Willy/1234/16312.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Nat Geo Wild UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/21987.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Nat Geo Wild HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1356.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Nat Geo People UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22018.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Nat Geo People HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1355.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky National Geographic UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35637.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky National Geographic HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1354.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Marcopolo
-http://diamond.cybergroup.top:15800/live/Willy/1234/1634.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky History UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22016.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky History Channel HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1352.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky History Channel HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/1397.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Giallo
-http://diamond.cybergroup.top:15800/live/Willy/1234/1351.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Focus
-http://diamond.cybergroup.top:15800/live/Willy/1234/1349.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Discovery T&L UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22027.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Discovery T&L HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1346.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Italian Fishing
-http://diamond.cybergroup.top:15800/live/Willy/1234/1353.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Discovery Sci UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22009.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Discovery Sci HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1345.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY Discovery UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/22010.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Discovery HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1344.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Wine TV
-http://diamond.cybergroup.top:15800/live/Willy/1234/35667.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== BAMBINI =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/362.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Frisbee
-http://diamond.cybergroup.top:15800/live/Willy/1234/1350.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky DeaKids
-http://diamond.cybergroup.top:15800/live/Willy/1234/8036.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky DeaJunior
-http://diamond.cybergroup.top:15800/live/Willy/1234/35675.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Disney Channel HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/372.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Disney Channel HD +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/1171.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Disney Channel HD +2
-http://diamond.cybergroup.top:15800/live/Willy/1234/2025.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Disney Junior
-http://diamond.cybergroup.top:15800/live/Willy/1234/2146.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Disney Junior +1
-http://diamond.cybergroup.top:15800/live/Willy/1234/2147.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Disney XD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1347.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cartonito
-http://diamond.cybergroup.top:15800/live/Willy/1234/1302.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Boing
-http://diamond.cybergroup.top:15800/live/Willy/1234/1301.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Nick Jr
-http://diamond.cybergroup.top:15800/live/Willy/1234/22030.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Nickelodeon
-http://diamond.cybergroup.top:15800/live/Willy/1234/8035.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Super
-http://diamond.cybergroup.top:15800/live/Willy/1234/1403.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky K2
-http://diamond.cybergroup.top:15800/live/Willy/1234/1303.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Manga
-http://diamond.cybergroup.top:15800/live/Willy/1234/364.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Super
-http://diamond.cybergroup.top:15800/live/Willy/1234/1359.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Yoyo HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1651.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Gulp HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1644.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Boing
-http://diamond.cybergroup.top:15800/live/Willy/1234/1622.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cartoon Network
-http://diamond.cybergroup.top:15800/live/Willy/1234/1477.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Baby TV
-http://diamond.cybergroup.top:15800/live/Willy/1234/16313.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",POP
-http://diamond.cybergroup.top:15800/live/Willy/1234/16322.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Boomerang
-http://diamond.cybergroup.top:15800/live/Willy/1234/35674.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Ken Il Guerriero Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/30094.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Me Contro Te Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/22782.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Me Contro Te 2 Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/22783.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Me Contro Te 3 Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/22784.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",BarbaPapÃ  Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/8061.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",I Griffin Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/12019.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Il Corpo Umano Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/12018.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La Casa di Topolino Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/12017.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Masha & Orso Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/8056.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Masha & Orso Channel 2
-http://diamond.cybergroup.top:15800/live/Willy/1234/35676.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Paw Patrol Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/12016.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Peppa Pig Channel 1
-http://diamond.cybergroup.top:15800/live/Willy/1234/8055.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Peppa Pig Channel 2
-http://diamond.cybergroup.top:15800/live/Willy/1234/8054.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Peppa Pig Channel 3
-http://diamond.cybergroup.top:15800/live/Willy/1234/8053.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Peppa Pig Channel 4
-http://diamond.cybergroup.top:15800/live/Willy/1234/8052.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PJ Masks Pigiamini Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/8057.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Scooby Doo Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/8058.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Super Wings Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/15524.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Tom & Jerry Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/8060.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Yattaman Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/30096.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Walt Disney Channel
-http://diamond.cybergroup.top:15800/live/Willy/1234/8059.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== PREMIUM CINEMA =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/2063.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35645.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema  HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1479.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema +24 UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35642.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema +24
-http://diamond.cybergroup.top:15800/live/Willy/1234/1478.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Comedy UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35643.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Comedy HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1482.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema Energy UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35644.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema Energy HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1501.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema Energy  24
-http://diamond.cybergroup.top:15800/live/Willy/1234/1503.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Studio Universal
-http://diamond.cybergroup.top:15800/live/Willy/1234/1497.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Energy
-http://diamond.cybergroup.top:15800/live/Willy/1234/1486.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Emotion UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35647.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Emotion HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1485.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Crime UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35646.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Crime HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1484.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Crime  +24
-http://diamond.cybergroup.top:15800/live/Willy/1234/1483.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Action UHD
-http://diamond.cybergroup.top:15800/live/Willy/1234/35641.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Action HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1468.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Action  +24
-http://diamond.cybergroup.top:15800/live/Willy/1234/1467.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Paramount Channel HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1465.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Premium Intrattenimento =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/2066.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Joy
-http://diamond.cybergroup.top:15800/live/Willy/1234/1489.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Stories
-http://diamond.cybergroup.top:15800/live/Willy/1234/1495.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Investigation Discovery
-http://diamond.cybergroup.top:15800/live/Willy/1234/1502.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== Premium Sport =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/2064.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Sport 2 HD
-http://diamond.cybergroup.top:15800/live/Willy/1234/1494.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Sport 2
-http://diamond.cybergroup.top:15800/live/Willy/1234/1493.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Eurosport 1
-http://diamond.cybergroup.top:15800/live/Willy/1234/1487.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Eurosport 2
-http://diamond.cybergroup.top:15800/live/Willy/1234/1488.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== PrimaFila Live =====
-http://diamond.cybergroup.top:15800/live/Willy/1234/7990.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 1 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5694.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 2 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5695.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 3 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5696.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 4 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5697.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 5 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5698.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 6 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5699.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 7 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5700.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 8 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5701.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 9 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5702.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Primafila 10 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5703.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 11 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5704.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 12 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5705.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 13 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5706.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 14 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5707.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 15 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5708.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 16 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5709.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 17 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5710.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 18 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5711.ts
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PrimaFila 19 Live
-http://diamond.cybergroup.top:15800/live/Willy/1234/5712.ts
-
 
 
 
@@ -8639,6 +7798,176 @@ http://148.71.7.211:4022/udp/239.100.23.9:1234
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",
 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI
+http://formen1.com:8080/live/ada104/1414ss/2804.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png",SIC NOTICIAS
+http://formen1.com:8080/live/ada104/1414ss/2807.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png",RTP 3
+http://formen1.com:8080/live/ada104/1414ss/2812.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png",TVI24
+http://formen1.com:8080/live/ada104/1414ss/3080.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CM TV
+http://formen1.com:8080/live/ada104/1414ss/2792.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png",SPORT TV+
+http://formen1.com:8080/live/ada104/1414ss/16303.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png",SPORT TV+
+http://formen1.com:8080/live/ada104/1414ss/3098.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png",GLOBO
+http://formen1.com:8080/live/ada104/1414ss/16318.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png",SIC MULHER
+http://formen1.com:8080/live/ada104/1414ss/2794.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png",PORTO CANAL
+http://formen1.com:8080/live/ada104/1414ss/16320.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png",SIC CARAS
+http://formen1.com:8080/live/ada104/1414ss/16324.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png",SIC RADICAL
+http://formen1.com:8080/live/ada104/1414ss/16323.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png",24 KITCHEN
+http://formen1.com:8080/live/ada104/1414ss/16258.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png",CANAL Q
+http://formen1.com:8080/live/ada104/1414ss/16261.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 HD
+http://formen1.com:8080/live/ada104/1414ss/16308.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 HD
+http://formen1.com:8080/live/ada104/1414ss/2989.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 HD
+http://formen1.com:8080/live/ada104/1414ss/16307.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 HD
+http://formen1.com:8080/live/ada104/1414ss/2990.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 HD
+http://formen1.com:8080/live/ada104/1414ss/16306.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 HD
+http://formen1.com:8080/live/ada104/1414ss/2991.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4 HD
+http://formen1.com:8080/live/ada104/1414ss/16305.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4 HD
+http://formen1.com:8080/live/ada104/1414ss/2992.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png",SPORT TV 5 HD
+http://formen1.com:8080/live/ada104/1414ss/16304.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV HD
+http://formen1.com:8080/live/ada104/1414ss/16301.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png",SPORTING TV
+http://formen1.com:8080/live/ada104/1414ss/16300.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png",EUROSPORT 1 PT
+http://formen1.com:8080/live/ada104/1414ss/16299.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png",EUROSPORT 2 PT
+http://formen1.com:8080/live/ada104/1414ss/16298.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png",ELEVEN SPORTS 1 HD
+http://formen1.com:8080/live/ada104/1414ss/16314.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png",ELEVEN SPORTS 2 HD
+http://formen1.com:8080/live/ada104/1414ss/16313.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png",ELEVEN SPORTS 3 HD
+http://formen1.com:8080/live/ada104/1414ss/16312.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS4.png",ELEVEN SPORTS 4 HD
+http://formen1.com:8080/live/ada104/1414ss/16311.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS5.png",ELEVEN SPORTS 5 HD
+http://formen1.com:8080/live/ada104/1414ss/16310.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS6.png",ELEVEN SPORTS 6 HD
+http://formen1.com:8080/live/ada104/1414ss/16309.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png",MOTORVISION TV
+http://formen1.com:8080/live/ada104/1414ss/16294.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTV.png",FUEL TV
+http://formen1.com:8080/live/ada104/1414ss/16292.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png",A BOLA TV
+http://formen1.com:8080/live/ada104/1414ss/16302.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png",DISNEY CHANNEL
+http://formen1.com:8080/live/ada104/1414ss/16271.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png",DISNEY JUNIOR
+http://formen1.com:8080/live/ada104/1414ss/16270.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png",CARTOON NETWORK
+http://formen1.com:8080/live/ada104/1414ss/16274.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png",NICKELODEON
+http://formen1.com:8080/live/ada104/1414ss/16275.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png",PANDA
+http://formen1.com:8080/live/ada104/1414ss/3090.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png",PANDA BIGGS
+http://formen1.com:8080/live/ada104/1414ss/16272.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png",SIC K
+http://formen1.com:8080/live/ada104/1414ss/16276.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png",BABY TV
+http://formen1.com:8080/live/ada104/1414ss/16277.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png",JIMJAM
+http://formen1.com:8080/live/ada104/1414ss/16273.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICCAO
+http://formen1.com:8080/live/ada104/1414ss/2802.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png",TVI REALITY
+http://formen1.com:8080/live/ada104/1414ss/16322.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TVCINE 1
+http://formen1.com:8080/live/ada104/1414ss/2788.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png",TVCINE 2
+http://formen1.com:8080/live/ada104/1414ss/2789.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png",TVCINE 3
+http://formen1.com:8080/live/ada104/1414ss/2790.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png",TVCINE 4
+http://formen1.com:8080/live/ada104/1414ss/2791.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png",TVSERIES
+http://formen1.com:8080/live/ada104/1414ss/3087.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD
+http://formen1.com:8080/live/ada104/1414ss/16281.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEMUNDO.png",CINEMUNDO
+http://formen1.com:8080/live/ada104/1414ss/16290.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png",FOX MOVIES
+http://formen1.com:8080/live/ada104/1414ss/16283.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX HD
+http://formen1.com:8080/live/ada104/1414ss/16285.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png",AXN HD
+http://formen1.com:8080/live/ada104/1414ss/3101.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png",FOX LIFE
+http://formen1.com:8080/live/ada104/1414ss/11253.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png",FOX LIFE HD
+http://formen1.com:8080/live/ada104/1414ss/16284.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png",FOX CRIME
+http://formen1.com:8080/live/ada104/1414ss/16282.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png",FOX COMEDY
+http://formen1.com:8080/live/ada104/1414ss/16286.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png",AXN WHITE
+http://formen1.com:8080/live/ada104/1414ss/16287.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png",AXN BLACK HD
+http://formen1.com:8080/live/ada104/1414ss/16288.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png",SYFY
+http://formen1.com:8080/live/ada104/1414ss/16279.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC
+http://formen1.com:8080/live/ada104/1414ss/16280.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/M6MUSIC.png",M6 MUSIQUE
+http://formen1.com:8080/live/ada104/1414ss/2502.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",DISCOVERY
+http://formen1.com:8080/live/ada104/1414ss/16264.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NATIONAL GEOGRAPHIC
+http://formen1.com:8080/live/ada104/1414ss/16266.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png",NATIONAL GEOGRAPHIC WILD
+http://formen1.com:8080/live/ada104/1414ss/16265.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png",HISTORIA
+http://formen1.com:8080/live/ada104/1414ss/16268.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISSEIA.png",ODISSEIA
+http://formen1.com:8080/live/ada104/1414ss/16267.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png",TLC
+http://formen1.com:8080/live/ada104/1414ss/16259.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png",CBS REALITY
+http://formen1.com:8080/live/ada104/1414ss/16260.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBOPREMIUM.png",GLOBO PREMIUM
+http://formen1.com:8080/live/ada104/1414ss/16317.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png",TV RECORD
+http://formen1.com:8080/live/ada104/1414ss/16316.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png",RTP AFRICA
+http://formen1.com:8080/live/ada104/1414ss/16325.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVEi.png",TVEi
+http://formen1.com:8080/live/ada104/1414ss/11239.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png",TOROS TV
+http://formen1.com:8080/live/ada104/1414ss/16255.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAEPESCA.png",CACA & PESCA
+http://formen1.com:8080/live/ada104/1414ss/16256.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png",BARCA TV
+http://formen1.com:8080/live/ada104/1414ss/16295.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205",REAL MADRID TV
+http://formen1.com:8080/live/ada104/1414ss/16296.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KOMBATSPORT.png",KOMBAT SPORT
+http://formen1.com:8080/live/ada104/1414ss/16293.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMEINVESTIGATION.png",CRIME & INVESTIGATION
+http://formen1.com:8080/live/ada104/1414ss/3099.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png",DISCOVERY SHOWCASE
+http://formen1.com:8080/live/ada104/1414ss/16263.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png",ARTE HD
+http://formen1.com:8080/live/ada104/1414ss/872.m3u8
 
 
 
@@ -13752,7 +13081,862 @@ http://178.214.76.162:8061/StarWorl
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
-d
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR : Bein Sports 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/243.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR : Bein Sports 10
+http://vmdirect.co.uk:5001/live/Errol/Errol/252.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR : Bein Sports 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/244.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR : Bein Sports 3
+http://vmdirect.co.uk:5001/live/Errol/Errol/245.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR : Bein Sports 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/246.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR : Bein Sports 5
+http://vmdirect.co.uk:5001/live/Errol/Errol/247.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR : Bein Sports 6
+http://vmdirect.co.uk:5001/live/Errol/Errol/248.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR : Bein Sports 7
+http://vmdirect.co.uk:5001/live/Errol/Errol/249.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR : Bein Sports 8
+http://vmdirect.co.uk:5001/live/Errol/Errol/250.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR : Bein Sports 9
+http://vmdirect.co.uk:5001/live/Errol/Errol/251.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:  AD SPORT 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/25127.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:  AD SPORT 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/25126.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:  MBC SPORTS 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/25125.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:  MBC SPORTS 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/25124.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:  MBC SPORTS 3
+http://vmdirect.co.uk:5001/live/Errol/Errol/25123.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR: AD SPORT 3
+http://vmdirect.co.uk:5001/live/Errol/Errol/25122.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR: AD SPORT 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/25121.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR: AD SPORT 5
+http://vmdirect.co.uk:5001/live/Errol/Errol/25120.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: 2m Monde
+http://vmdirect.co.uk:5001/live/Errol/Errol/32141.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: 4G Aflam
+http://vmdirect.co.uk:5001/live/Errol/Errol/32238.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: 4G Cima
+http://vmdirect.co.uk:5001/live/Errol/Errol/32239.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: 4G Classic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32237.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: 4G Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32236.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: 4G Film
+http://vmdirect.co.uk:5001/live/Errol/Errol/32240.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: 7besha Cima
+http://vmdirect.co.uk:5001/live/Errol/Errol/32225.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Abu Dhabi Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32197.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: AbuDhabi
+http://vmdirect.co.uk:5001/live/Errol/Errol/32198.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: AbuDhabi Sport 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/32195.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: AbuDhabi Sport 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32194.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Afrah Music
+http://vmdirect.co.uk:5001/live/Errol/Errol/31922.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Aghani Music
+http://vmdirect.co.uk:5001/live/Errol/Errol/31926.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Aghapy Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32018.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Ahel Alquran Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32159.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Al Emarat
+http://vmdirect.co.uk:5001/live/Errol/Errol/32204.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Al Hayah ( cristian )
+http://vmdirect.co.uk:5001/live/Errol/Errol/32010.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: AL-Falstiniah
+http://vmdirect.co.uk:5001/live/Errol/Errol/32061.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alaan
+http://vmdirect.co.uk:5001/live/Errol/Errol/32190.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alaffasy Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32164.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alahly
+http://vmdirect.co.uk:5001/live/Errol/Errol/32271.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alalam News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31978.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alarabiya News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31974.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alaraby News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31977.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alassema
+http://vmdirect.co.uk:5001/live/Errol/Errol/32241.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: AlBaitBaitak Cinema
+http://vmdirect.co.uk:5001/live/Errol/Errol/32221.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Albasira Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32162.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alfady Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32022.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Algeria 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/32084.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Algeria A3
+http://vmdirect.co.uk:5001/live/Errol/Errol/32081.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Algeria Albilad
+http://vmdirect.co.uk:5001/live/Errol/Errol/32077.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Algeria Beur
+http://vmdirect.co.uk:5001/live/Errol/Errol/32080.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Algeria Numidia
+http://vmdirect.co.uk:5001/live/Errol/Errol/32079.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Algerie
+http://vmdirect.co.uk:5001/live/Errol/Errol/32073.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Algerie 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/32082.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Algerie 5
+http://vmdirect.co.uk:5001/live/Errol/Errol/32083.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alhadath News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31975.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alhayah
+http://vmdirect.co.uk:5001/live/Errol/Errol/32292.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alhayah 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32291.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alhayah Muslsalat
+http://vmdirect.co.uk:5001/live/Errol/Errol/32290.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alhayah we alnas
+http://vmdirect.co.uk:5001/live/Errol/Errol/32289.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alhayat Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32011.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alhiwar News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31976.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alhorreya Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32009.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: ALjazeera
+http://vmdirect.co.uk:5001/live/Errol/Errol/31987.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: ALjazeera Mubasher
+http://vmdirect.co.uk:5001/live/Errol/Errol/31985.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: ALjazeera.Doc
+http://vmdirect.co.uk:5001/live/Errol/Errol/31986.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alkahera Wa Alnas
+http://vmdirect.co.uk:5001/live/Errol/Errol/32250.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alkahera Wa Alnas 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32249.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alkarma Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/31920.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alkass 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32101.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alkass 3
+http://vmdirect.co.uk:5001/live/Errol/Errol/32100.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Almaaly Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32163.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: AlMaaref Shia
+http://vmdirect.co.uk:5001/live/Errol/Errol/32156.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Almajd Edu
+http://vmdirect.co.uk:5001/live/Errol/Errol/32175.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Almajd hadeeth
+http://vmdirect.co.uk:5001/live/Errol/Errol/32172.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Almajd Quran
+http://vmdirect.co.uk:5001/live/Errol/Errol/32174.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Almajd Scientific
+http://vmdirect.co.uk:5001/live/Errol/Errol/32173.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: AlMalakoot Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32013.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Almasrwia Aflam
+http://vmdirect.co.uk:5001/live/Errol/Errol/32222.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Almeedan
+http://vmdirect.co.uk:5001/live/Errol/Errol/32213.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Almehwar
+http://vmdirect.co.uk:5001/live/Errol/Errol/32242.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alnahar
+http://vmdirect.co.uk:5001/live/Errol/Errol/32295.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alnahar Cinema
+http://vmdirect.co.uk:5001/live/Errol/Errol/32293.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alnahar Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32294.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alnas Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32170.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: AlQuds
+http://vmdirect.co.uk:5001/live/Errol/Errol/32067.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alrahma Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32161.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alrai
+http://vmdirect.co.uk:5001/live/Errol/Errol/32109.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alresalah Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32160.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: ALSalam Palestine
+http://vmdirect.co.uk:5001/live/Errol/Errol/32062.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Alwaa3d Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32016.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Ann News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31982.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Arabica Music
+http://vmdirect.co.uk:5001/live/Errol/Errol/31924.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: ART.Aflam1
+http://vmdirect.co.uk:5001/live/Errol/Errol/32324.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: ART.Aflam2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32323.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: ART.Cinema
+http://vmdirect.co.uk:5001/live/Errol/Errol/32322.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: ART.Hekayat
+http://vmdirect.co.uk:5001/live/Errol/Errol/32321.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: ART.Hekayat2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32320.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Atfal Mwaheb Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/31991.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Awdeh Palestine
+http://vmdirect.co.uk:5001/live/Errol/Errol/32063.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Azhari Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32169.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: B4u Aflam
+http://vmdirect.co.uk:5001/live/Errol/Errol/32206.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: B4u Plus
+http://vmdirect.co.uk:5001/live/Errol/Errol/32207.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Bahrain
+http://vmdirect.co.uk:5001/live/Errol/Errol/32099.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Bahrain Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/32098.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Baraem2 Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/31997.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: BBC News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31981.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Bin Othmaien Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32157.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: C Sat Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32024.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Cairo Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32254.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Cbc
+http://vmdirect.co.uk:5001/live/Errol/Errol/32299.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: CBC benna
+http://vmdirect.co.uk:5001/live/Errol/Errol/32076.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Cbc Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32296.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Cbc Extra
+http://vmdirect.co.uk:5001/live/Errol/Errol/32298.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Cbc Sofra
+http://vmdirect.co.uk:5001/live/Errol/Errol/32297.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Cima
+http://vmdirect.co.uk:5001/live/Errol/Errol/32259.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Cima Alibaba
+http://vmdirect.co.uk:5001/live/Errol/Errol/32223.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Cinema Pro
+http://vmdirect.co.uk:5001/live/Errol/Errol/32224.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Cinema1
+http://vmdirect.co.uk:5001/live/Errol/Errol/32256.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Cinema2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32255.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: CN Arabia Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/31995.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Cnbc News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31979.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: cTv Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32026.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: D Cinema
+http://vmdirect.co.uk:5001/live/Errol/Errol/32235.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: D Movies
+http://vmdirect.co.uk:5001/live/Errol/Errol/32234.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Disney Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/32003.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Djazairia
+http://vmdirect.co.uk:5001/live/Errol/Errol/32069.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dmc
+http://vmdirect.co.uk:5001/live/Errol/Errol/32266.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dmc Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32265.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dmc Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/32264.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Drama Badwya
+http://vmdirect.co.uk:5001/live/Errol/Errol/32243.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dream
+http://vmdirect.co.uk:5001/live/Errol/Errol/32231.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dubai
+http://vmdirect.co.uk:5001/live/Errol/Errol/32203.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dubai One
+http://vmdirect.co.uk:5001/live/Errol/Errol/32202.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dubai Racing
+http://vmdirect.co.uk:5001/live/Errol/Errol/32191.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dubai Sport 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32192.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dubai Sport 3
+http://vmdirect.co.uk:5001/live/Errol/Errol/32193.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dubai Zaman
+http://vmdirect.co.uk:5001/live/Errol/Errol/32200.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dw News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31984.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dzair News
+http://vmdirect.co.uk:5001/live/Errol/Errol/32075.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Dzair TV
+http://vmdirect.co.uk:5001/live/Errol/Errol/32074.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: E Cinema
+http://vmdirect.co.uk:5001/live/Errol/Errol/32233.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Echorouk Algeria
+http://vmdirect.co.uk:5001/live/Errol/Errol/32078.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Echorouk News Algeria
+http://vmdirect.co.uk:5001/live/Errol/Errol/31919.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Egy Aldelta
+http://vmdirect.co.uk:5001/live/Errol/Errol/32283.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Egy Aleskandria
+http://vmdirect.co.uk:5001/live/Errol/Errol/32284.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Egy Alkahera
+http://vmdirect.co.uk:5001/live/Errol/Errol/32285.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Egy Almasriyah
+http://vmdirect.co.uk:5001/live/Errol/Errol/32286.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Egy Ch 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32287.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Egy Ch1
+http://vmdirect.co.uk:5001/live/Errol/Errol/32288.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Egy Tebah
+http://vmdirect.co.uk:5001/live/Errol/Errol/32282.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Elhiwar ettounsi
+http://vmdirect.co.uk:5001/live/Errol/Errol/32146.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: elsharq
+http://vmdirect.co.uk:5001/live/Errol/Errol/32216.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Ennahar Laki
+http://vmdirect.co.uk:5001/live/Errol/Errol/32070.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Ennahar Tv
+http://vmdirect.co.uk:5001/live/Errol/Errol/32071.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Euro News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31980.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: France24 News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31973.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Funoon
+http://vmdirect.co.uk:5001/live/Errol/Errol/32217.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Hala Mosar3a
+http://vmdirect.co.uk:5001/live/Errol/Errol/32212.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Hala Palestine
+http://vmdirect.co.uk:5001/live/Errol/Errol/32064.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Hareem ELsultan
+http://vmdirect.co.uk:5001/live/Errol/Errol/32220.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Hawacom Music
+http://vmdirect.co.uk:5001/live/Errol/Errol/31923.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Heya
+http://vmdirect.co.uk:5001/live/Errol/Errol/32219.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: HodHod Eu Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/31992.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: HodHod Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/32001.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Hona alquds
+http://vmdirect.co.uk:5001/live/Errol/Errol/32065.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Huda Tv
+http://vmdirect.co.uk:5001/live/Errol/Errol/31921.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: ifilm
+http://vmdirect.co.uk:5001/live/Errol/Errol/32211.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Imagine
+http://vmdirect.co.uk:5001/live/Errol/Errol/32210.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iqraa Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32171.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Al sharqiah
+http://vmdirect.co.uk:5001/live/Errol/Errol/31963.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Al3ahd
+http://vmdirect.co.uk:5001/live/Errol/Errol/31962.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq ALanbar
+http://vmdirect.co.uk:5001/live/Errol/Errol/31961.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Alanwar
+http://vmdirect.co.uk:5001/live/Errol/Errol/31964.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Alfallujah
+http://vmdirect.co.uk:5001/live/Errol/Errol/31960.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Alforat
+http://vmdirect.co.uk:5001/live/Errol/Errol/31959.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Alghadeer
+http://vmdirect.co.uk:5001/live/Errol/Errol/31958.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Alhadath
+http://vmdirect.co.uk:5001/live/Errol/Errol/31957.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq alhora
+http://vmdirect.co.uk:5001/live/Errol/Errol/31956.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Alkarama
+http://vmdirect.co.uk:5001/live/Errol/Errol/31967.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Alkawthar
+http://vmdirect.co.uk:5001/live/Errol/Errol/31955.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Almassar
+http://vmdirect.co.uk:5001/live/Errol/Errol/31941.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Almawsleya
+http://vmdirect.co.uk:5001/live/Errol/Errol/31953.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Almustakila
+http://vmdirect.co.uk:5001/live/Errol/Errol/31952.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Alnaeem
+http://vmdirect.co.uk:5001/live/Errol/Errol/31951.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Alnajah Nbc
+http://vmdirect.co.uk:5001/live/Errol/Errol/31950.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq AlQamar
+http://vmdirect.co.uk:5001/live/Errol/Errol/31949.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Alrafiden
+http://vmdirect.co.uk:5001/live/Errol/Errol/31954.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq AlRasheed
+http://vmdirect.co.uk:5001/live/Errol/Errol/31930.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Alsharqia {news}
+http://vmdirect.co.uk:5001/live/Errol/Errol/31948.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq alsharqiyah
+http://vmdirect.co.uk:5001/live/Errol/Errol/31947.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Alsirat
+http://vmdirect.co.uk:5001/live/Errol/Errol/31946.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq AlSumaria
+http://vmdirect.co.uk:5001/live/Errol/Errol/31945.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Altaghier
+http://vmdirect.co.uk:5001/live/Errol/Errol/31944.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Anb
+http://vmdirect.co.uk:5001/live/Errol/Errol/31943.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Asia
+http://vmdirect.co.uk:5001/live/Errol/Errol/31968.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Awhad
+http://vmdirect.co.uk:5001/live/Errol/Errol/31942.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Baghdad
+http://vmdirect.co.uk:5001/live/Errol/Errol/31940.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Dijlah
+http://vmdirect.co.uk:5001/live/Errol/Errol/31939.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Edu
+http://vmdirect.co.uk:5001/live/Errol/Errol/31938.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Future
+http://vmdirect.co.uk:5001/live/Errol/Errol/31966.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Hona Baghdad
+http://vmdirect.co.uk:5001/live/Errol/Errol/31937.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Ishtar
+http://vmdirect.co.uk:5001/live/Errol/Errol/31936.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Karbala
+http://vmdirect.co.uk:5001/live/Errol/Errol/31965.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31935.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Safaa
+http://vmdirect.co.uk:5001/live/Errol/Errol/31934.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Samarra
+http://vmdirect.co.uk:5001/live/Errol/Errol/31933.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Shabab
+http://vmdirect.co.uk:5001/live/Errol/Errol/31932.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraq Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/31931.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Iraqia
+http://vmdirect.co.uk:5001/live/Errol/Errol/31969.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Jeem Eu Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/32000.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Jordan
+http://vmdirect.co.uk:5001/live/Errol/Errol/32122.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Jordan Nart
+http://vmdirect.co.uk:5001/live/Errol/Errol/32121.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Jordan Noor
+http://vmdirect.co.uk:5001/live/Errol/Errol/32117.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Jordan Ro2ya
+http://vmdirect.co.uk:5001/live/Errol/Errol/32120.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Jordan Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/32119.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Jordan Zwina
+http://vmdirect.co.uk:5001/live/Errol/Errol/32118.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Koky Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/32007.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Koogi kids Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32014.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Kramesh Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/31998.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Kuwait 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/32115.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Kuwait 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32114.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Kuwait Alarabi
+http://vmdirect.co.uk:5001/live/Errol/Errol/32111.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Kuwait Ethraa
+http://vmdirect.co.uk:5001/live/Errol/Errol/32112.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Kuwait Plus
+http://vmdirect.co.uk:5001/live/Errol/Errol/32113.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Kuwait Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/32110.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: lebanon.aljadeed
+http://vmdirect.co.uk:5001/live/Errol/Errol/32303.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: lebanon.almanar
+http://vmdirect.co.uk:5001/live/Errol/Errol/32304.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: lebanon.Almayadeen
+http://vmdirect.co.uk:5001/live/Errol/Errol/32301.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: lebanon.future
+http://vmdirect.co.uk:5001/live/Errol/Errol/32305.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: lebanon.Lbc
+http://vmdirect.co.uk:5001/live/Errol/Errol/32309.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: lebanon.Lbc Europe
+http://vmdirect.co.uk:5001/live/Errol/Errol/32302.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: lebanon.Ldc
+http://vmdirect.co.uk:5001/live/Errol/Errol/32310.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: lebanon.mtv
+http://vmdirect.co.uk:5001/live/Errol/Errol/32306.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: lebanon.nbn
+http://vmdirect.co.uk:5001/live/Errol/Errol/32307.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: lebanon.otv
+http://vmdirect.co.uk:5001/live/Errol/Errol/32308.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Libya 218
+http://vmdirect.co.uk:5001/live/Errol/Errol/32088.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Libya Alwatanya
+http://vmdirect.co.uk:5001/live/Errol/Errol/32087.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Libya naba
+http://vmdirect.co.uk:5001/live/Errol/Errol/32086.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Libya One
+http://vmdirect.co.uk:5001/live/Errol/Errol/32089.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Libya Panorama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32090.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Logos Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32021.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: LTC
+http://vmdirect.co.uk:5001/live/Errol/Errol/32230.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Majid Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/32006.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Maspero Zaman
+http://vmdirect.co.uk:5001/live/Errol/Errol/31918.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mazzika Music
+http://vmdirect.co.uk:5001/live/Errol/Errol/31927.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mbc 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/32339.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mbc 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32338.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mbc 3
+http://vmdirect.co.uk:5001/live/Errol/Errol/32337.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mbc 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/32336.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mbc Action
+http://vmdirect.co.uk:5001/live/Errol/Errol/32334.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mbc Bollywood
+http://vmdirect.co.uk:5001/live/Errol/Errol/32332.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mbc Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32333.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mbc Max
+http://vmdirect.co.uk:5001/live/Errol/Errol/32335.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mbc Pro 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32328.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: MbcMasr
+http://vmdirect.co.uk:5001/live/Errol/Errol/32331.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: MbcMasr2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32330.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: MbcPro1
+http://vmdirect.co.uk:5001/live/Errol/Errol/32329.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: MbcPro3
+http://vmdirect.co.uk:5001/live/Errol/Errol/32327.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: MbcPro4
+http://vmdirect.co.uk:5001/live/Errol/Errol/32326.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Me Sat Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32020.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mekameleen
+http://vmdirect.co.uk:5001/live/Errol/Errol/32214.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Melody Aflam
+http://vmdirect.co.uk:5001/live/Errol/Errol/32260.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Melody Classic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32261.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Melody Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32262.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Melody Hits
+http://vmdirect.co.uk:5001/live/Errol/Errol/32263.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Menhag alnbowa Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32158.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mickey Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/32002.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Miracle Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32019.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Misr alzera3ya
+http://vmdirect.co.uk:5001/live/Errol/Errol/32273.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Mody Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/32004.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Moga Comedy
+http://vmdirect.co.uk:5001/live/Errol/Errol/32253.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Moroco 1 Alaoula
+http://vmdirect.co.uk:5001/live/Errol/Errol/32140.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Moroco 3 Arriadia
+http://vmdirect.co.uk:5001/live/Errol/Errol/32139.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Moroco 4 Arrabiaa
+http://vmdirect.co.uk:5001/live/Errol/Errol/32138.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Moroco 6 Assadissa
+http://vmdirect.co.uk:5001/live/Errol/Errol/32137.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Moroco 8 Tamazight
+http://vmdirect.co.uk:5001/live/Errol/Errol/32136.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Moroco Almaghribia
+http://vmdirect.co.uk:5001/live/Errol/Errol/32135.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Moroco Almaghribia2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32134.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Moroco Medi 1TV
+http://vmdirect.co.uk:5001/live/Errol/Errol/32133.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Musawa Palestine
+http://vmdirect.co.uk:5001/live/Errol/Errol/32056.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: National Geographic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32196.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Nile Cinma
+http://vmdirect.co.uk:5001/live/Errol/Errol/32281.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Nile Comedy
+http://vmdirect.co.uk:5001/live/Errol/Errol/32277.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Nile Culture
+http://vmdirect.co.uk:5001/live/Errol/Errol/32278.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Nile Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32279.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Nile Family
+http://vmdirect.co.uk:5001/live/Errol/Errol/32280.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Nile Life
+http://vmdirect.co.uk:5001/live/Errol/Errol/32276.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Nile News
+http://vmdirect.co.uk:5001/live/Errol/Errol/32274.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Nile Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/32275.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Noon Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/32005.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Noor Alshabab
+http://vmdirect.co.uk:5001/live/Errol/Errol/32049.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Noor Alsharq
+http://vmdirect.co.uk:5001/live/Errol/Errol/32048.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Noor Dubai
+http://vmdirect.co.uk:5001/live/Errol/Errol/32201.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Noor Kodas
+http://vmdirect.co.uk:5001/live/Errol/Errol/32047.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Noor Mariam
+http://vmdirect.co.uk:5001/live/Errol/Errol/32046.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Noor Music
+http://vmdirect.co.uk:5001/live/Errol/Errol/32045.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Noor Sat
+http://vmdirect.co.uk:5001/live/Errol/Errol/32044.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Noor Spirit
+http://vmdirect.co.uk:5001/live/Errol/Errol/32043.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Noursat Chabab Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32012.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Noursat Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32017.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Nrt News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31917.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Oman
+http://vmdirect.co.uk:5001/live/Errol/Errol/32108.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Oman Cultural
+http://vmdirect.co.uk:5001/live/Errol/Errol/32106.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Oman Live
+http://vmdirect.co.uk:5001/live/Errol/Errol/32107.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Oman Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/32105.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: On Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/31916.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: On E
+http://vmdirect.co.uk:5001/live/Errol/Errol/32269.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: On Live
+http://vmdirect.co.uk:5001/live/Errol/Errol/32268.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: On Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/32267.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: On Tv
+http://vmdirect.co.uk:5001/live/Errol/Errol/32270.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Palestine
+http://vmdirect.co.uk:5001/live/Errol/Errol/32060.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Palestine Alaqsa
+http://vmdirect.co.uk:5001/live/Errol/Errol/32055.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Palestine Alfajr
+http://vmdirect.co.uk:5001/live/Errol/Errol/32167.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Palestine Alkitab
+http://vmdirect.co.uk:5001/live/Errol/Errol/32052.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Palestine Awdeh
+http://vmdirect.co.uk:5001/live/Errol/Errol/32053.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Palestine Kofiya
+http://vmdirect.co.uk:5001/live/Errol/Errol/32054.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Palestine Live
+http://vmdirect.co.uk:5001/live/Errol/Errol/32059.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Palestine Ma3a
+http://vmdirect.co.uk:5001/live/Errol/Errol/32050.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Palestine Nablus live
+http://vmdirect.co.uk:5001/live/Errol/Errol/32051.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Palestine News
+http://vmdirect.co.uk:5001/live/Errol/Errol/32058.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Palestine Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/31915.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Palestine Today
+http://vmdirect.co.uk:5001/live/Errol/Errol/32057.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Panorama Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32246.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Panorama Drama 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32245.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Panorama Film
+http://vmdirect.co.uk:5001/live/Errol/Errol/32247.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Panorama Food
+http://vmdirect.co.uk:5001/live/Errol/Errol/32244.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Panorama Yom
+http://vmdirect.co.uk:5001/live/Errol/Errol/32248.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Peace Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32168.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: pelistank Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/31999.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Qatar
+http://vmdirect.co.uk:5001/live/Errol/Errol/32104.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Qatar AlRayyan
+http://vmdirect.co.uk:5001/live/Errol/Errol/32102.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Qatar Today
+http://vmdirect.co.uk:5001/live/Errol/Errol/32103.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Quds Edu
+http://vmdirect.co.uk:5001/live/Errol/Errol/32066.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Rotana Aflam
+http://vmdirect.co.uk:5001/live/Errol/Errol/32316.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Rotana Cinema
+http://vmdirect.co.uk:5001/live/Errol/Errol/32312.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Rotana Classic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32313.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Rotana Clip
+http://vmdirect.co.uk:5001/live/Errol/Errol/32318.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Rotana Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32314.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Rotana Khaliji
+http://vmdirect.co.uk:5001/live/Errol/Errol/32315.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Rotana Music
+http://vmdirect.co.uk:5001/live/Errol/Errol/32317.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Rushd Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32165.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Russia Today News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31971.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sada Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32251.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sada elbalad
+http://vmdirect.co.uk:5001/live/Errol/Errol/32252.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sama Dubai
+http://vmdirect.co.uk:5001/live/Errol/Errol/32199.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Samira TV
+http://vmdirect.co.uk:5001/live/Errol/Errol/32072.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sat7 Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32025.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sat7 Kids Christian
+http://vmdirect.co.uk:5001/live/Errol/Errol/32015.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Saudi Ajyal
+http://vmdirect.co.uk:5001/live/Errol/Errol/32179.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Saudi Alfursan
+http://vmdirect.co.uk:5001/live/Errol/Errol/32177.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Saudi Makkah
+http://vmdirect.co.uk:5001/live/Errol/Errol/32180.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Saudi News
+http://vmdirect.co.uk:5001/live/Errol/Errol/32182.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Saudi Quran
+http://vmdirect.co.uk:5001/live/Errol/Errol/32187.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Saudi Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/32183.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Saudi Sunna
+http://vmdirect.co.uk:5001/live/Errol/Errol/32186.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Saudi Thakafya
+http://vmdirect.co.uk:5001/live/Errol/Errol/32181.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Saudi Tv1
+http://vmdirect.co.uk:5001/live/Errol/Errol/32185.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Saudi Tv2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32184.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Saudi Zad
+http://vmdirect.co.uk:5001/live/Errol/Errol/32178.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sehaty
+http://vmdirect.co.uk:5001/live/Errol/Errol/32218.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: SemSem Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/31996.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sha3beyat Music
+http://vmdirect.co.uk:5001/live/Errol/Errol/31925.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Shanpoo Aflam
+http://vmdirect.co.uk:5001/live/Errol/Errol/31914.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sky News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31983.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: SpaceToon Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/31994.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Star Cinema 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/32258.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Star Cinema 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32257.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan
+http://vmdirect.co.uk:5001/live/Errol/Errol/32041.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan Alhilal
+http://vmdirect.co.uk:5001/live/Errol/Errol/32029.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan AlIstijaba
+http://vmdirect.co.uk:5001/live/Errol/Errol/32034.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan Ashorooq
+http://vmdirect.co.uk:5001/live/Errol/Errol/31913.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan BlueNile
+http://vmdirect.co.uk:5001/live/Errol/Errol/32040.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan Jazeera_Green
+http://vmdirect.co.uk:5001/live/Errol/Errol/32035.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan Kassala
+http://vmdirect.co.uk:5001/live/Errol/Errol/32039.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan Khartoum
+http://vmdirect.co.uk:5001/live/Errol/Errol/32033.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan Knowledge
+http://vmdirect.co.uk:5001/live/Errol/Errol/32037.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan Music
+http://vmdirect.co.uk:5001/live/Errol/Errol/32038.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan OmDorman
+http://vmdirect.co.uk:5001/live/Errol/Errol/32032.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan OUS
+http://vmdirect.co.uk:5001/live/Errol/Errol/32031.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/32036.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudan Tybah
+http://vmdirect.co.uk:5001/live/Errol/Errol/32030.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Sudania 24
+http://vmdirect.co.uk:5001/live/Errol/Errol/32028.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Syria
+http://vmdirect.co.uk:5001/live/Errol/Errol/32131.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Syria Aloula
+http://vmdirect.co.uk:5001/live/Errol/Errol/32128.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Syria Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32127.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Syria Education
+http://vmdirect.co.uk:5001/live/Errol/Errol/32124.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Syria Halab
+http://vmdirect.co.uk:5001/live/Errol/Errol/32129.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Syria Medical
+http://vmdirect.co.uk:5001/live/Errol/Errol/32125.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Syria News
+http://vmdirect.co.uk:5001/live/Errol/Errol/32126.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Syria Nour ALSham
+http://vmdirect.co.uk:5001/live/Errol/Errol/32130.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Syria Sama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32123.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: T Drama
+http://vmdirect.co.uk:5001/live/Errol/Errol/32232.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Taha Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/31989.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Ten
+http://vmdirect.co.uk:5001/live/Errol/Errol/32272.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: TokTok Aflam
+http://vmdirect.co.uk:5001/live/Errol/Errol/32228.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: TokTok Cima
+http://vmdirect.co.uk:5001/live/Errol/Errol/32229.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Toyor AlJanah Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/31990.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Toyor Baby Kids
+http://vmdirect.co.uk:5001/live/Errol/Errol/31993.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: TRT Arabic News
+http://vmdirect.co.uk:5001/live/Errol/Errol/31972.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tube Cinema
+http://vmdirect.co.uk:5001/live/Errol/Errol/32227.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tube Mosalsalat
+http://vmdirect.co.uk:5001/live/Errol/Errol/32226.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tunisie Alinsan
+http://vmdirect.co.uk:5001/live/Errol/Errol/32023.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tunisie Aljanoubia
+http://vmdirect.co.uk:5001/live/Errol/Errol/32143.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tunisie Alzitouna
+http://vmdirect.co.uk:5001/live/Errol/Errol/32150.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tunisie Attassi3a
+http://vmdirect.co.uk:5001/live/Errol/Errol/32145.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tunisie First Tv
+http://vmdirect.co.uk:5001/live/Errol/Errol/32147.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tunisie Nessma Tv
+http://vmdirect.co.uk:5001/live/Errol/Errol/32151.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tunisie Telvza Tv
+http://vmdirect.co.uk:5001/live/Errol/Errol/32149.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tunisie Watanya 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/32153.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tunisie Watanya 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/32152.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tunisie.Hann3bal
+http://vmdirect.co.uk:5001/live/Errol/Errol/32148.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Tunisna
+http://vmdirect.co.uk:5001/live/Errol/Errol/32154.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Wanasa Music
+http://vmdirect.co.uk:5001/live/Errol/Errol/31928.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Watn
+http://vmdirect.co.uk:5001/live/Errol/Errol/32215.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Wesal Islamic
+http://vmdirect.co.uk:5001/live/Errol/Errol/32166.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Yas Sport
+http://vmdirect.co.uk:5001/live/Errol/Errol/32189.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Yemen
+http://vmdirect.co.uk:5001/live/Errol/Errol/32097.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Yemen AlMasirah
+http://vmdirect.co.uk:5001/live/Errol/Errol/32093.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Yemen AlSaeedah
+http://vmdirect.co.uk:5001/live/Errol/Errol/32094.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Yemen Belqees
+http://vmdirect.co.uk:5001/live/Errol/Errol/32092.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Yemen Shabab
+http://vmdirect.co.uk:5001/live/Errol/Errol/32095.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Yemen Today
+http://vmdirect.co.uk:5001/live/Errol/Errol/32096.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Zee Aflam
+http://vmdirect.co.uk:5001/live/Errol/Errol/32209.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Zee Alwan
+http://vmdirect.co.uk:5001/live/Errol/Errol/32208.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ar: Zitouna Hedaya
+http://vmdirect.co.uk:5001/live/Errol/Errol/32144.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR: Bein Max 2
+http://vmdirect.co.uk:5001/live/Errol/Errol/38484.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR : Bein Max 1
+http://vmdirect.co.uk:5001/live/Errol/Errol/38485.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR : Bein Max 4
+http://vmdirect.co.uk:5001/live/Errol/Errol/38961.m3u8
 
 
 
