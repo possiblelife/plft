@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,18/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,19/11/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -45,9 +45,9 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.parikiaki.com/wp-content/uploads/Cyprus1.png" ,===Cyprus===
 http://..........
 
-#EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" epg-id="Rik1" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
+#EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" tvg-id="Rik1" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" epg-id="Rik1" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
+#EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" tvg-id="Rik1" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png" ,RIK1
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
@@ -71,11 +71,11 @@ http://www.omegatv.com.cy/live/|webnoagent$$start=file: \"http://$$end=\"},$$rep
 http://www.fireshow.xyz/megacym.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA
 http://216.241.148.28:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
+#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
+#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://www.fireshow.xyz/sigmam.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" epg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
+#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://216.241.148.28:8000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
 http://www.alphacyprus.com.cy/page/live|agentnodown$$start=http://l$$end=        }],$$replace=',$$replacewith=$$add=
@@ -129,11 +129,11 @@ http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.ts
 http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://farosonair.com/iconfaros.png",FAROS on Air
 http://master.cystreams.com:25461/live/faros/farostv/1866.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
+#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
 https://www.youtube.com/watch?v=qRY56sJJ2to
-#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
+#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
+#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
 http://216.241.148.28:8000/play/a00j/index.m3u8
 
 
@@ -152,36 +152,34 @@ http://216.241.148.28:8000/play/a00j/index.m3u8
 http://..........
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============ PANELLADIKA ============
 http://.....
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1 WorldWide WebTV (Youtube)
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1 WorldWide WebTV (Youtube)
 https://www.youtube.com/watch?v=Zx98moCvkpU
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1
 http://www.anacon.org/app/chans/gr/ert1s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1 (USE GREECE VPN) (Youtube)
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1 (USE GREECE VPN) (Youtube)
 https://www.youtube.com/watch?v=0XYWTzFlEyo
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" epg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 WorldWide WebTV (Youtube)
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 WorldWide WebTV (Youtube)
 https://www.youtube.com/watch?v=qBxbnSwOrxE
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" epg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-nrg-hsslive-25f-4x3-SDh/chunklist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" epg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2
 http://www.anacon.org/app/chans/gr/ert2s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" epg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 (USE GREECE VPN) (Youtube)
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 (USE GREECE VPN) (Youtube)
 https://www.youtube.com/watch?v=AOVVjaLbGEk
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" epg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 Worldwide WebTV (Youtube)
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 Worldwide WebTV (Youtube)
 https://www.youtube.com/watch?v=5r5iftFbASw
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" epg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3
 http://www.anacon.org/app/chans/gr/ert3s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" epg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 (USE GREECE VPN) (Youtube)
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 (USE GREECE VPN) (Youtube)
 https://www.youtube.com/watch?v=ELB7cKTx5ig
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://i.imgur.com/fz3NSn5.png" ,ERT Sports HD (Youtube)
-https://www.youtube.com/watch?v=Je8_m-V7NuY
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
 https://www.youtube.com/watch?v=qRY56sJJ2to
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" epg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg" ,ERT Play WebTV (Youtube)
-https://www.youtube.com/watch?v=bVREmAZt6i0
+https://www.youtube.com/watch?v=dupGV_GjnOQ
 #EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-cL6bbbQTXTc/WiWWZUVOMEI/AAAAAAABwS8/yLQFnNU7qIU-FXk6ciMZLYdnRvo1ustFACLcBGAs/h120/ertplay2.jpg" ,ERT Play 2 WebTV (Youtube)
-https://www.youtube.com/watch?v=-OSoL74Gi0U
+https://www.youtube.com/watch?v=bAyzQwA_pfU
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA (Youtube)
@@ -204,13 +202,13 @@ http://master.cystreams.com:25461/live/greek/karajias/40.ts
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA (USE GREECE VPN)
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV  (USE GREECE VPN)
+#EXTINF:-1 group-title="Greece" tvg-name="E TV" tvg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV  (USE GREECE VPN)
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
+#EXTINF:-1 group-title="Greece" tvg-name="E TV" tvg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
 http://www.anacon.org/app/chans/gr/open.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="E TV" epg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
+#EXTINF:-1 group-title="Greece" tvg-name="E TV" tvg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
 http://master.cystreams.com:25461/live/greek/karajias/43.ts
-#EXTINF:-1 group-title="Greece" tvg-name="Macedonia TV" epg-id="Macedonia.gr" tvg-logo="https://goo.gl/CsM9Iu" ,M.TV HD
+#EXTINF:-1 group-title="Greece" tvg-name="Macedonia TV" tvg-id="Macedonia.gr" tvg-logo="https://goo.gl/CsM9Iu" ,M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -244,13 +242,13 @@ https://live.neatv.gr:8888/hls/neatv_low/index.m3u8
 http://web.onair-radio.eu:1935/Arenachannel/Arenachannel/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/GdgekUL.png" ,TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="Κρήτη TV" epg-id="KritiTV.gr" tvg-logo="https://goo.gl/BnX9DJ" ,KRHTHTV
+#EXTINF:-1 group-title="Greece" tvg-name="Κρήτη TV" tvg-id="KritiTV.gr" tvg-logo="https://goo.gl/BnX9DJ" ,KRHTHTV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="Κρήτη TV" epg-id="KritiTV.gr" tvg-logo="https://goo.gl/BnX9DJ" ,KRHTHTV
+#EXTINF:-1 group-title="Greece" tvg-name="Κρήτη TV" tvg-id="KritiTV.gr" tvg-logo="https://goo.gl/BnX9DJ" ,KRHTHTV
 rtmp://live.cretetv.gr/cretetv/myStream
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/naS6gM" ,CretaTV
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="Kontra Channel" epg-id="KontraEN.gr" tvg-logo="https://goo.gl/S96RUr" ,KONTRA
+#EXTINF:-1 group-title="Greece" tvg-name="Kontra Channel" tvg-id="KontraEN.gr" tvg-logo="https://goo.gl/S96RUr" ,KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/3EsuCz" ,AIGAIO
 https://ssh101.com/m3u8/dyn/aigaiotvlive/index.m3u8
@@ -272,11 +270,11 @@ http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="4Ε" epg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
+#EXTINF:-1 group-title="Greece" tvg-name="4Ε" tvg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
 rtmp://82.192.84.30:1935/live/myStream.sdp
-#EXTINF:-1 group-title="Greece" tvg-name="4Ε" epg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
+#EXTINF:-1 group-title="Greece" tvg-name="4Ε" tvg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="4Ε" epg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
+#EXTINF:-1 group-title="Greece" tvg-name="4Ε" tvg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
 rtmp://stream2.svbllc.com:1935/4e/4e.stream
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/Gjqw3Z" ,AGIOS NIKOLAOS MICHIGAN WEB TV
 http://greekhls-lh.akamaihd.net/i/stnicholas_mi@98986/master.m3u8
@@ -1436,6 +1434,119 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 
 
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"
+
+
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="abcspark.ca" tvg-name="Canada: ABC SPARK CANADA" tvg-logo="http://goldtv.ca/logos/canada/abcspark.jpg",Canada: ABC SPARK CANADA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11372.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="amc.ca" tvg-name="Canada: AMC" tvg-logo="http://goldtv.ca/logos/canada/AMC.jpg",Canada: AMC
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11531.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="animalplanet.ca" tvg-name="Canada: ANIMAL PLANET" tvg-logo="http://goldtv.ca/logos/canada/Animalplanet.jpg",Canada: ANIMAL PLANET
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11530.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="aptn.ca" tvg-name="Canada: APTN" tvg-logo="http://goldtv.ca/logos/canada/Aptn.jpg",Canada: APTN
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11421.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="bbcworld.ca" tvg-name="Canada: BBC CANADA" tvg-logo="http://goldtv.ca/logos/canada/BBCCanada.jpg",Canada: BBC CANADA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11419.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: BBC KIDS" tvg-logo="http://goldtv.ca/logos/canada/BBCKids.jpg",Canada: BBC KIDS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11418.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: BBC WORLD NEWS" tvg-logo="http://goldtv.ca/logos/canada/BBCWorldnews.jpg",Canada: BBC WORLD NEWS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11467.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: BNN" tvg-logo="http://goldtv.ca/logos/canada/BNN.jpg",Canada: BNN
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11417.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="booktelevision.ca" tvg-name="Canada: BOOK TV" tvg-logo="http://goldtv.ca/logos/canada/BOOKTV.jpg",Canada: BOOK TV
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11465.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="bravo.ca" tvg-name="Canada: BRAVO" tvg-logo="http://goldtv.ca/logos/canada/Bravo.jpg",Canada: BRAVO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11416.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="canald.ca" tvg-name="Canada: CANAL D" tvg-logo="http://goldtv.ca/logos/canada/CANALD.jpg",Canada: CANAL D
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11445.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="canalsavoir.ca" tvg-name="Canada: CANAL SAVOIR" tvg-logo="http://goldtv.ca/logos/canada/CANALSAVOIR.jpg",Canada: CANAL SAVOIR
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11529.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="cmt.ca" tvg-name="Canada: CMT CANADA" tvg-logo="http://goldtv.ca/logos/canada/CMTCANADA.jpg",Canada: CMT CANADA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11462.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: CNBC" tvg-logo="http://goldtv.ca/logos/canada/CNBC.jpg",Canada: CNBC
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11409.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: CNN" tvg-logo="http://goldtv.ca/logos/canada/CNN.jpg",Canada: CNN
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11525.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: CNN INTERNATIONAL" tvg-logo="http://goldtv.ca/logos/canada/CNNInternational.jpg",Canada: CNN INTERNATIONAL
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11408.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="comedynetwork.ca" tvg-name="Canada: COMEDY EAST" tvg-logo="http://goldtv.ca/logos/canada/ComedyEast.jpg",Canada: COMEDY EAST
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11360.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="comedygold.ca" tvg-name="Canada: COMEDY GOLD" tvg-logo="http://goldtv.ca/logos/canada/ComedyGold.jpg",Canada: COMEDY GOLD
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11524.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="cookingchannel.ca" tvg-name="Canada: COOKING CHANNEL" tvg-logo="http://goldtv.ca/logos/canada/COOKINGChannel.jpg",Canada: COOKING CHANNEL
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11523.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="cosmopolitantv.ca" tvg-name="Canada: COSMO" tvg-logo="http://goldtv.ca/logos/canada/cosmotv.jpg",Canada: COSMO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11460.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="cottagelife.ca" tvg-name="Canada: COTTAGE LIFE" tvg-logo="http://goldtv.ca/logos/canada/cottagelife.jpg",Canada: COTTAGE LIFE
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: CP24" tvg-logo="",Canada: CP24
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11522.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="crimeinvestigation.ca" tvg-name="Canada: CRIME   INVEST" tvg-logo="http://goldtv.ca/logos/canada/crimeinvest.jpg",Canada: CRIME   INVEST
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11461.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="ctv2.ca" tvg-name="Canada: CTV 2 VANCOUVER" tvg-logo="http://goldtv.ca/logos/canada/ctv2vacouver.jpg",Canada: CTV 2 VANCOUVER
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11519.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="ctvnews.ca" tvg-name="Canada: CTV NEWS NETWORK" tvg-logo="http://goldtv.ca/logos/canada/ctvnews.jpg",Canada: CTV NEWS NETWORK
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="ctv.ca" tvg-name="Canada: CTV OTTAWA" tvg-logo="http://goldtv.ca/logos/canada/ctvnewsottawa.jpg",Canada: CTV OTTAWA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11517.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="ctv.ca" tvg-name="Canada: CTV TORONTO" tvg-logo="http://goldtv.ca/logos/canada/ctvtoronto.jpg",Canada: CTV TORONTO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="ctv.ca" tvg-name="Canada: CTV VANCOUVER" tvg-logo="http://goldtv.ca/logos/canada/ctvvancouver.jpg",Canada: CTV VANCOUVER
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11342.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="ctv2.ca" tvg-name="Canada: CTV2 OTTAWA" tvg-logo="http://goldtv.ca/logos/canada/ctv2ottawa.jpg",Canada: CTV2 OTTAWA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11359.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="disneychannel.ca" tvg-name="Canada: DISNEY CANADA" tvg-logo="http://goldtv.ca/logos/canada/disneycanada.jpg",Canada: DISNEY CANADA
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11357.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="foodnetwork.ca" tvg-name="Canada: FOOD NETWORK" tvg-logo="http://goldtv.ca/logos/canada/foodnetwork.jpg",Canada: FOOD NETWORK
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11509.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: FOX NEWS" tvg-logo="http://goldtv.ca/logos/canada/foxnewschannel.jpg",Canada: FOX NEWS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11508.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="globaltoronto.ca" tvg-name="Canada: GLOBAL TORONTO" tvg-logo="http://goldtv.ca/logos/canada/GlobalToronto.jpg",Canada: GLOBAL TORONTO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11505.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: GLOBAL VANCOUVER" tvg-logo="http://goldtv.ca/logos/canada/GlobalVancouver.jpg",Canada: GLOBAL VANCOUVER
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11395.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: GOLF" tvg-logo="http://goldtv.ca/logos/canada/Golf.jpg",Canada: GOLF
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11456.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="hbo.ca" tvg-name="Canada: HBO 1" tvg-logo="http://goldtv.ca/logos/canada/HBO1.jpg",Canada: HBO 1
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11503.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="hbo2.ca" tvg-name="Canada: HBO 2" tvg-logo="http://goldtv.ca/logos/canada/HBO2.jpg",Canada: HBO 2
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="hgtv.ca" tvg-name="Canada: HGTV" tvg-logo="http://goldtv.ca/logos/canada/hgtv.jpg",Canada: HGTV
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="historia.ca" tvg-name="Canada: HISTORIO" tvg-logo="http://goldtv.ca/logos/canada/Historia.jpg",Canada: HISTORIO
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11343.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="omni1.ca" tvg-name="Canada: OMNI 1" tvg-logo="http://goldtv.ca/logos/canada/OMNI1.jpg",Canada: OMNI 1
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11491.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="omni2.ca" tvg-name="Canada: OMNI 2" tvg-logo="http://goldtv.ca/logos/canada/OMNI2.jpg",Canada: OMNI 2
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11364.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="onegetfit.ca" tvg-name="Canada: ONE" tvg-logo="http://goldtv.ca/logos/canada/One.jpg",Canada: ONE
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11352.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="outtv.ca" tvg-name="Canada: OUTTV" tvg-logo="http://goldtv.ca/logos/canada/OutTV.jpg",Canada: OUTTV
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11490.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: OWN" tvg-logo="http://goldtv.ca/logos/canada/OWN.jpg",Canada: OWN
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11489.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: PBS EAST" tvg-logo="",Canada: PBS EAST
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11488.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="peachtree.ca" tvg-name="Canada: PEACH TREE" tvg-logo="http://goldtv.ca/logos/canada/Peachtree.jpg",Canada: PEACH TREE
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11351.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: PRISE" tvg-logo="",Canada: PRISE
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11389.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: RDI" tvg-logo="",Canada: RDI
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11487.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="rds.ca" tvg-name="Canada: RDS" tvg-logo="http://goldtv.ca/logos/canada/RDS.jpg",Canada: RDS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11388.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="rds2.ca" tvg-name="Canada: RDS 2" tvg-logo="http://goldtv.ca/logos/canada/RDS2.jpg",Canada: RDS 2
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11350.ts
+#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: SERIS" tvg-logo="",Canada: SERIS
+http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11387.ts
 
 
 
@@ -12103,6 +12214,154 @@ http://178.214.76.162:8061/StarWorl
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
 
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_TUNISIE_NAT1_TV"  ,|AR|_TUNISIE_NAT1_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/57.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_TUNISIE_NAT2_TV"  ,|AR|_TUNISIE_NAT2_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/58.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Elhiwar_Ettounsi"  ,|AR|_Elhiwar_Ettounsi
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/91.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ATTESSIA_TV"  ,|AR|_ATTESSIA_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/56.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ZITOUNA"  ,|AR|_ZITOUNA
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/60.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Dzair_TV"  ,|AR|_Dzair_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/93.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Aouala"  ,|AR|_Aouala
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/55.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_2M_MAROC"  ,|AR|_2M_MAROC
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/44.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_medi1afrique"  ,|AR|_medi1afrique
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/95.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Libya_Hadash"  ,|AR|_Libya_Hadash
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/79.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Libya_TV"  ,|AR|_Libya_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/81.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Libya_One"  ,|AR|_Libya_One
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/78.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Libya218"  ,|AR|_Libya218
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/77.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Libya_24"  ,|AR|_Libya_24
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/80.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_MBC_1"  ,|AR|_MBC_1
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/61.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_MBC_2"  ,|AR|_MBC_2
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/65.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_MBC_4"  ,|AR|_MBC_4
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/62.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_MTV_lebenon"  ,|AR|_MTV_lebenon
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/103.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ROTANA_KHALIJIA_TV"  ,|AR|_ROTANA_KHALIJIA_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/125.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_BAHRAIN_SPORTS"  ,|AR|_BAHRAIN_SPORTS
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_BAHRAIN_QURAN"  ,|AR|_BAHRAIN_QURAN
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/139.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_BAHRAIN_INTERNATIONAL"  ,|AR|_BAHRAIN_INTERNATIONAL
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/138.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_TOYOR_ALJANAH"  ,|AR|_TOYOR_ALJANAH
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/126.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_BAHRAIN_TV"  ,|AR|_BAHRAIN_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/137.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Al_Jazeera_Documentaire"  ,|AR|_Al_Jazeera_Documentaire
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/46.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Al_Arabiya"  ,|AR|_Al_Arabiya
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/38.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Al_Hadath"  ,|AR|_Al_Hadath
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/40.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_FRANCE_24_AR"  ,|AR|_FRANCE_24_AR
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/20.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Sky_News_Arabic"  ,|AR|_Sky_News_Arabic
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/45.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_BBC_Arabic"  ,|AR|_BBC_Arabic
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/28.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ALAAN_TV"  ,|AR|_ALAAN_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/19.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_RUSSIA ALYAOUM_TV"  ,|AR|_RUSSIA ALYAOUM_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/88.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_hiwar_news"  ,|AR|_hiwar_news
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/67.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Alalam_news"  ,|AR|_Alalam_news
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/97.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_ALIKHBARIYA_HD"  ,|AR|_SAUDI_ALIKHBARIYA_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/3.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Space_Toon"  ,|AR|_Space_Toon
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/75.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Majed_Kids"  ,|AR|_Majed_Kids
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/76.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Iqraa"  ,|AR|_Iqraa
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/68.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Makkah_TV"  ,|AR|_Makkah_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/89.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_SONNA_HD"  ,|AR|_SAUDI_SONNA_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/5.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_QURAN_HD"  ,|AR|_SAUDI_QURAN_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/4.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_THAKAFIYA_HD"  ,|AR|_SAUDI_THAKAFIYA_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/6.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DUBAI_ONE_HD"  ,|AR|_DUBAI_ONE_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/15.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ABUDHABI_Emirat"  ,|AR|_ABUDHABI_Emirat
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/70.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_AD_Drama"  ,|AR|_AD_Drama
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/69.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_CBC_Drama"  ,|AR|_CBC_Drama
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/42.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Nahar_Drama_Egypt"  ,|AR|_Nahar_Drama_Egypt
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/72.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Palestine"  ,|AR|_Palestine
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/101.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ALMAYADEEN_TV"  ,|AR|_ALMAYADEEN_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/87.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_TRT_Arabiya"  ,|AR|_TRT_Arabiya
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/73.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Nahar_TV_Egypt"  ,|AR|_Nahar_TV_Egypt
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/71.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Jordon_TV"  ,|AR|_Jordon_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/74.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ALCHARQIYA"  ,|AR|_ALCHARQIYA
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/98.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Al_Manar_TV"  ,|AR|_Al_Manar_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/54.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ALRAI_TV"  ,|AR|_ALRAI_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/50.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Syrian_Drama"  ,|AR|_Syrian_Drama
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/29.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAMA_SYRIA"  ,|AR|_SAMA_SYRIA
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/36.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SHARQIYA_TV"  ,|AR|_SHARQIYA_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/37.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ON_E"  ,|AR|_ON_E
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/43.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Qatar_TV_HD"  ,|AR|_Qatar_TV_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/27.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ABU_DHABI_TV"  ,|AR|_ABU_DHABI_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/53.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_2_HD"  ,|AR|_SAUDI_2_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/1.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_1_HD"  ,|AR|_SAUDI_1_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/2.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAMA_DUBAI_HD"  ,|AR|_SAMA_DUBAI_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/12.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_NOUR_DUBAI"  ,|AR|_NOUR_DUBAI
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/16.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_FUTURE_TV"  ,|AR|_FUTURE_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/17.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DW_AR"  ,|AR|_DW_AR
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/22.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DUBAI_ZAMAN"  ,|AR|_DUBAI_ZAMAN
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/11.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DUBAI_TV_HD"  ,|AR|_DUBAI_TV_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/10.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SHARJAH_SPORTS"  ,|AR|_SHARJAH_SPORTS
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/39.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_RIYADHIYA_1_HD"  ,|AR|_SAUDI_RIYADHIYA_1_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/9.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DUBAI_RACING_1_HD"  ,|AR|_DUBAI_RACING_1_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DUBAI_RACING_2_HD"  ,|AR|_DUBAI_RACING_2_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DUBAI_SPORTS_3_HD"  ,|AR|_DUBAI_SPORTS_3_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
 
 
 
