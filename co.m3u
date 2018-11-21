@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,19/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,21/11/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -90,13 +90,13 @@ http://www.fireshow.xyz/ant1cym.html|webdown$$start=src:  \"http://$$end=.m3u8$$
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
 http://216.241.148.28:8000/play/a00m/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
-http://master.cystreams.com:25461/live/greek/karajias/14.ts
+http://master.cystreams.com:25461/live/greek/asshole/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://www.anacon.org/app/chans/cy/capitalcy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://216.241.148.28:8000/play/a00r/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
-http://master.cystreams.com:25461/live/greek/karajias/15.ts
+http://master.cystreams.com:25461/live/greek/asshole/15.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
 http://www.anacon.org/app/chans/cy/extracy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
@@ -108,7 +108,7 @@ http://216.241.148.28:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
-http://master.cystreams.com:25461/live/greek/karajias/119.ts
+http://master.cystreams.com:25461/live/greek/asshole/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://www.lakatamia.tv/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
@@ -191,13 +191,13 @@ https://www.youtube.com/watch?v=QlI8pnEoBW8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
 http://www.anacon.org/app/chans/gr/skai.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
-http://master.cystreams.com:25461/live/greek/karajias/42.ts
+http://master.cystreams.com:25461/live/greek/asshole/42.ts
 #EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI official Web
 http://www.skai.gr/mobile/tv-live/|webview zoom=100 scroll=0,100
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://www.anacon.org/app/chans/gr/starg.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
-http://master.cystreams.com:25461/live/greek/karajias/40.ts
+http://master.cystreams.com:25461/live/greek/asshole/40.ts
 #EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA (USE GREECE VPN)
@@ -207,7 +207,7 @@ https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="E TV" tvg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
 http://www.anacon.org/app/chans/gr/open.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="E TV" tvg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
-http://master.cystreams.com:25461/live/greek/karajias/43.ts
+http://master.cystreams.com:25461/live/greek/asshole/43.ts
 #EXTINF:-1 group-title="Greece" tvg-name="Macedonia TV" tvg-id="Macedonia.gr" tvg-logo="https://goo.gl/CsM9Iu" ,M.TV HD
 http://anglantennalive5-lh.akamaihd.net/i/live_1@424766/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
@@ -4102,7 +4102,1188 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",
 
-
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",=========  RAI-MEDIASET-TV SAT HD ================
+http://hitv.dyndns.info:19553/live/albert/1234/29786.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT| Rai 1 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29145.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|IT| Rai 1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/16852.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Rai 2 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29144.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Rai 2 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6728.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Rai 3 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29143.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|IT| Rai 3 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6727.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Rete 4 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/34439.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Rete 4 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6726.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Canale 5 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/30397.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Canale 5 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6725.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 1 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/30396.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Italia 1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6724.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TV 8
+http://hitv.dyndns.info:19553/live/albert/1234/29149.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: La7d HD Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29148.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La7 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6723.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Iris
+http://hitv.dyndns.info:19553/live/albert/1234/6712.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Mediaset Italia 2
+http://hitv.dyndns.info:19553/live/albert/1234/6715.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Mediaset Extra
+http://hitv.dyndns.info:19553/live/albert/1234/13954.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Real Time HD
+http://hitv.dyndns.info:19553/live/albert/1234/6808.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Real time Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29331.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Rai 4 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29142.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Rai 5 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29141.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Rai News 24 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29139.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Storia Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29136.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Scuola Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29138.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Rai Movie Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29140.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Premium
+http://hitv.dyndns.info:19553/live/albert/1234/6711.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 4 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6708.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 5 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6695.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Storia HD
+http://hitv.dyndns.info:19553/live/albert/1234/29248.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Scuola HD
+http://hitv.dyndns.info:19553/live/albert/1234/29249.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Movie HD
+http://hitv.dyndns.info:19553/live/albert/1234/6710.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai News 24 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6825.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RSI LA 1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6714.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RSI LA 2 HD
+http://hitv.dyndns.info:19553/live/albert/1234/11841.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Neko TV
+http://hitv.dyndns.info:19553/live/albert/1234/31680.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale Italia
+http://hitv.dyndns.info:19553/live/albert/1234/31702.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",========================== Primafila live ============================
+http://hitv.dyndns.info:19553/live/albert/1234/42142.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA 1/2/
+http://hitv.dyndns.info:19553/live/albert/1234/48308.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA 3/4
+http://hitv.dyndns.info:19553/live/albert/1234/48307.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA  5/6
+http://hitv.dyndns.info:19553/live/albert/1234/48306.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA 7/8
+http://hitv.dyndns.info:19553/live/albert/1234/48305.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA 9/10
+http://hitv.dyndns.info:19553/live/albert/1234/48304.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA 11/12
+http://hitv.dyndns.info:19553/live/albert/1234/48303.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA 14/14 FHD
+http://hitv.dyndns.info:19553/live/albert/1234/48302.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA 15/15 FHD
+http://hitv.dyndns.info:19553/live/albert/1234/48301.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA 16/17 FHD
+http://hitv.dyndns.info:19553/live/albert/1234/48300.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA 18/19 FHD
+http://hitv.dyndns.info:19553/live/albert/1234/48299.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA PRO FHD
+http://hitv.dyndns.info:19553/live/albert/1234/48298.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA PRO FHD (
+http://hitv.dyndns.info:19553/live/albert/1234/48297.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA 3D
+http://hitv.dyndns.info:19553/live/albert/1234/48296.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",================= Dark__Films ===============
+http://hitv.dyndns.info:19553/live/albert/1234/21268.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV 1 > Nelle pieghe del Tempo 2018 HD
+http://hitv.dyndns.info:19553/live/albert/1234/31657.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV 2 > The Strangers: Prey at Night 2018 HD
+http://hitv.dyndns.info:19553/live/albert/1234/31655.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV 3 >Crossing Point I Signori Della Droga (2016)
+http://hitv.dyndns.info:19553/live/albert/1234/31653.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV 4 > Tomb Raider 2018 HD
+http://hitv.dyndns.info:19553/live/albert/1234/31651.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV 5 - La vedova Winchester 2018 HD
+http://hitv.dyndns.info:19553/live/albert/1234/31649.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV 6 -  Black Water 2018 HD ( Van Damme)
+http://hitv.dyndns.info:19553/live/albert/1234/31074.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV 7 > Scorched Earth - Cacciatrice di Taglie 2018 HD
+http://hitv.dyndns.info:19553/live/albert/1234/31072.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV 8 - Ibiza 2018 HD
+http://hitv.dyndns.info:19553/live/albert/1234/31070.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV 9 - Beirut 2018
+http://hitv.dyndns.info:19553/live/albert/1234/31068.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV 10 - The Kissing Booth 2018
+http://hitv.dyndns.info:19553/live/albert/1234/31065.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV 11 - Cinquanta sfumature di rosso 2018
+http://hitv.dyndns.info:19553/live/albert/1234/31063.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Pj Masks I Superpigiamini
+http://hitv.dyndns.info:19553/live/albert/1234/27504.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Curioso Come Giorge
+http://hitv.dyndns.info:19553/live/albert/1234/22438.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dark / American Pie/ 1-2-3-4-5-6-7-8
+http://hitv.dyndns.info:19553/live/albert/1234/22422.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dark:Doc_Squadra anti droga(Aggiornato)
+http://hitv.dyndns.info:19553/live/albert/1234/22415.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV Barbapapà
+http://hitv.dyndns.info:19553/live/albert/1234/22282.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Esplorando Il Corpo Umano
+http://hitv.dyndns.info:19553/live/albert/1234/22201.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Leone Cane Fifone
+http://hitv.dyndns.info:19553/live/albert/1234/22207.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Doraemon (Il gatto spaziale)
+http://hitv.dyndns.info:19553/live/albert/1234/23824.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Zig & Sharko
+http://hitv.dyndns.info:19553/live/albert/1234/31259.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV_DoTT._Peluce
+http://hitv.dyndns.info:19553/live/albert/1234/22211.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV_Masha_&_Orso
+http://hitv.dyndns.info:19553/live/albert/1234/22209.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV_Peppa_Pig
+http://hitv.dyndns.info:19553/live/albert/1234/22210.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV_Topolino
+http://hitv.dyndns.info:19553/live/albert/1234/22208.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV:i Thunderman
+http://hitv.dyndns.info:19553/live/albert/1234/22349.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / i Thunderman 3
+http://hitv.dyndns.info:19553/live/albert/1234/28915.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV Masha & Orso 2
+http://hitv.dyndns.info:19553/live/albert/1234/22345.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",======== LIVE CHANNELS MIX ============
+http://hitv.dyndns.info:19553/live/albert/1234/31414.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Super Vacanze di Natale
+http://hitv.dyndns.info:19553/live/albert/1234/33462.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Vacanze di natale 2
+http://hitv.dyndns.info:19553/live/albert/1234/34030.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV /Renato Pozzetto
+http://hitv.dyndns.info:19553/live/albert/1234/33426.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Bud Spencer
+http://hitv.dyndns.info:19553/live/albert/1234/33371.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Bud Spencer 2
+http://hitv.dyndns.info:19553/live/albert/1234/33373.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Paolo Villaggio
+http://hitv.dyndns.info:19553/live/albert/1234/33379.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Van Damme
+http://hitv.dyndns.info:19553/live/albert/1234/33380.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Van Damme 2
+http://hitv.dyndns.info:19553/live/albert/1234/33381.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Lino Banfi
+http://hitv.dyndns.info:19553/live/albert/1234/33357.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Lino Banfi 2
+http://hitv.dyndns.info:19553/live/albert/1234/33358.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Totò
+http://hitv.dyndns.info:19553/live/albert/1234/33281.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV / Alvaro Vitali
+http://hitv.dyndns.info:19553/live/albert/1234/33276.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============= SKY CINEMA FULL HD =================
+http://hitv.dyndns.info:19553/live/albert/1234/27558.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Uno Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27557.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema +1 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/9253.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Hits Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27552.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema +24 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29150.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Family Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27553.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Passion Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27550.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Comedy Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27555.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Max Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27551.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Max +1 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/6856.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Cult Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27554.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Classic Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27556.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============== SKY CINEMA HD ===============
+http://hitv.dyndns.info:19553/live/albert/1234/6846.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Uno HD
+http://hitv.dyndns.info:19553/live/albert/1234/6853.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema +1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/30480.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Hits HD
+http://hitv.dyndns.info:19553/live/albert/1234/6849.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema +24 HD
+http://hitv.dyndns.info:19553/live/albert/1234/17136.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Family HD
+http://hitv.dyndns.info:19553/live/albert/1234/6857.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Family +1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/30441.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Passion HD
+http://hitv.dyndns.info:19553/live/albert/1234/6847.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Comedy HD
+http://hitv.dyndns.info:19553/live/albert/1234/6852.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Max HD
+http://hitv.dyndns.info:19553/live/albert/1234/6848.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Max +1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/30870.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Cult HD
+http://hitv.dyndns.info:19553/live/albert/1234/6851.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Cinema Classic HD
+http://hitv.dyndns.info:19553/live/albert/1234/6858.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PRIMAFILA 3D #
+http://hitv.dyndns.info:19553/live/albert/1234/46220.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",======= INTRATTENIMENTO FULL HD ==============
+http://hitv.dyndns.info:19553/live/albert/1234/29774.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Uno Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27547.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Dmax Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29741.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Life Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27881.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Fox Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27882.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Crime Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27883.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Blaze Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27549.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Lei Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27880.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Crime Investigation Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27886.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Comedy Cental Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29252.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Fox Comedy Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27884.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Animation Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27885.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27548.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nove Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29146.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sposa Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29134.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",LaEffe Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29740.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",======== INTRATTENIMENTO HD =============
+http://hitv.dyndns.info:19553/live/albert/1234/6803.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno HD
+http://hitv.dyndns.info:19553/live/albert/1234/6816.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno +1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/15999.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dmax HD
+http://hitv.dyndns.info:19553/live/albert/1234/11621.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Life HD
+http://hitv.dyndns.info:19553/live/albert/1234/6811.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Fox Life +1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/33438.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox HD
+http://hitv.dyndns.info:19553/live/albert/1234/6813.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox +1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6812.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Crime HD
+http://hitv.dyndns.info:19553/live/albert/1234/6822.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Blaze HD
+http://hitv.dyndns.info:19553/live/albert/1234/27106.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Top Crime
+http://hitv.dyndns.info:19553/live/albert/1234/6820.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",LEI HD
+http://hitv.dyndns.info:19553/live/albert/1234/6806.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery Investigation
+http://hitv.dyndns.info:19553/live/albert/1234/21614.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Crime Investigation HD
+http://hitv.dyndns.info:19553/live/albert/1234/6821.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT :Comedy Central
+http://hitv.dyndns.info:19553/live/albert/1234/11827.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Comedy HD
+http://hitv.dyndns.info:19553/live/albert/1234/6814.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Animation HD
+http://hitv.dyndns.info:19553/live/albert/1234/6809.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic HD
+http://hitv.dyndns.info:19553/live/albert/1234/6819.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic +1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/11839.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Paramount Channel HD
+http://hitv.dyndns.info:19553/live/albert/1234/12270.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Class Horse TV
+http://hitv.dyndns.info:19553/live/albert/1234/16943.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Laeffe HD
+http://hitv.dyndns.info:19553/live/albert/1234/6895.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La 5
+http://hitv.dyndns.info:19553/live/albert/1234/12269.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",GIALLO
+http://hitv.dyndns.info:19553/live/albert/1234/6804.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Classica HD
+http://hitv.dyndns.info:19553/live/albert/1234/22107.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Tv2000
+http://hitv.dyndns.info:19553/live/albert/1234/31076.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Espansione TV
+http://hitv.dyndns.info:19553/live/albert/1234/31704.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nove HD
+http://hitv.dyndns.info:19553/live/albert/1234/25759.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Food Network
+http://hitv.dyndns.info:19553/live/albert/1234/31682.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sposa HD
+http://hitv.dyndns.info:19553/live/albert/1234/29328.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============= CULTURA FULL HD ===============
+http://hitv.dyndns.info:19553/live/albert/1234/6826.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: National Geographic FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/6844.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: NatGeo People FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/6835.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: History Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/44581.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: NatGeo Wild FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/6834.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery Channel FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/6833.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Discovery Sci FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/6832.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT:Discovery Travel & Living FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/6841.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Arte Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27879.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Gambero Rosso Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29332.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Cielo Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29330.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dove TV Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29333.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",======== CULTURA HD ============
+http://hitv.dyndns.info:19553/live/albert/1234/29773.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: National Geographic HD
+http://hitv.dyndns.info:19553/live/albert/1234/29780.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Nat Geo People HD
+http://hitv.dyndns.info:19553/live/albert/1234/29779.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Nat Geo Wild HD
+http://hitv.dyndns.info:19553/live/albert/1234/29778.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Animal Planet
+http://hitv.dyndns.info:19553/live/albert/1234/9330.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Discovery channel HD
+http://hitv.dyndns.info:19553/live/albert/1234/29775.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Discovery Sci HD
+http://hitv.dyndns.info:19553/live/albert/1234/29776.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Discovery T&L HD
+http://hitv.dyndns.info:19553/live/albert/1234/29777.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: History HD
+http://hitv.dyndns.info:19553/live/albert/1234/6843.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Arte HD
+http://hitv.dyndns.info:19553/live/albert/1234/6842.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Focus
+http://hitv.dyndns.info:19553/live/albert/1234/6845.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Alice
+http://hitv.dyndns.info:19553/live/albert/1234/6840.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Gambero Rosso HD
+http://hitv.dyndns.info:19553/live/albert/1234/6839.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Marco Polo
+http://hitv.dyndns.info:19553/live/albert/1234/6837.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Cielo HD
+http://hitv.dyndns.info:19553/live/albert/1234/6836.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dove TV HD
+http://hitv.dyndns.info:19553/live/albert/1234/29335.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",====== CACCIA&PESCA FULL HD ======
+http://hitv.dyndns.info:19553/live/albert/1234/29783.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Pesca e Caccia Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/32132.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Caccia e Pesca Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29746.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: CACCIA e Pesca HD
+http://hitv.dyndns.info:19553/live/albert/1234/6937.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: PESCA e Caccia HD
+http://hitv.dyndns.info:19553/live/albert/1234/6938.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italian Fishing
+http://hitv.dyndns.info:19553/live/albert/1234/24383.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Pescare Cacciare
+http://hitv.dyndns.info:19553/live/albert/1234/24382.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============  ⚽ SKY Sport Full Hd ⚽ ============
+http://hitv.dyndns.info:19553/live/albert/1234/27543.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport Serie A Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/44580.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport 24 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27540.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport Uno Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27538.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport Football Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27537.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport Arena Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27536.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport NBA Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27539.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport Golf Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27542.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport Mix Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27541.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============ ⚽ SKY SPORT HD ⚽ ============
+http://hitv.dyndns.info:19553/live/albert/1234/6910.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport Serie A HD
+http://hitv.dyndns.info:19553/live/albert/1234/6918.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport 24 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6917.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport Uno HD
+http://hitv.dyndns.info:19553/live/albert/1234/14973.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport Football HD
+http://hitv.dyndns.info:19553/live/albert/1234/6914.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport Arena HD
+http://hitv.dyndns.info:19553/live/albert/1234/6913.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport NBA HD
+http://hitv.dyndns.info:19553/live/albert/1234/7041.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport Golf HD
+http://hitv.dyndns.info:19553/live/albert/1234/6916.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport serie A (SUPPORTO)
+http://hitv.dyndns.info:19553/live/albert/1234/55241.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Uno (SUPPORTO)
+http://hitv.dyndns.info:19553/live/albert/1234/55235.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY SPORT 24 HD (supporto)
+http://hitv.dyndns.info:19553/live/albert/1234/55242.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY SPORT ARENA HD (supporto)
+http://hitv.dyndns.info:19553/live/albert/1234/55243.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============ ⚽ SKY SPORT ADSL LENTA ⚽ ============
+hrhr
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 24 SD
+http://hitv.dyndns.info:19553/live/albert/1234/15188.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Uno SD
+http://hitv.dyndns.info:19553/live/albert/1234/15189.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Football SD
+http://hitv.dyndns.info:19553/live/albert/1234/15190.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Arena SD
+http://hitv.dyndns.info:19553/live/albert/1234/15191.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport NBA SD
+http://hitv.dyndns.info:19553/live/albert/1234/15369.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Fox Sport SD
+http://hitv.dyndns.info:19553/live/albert/1234/15194.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===========  Sportivi  =============
+dawefwef
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Rai Sport 1 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29137.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Sport Plus HD
+http://hitv.dyndns.info:19553/live/albert/1234/29336.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Bike Channel Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29334.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",BIKE Channel HD
+http://hitv.dyndns.info:19553/live/albert/1234/12083.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Super Tennis Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29133.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Super Tennis HD
+http://hitv.dyndns.info:19553/live/albert/1234/6912.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sportitalia
+http://hitv.dyndns.info:19553/live/albert/1234/6694.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Eurosport 1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6930.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Eurosport 2 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6929.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Motor Trend HD
+http://hitv.dyndns.info:19553/live/albert/1234/53178.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MotorSport HD
+http://hitv.dyndns.info:19553/live/albert/1234/29781.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Red Bull TV
+http://hitv.dyndns.info:19553/live/albert/1234/29329.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",UNIRE SAT HD
+http://hitv.dyndns.info:19553/live/albert/1234/31075.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============  F1 Moto GP Full Hd  ============
+http://hdswydwyded,irrr
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport F1 Full-HD
+http://hitv.dyndns.info:19553/live/albert/1234/27545.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport MotoGP Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27544.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============  F1 Moto GP Hd  ============
+http://only.live.best-25.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport F1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6940.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Moto GP HD
+http://hitv.dyndns.info:19553/live/albert/1234/6941.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Moto gp (supporto)
+http://hitv.dyndns.info:19553/live/albert/1234/39803.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Formula 1 (supporto)
+http://hitv.dyndns.info:19553/live/albert/1234/41531.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Motogp 2 riserva (H)
+http://hitv.dyndns.info:19553/live/albert/1234/39802.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============  F1 E MOTO GP SD ============
+http://hitv.dyndns.info:19553/live/albert/1234/19598.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport F1 SD
+http://hitv.dyndns.info:19553/live/albert/1234/18161.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Moto GP SD
+http://hitv.dyndns.info:19553/live/albert/1234/18162.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============  SKY CALCIO FULL HD  ============
+http://hitv.dyndns.info:19553/live/albert/1234/27535.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Sport Serie A Full-HD
+http://hitv.dyndns.info:19553/live/albert/1234/27534.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT:Sky Calcio 1 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27533.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Calcio 2 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27532.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Calcio 3 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/27531.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Calcio 4 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29596.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Calcio 5 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29595.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT:  Sky Calcio 6 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29594.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Calcio 7 Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29593.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============ ⚽ SKY CALCIO HD ⚽ ============
+hyrthrthrtrh
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Calcio 1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/8799.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Calcio 2 HD
+http://hitv.dyndns.info:19553/live/albert/1234/8797.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Calcio 3 HD
+http://hitv.dyndns.info:19553/live/albert/1234/8801.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Calcio 4 HD
+http://hitv.dyndns.info:19553/live/albert/1234/8800.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Calcio 5 HD
+http://hitv.dyndns.info:19553/live/albert/1234/8796.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Calcio 6 HD
+http://hitv.dyndns.info:19553/live/albert/1234/8795.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT: Sky Calcio 7 HD
+http://hitv.dyndns.info:19553/live/albert/1234/8794.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky CALCIO 1 (Supporto)
+http://hitv.dyndns.info:19553/live/albert/1234/46484.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky CALCIO 2 (Supporto)
+http://hitv.dyndns.info:19553/live/albert/1234/55234.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY CALCIO 3 (supporto)
+http://hitv.dyndns.info:19553/live/albert/1234/55344.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",=================  DAZN ========================
+http://hitv.dyndns.info:19553/live/albert/1234/44423.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",VETRINA DAZN
+http://hitv.dyndns.info:19553/live/albert/1234/52261.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN ZONA GOL HD
+http://hitv.dyndns.info:19553/live/albert/1234/54556.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dazn 1 Solo serie A FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/52262.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dazn 2 Solo serie A FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/52263.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 1 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45679.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 1 sd
+http://hitv.dyndns.info:19553/live/albert/1234/45786.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/45678.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 2 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45677.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 2 HD
+http://hitv.dyndns.info:19553/live/albert/1234/45676.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 3 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45675.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 3 HD
+http://hitv.dyndns.info:19553/live/albert/1234/45674.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 4 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45673.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 4 HD
+http://hitv.dyndns.info:19553/live/albert/1234/45672.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 5 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45671.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 5 HD
+http://hitv.dyndns.info:19553/live/albert/1234/45670.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 6 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45669.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 6 HD
+http://hitv.dyndns.info:19553/live/albert/1234/45668.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 7 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45667.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 7 HD
+http://hitv.dyndns.info:19553/live/albert/1234/45666.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 8 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45665.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 9 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45664.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 10 FULLHD
+http://hitv.dyndns.info:19553/live/albert/1234/45663.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 11 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45662.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 12 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45661.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 13 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45660.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 14 FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/45659.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 1 FULLHD DE
+http://hitv.dyndns.info:19553/live/albert/1234/45782.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 1 DE FULLHD
+http://hitv.dyndns.info:19553/live/albert/1234/46442.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 2 DE Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/46443.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 9 HD
+http://hitv.dyndns.info:19553/live/albert/1234/46444.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PL: Eleven Sports 1 HD
+http://hitv.dyndns.info:19553/live/albert/1234/46445.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PL: Eleven Sports 2 HD
+http://hitv.dyndns.info:19553/live/albert/1234/46446.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PL: Eleven Sports 3 HD
+http://hitv.dyndns.info:19553/live/albert/1234/46447.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PL: Eleven Sports 4
+http://hitv.dyndns.info:19553/live/albert/1234/46448.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PL: Eleven Sports 4 HD
+http://hitv.dyndns.info:19553/live/albert/1234/46449.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DAZN 2 FULLHD DE
+http://hitv.dyndns.info:19553/live/albert/1234/45783.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== DAZN SPORT ZSAT =======
+http://hitv.dyndns.info:19553/live/albert/1234/46474.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|VETRINA DAZN SPORT
+http://hitv.dyndns.info:19553/live/albert/1234/52327.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z||Z|DAZN SERIE-A 1 (DVB-S) Full-HD
+http://hitv.dyndns.info:19553/live/albert/1234/52326.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z||Z|DAZN SERIE-A 1 (DVB-S) HD
+http://hitv.dyndns.info:19553/live/albert/1234/52325.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SERIE-A 1 (DVB-S) SD
+http://hitv.dyndns.info:19553/live/albert/1234/52324.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SERIE-A 2 (DVB-S) Full-HD
+http://hitv.dyndns.info:19553/live/albert/1234/52323.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SERIE-A 2 (DVB-S) HD
+http://hitv.dyndns.info:19553/live/albert/1234/52322.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SERIE-A 2 (DVB-S) SD
+http://hitv.dyndns.info:19553/live/albert/1234/52321.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SPORT 1
+http://hitv.dyndns.info:19553/live/albert/1234/52320.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SPORT 10
+http://hitv.dyndns.info:19553/live/albert/1234/52311.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SPORT 2
+http://hitv.dyndns.info:19553/live/albert/1234/52319.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SPORT 3
+http://hitv.dyndns.info:19553/live/albert/1234/52318.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SPORT 4
+http://hitv.dyndns.info:19553/live/albert/1234/52317.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SPORT 5
+http://hitv.dyndns.info:19553/live/albert/1234/52316.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SPORT 6
+http://hitv.dyndns.info:19553/live/albert/1234/52315.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SPORT 7
+http://hitv.dyndns.info:19553/live/albert/1234/52314.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SPORT 8
+http://hitv.dyndns.info:19553/live/albert/1234/52313.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|Z|DAZN SPORT 9
+http://hitv.dyndns.info:19553/live/albert/1234/52312.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============ ⚽ SporTube Lega Pro SERIE C ⚽ ============
+http://hitv.dyndns.info:19553/live/albert/1234/52036.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | PALINSESTO
+http://hitv.dyndns.info:19553/live/albert/1234/52035.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",LEGA PRO | SPORT MIX 1
+http://hitv.dyndns.info:19553/live/albert/1234/52034.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",LEGA PRO | SPORT MIX 2
+http://hitv.dyndns.info:19553/live/albert/1234/52033.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO |  Pro Piacenza
+http://hitv.dyndns.info:19553/live/albert/1234/52060.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO |  Pro vercelli
+http://hitv.dyndns.info:19553/live/albert/1234/52059.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO |  Robur Siena
+http://hitv.dyndns.info:19553/live/albert/1234/52058.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Albinoleffe
+http://hitv.dyndns.info:19553/live/albert/1234/52094.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Albissola
+http://hitv.dyndns.info:19553/live/albert/1234/52093.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Alessandria
+http://hitv.dyndns.info:19553/live/albert/1234/52092.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Arezzo
+http://hitv.dyndns.info:19553/live/albert/1234/52091.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Arzachena
+http://hitv.dyndns.info:19553/live/albert/1234/52090.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Bisceglie
+http://hitv.dyndns.info:19553/live/albert/1234/52089.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Carrarese
+http://hitv.dyndns.info:19553/live/albert/1234/52087.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Casertana
+http://hitv.dyndns.info:19553/live/albert/1234/52086.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | CATANIA
+http://hitv.dyndns.info:19553/live/albert/1234/52088.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Catanzaro
+http://hitv.dyndns.info:19553/live/albert/1234/52085.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Cuneo
+http://hitv.dyndns.info:19553/live/albert/1234/52084.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Fano
+http://hitv.dyndns.info:19553/live/albert/1234/52083.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Feralpisal
+http://hitv.dyndns.info:19553/live/albert/1234/52082.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Fermana
+http://hitv.dyndns.info:19553/live/albert/1234/52081.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Francavilla
+http://hitv.dyndns.info:19553/live/albert/1234/52080.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Giana Erminio
+http://hitv.dyndns.info:19553/live/albert/1234/52079.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Gozzano
+http://hitv.dyndns.info:19553/live/albert/1234/52078.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Gubbio
+http://hitv.dyndns.info:19553/live/albert/1234/52077.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Imolese
+http://hitv.dyndns.info:19553/live/albert/1234/52076.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Juve Stabia
+http://hitv.dyndns.info:19553/live/albert/1234/52075.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Juventus 23
+http://hitv.dyndns.info:19553/live/albert/1234/52074.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Lucchese
+http://hitv.dyndns.info:19553/live/albert/1234/52073.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Matera
+http://hitv.dyndns.info:19553/live/albert/1234/52072.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Monopoli
+http://hitv.dyndns.info:19553/live/albert/1234/52071.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Monza
+http://hitv.dyndns.info:19553/live/albert/1234/52070.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Novara
+http://hitv.dyndns.info:19553/live/albert/1234/52069.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Olbia
+http://hitv.dyndns.info:19553/live/albert/1234/52068.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Paganese
+http://hitv.dyndns.info:19553/live/albert/1234/52067.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Piacenza
+http://hitv.dyndns.info:19553/live/albert/1234/52037.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Pisa
+http://hitv.dyndns.info:19553/live/albert/1234/52066.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Pistoiese
+http://hitv.dyndns.info:19553/live/albert/1234/52065.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Pontedera
+http://hitv.dyndns.info:19553/live/albert/1234/52064.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Pordenone
+http://hitv.dyndns.info:19553/live/albert/1234/52063.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Potenza
+http://hitv.dyndns.info:19553/live/albert/1234/52062.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Propatria
+http://hitv.dyndns.info:19553/live/albert/1234/52061.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Ravenna
+http://hitv.dyndns.info:19553/live/albert/1234/52057.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Reggina
+http://hitv.dyndns.info:19553/live/albert/1234/52056.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Renate
+http://hitv.dyndns.info:19553/live/albert/1234/52055.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Rende
+http://hitv.dyndns.info:19553/live/albert/1234/52054.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Rieti
+http://hitv.dyndns.info:19553/live/albert/1234/52053.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Rimini
+http://hitv.dyndns.info:19553/live/albert/1234/52052.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Sambenedettese
+http://hitv.dyndns.info:19553/live/albert/1234/52051.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Sicula Leonzio
+http://hitv.dyndns.info:19553/live/albert/1234/52050.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Siracusa
+http://hitv.dyndns.info:19553/live/albert/1234/52049.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Sudtirol
+http://hitv.dyndns.info:19553/live/albert/1234/52048.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Teramo
+http://hitv.dyndns.info:19553/live/albert/1234/52047.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Ternana
+http://hitv.dyndns.info:19553/live/albert/1234/52046.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Trapani
+http://hitv.dyndns.info:19553/live/albert/1234/52045.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Triestina
+http://hitv.dyndns.info:19553/live/albert/1234/52044.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Vibonese
+http://hitv.dyndns.info:19553/live/albert/1234/52043.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Vicenza
+http://hitv.dyndns.info:19553/live/albert/1234/52042.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Virtus Entella
+http://hitv.dyndns.info:19553/live/albert/1234/52041.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Virtus Verona
+http://hitv.dyndns.info:19553/live/albert/1234/52040.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Vis Pesaro
+http://hitv.dyndns.info:19553/live/albert/1234/52039.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",|LEGA PRO | Viterbese Castrese
+http://hitv.dyndns.info:19553/live/albert/1234/52038.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",C.I.R. - Rally Due Valli - 2°Appuntamento 14/10/2017
+http://hitv.dyndns.info:19553/live/albert/1234/52101.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",C.I.R. - Rally Due Valli - 3°Appuntamento 14/10/2017
+http://hitv.dyndns.info:19553/live/albert/1234/52100.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",C.I.R. - Rally Due Valli - 4°Appuntamento 15/10/2017
+http://hitv.dyndns.info:19553/live/albert/1234/52099.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",02/06/2017
+http://hitv.dyndns.info:19553/live/albert/1234/52097.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",C.I.R. - Rally Due Valli - 5°Appuntamento 15/10/2017
+http://hitv.dyndns.info:19553/live/albert/1234/52098.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",=========== ELEVEN SPORT UK ===================
+http://hitv.dyndns.info:19553/live/albert/1234/46480.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",ELEVEN 1
+http://hitv.dyndns.info:19553/live/albert/1234/46477.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Eleven Sport 2
+http://hitv.dyndns.info:19553/live/albert/1234/46478.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Laligatv
+http://hitv.dyndns.info:19553/live/albert/1234/46479.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",ELEVEN SPORT (1)
+http://hitv.dyndns.info:19553/live/albert/1234/48581.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",ELEVEN SPORT EDGE
+http://hitv.dyndns.info:19553/live/albert/1234/48582.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PL | Eleven Extra HD-
+http://hitv.dyndns.info:19553/live/albert/1234/48700.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PL | Eleven HD ( 1080P )-
+http://hitv.dyndns.info:19553/live/albert/1234/48699.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PL | ELEVEN HD-
+http://hitv.dyndns.info:19553/live/albert/1234/48698.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PL | Eleven Sports HD ( 1080P )-
+http://hitv.dyndns.info:19553/live/albert/1234/48697.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PL | ELEVEN SPORTS HD-
+http://hitv.dyndns.info:19553/live/albert/1234/48696.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============ ⚽ SKY CALCIO ADSL LENTA ⚽ ============
+http://hitv.dyndns.info:19553/live/albert/1234/25087.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Serie A SD
+http://hitv.dyndns.info:19553/live/albert/1234/15195.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 1 SD
+http://hitv.dyndns.info:19553/live/albert/1234/15196.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 2 SD
+http://hitv.dyndns.info:19553/live/albert/1234/15197.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 3 SD
+http://hitv.dyndns.info:19553/live/albert/1234/15198.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Top Calcio 24
+http://hitv.dyndns.info:19553/live/albert/1234/22487.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",===== SQUADRE CALCIO HD ===================
+live/skyglamur/kjEU5DRV
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Milan Channel
+http://hitv.dyndns.info:19553/live/albert/1234/6934.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Inter Channel
+http://hitv.dyndns.info:19553/live/albert/1234/6933.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Roma Channel
+http://hitv.dyndns.info:19553/live/albert/1234/7964.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Lazio Style Channel
+http://hitv.dyndns.info:19553/live/albert/1234/11620.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Torino Channel
+http://hitv.dyndns.info:19553/live/albert/1234/25923.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",==================== NOTIZIARI ====================
+Hrtp://guxyjb.eu
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky TG 24 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6732.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TgCom24
+http://hitv.dyndns.info:19553/live/albert/1234/6731.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Euronews IT
+http://hitv.dyndns.info:19553/live/albert/1234/31679.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Tg Norba 24
+http://hitv.dyndns.info:19553/live/albert/1234/30880.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",=======  PREMIUM CINEMA HD ============
+http://hitv.dyndns.info:19553/live/albert/1234/6879.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema HD
+http://hitv.dyndns.info:19553/live/albert/1234/6888.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema +24 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6893.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Emotion HD
+http://hitv.dyndns.info:19553/live/albert/1234/6883.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema Energy HD
+http://hitv.dyndns.info:19553/live/albert/1234/21249.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema Energy +24 HD
+http://hitv.dyndns.info:19553/live/albert/1234/6889.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema Comedy HD
+http://hitv.dyndns.info:19553/live/albert/1234/6890.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Action HD
+http://hitv.dyndns.info:19553/live/albert/1234/6896.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Action +24 HD
+http://hitv.dyndns.info:19553/live/albert/1234/22236.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Crime HD
+http://hitv.dyndns.info:19553/live/albert/1234/6886.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema Energy Full-HD
+http://hitv.dyndns.info:19553/live/albert/1234/46332.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Crime Full-HD
+http://hitv.dyndns.info:19553/live/albert/1234/46326.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Joy
+http://hitv.dyndns.info:19553/live/albert/1234/6881.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Stories
+http://hitv.dyndns.info:19553/live/albert/1234/6880.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Studio Universal
+http://hitv.dyndns.info:19553/live/albert/1234/6700.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Action Full-HD
+http://hitv.dyndns.info:19553/live/albert/1234/46327.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema +24 Full-HD
+http://hitv.dyndns.info:19553/live/albert/1234/46329.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema Comedy Full-HD
+http://hitv.dyndns.info:19553/live/albert/1234/46324.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Cinema Full-HD
+http://hitv.dyndns.info:19553/live/albert/1234/46330.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Emotion Full-HD
+http://hitv.dyndns.info:19553/live/albert/1234/46320.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============  CARTONI FULL HD ============
+http://hitv.dyndns.info:19553/live/albert/1234/29785.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Disney Channel Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29130.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Boomerang Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29129.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Disney Junior Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29131.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Nickelodeon Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29132.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Yoyo Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29135.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Teen Nick Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29735.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Manga Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29739.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Nick Junior Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29738.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Dea Kids Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29742.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Dea Junior Full HD
+http://hitv.dyndns.info:19553/live/albert/1234/29745.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============  CARTONI HD ============
+http://hitv.dyndns.info:19553/live/albert/1234/6942.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV - Oggy Maledetti Scaraffaggi
+http://hitv.dyndns.info:19553/live/albert/1234/30656.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV - I Dalton
+http://hitv.dyndns.info:19553/live/albert/1234/30655.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV_Paw Patrol
+http://hitv.dyndns.info:19553/live/albert/1234/22259.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",HiTV_Pippi:Calze.Lunghe
+http://hitv.dyndns.info:19553/live/albert/1234/22235.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Disney Channel HD
+http://hitv.dyndns.info:19553/live/albert/1234/10598.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cartoon Network
+http://hitv.dyndns.info:19553/live/albert/1234/6947.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Boomerang
+http://hitv.dyndns.info:19553/live/albert/1234/16212.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nick Junior
+http://hitv.dyndns.info:19553/live/albert/1234/16213.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cartoonito
+http://hitv.dyndns.info:19553/live/albert/1234/6946.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Disney Junior
+http://hitv.dyndns.info:19553/live/albert/1234/7206.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nickelodeon
+http://hitv.dyndns.info:19553/live/albert/1234/18231.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Disney XD
+http://hitv.dyndns.info:19553/live/albert/1234/6945.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dea kids
+http://hitv.dyndns.info:19553/live/albert/1234/16115.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Gulp
+http://hitv.dyndns.info:19553/live/albert/1234/6950.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai yoyo
+http://hitv.dyndns.info:19553/live/albert/1234/6943.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Boing
+http://hitv.dyndns.info:19553/live/albert/1234/6948.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dea Junior HD
+http://hitv.dyndns.info:19553/live/albert/1234/29744.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dea Kids HD
+http://hitv.dyndns.info:19553/live/albert/1234/29743.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Teen Nick HD
+http://hitv.dyndns.info:19553/live/albert/1234/29734.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",K2
+http://hitv.dyndns.info:19553/live/albert/1234/6944.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MAN-GA
+http://hitv.dyndns.info:19553/live/albert/1234/7909.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Frisbee
+http://hitv.dyndns.info:19553/live/albert/1234/6949.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Super!
+http://hitv.dyndns.info:19553/live/albert/1234/6699.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | Baby TV
+http://hitv.dyndns.info:19553/live/albert/1234/12272.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",=========================== RAI-MEDIASET ADSL LENTA ==================
+http://hitv.dyndns.info:19553/live/albert/1234/18152.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 1 SD
+http://hitv.dyndns.info:19553/live/albert/1234/18150.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2 SD
+http://hitv.dyndns.info:19553/live/albert/1234/18151.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3 SD
+http://hitv.dyndns.info:19553/live/albert/1234/18153.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rete 4 SD
+http://hitv.dyndns.info:19553/live/albert/1234/18154.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 5 SD
+http://hitv.dyndns.info:19553/live/albert/1234/18155.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 1 SD
+http://hitv.dyndns.info:19553/live/albert/1234/18156.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RSI LA 1 SD
+http://hitv.dyndns.info:19553/live/albert/1234/18158.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RSI LA 2 SD
+http://hitv.dyndns.info:19553/live/albert/1234/18159.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La7 SD
+http://hitv.dyndns.info:19553/live/albert/1234/18157.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",==============  SKY CINEMA ADSL LENTA ==============
+http://hitv.dyndns.info:19553/live/albert/1234/15204.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema 1 SD
+http://hitv.dyndns.info:19553/live/albert/1234/15178.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Hits SD
+http://hitv.dyndns.info:19553/live/albert/1234/15181.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema +24 SD
+http://hitv.dyndns.info:19553/live/albert/1234/15186.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Family SD
+http://hitv.dyndns.info:19553/live/albert/1234/15182.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Passion SD
+http://hitv.dyndns.info:19553/live/albert/1234/15179.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Comedy SD
+http://hitv.dyndns.info:19553/live/albert/1234/15184.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Max SD
+http://hitv.dyndns.info:19553/live/albert/1234/15180.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Max +1 SD
+http://hitv.dyndns.info:19553/live/albert/1234/15372.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Cult SD
+http://hitv.dyndns.info:19553/live/albert/1234/15183.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Cinema Classics SD
+http://hitv.dyndns.info:19553/live/albert/1234/15185.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============ INTRATTENIMENTO ADSL LENTA ==================
+http://hitv.dyndns.info:19553/live/albert/1234/25847.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno SD
+http://hitv.dyndns.info:19553/live/albert/1234/25846.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dmax SD
+http://hitv.dyndns.info:19553/live/albert/1234/25844.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Life SD
+http://hitv.dyndns.info:19553/live/albert/1234/25843.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox SD
+http://hitv.dyndns.info:19553/live/albert/1234/25842.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Crime SD
+http://hitv.dyndns.info:19553/live/albert/1234/25840.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Top Crime SD
+http://hitv.dyndns.info:19553/live/albert/1234/25839.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery Investigation SD
+http://hitv.dyndns.info:19553/live/albert/1234/25838.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Crime Investigation SD
+http://hitv.dyndns.info:19553/live/albert/1234/25837.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Comedy Central SD
+http://hitv.dyndns.info:19553/live/albert/1234/25836.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Comedy SD
+http://hitv.dyndns.info:19553/live/albert/1234/25835.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Animation SD
+http://hitv.dyndns.info:19553/live/albert/1234/25834.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic SD
+http://hitv.dyndns.info:19553/live/albert/1234/25833.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Paramount Channel SD
+http://hitv.dyndns.info:19553/live/albert/1234/25831.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",====== CULTURA ADSL LENTA ======
+http://hitv.dyndns.info:19553/live/albert/1234/25862.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",National Geographic  SD
+http://hitv.dyndns.info:19553/live/albert/1234/25861.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",NatGeo People SD
+http://hitv.dyndns.info:19553/live/albert/1234/25859.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",NatGeo Wild SD
+http://hitv.dyndns.info:19553/live/albert/1234/25858.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Animal Planet SD
+http://hitv.dyndns.info:19553/live/albert/1234/25857.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery Channel SD
+http://hitv.dyndns.info:19553/live/albert/1234/25856.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery Sci SD
+http://hitv.dyndns.info:19553/live/albert/1234/25854.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery Travel & Living SD
+http://hitv.dyndns.info:19553/live/albert/1234/25853.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",History SD
+http://hitv.dyndns.info:19553/live/albert/1234/25852.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Arte SD
+http://hitv.dyndns.info:19553/live/albert/1234/25851.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cielo SD
+http://hitv.dyndns.info:19553/live/albert/1234/25848.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Focus SD
+http://hitv.dyndns.info:19553/live/albert/1234/25850.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Gambero Rosso SD
+http://hitv.dyndns.info:19553/live/albert/1234/25849.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============  Regionali ============
+http://hitv.dyndns.info:19553/live/albert/1234/17724.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Case Design
+http://hitv.dyndns.info:19553/live/albert/1234/42980.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",ARTE Network
+http://hitv.dyndns.info:19553/live/albert/1234/42978.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Donna TV
+http://hitv.dyndns.info:19553/live/albert/1234/42979.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Reteconomy
+http://hitv.dyndns.info:19553/live/albert/1234/42306.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",° Sicilia °
+http://hitv.dyndns.info:19553/live/albert/1234/21551.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Antenna Sicilia
+http://hitv.dyndns.info:19553/live/albert/1234/21573.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Tivù Azzurra
+http://hitv.dyndns.info:19553/live/albert/1234/21555.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Universal TV
+http://hitv.dyndns.info:19553/live/albert/1234/21556.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",C.T.S TV
+http://hitv.dyndns.info:19553/live/albert/1234/21568.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rtp TV
+http://hitv.dyndns.info:19553/live/albert/1234/21564.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Video Star TV
+http://hitv.dyndns.info:19553/live/albert/1234/21563.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Telecolor
+http://hitv.dyndns.info:19553/live/albert/1234/21558.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Tele Radio Sciacca
+http://hitv.dyndns.info:19553/live/albert/1234/21560.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",° Sardegna °
+http://hitv.dyndns.info:19553/live/albert/1234/21544.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",VideoLina
+http://hitv.dyndns.info:19553/live/albert/1234/21549.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Iglesias TV
+http://hitv.dyndns.info:19553/live/albert/1234/21546.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",° Puglia °
+http://hitv.dyndns.info:19553/live/albert/1234/21543.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TgNorba 24
+http://hitv.dyndns.info:19553/live/albert/1234/21541.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Studio 100
+http://hitv.dyndns.info:19553/live/albert/1234/21539.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",° Campania °
+http://hitv.dyndns.info:19553/live/albert/1234/21462.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Napoli Canale 21
+http://hitv.dyndns.info:19553/live/albert/1234/27384.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Telelaser
+http://hitv.dyndns.info:19553/live/albert/1234/21464.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Tv Luna
+http://hitv.dyndns.info:19553/live/albert/1234/21468.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 8
+http://hitv.dyndns.info:19553/live/albert/1234/21466.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",° Calabria °
+http://hitv.dyndns.info:19553/live/albert/1234/21457.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Esperia TV
+http://hitv.dyndns.info:19553/live/albert/1234/21458.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Tele Diogene
+http://hitv.dyndns.info:19553/live/albert/1234/21461.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",8 Video Calabria
+http://hitv.dyndns.info:19553/live/albert/1234/21460.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",° Liguria °
+http://hitv.dyndns.info:19553/live/albert/1234/21526.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Imperia TV
+http://hitv.dyndns.info:19553/live/albert/1234/21527.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Primocanale
+http://hitv.dyndns.info:19553/live/albert/1234/21528.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Teleliguria Sud
+http://hitv.dyndns.info:19553/live/albert/1234/21529.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",° Lazio °
+http://hitv.dyndns.info:19553/live/albert/1234/21516.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Teleitalia 41
+http://hitv.dyndns.info:19553/live/albert/1234/21518.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Retesole
+http://hitv.dyndns.info:19553/live/albert/1234/21523.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",° Emilia Romagna °
+http://hitv.dyndns.info:19553/live/albert/1234/21496.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Bruno TV
+http://hitv.dyndns.info:19553/live/albert/1234/21500.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",° Fiuli Venezia Giulia °
+http://hitv.dyndns.info:19553/live/albert/1234/21510.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Telepordenone
+http://hitv.dyndns.info:19553/live/albert/1234/21513.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",° Basilicata °
+http://hitv.dyndns.info:19553/live/albert/1234/21453.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Lucania TV
+http://hitv.dyndns.info:19553/live/albert/1234/21454.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Trm H24
+http://hitv.dyndns.info:19553/live/albert/1234/21455.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",============  MUSICA ============
+http://hitv.dyndns.info:19553/live/albert/1234/6951.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cafe 24
+http://hitv.dyndns.info:19553/live/albert/1234/42305.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IT | MTV FULL HD
+http://hitv.dyndns.info:19553/live/albert/1234/25039.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MTV Base
+http://hitv.dyndns.info:19553/live/albert/1234/25245.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MTV Classic
+http://hitv.dyndns.info:19553/live/albert/1234/25243.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MTV Dance
+http://hitv.dyndns.info:19553/live/albert/1234/25242.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MTV Hits
+http://hitv.dyndns.info:19553/live/albert/1234/25241.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MTV Rock
+http://x.mytvxweb.co:33001/live/Middleware1/88cPJ8ibEY/15404.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MTV Live
+http://hitv.dyndns.info:19553/live/albert/1234/25244.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",m2o
+http://hitv.dyndns.info:19553/live/albert/1234/6952.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Capital TV
+http://hitv.dyndns.info:19553/live/albert/1234/29128.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Freccia TV HD
+http://hitv.dyndns.info:19553/live/albert/1234/29127.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Italia HD
+http://hitv.dyndns.info:19553/live/albert/1234/29126.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Italia TV
+http://hitv.dyndns.info:19553/live/albert/1234/29125.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RADIO 105
+http://hitv.dyndns.info:19553/live/albert/1234/6961.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rock TV
+http://hitv.dyndns.info:19553/live/albert/1234/11114.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio TivÃ¹ Azzurra
+http://hitv.dyndns.info:19553/live/albert/1234/11118.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Taormina TV
+http://hitv.dyndns.info:19553/live/albert/1234/11119.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Radio Montecarlo TV
+http://hitv.dyndns.info:19553/live/albert/1234/11112.m3u8
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RTL 102.5
+http://hitv.dyndns.info:19553/live/albert/1234/11105.m3u8
 
 
 
@@ -4716,7 +5897,580 @@ http://77.134.143.101:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL+HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3901
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL+
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4265
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL+Cinema HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3902
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL+Cinema
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4266
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL+Decale HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3903
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL+Decale
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4268
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL+Family HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3904
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL+Family
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4267
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL+Series HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3905
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL+Series
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4269
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL.ALPHA.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3907
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",SERIE.CLUB
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4841
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+.CLASSIC.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3908
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+Classic
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4272
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+.CLUB.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3909
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+Club
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4274
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+.EMOTION.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3910
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+EMOTION
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4320
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+.FRISSON.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3912
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+Frisson
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4273
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+.PREMIER.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3913
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+Premier
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4271
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",POLAR + HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8190
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",POLAR +
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8189
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Altice Studio
+http://iptv.electro-clair.net:8000/Tony/Tony2017/12315
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",WB.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8302
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",ACTION.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4149
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",ACTION
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4278
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+ FAMIZ.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4610
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+.FAMIZ.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3911
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CINE+FAMIZ
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4350
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",OCS CHOC HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4941
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",OCS CHOC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4942
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",OCS CITY HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4943
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",OCS GEANT HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4945
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",OCS GEANT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4946
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",OCS MAX HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4947
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",OCS MAX
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4948
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",LFM TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8194
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",MTV DANCE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4866
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",MTV.HITS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4867
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",MCM
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4309
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",MCM.TOP
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4345
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",MTV.FRANCE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4306
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TRACE.SPORT*STARS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8187
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TRACE Gospel
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8181
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Trace Mizki
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8182
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TRACE Naija
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8183
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TRACE Prime
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8184
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TRACE Toca
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8185
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Trace Tropical
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8186
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TRACE.URBAN
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4307
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",MY ZEN TV HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8023
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",MY.ZEN.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4861
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Toute.Histoire
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4849
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Science.Vie.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4850
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",MY CUISINE HD FR
+http://iptv.electro-clair.net:8000/Tony/Tony2017/10711
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CRIME.DISTRICT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4851
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",NON.STP.PEAPLE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4865
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Chasse et Peche
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4864
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",NATIONAL.GEO.WILD.HD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3930
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",NATIONAL.GEO.WILD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4286
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",NATIONAL.GEO HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3931
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",NATIONAL.GEOGRAPHIC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4285
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Discovery  Family  HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4930
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Discovery  Family
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8171
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DISCOVERY.CHANNEL.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3665
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DISCOVERY
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4288
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Discovery Investigation HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4949
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DISCOVERY.INVESTIGATION.SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3918
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Discovery  Science HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3916
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Discovery  Science
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4287
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",PLANETE+HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3921
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",PLANETE+
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4346
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",PLANETE+ A&E.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3662
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",PLANETE.A&E
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4290
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",PLANETE+.CI.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3661
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",PLANETE.C&I
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4291
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",USHUAIA.TV.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3919
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",USHUAIA.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4293
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",ANIMAUX
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4321
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",SEASONS.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3917
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",SEASON
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4296
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Trek.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4337
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TREK
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4323
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TELETOON.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3945
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TELETOON+
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4315
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL.J.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3656
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL.J
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4316
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",GAME.ONE.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3663
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",GAME.ONE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4311
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",PIWI.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3922
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",PIWI+
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4317
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TIJI.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3923
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TIJI
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4318
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DISNEY.CHANNEL.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3932
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DISNEY.CHANNEL
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4298
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DISNE.CINEMA.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3933
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DISNEY.CINEMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4299
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DISNEY.JUNIOR.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3934
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DISNEY.JUNIOR
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4300
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",J-ONE HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2744
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TOONAMI.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3935
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TOONAMI SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8172
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DISNEY.XD.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3936
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DISNEY.XD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4301
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BOOMERANG
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4310
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",MANGAS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4312
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BOING
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4319
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",NICKELODEON
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4313
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",NIKELODEON.4TENNE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4852
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",NICKELODEON.JUNIOR
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4314
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CARTOON.NETWORK
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4347
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BFM SPORT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/11746
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",MOTORSPORT.TV HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8191
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",MOTORSPORT.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8192
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Trace Sport Stars
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4863
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL+Sport HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3906
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANAL+Sport
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4270
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",INFOSPORT+HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3937
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",INFOSPORT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4297
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",EUROSPORT.1.HD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3927
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",EUROSPORT.1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4283
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",EUROSPORT.2.HD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3928
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",EUROSPORT.2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4282
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",GOLF+HD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3929
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",GOLF+
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4305
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",GOLF.CHANNEL
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4304
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",EXTREME.SPORTS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4284
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",EQUIDIA.LIVE.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3924
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",EQUIDIA.LIVE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4303
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",EQUIDIA.LIFE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4302
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",LEQUIPE21.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2681
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC SPORT NEWS HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/12456
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC SPORT 1 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3666
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC SPORT 1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4280
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC SPORT ACCESS 1 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/12458
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC.SPORT 2 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3667
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC SPORT 2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4281
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC SPORT ACCESS 2 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/12459
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC SPORT 3 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3925
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC Sport 3
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4606
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC SPORT ACCESS 3 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/12460
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC Sport 4 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/11797
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC Sport.4
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4607
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BEIN.SPORTS.1.SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3938
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",beIN.Sports.1.HD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4437
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BEIN.SPORTS.2.SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3939
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",beIN.Sports.2.HD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4438
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BEIN.SPORTS.3.SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3940
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",beIN.Sports.3.HD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4439
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",beIN Sports.MAX.4.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1860
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",beIN Sports.MAX.5.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1861
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",beIN Sports.MAX.6.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1862
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",beEIN Sports.MAX.7.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1863
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BEIN SPORTS.MAX.8.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1864
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR|BEIN SPORTS.MAX.10.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3006
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR|BEIN SPORTS.MAX.9.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3005
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TV5.Monde.Style.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4868
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TV5.Monde.Maghreb
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4859
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BET
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8193
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",LCI
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4827
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TF1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4238
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FRANCE.4.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4243
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",13EME-RUE-HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4146
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",13.EME.RUE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4260
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",COMEDIE+
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4263
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",PARIS_PREMIERE.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4349
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",E!.ENTERTAINMENT.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3657
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",E!.ENTERTAINMENT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4262
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",HISTOIRE.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3664
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",HISTOIRE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4295
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",SYFY.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3920
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",SYFY
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4259
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TEVA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4351
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TCM.CINEMA.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3658
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TCM.CINEMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4277
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RTS.DEUX.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4324
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RTS.UN.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4325
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BFMTV.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4336
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RFM.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4308
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANVAS.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4145
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",PARAMOUNT.CHANNE.FR*
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4279
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",AB1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4322
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",AB3.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4609
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",AB3
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4608
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC.DECOUVERTE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4289
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RTL9
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4258
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",SCIENCES&VIE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4292
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TV.BREIZH.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4261
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",VOYAGE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4294
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CHERIE.25
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4252
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BFM.BUSNISS.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4871
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BFM.BUSNISS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4870
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Paramount.chanel.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3130
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",PARISPREMIERE.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2726
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",ELLE.GIRL.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4264
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",C News HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/12457
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TF1HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/33
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TF1  +1 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/11728
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TF1 hevc
+http://iptv.electro-clair.net:8000/Tony/Tony2017/210
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",M6 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/204
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",M6
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2712
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TF1 SERIES FILMS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/10713
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TV5.MONDE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3719
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TMC+1 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/11729
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FRANCE.INFO
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3724
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FRANCE2.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2693
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FRANCE2.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/101
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FRANCE3HD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2694
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FRANCE3.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/102
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FRANCE4HD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2695
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FRANCE4.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/103
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FRANCE5HD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2696
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",France5.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/100
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FRANCEO.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2699
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FranceO
+http://iptv.electro-clair.net:8000/Tony/Tony2017/527
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FRANCE24ENG.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2698
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FRANCE24.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2697
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",France24
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1173
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",iTele_SD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2778
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",iTELE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2244
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR:LCP.VIP
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2722
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",C8
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1534
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",NT1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2725
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",NT1.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1780
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TMC,
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2728
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TMC.HD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/209
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",HD1.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2721
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",HD1.FR
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1779
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",W9,
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2719
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",W9HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/208
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RTL9.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2713
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RTL9HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1557
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CHERIE. 25
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2242
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BET.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3225
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",C8.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3224
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Numero23.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3723
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",OFIVE.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3722
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RECORD.NEWS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3721
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMCDECO.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3720
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",LA.TELE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3223
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",GULLI.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2720
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Gulli
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1533
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",GAMEONEL.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2700
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TRACE.AFRICA.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3180
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR:MCM.VIP
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2723
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",NRJ12:HITS.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1207
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",NRJ12.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2724
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",M6.BOUTIQUE.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2766
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMCDECOHD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2727
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",RMC_DECOUVERTE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2241
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",TEVA.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2718
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",HISTOIRE.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2768
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DIRECTSTAR.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2687
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",DIRECT8.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2686
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",D17
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1342
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Rmc
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1347
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Numero.23_SD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2779
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CLUBBING.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2684
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BFMHD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2682
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BFM.TVHD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2196
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",ARTE_SD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2776
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",ABMOTEURS.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2678
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",6ter_SD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2777
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",ALACARTE1.(3D)
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1869
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",ALACARTE2.(3D)
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1870
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",ALACARTE3.(3D)
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1871
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",A.LA.CARTE.1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1486
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",A.LA.CARTE.2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1487
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",A.LA.CARTE.3
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1488
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",A.LA.CARTE.4
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1489
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",A.LA.CARTE.5
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1490
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",A.LA.CARTE.6
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1491
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",A.LA.CARTE.7
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1492
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",A.LA.CARTE.8
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1493
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",A.LA.CARTE.11
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1496
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",A.LA.CARTE.10
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1495
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANALPLAY-1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1371
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANALPLAY-2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1372
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANALPLAY-3
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1373
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANALPLAY-4
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1374
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANALPLAY-5
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1375
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANALPLAY-7
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1377
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANALPLAY-8
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1378
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANALPLAY-9
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1379
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",CANALPLAY-10
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1380
 
 
 
@@ -7167,7 +8921,7 @@ mmsh://mediatv2.topix.it/24RockOne66
 http://starstv.live.e55-po.insyscd.net/starstvhd.smil/playlist.m3u8
 #EXTINF:0 group-title="Poland-WebTV",TVP 1
 http://63.237.48.23/ios/TVP/TVP.m3u8
-#EXTINF:-1 group-title="Poland-WebTV" tvg-id="Polonia 1″ tvg-logo="http://dwiptv.cba.pl/ico/Polonia_1_1.png" ,TVP Polonia
+#EXTINF:-1 group-title="Poland-WebTV" tvg-id="Polonia 1" tvg-logo="http://dwiptv.cba.pl/ico/Polonia_1_1.png" ,TVP Polonia
 http://193.32.36.27:8005
 #EXTINF:-1 group-title="Poland-WebTV",TVP Katowice
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
@@ -7195,7 +8949,7 @@ rtmp://fms.105.net:1935/live/virgin1
 http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Poland-WebTV",WAWA TV
 http://stream.smcdn.pl/wawa-t/wawa_720p/chunklist_w628339386.m3u8
-#EXTINF:-1 group-title="Poland-WebTV" tvg-id="WP1″ tvg-logo="WP_TV.png" ,WP TV
+#EXTINF:-1 group-title="Poland-WebTV" tvg-id="WP1" tvg-logo="WP_TV.png" ,WP TV
 https://av-cdn-2.wpimg.pl/tv24/ngrp:wp1/chunklist_.m3u8
 #EXTINF:-1 group-title="Poland-WebTV",VOX TV
 http://stream.smcdn.pl/vox2-p/stream1/chunklist_w1654686264.m3u8
@@ -11213,15 +12967,14 @@ http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
 #EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://bizasialivecom-6bb5.kxcdn.com/wp-content/uploads/2016/07/starplus001.jpg",Star Plus
 
 #EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/Star_Sports_HD1.png/revision/latest?cb=20170728071015" ,Star Sports 1 HD
-https://vrz.gigabitcdn.com/U0hBL2oVU5KQUJJX3QTlBVTkpBQkk/testing2/playlist.m3u8
+
 #EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://i.pinimg.com/originals/0f/6f/b6/0f6fb6fc6548281c875d7b9cd2f861f5.png" ,Star Vijay UK
 
-#EXTINF:0 group-title="India PREMIUM-SERVER4" tvg-logo="http://2.bp.blogspot.com/_-qopbcDRK8o/TInsy19v4_I/AAAAAAAAAgE/95IN5mwwKQ0/s1600/STAR_Utsav_10.jpg",Star Utsav
-http://103.14.127.37:1935/starutsav/starutsav.stream_360p/chunklist.m3u8
+
 #EXTINF:0 group-title="India PREMIUM-SERVER4" tvg-logo="http://2.bp.blogspot.com/_-qopbcDRK8o/TInsy19v4_I/AAAAAAAAAgE/95IN5mwwKQ0/s1600/STAR_Utsav_10.jpg" ,Star Utsav
 https://vrz.gigabitcdn.com/secure/JTV/U1RBL2oVVRTQVYX3QUlVUU0FW/playlist.m3u8|User-Agent=a2p1m0s4lu77opq/1.0
 #EXTINF:0 group-title="India PREMIUM-SERVER4" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/5/5b/Star_Utsav_Movies.png/revision/latest?cb=20180222105614",Star Utsav Movies
-http://103.14.127.37:1935/starutsavmovies/starutsavmovies.stream_360p/chunklist.m3u8
+
 
 #EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://pbs.twimg.com/profile_images/587586043626393600/rXsu0Mb6_400x400.png" ,& TV
 http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
@@ -12381,6 +14134,824 @@ http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
 
 
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN.Sport
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1479
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN-News
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2184
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 1 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1630
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 1 SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2853
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN SportSD1.LOW
+http://iptv.electro-clair.net:8000/Tony/Tony2017/7839
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 2 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1631
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 2 SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2854
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN SportSD2.LOW
+http://iptv.electro-clair.net:8000/Tony/Tony2017/7838
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 3 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1632
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 3 SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2855
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN SportSD3.LOW
+http://iptv.electro-clair.net:8000/Tony/Tony2017/7837
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 4 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1633
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 4 SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2856
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN SportSD4.LOW
+http://iptv.electro-clair.net:8000/Tony/Tony2017/7836
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 5 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1634
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 5 SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2857
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN SportSD5.LOW
+http://iptv.electro-clair.net:8000/Tony/Tony2017/7835
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 6 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1635
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 6 SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2858
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN SportSD6.LOW
+http://iptv.electro-clair.net:8000/Tony/Tony2017/7834
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 7 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1636
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 7 SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2859
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN SportSD7.LOW
+http://iptv.electro-clair.net:8000/Tony/Tony2017/7833
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 8 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1637
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 8 SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2860
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN SportSD8.LOW
+http://iptv.electro-clair.net:8000/Tony/Tony2017/7832
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 9 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1638
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 9 SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2861
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN SportSD9.LOW
+http://iptv.electro-clair.net:8000/Tony/Tony2017/7831
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 10 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1639
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 10 SD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2862
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN SportSD10.LOW
+http://iptv.electro-clair.net:8000/Tony/Tony2017/7830
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 11 HD EN
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1640
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 12 HD EN
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1641
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 13 HD EN
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2467
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 14 HD FR
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2222
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 15 HD FR
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2221
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports16HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1969
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beinHDSportsHD17
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8178
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports.NBA.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/9141
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEINDRAMA.HD1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8180
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Series 1 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3704
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BeinHDSERIE2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8197
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Movies 1 HD Premiere
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4474
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Movies 2 HD Action
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4471
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Movies 3 HD Drama
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4472
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Movies 4 HD Family
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4473
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",STARWORLD.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3644
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY-HD:MY.CINEMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4842
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY-HD.FILMS.MBOX.ARTHOUSE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4845
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY-HD.Myme.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4846
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY-HD:FILMBOX
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4843
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",FX.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3715
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN:FOX.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4440
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",FOOD NETWORK BEIN
+http://iptv.electro-clair.net:8000/Tony/Tony2017/10712
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",FOX FAMILY HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3713
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",FOX.FAMILY
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3709
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",FOX.ACTION
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3711
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AMC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3714
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY.HD:MY.Fight.Box.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4854
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN FATAFEAT HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2827
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN.GOURMET.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4840
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN:Outdoor.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4441
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN.Discovery.MAX
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4708
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN.Discovery.Sc.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4630
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nat.Geo.PeopleHD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3955
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nat.Geo.Wild HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3954
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MYHD.TRAVEL CHANELLE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4847
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY.HD:MY.Docu.Box.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4853
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ANIMALPLANET
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3978
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",D.LIFE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3708
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dream Work hd
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3710
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BOOMERANG.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4916
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Discovry kids
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4917
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN JUNIOR
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4915
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GULLI.ARABIC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4466
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN:Baraem.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3450
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Baby-tv
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4144
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN JEEM
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3712
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:AL.YAWM
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2830
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:AL.SAFWA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2831
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Cinema-1-HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1267
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Cinema-2-HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1265
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Yahala.Oula.2h
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2738
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:YAHALA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1256
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:YaHala!-CINEMA-HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1230
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:YaHala-AlOula_HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1252
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Movie_Box
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1260
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Star.Movies.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1146
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Star-Movies
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1234
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:MOVIES.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1254
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Movies HD.2h
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1232
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:MOVIES_COMEDY
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1229
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:First.HOME.OF.HBO
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1263
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:FIRST.COMEDY
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1264
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Movies- FIRST-HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1255
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:MOVIES-PREMIER2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1257
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Movies-Demand.EXTRA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1258
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Movies-Action-HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1261
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN Movies Action 2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/10618
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Movies_Action+2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1266
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Movies-Festival-HD.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1233
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Movie.Family
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4153
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Movie.THRILLER
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4150
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:First.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2866
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Movies.AMC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4151
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.STAR.MOVIES
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1554
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:MusalsalatHD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2871
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Movie-kids-HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1262
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Disney.Channel
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4152
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Disney.ChannelHD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3446
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",FIX.FOXI
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4371
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:OutDoor
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4374
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Fight.Network.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3444
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Food.Network
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3445
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Fann
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3449
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:STAR_GOULD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2880
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SeeVii Prime 1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/10603
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SeeVii Prime 2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/10604
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SeeVii Prime 3
+http://iptv.electro-clair.net:8000/Tony/Tony2017/10602
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:SeeVii.Al Aoula_HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3716
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:SeeVii BEELINK
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3108
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:SeeVii DRAMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3109
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:SeeVii SHAMIYA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3111
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Animal-Planet-HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1237
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Discovery.ScienceHD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3447
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Food.Networ
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3623
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Nat.Geo.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4216
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Nat_Geo_Wild_HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3128
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:OFFICBOX2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1890
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:OFFICBOX3
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1891
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Demand -HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1259
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:ONDEMAND1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3115
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:ONDEMANDE2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3113
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:ONDEMANDE3
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3114
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:WWE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1227
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:FJ
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4372
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Sport.1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1662
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Sport.2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1663
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Sport.3
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1664
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Sport.4
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1665
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Sports.Cricket.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4223
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN:Ten.Cricket.International
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4224
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AbuDhabi.Sports.1.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1573
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AbuDhabi.Sports.2.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1574
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AbuDhabi.Sports.3.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2671
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AbuDhabi.Sports.4.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2672
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AbuDhabi.Sports.5.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2673
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Chada tv  HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8179
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",TéLé Maroc
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4856
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",2M NAT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/69
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",2M Monde
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2761
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Medi1 TV HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4869
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Medi1 TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/234
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Almagharibia TNT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/10715
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ALMAGHREBIA.MAROC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/258
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AL OULA HD TNT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/10714
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Aloula MAROC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1973
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AFLAM7
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3997
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al oula HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/83
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tamazight Tnt
+http://iptv.electro-clair.net:8000/Tony/Tony2017/12320
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tamazigh maroc
+http://iptv.electro-clair.net:8000/Tony/Tony2017/453
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Assadissa Tnt
+http://iptv.electro-clair.net:8000/Tony/Tony2017/12318
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Assadissa
+http://iptv.electro-clair.net:8000/Tony/Tony2017/266
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Arrabia
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1781
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ARRYADIA TNT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/10710
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Arryadia_LIVE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4940
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",arriadia
+http://iptv.electro-clair.net:8000/Tony/Tony2017/271
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Canal Atlas Maroc
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4848
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",2M Maroc
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3706
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MEDI1.MAROC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1970
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",TAMAZIGHT.MAROC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1974
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MAROC.Laayoun
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3452
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ASSADISA.MAROC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1971
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ARRYADIA.MAROC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1972
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM News
+http://iptv.electro-clair.net:8000/Tony/Tony2017/12305
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Techno
+http://iptv.electro-clair.net:8000/Tony/Tony2017/12306
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM CINEMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/10866
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Aflam
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8686
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Afro Hit
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8685
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Chaabi
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8684
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Comedia
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8683
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Documentaire
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8682
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Drama
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8681
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM katakit
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8680
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Music tv
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8679
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Rap Arab
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8678
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Tamazight
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8677
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ART Aflam 1 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/288
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ART Aflam 2 HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/289
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ART Cinema
+http://iptv.electro-clair.net:8000/Tony/Tony2017/106
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Art.Hekayat2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1333
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ART.HEKAYAT1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1387
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Hekayat.ZAMANE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/283
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:CANALALGERIE.VIP
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2764
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ALGERA.3
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1386
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ALGERIE.PROGRAME.NATIONAL
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2336
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.KBC.ALGERIE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1782
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ENNAHARTV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2253
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ECHOUROUK.NEWS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2254
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ENNAHAR.ALGERIE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2338
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.DZAIR.ALGERIE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1788
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.DZAIR.TV/ALGERIE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1787
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.DZAIER
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2343
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.EL.DJAZAIRIA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2339
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:ALG_ECHOROUQ_News
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2901
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:ALG_Elnnahar
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2902
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ALMAGHARIBIA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2341
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ALGERIA.TAMAZ
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1385
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:ALG_Alhadef
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2903
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.AL.WATAN.DZAIR
+http://iptv.electro-clair.net:8000/Tony/Tony2017/267
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",---------MBC.HD----------
+---------MBC.HD----------
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC1.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2262
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC.1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1298
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC2.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2263
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC.2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC3.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2264
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC.3
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1281
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC4.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2265
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC.4
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1274
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC.Max.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2266
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.MBC_MAX
+http://iptv.electro-clair.net:8000/Tony/Tony2017/7
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC.Action.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2267
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC_ACTION
+http://iptv.electro-clair.net:8000/Tony/Tony2017/5
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY-HD:MBC.BOLLEYWOD.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4844
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.MBC.BOLLWOOD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/461
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC.Drama.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2268
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.MBCHD.Drama.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1236
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.MBC.Drama
+http://iptv.electro-clair.net:8000/Tony/Tony2017/458
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.MBC.Masr
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1825
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.MBC.MASR2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/270
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY-HD.MBC+Drama.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2867
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY.HD:MBC.VARIETY.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3705
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.MBC.PROSPORT1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.MBC.PROSPORT2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/21
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.MBC.PROSPORT3
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2197
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY.HD:Rotana_Music_HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3795
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ROTANA.MUSIC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1551
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY.HD:Rotana_Khalijia_HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3792
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ROTANA.KHALIGI
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1550
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ROTANA.CLIP
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1549
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY.HD:Rotana_Cinema_HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3793
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ROTANA.CINEMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1548
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY.HD:Rotana_Masriya_HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3796
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ROTANA.MASRYA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/235
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MY.HD:Rotana_Classic_HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3794
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Rotana_Aflam_HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4855
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ROTANA.AFLAM
+http://iptv.electro-clair.net:8000/Tony/Tony2017/237
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",--Almajd--
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4707
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",L.AR:Almajd.01
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4703
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",L.AR:Almajd.02
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4704
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",L.AR:Almajd.03
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4705
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",L.AR:Almajd.04
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4706
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Tunisia.National1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2321
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.SAMIRA.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1552
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Tunisia.Nationa2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2322
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Nessma
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1167
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.BEUR.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2337
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.BENA.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2335
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.TUNISNA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1319
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",HANNIBAL.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2767
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.HANNIBAL.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2325
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ECHOUROUK.TV.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2334
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ZAYTOUNA.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2332
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.TUNISIA.FIRST.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2326
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.TOUNESSNA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2330
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.TELVZA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2327
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.El.Hiwar.Ettounsi
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2323
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.TNN
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2329
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Hanibal
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2349
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.AlAfasy
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8022
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR;Resalat.Al.Islam
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4860
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:QURAN-TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4198
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR;AlRahma
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3059
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.SAUDIA.QURAN
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1288
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Al.Resalah
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1384
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Alnas
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1331
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Wesal.tv
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2301
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Almajd-Alhadeeth
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2300
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Almajd-QURAN
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2299
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Al:Majd.Quran
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1285
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:Almajd-ISLAM
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3985
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Al.Majd.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1302
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.AL.INSEN
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2333
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ALINSEN
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2344
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Aljazeera.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/264
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AL MAYADEEN
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8188
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Aljazeera.Mubasher
+http://iptv.electro-clair.net:8000/Tony/Tony2017/7829
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.AlarabiyaHD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/263
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.SKY.NEWS.ARABIA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2271
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.BBC.ARA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1783
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.BBC.ARABIC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1784
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.CNBC ARABIY
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8015
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Alsharqiya.NEWS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1786
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:alhadath_news
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3073
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.MODDY.KIDS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1289
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.TOYOR.ALJANA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1290
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.TOYOR.BABY
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2466
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.TAHA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8018
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.UNRWA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8017
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.SPACTOON
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1383
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:JeemTV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3072
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:FRANCE24ARA.VIP
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2765
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Cartoon.Network.AR
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1388
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.EBARAEM.EUROPE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1391
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MAJED.KIDS.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2255
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Cinemachi Kids
+http://iptv.electro-clair.net:8000/Tony/Tony2017/10718
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AD Nat Geo Kids
+http://iptv.electro-clair.net:8000/Tony/Tony2017/11473
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SAT 7 KIDS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/11475
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",TAHA KIDS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/11474
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",UNRWA KIDS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/11498
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",KOKKY TV Kids
+http://iptv.electro-clair.net:8000/Tony/Tony2017/11730
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.AJYAL
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1553
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.NAT.GEO.AD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1556
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:QUEST.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4197
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Aljazeera.Doc.HD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/265
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Aljazeera.Doc
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1270
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.DUBAI.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2273
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.DubaiHD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/268
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.SAMA.DUBAI
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1778
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Dhabi.Emarat
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1785
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.DUBAI.DRAMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2355
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.dubaione
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1273
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Dubai.SportsHD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/269
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:DUBAI.SPORTS.4
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2852
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:DUBAI.SPORTS.3
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2851
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",-- Syrië--
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4436
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:Al.Ikhbariasyria
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4433
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:HALAB.TODAY
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4428
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:ORIEN.NEWS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4432
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SAMA.SHAM
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4431
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SHAM.FM
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4429
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SYRIA.AL.IKHBARIA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4425
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SYRIA.CULTURE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4434
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SYRIA.DRAMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4426
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:Syria.Medical.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4427
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SYRIA.RTV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4435
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:Syria.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4424
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SYRIAN.EDUCATION
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4430
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nay movies
+http://iptv.electro-clair.net:8000/Tony/Tony2017/12308
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Nay WorldCup
+http://iptv.electro-clair.net:8000/Tony/Tony2017/12307
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",DMC
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8298
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",DMC DRAMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8300
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",DMC Sports
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8299
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:ON.SPORTS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4922
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:ON.Drama
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4918
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:ON.E
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4919
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:ON.PLUS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4921
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SAUDIA.1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4174
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SAUDIA.2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4175
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SAUDIA.EQTISADIYA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4176
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SAUDIA.SPORT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4177
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SAUDIA.SUNNA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4178
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ALhayat
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8019
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Alhayat,We;Alnas
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8021
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Alhayat.Muslsalat
+http://iptv.electro-clair.net:8000/Tony/Tony2017/8020
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SAUDIA.THAQAFIY
+http://iptv.electro-clair.net:8000/Tony/Tony2017/4179
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Zee.Alwan
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1824
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Zee.AFLAM
+http://iptv.electro-clair.net:8000/Tony/Tony2017/586
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.panoramafilm.FOOD
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1586
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Panorama.Drama.2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1826
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Panorama.DRAMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1382
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Star.Cinema1
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1305
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Star.Cinema2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1306
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.IQRAA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2346
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.ENNAHAR.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2340
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.AL.MUSTAKILA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2331
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ARABICA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2272
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:SHAREKAA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3071
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.SAFA.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1304
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.NOOR.DUBAI
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2357
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.OTV.LEBANON
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2356
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Nile.Comedy
+http://iptv.electro-clair.net:8000/Tony/Tony2017/257
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.SAUDIA.NEWS
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2342
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Melody.Classic
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2358
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.NILE.SPORT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1318
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.NILE.LIFE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1950
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.NILE.News
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1951
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.NILE.DRAMA.
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1320
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Nile.Drama
+http://iptv.electro-clair.net:8000/Tony/Tony2017/469
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.NILE.CULTURE.LIFE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1952
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:NILE.CINEMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1953
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.LBC.Sat
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1307
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.LBC.Europe
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1303
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.KUWAIT_SPORT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2313
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.KUWAIT2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2312
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.KUWAIT
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2311
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.KTV.Plus
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2315
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.KTV.Sport.Plus
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2316
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.KTV Ethraa
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2314
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.JADEED
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2270
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.IRAQIA_TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1275
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.FUTURE.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1587
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Dream2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1291
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.CIMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1332
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.CBC.DRAMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1301
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Cairo:Drama
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1286
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Cairo:Cinema
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1287
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Attasia.TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2324
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.Al.Manar
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1300
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.AL.JANOUBIA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2328
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.AL.FAYHAE
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2269
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.DW.AR
+http://iptv.electro-clair.net:8000/Tony/Tony2017/2317
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR: CBC TV
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3123
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:CBC.SOFRA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3124
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:CBC2
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3127
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:CBC;DRAMA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3126
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AR:CBC;EXTRA
+http://iptv.electro-clair.net:8000/Tony/Tony2017/3125
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|.MTV.Liban
+http://iptv.electro-clair.net:8000/Tony/Tony2017/1555
 
 
 
