@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,27/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,29/11/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -56,7 +56,7 @@ http://www.fireshow.xyz/rik1.html|agentdown$$start=src:  "$$end=.m3u8$$replace=s
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
 http://216.241.148.28:8000/play/a00h/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png" ,RIK2
-http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u88
+http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
 http://www.fireshow.xyz/rik2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
@@ -83,8 +83,9 @@ http://www.alphacyprus.com.cy/page/live|agentnodown$$start=http://l$$end=       
 http://www.alphacyprus.com.cy/page/live|webnoagent$$start=url: 'http://$$end=',\n        }]$$replace=url: '$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
 http://216.241.148.28:8000/play/a00u/index.m3u8
+
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus
-https://www.ant1.com.cy/web-tv-live/|webnoagent$$start=href=\"http://l$$end=\" data-in$$replace=href=\"$$replacewith=$$add=
+https://www.ant1.com.cy/web-tv-live/|agentnodown$$start=live-player', ['$$end=.m3u8$$replace=live-player', ['$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
 http://www.fireshow.xyz/ant1cym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
@@ -6915,526 +6916,213 @@ http://62.28.213.14:9981/stream/channelid/1402355728
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="----- INFORMAÃ‡ÃƒO  NACIONAL -----"  ,----- INFORMAÃ‡ÃƒO  NACIONAL -----
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2467.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SIC NOTICIAS"  ,PT: SIC NOTICIAS
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4101.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SIC NOTICIAS HD"  ,PT: SIC NOTICIAS HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1349.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SIC NOTICIAS FHD"  ,PT: SIC NOTICIAS FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4165.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SIC NOTICIAS LOW"  ,PT: SIC NOTICIAS LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/47.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SIC NOTICIAS HD LOW"  ,PT: SIC NOTICIAS HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4164.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CMTV"  ,PT: CMTV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4091.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CMTV HD"  ,PT: CMTV HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1346.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CMTV HD LOW"  ,PT: CMTV HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/57.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVI 24"  ,PT: TVI 24
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4178.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVI 24 LOW"  ,PT: TVI 24 LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/55.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVI 24 HD"  ,PT: TVI 24 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4184.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: RTP 3"  ,PT: RTP 3
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4100.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: RTP 3*"  ,PT: RTP 3*
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/149.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AR TV"  ,PT: AR TV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2490.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: RTP MEMORIA"  ,PT: RTP MEMORIA
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1506.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: RTP AFRICA"  ,PT: RTP AFRICA
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/70.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SIC MULHER"  ,PT: SIC MULHER
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/67.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SIC CARAS"  ,PT: SIC CARAS
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4096.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVI FICÃ‡ÃƒO"  ,PT: TVI FICÃ‡ÃƒO
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/69.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVI FICÃ‡ÃƒO LOW"  ,PT: TVI FICÃ‡ÃƒO LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4183.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVI FICÃ‡ÃƒO HD LOW"  ,PT: TVI FICÃ‡ÃƒO HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4167.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVI REALITY"  ,PT: TVI REALITY
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/62.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVI REALITY CAMARA 1"  ,PT: TVI REALITY CAMARA 1
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2908.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVI REALITY CAMARA 2"  ,PT: TVI REALITY CAMARA 2
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/3906.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVI REALITY CAMARA 3"  ,PT: TVI REALITY CAMARA 3
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/3905.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVI REALITY CAMARA 4"  ,PT: TVI REALITY CAMARA 4
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/3904.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVI REALITY MOSAICO"  ,PT: TVI REALITY MOSAICO
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/3903.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TPA"  ,PT: TPA
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1588.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SIC K"  ,PT: SIC K
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/68.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SIC RADICAL*"  ,PT: SIC RADICAL*
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4090.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SIC RADICAL"  ,PT: SIC RADICAL
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/3.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: PORTO CANAL"  ,PT: PORTO CANAL
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: PORTO CANAL*"  ,PT: PORTO CANAL*
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4095.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CANAL Q*"  ,PT: CANAL Q*
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/23.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: RTP MADEIRA"  ,PT: RTP MADEIRA
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/970.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: RTP AÃ‡ORES*"  ,PT: RTP AÃ‡ORES*
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/66.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Localvisao TV HD"  ,PT: Localvisao TV HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1352.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SANTUARIO DE FATIMA HD"  ,PT: SANTUARIO DE FATIMA HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/244.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="----- DESPORTO -----"  ,----- DESPORTO -----
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2463.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: A BOLA TV"  ,PT: A BOLA TV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/71.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: A BOLA TV*"  ,PT: A BOLA TV*
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4180.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV +"  ,PT: SPORT TV +
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/61.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV + FHD"  ,PT: SPORT TV + FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/690.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 1"  ,PT: SPORT TV 1
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/50.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 1*"  ,PT: SPORT TV 1*
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2480.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 1**"  ,PT: SPORT TV 1**
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/3969.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 1 HD"  ,PT: SPORT TV 1 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4313.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 1 HD LOW"  ,PT: SPORT TV 1 HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/685.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 1 LOW"  ,PT: SPORT TV 1 LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2481.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Sport TV 1 FHD"  ,PT: Sport TV 1 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1505.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 1 FHD*"  ,PT: SPORT TV 1 FHD*
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4109.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 1 FHD**"  ,PT: SPORT TV 1 FHD**
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4115.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 2"  ,PT: SPORT TV 2
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/51.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 2**"  ,PT: SPORT TV 2**
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/3985.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Sport TV 2 HD"  ,PT: Sport TV 2 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/686.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 2 FHD."  ,PT: SPORT TV 2 FHD.
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4207.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 2 FHD"  ,PT: SPORT TV 2 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4116.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 3"  ,PT: SPORT TV 3
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/52.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-ID="SPTV_3HD" tvg-name="PT: Sport TV 3 HD"  ,PT: Sport TV 3 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/687.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 3 FHD."  ,PT: SPORT TV 3 FHD.
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4208.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 3 FHD"  ,PT: SPORT TV 3 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4171.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Sport tv4"  ,PT: Sport tv4
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/53.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Sport TV 4 HD"  ,PT: Sport TV 4 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/688.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 4 FHD"  ,PT: SPORT TV 4 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4133.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Sport TV 5"  ,PT: Sport TV 5
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/59.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORT TV 5 FHD"  ,PT: SPORT TV 5 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4134.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Sport TV 5 HD"  ,PT: Sport TV 5 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/689.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 1 FHD"  ,PT: ELEVEN 1 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4353.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 1 HD"  ,PT: ELEVEN 1 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4359.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 1 LOW"  ,PT: ELEVEN 1 LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4382.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 1 SD"  ,PT: ELEVEN 1 SD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4376.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 2 FHD"  ,PT: ELEVEN 2 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4354.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 2 HD"  ,PT: ELEVEN 2 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4360.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 2 LOW"  ,PT: ELEVEN 2 LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4383.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 2 SD"  ,PT: ELEVEN 2 SD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4377.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 3 FHD"  ,PT: ELEVEN 3 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4355.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 3 HD"  ,PT: ELEVEN 3 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4361.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 3 LOW"  ,PT: ELEVEN 3 LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4384.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 3 SD"  ,PT: ELEVEN 3 SD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4378.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 4 FHD"  ,PT: ELEVEN 4 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4356.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 4 HD"  ,PT: ELEVEN 4 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4362.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 4 LOW"  ,PT: ELEVEN 4 LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4385.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 4 SD"  ,PT: ELEVEN 4 SD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4379.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 5 FHD"  ,PT: ELEVEN 5 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4357.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 5 HD"  ,PT: ELEVEN 5 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4363.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 5 LOW"  ,PT: ELEVEN 5 LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4386.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 5 SD"  ,PT: ELEVEN 5 SD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4380.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 6 FHD"  ,PT: ELEVEN 6 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4358.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 6 HD"  ,PT: ELEVEN 6 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4364.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ELEVEN 6 LOW"  ,PT: ELEVEN 6 LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4387.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT:ELEVEN 6 SD"  ,PT:ELEVEN 6 SD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4381.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: BENFICA TV"  ,PT: BENFICA TV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/3989.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: BENFICA TV FHD."  ,PT: BENFICA TV FHD.
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4209.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: BENFICA TV FHD"  ,PT: BENFICA TV FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2488.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: BENFICA TV  LOW"  ,PT: BENFICA TV  LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/48.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: BENFICA TV HD LOW"  ,PT: BENFICA TV HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2482.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Sporting TV"  ,PT: Sporting TV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/63.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-ID="SPORTINGTVHD" tvg-name="PT: Sporting Tv HD"  ,PT: Sporting Tv HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1350.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORTING TV FHD"  ,PT: SPORTING TV FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4140.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SPORTING TV LOW"  ,PT: SPORTING TV LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4175.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: PFC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/PFC_logo.png" ,PT: PFC
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/25.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: PFC*"  ,PT: PFC*
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4093.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: EUROSPORT 1"  ,PT: EUROSPORT 1
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/27.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Eurosport 1 HD"  ,PT: Eurosport 1 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1348.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: EUROSPORT  1 FHD"  ,PT: EUROSPORT  1 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4125.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: EUROSPORT 1 HD LOW"  ,PT: EUROSPORT 1 HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4170.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Eurosport 2"  ,PT: Eurosport 2
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/168.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: NBA"  ,PT: NBA
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4191.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: NBA HD"  ,PT: NBA HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/72.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="BR: ALL SPORTS SD" ,BR: ALL SPORTS SD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/247.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: REAL MADRID TV"  ,PT: REAL MADRID TV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/246.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: KOMBAT SPORT."  ,PT: KOMBAT SPORT.
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4212.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: KOMBAT SPORT"  ,PT: KOMBAT SPORT
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/75.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Motorvision"  ,PT: Motorvision
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/150.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Motorvision HD"  ,PT: Motorvision HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/73.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: MOTORVISION FHD"  ,PT: MOTORVISION FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4193.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: MOTORS TV"  ,PT: MOTORS TV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/74.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: MCS LIFESTYLE"  ,PT: MCS LIFESTYLE
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/169.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: MCS EXTREME"  ,PT: MCS EXTREME
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/170.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Fuel TV"  ,PT: Fuel TV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/176.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CAÃ‡A E PESCA"  ,PT: CAÃ‡A E PESCA
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/134.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CAÃ‡AVISION"  ,PT: CAÃ‡AVISION
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/80.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TOROS TV"  ,PT: TOROS TV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/58.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TOROS TV HD"  ,PT: TOROS TV HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2489.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="----- FILMES -----"  ,----- FILMES -----
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2461.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCine 1"  ,PT: TVCine 1
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/76.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCine 2"  ,PT: TVCine 2
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/77.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE 3"  ,PT: TVCINE 3
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/131.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE 4"  ,PT: TVCINE 4
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/132.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TV Cine 1 HD"  ,PT: TV Cine 1 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/691.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE 2 HD"  ,PT: TVCINE 2 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/879.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE 3 HD"  ,PT: TVCINE 3 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/880.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE 4 HD"  ,PT: TVCINE 4 HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/881.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE 1 FHD"  ,PT: TVCINE 1 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4136.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE 2 FHD"  ,PT: TVCINE 2 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4113.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE 3 FHD"  ,PT: TVCINE 3 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4114.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE 4 FHD"  ,PT: TVCINE 4 FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4172.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE 1 HD LOW"  ,PT: TVCINE 1 HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4187.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE 2 HD LOW"  ,PT: TVCINE 2 HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4188.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE 4 HD LOW"  ,PT: TVCINE 4 HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4190.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TVCINE3 HD LOW"  ,PT: TVCINE3 HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4189.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: HOLLYWOOD"  ,PT: HOLLYWOOD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/963.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: HOLLYWOOD FHD."  ,PT: HOLLYWOOD FHD.
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4206.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: HOLLYWOOD FHD"  ,PT: HOLLYWOOD FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4179.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: HOLLYWOOD LOW"  ,PT: HOLLYWOOD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4176.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: HOLLYWOOD HD"  ,PT: HOLLYWOOD HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/54.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CINEMUNDO"  ,PT: CINEMUNDO
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/78.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CINEMUNDO HD"  ,PT: CINEMUNDO HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2909.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOX MOVIES"  ,PT: FOX MOVIES
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/167.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Fox Movies HD"  ,PT: Fox Movies HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/967.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AMC" tvg-logo="https://www.google.pt/imgres?imgurl=https%3A%2F%2Fhobbydb-production.s3.amazonaws.com%2Fprocessed_uploads%2Fsubject_photo%2Fsubject_photo%2Fimage%2F13344%2F1464534097-16289-4298%2FAMC_20TV_20logo_large.png&imgrefurl=https%3A%2F%2Fwww.hobbydb.com%2Fsubjects%2Famc-tv-channel-tv-station&docid=-K42Tq4-OwJa3M&tbnid=jWX4G90QiFEhPM%3A&vet=10ahUKEwjC2IaDlejZAhUMuxQKHS2ABYEQMwgyKAIwAg..i&w=360&h=200&bih=869&biw=1280&q=amc%20channel%20logo&ved=0ahUKEwjC2IaDlejZAhUMuxQKHS2ABYEQMwgyKAIwAg&iact=mrc&uact=8" ,PT: AMC
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/158.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AMC HD"  ,PT: AMC HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2492.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AMC FHD"  ,PT: AMC FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4142.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="----- CULTURA -----"  ,----- CULTURA -----
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2464.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: 24 KITCHEN"  ,PT: 24 KITCHEN
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/175.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: 24 KITCHEN FHD"  ,PT: 24 KITCHEN FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4221.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: 24 KITCHEN FHD*"  ,PT: 24 KITCHEN FHD*
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/3228.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: MY CUISINE"  ,PT: MY CUISINE
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4205.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: A&E" tvg-logo="https://vignette.wikia.nocookie.net/world-of-media/images/7/7e/A%26E_Network_2004.png/revision/latest?cb=20140106001118" ,PT: A&E
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/159.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CBS REALITY"  ,PT: CBS REALITY
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/177.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: DISCOVERY CHANNEL"  ,PT: DISCOVERY CHANNEL
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/151.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: DISCOVERY SHOWCASE"  ,PT: DISCOVERY SHOWCASE
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/165.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: DISCOVERY SHOWCASE FHD"  ,PT: DISCOVERY SHOWCASE FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/3229.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: DISCOVERY SHOWCASE FHD*"  ,PT: DISCOVERY SHOWCASE FHD*
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4137.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: DOG TV FHD"  ,PT: DOG TV FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2911.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: E! ENTERTAINMENT"  ,PT: E! ENTERTAINMENT
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/916.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOOD NETWORK"  ,PT: FOOD NETWORK
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/174.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FUEL TV HD"  ,PT: FUEL TV HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1583.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: HISTÃ“RIA"  ,PT: HISTÃ“RIA
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/99.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: LUXE TV FHD"  ,PT: LUXE TV FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1351.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: NATIONAL GEOGRAPHIC"  ,PT: NATIONAL GEOGRAPHIC
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/152.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: NATIONAL GEOGRAPHIC LOW"  ,PT: NATIONAL GEOGRAPHIC LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1201.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: NATIONAL GEOGRAPHIC FHD"  ,PT: NATIONAL GEOGRAPHIC FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4173.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: NAT GEO WILD"  ,PT: NAT GEO WILD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ODISSEIA"  ,PT: ODISSEIA
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/164.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-ID="TLC" tvg-name="PT: TLC"  ,PT: TLC
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/915.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TRACE URBAN TV"  ,PT: TRACE URBAN TV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/884.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TRAVEL CHANNEL"  ,PT: TRAVEL CHANNEL
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2912.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TRAVEL CHANNEL FHD"  ,PT: TRAVEL CHANNEL FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4141.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="-----SERIES -----"  ,-----SERIES -----
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2462.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AXN"  ,PT: AXN
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/92.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AXN FHD."  ,PT: AXN FHD.
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4210.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AXN FHD"  ,PT: AXN FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4126.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AXN LOW"  ,PT: AXN LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4181.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AXN HD"  ,PT: AXN HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/965.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT:_AXN_WHITE_HD"  ,PT:_AXN_WHITE_HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/966.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AXN WHITE FHD"  ,PT: AXN WHITE FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4128.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AXN WHITE HD LOW"  ,PT: AXN WHITE HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4182.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AXN BLACK"  ,PT: AXN BLACK
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/3232.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AXN Black HD"  ,PT: AXN Black HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/94.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AXN BLACK FHD"  ,PT: AXN BLACK FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4127.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AXN BLACK LOW"  ,PT: AXN BLACK LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4200.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOX COMEDY"  ,PT: FOX COMEDY
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/156.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOX COMEDY FHD"  ,PT: FOX COMEDY FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4129.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOX COMEDY HD LOW"  ,PT: FOX COMEDY HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4201.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOX MOVIES HD LOW"  ,PT: FOX MOVIES HD LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4195.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Fox Crime"  ,PT: Fox Crime
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/157.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOX CRIME HD"  ,PT: FOX CRIME HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/968.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOX CRIME FHD"  ,PT: FOX CRIME FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4130.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Fox HD"  ,PT: Fox HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/95.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOX HD (Alt.)"  ,PT: FOX HD (Alt.)
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2824.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOX FHD."  ,PT: FOX FHD.
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4211.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOX FHD"  ,PT: FOX FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4194.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT:  FOX LIFE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/2c/FOXlife_HD_Logo.png" ,PT:  FOX LIFE HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/96.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOX LIFE HD*" tvg-logo="https://upload.wikimedia.org/wikipedia/de/2/2c/FOXlife_HD_Logo.png" ,PT: FOX LIFE HD*
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/969.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FOX LIFE FHD"  ,PT: FOX LIFE FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4131.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Syfy"  ,PT: Syfy
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/162.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Syfy HD"  ,PT: Syfy HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2910.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SYFY FHD"  ,PT: SYFY FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4138.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TV SERIES"  ,PT: TV SERIES
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/133.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TV SERIES HD"  ,PT: TV SERIES HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/882.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TV SERIES FHD"  ,PT: TV SERIES FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4135.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TV SERIES LOW"  ,PT: TV SERIES LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4315.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="----- INFANTIL -----"  ,----- INFANTIL -----
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2466.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: BABY TV"  ,PT: BABY TV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/172.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Baby First"  ,PT: Baby First
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1466.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CARTOON NETWORK"  ,PT: CARTOON NETWORK
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2494.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Canal Panda"  ,PT: Canal Panda
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/49.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: DISNEY CHANNEL"  ,PT: DISNEY CHANNEL
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/155.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: DISNEY CHANNEL LOW"  ,PT: DISNEY CHANNEL LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4326.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: DISNEY JUNIOR" tvg-logo="http://tvprofil.net/img/kanali-logo/disney-junior-logo.png" ,PT: DISNEY JUNIOR
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/64.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Jim Jam"  ,PT: Jim Jam
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/154.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: NICKELODEON FHD"  ,PT: NICKELODEON FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4124.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: NICKELODEON HD"  ,PT: NICKELODEON HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4123.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: NICKELODEON LOW"  ,PT: NICKELODEON LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4328.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Nickelodeon"  ,PT: Nickelodeon
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/153.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Panda Biggs"  ,PT: Panda Biggs
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/171.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="----- MÃšSICA -----"  ,----- MÃšSICA -----
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2465.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: VH1"  ,PT: VH1
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4196.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: VH1 CLASSIC"  ,PT: VH1 CLASSIC
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/885.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Afro Music"  ,PT: Afro Music
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/883.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Mtv Portugal"  ,PT: Mtv Portugal
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/161.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: MCM POP"  ,PT: MCM POP
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/160.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: MCM TOP"  ,PT: MCM TOP
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2491.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: C-MUSIC TV"  ,PT: C-MUSIC TV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2493.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ICONCERTS LOW"  ,PT: ICONCERTS LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4174.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: ICONCERTS FHD"  ,PT: ICONCERTS FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4197.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="----- INTERNACIONAIS -----"  ,----- INTERNACIONAIS -----
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2469.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: GLOBO"  ,PT: GLOBO
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/90.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: GLOBO PREMIUM" tvg-logo="https://vignette.wikia.nocookie.net/logopedia-versao-2/images/7/72/Rede_Globo.png/revision/latest?cb=20131020172253&path-prefix=pt-br" ,PT: GLOBO PREMIUM
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/173.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: GLOBO PREMIUM FHD"  ,PT: GLOBO PREMIUM FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4122.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TV RECORD" tvg-logo="http://vignette2.wikia.nocookie.net/logopedia/images/d/d1/Record03.png/revision/latest?cb=20150808025249" ,PT: TV RECORD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/56.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: TV RECORD HD" tvg-logo="http://3.bp.blogspot.com/-ezSrk6eKls0/TbRH9FmVjhI/AAAAAAAACkw/o8xxem4UhVg/s640/Logo+rpc+-+HDTV.png" ,PT: TV RECORD HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/1328.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="----- INFORMAÃ‡ÃƒO INTERNACIONAL -----"  ,----- INFORMAÃ‡ÃƒO INTERNACIONAL -----
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2468.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CNN"  ,PT: CNN
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2906.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: EURONEWS"  ,PT: EURONEWS
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/245.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Record News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/Record_News_%282012%29.png/revision/latest?cb=20120904132659" ,PT: Record News
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2915.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SKY NEWS"  ,PT: SKY NEWS
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2907.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CANÃ‡ÃƒO NOVA"  ,PT: CANÃ‡ÃƒO NOVA
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2913.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: CANÃ‡ÃƒO NOVA HD"  ,PT: CANÃ‡ÃƒO NOVA HD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4154.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: Kuriakos TV FHD"  ,PT: Kuriakos TV FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/2914.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: AMC LOW"  ,PT: AMC LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4198.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FUEL TV FHD"  ,PT: FUEL TV FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4192.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: LEIRIA"  ,PT: LEIRIA
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4202.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: QURAN HIDAYAH"  ,PT: QURAN HIDAYAH
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4301.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: DISCOVERY CHANNEL LOW"  ,PT: DISCOVERY CHANNEL LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4327.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FASHION TV"  ,PT: FASHION TV
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4316.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: FINE LIVING NETWORK FHD"  ,PT: FINE LIVING NETWORK FHD
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4317.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-name="PT: SYFY LOW"  ,PT: SYFY LOW
-http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4314.ts
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png",RTP 1
+http://188.93.238.40:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png",RTP 2
+http://188.93.238.40:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png",SIC
+http://188.93.238.40:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI
+http://188.93.238.40:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI
+http://188.93.238.40:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png",SIC NOTICIAS
+http://188.93.238.40:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png",RTP 3
+http://188.93.238.40:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png",TVI24
+http://188.93.238.40:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CM TV
+http://188.93.238.40:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png",SPORT TV+
+http://188.93.238.40:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png",GLOBO
+http://188.93.238.40:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png",SIC MULHER
+http://188.93.238.40:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png",PORTO CANAL
+http://188.93.238.40:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png",SIC CARAS
+http://188.93.238.40:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png",SIC RADICAL
+http://188.93.238.40:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png",RTP MEMORIA
+http://188.93.238.40:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png",24 KITCHEN HD
+http://188.93.238.40:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png",CANAL Q
+http://188.93.238.40:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1
+http://188.93.238.40:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 HD
+http://188.93.238.40:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2
+http://188.93.238.40:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 HD
+http://188.93.238.40:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3
+http://188.93.238.40:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 HD
+http://188.93.238.40:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4
+http://188.93.238.40:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png",SPORT TV 5
+http://188.93.238.40:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV HD
+http://188.93.238.40:8000/play/a03p/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV HD
+http://188.93.238.40:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png",SPORTING TV
+http://188.93.238.40:8000/play/a060/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png",EUROSPORT 1 PT
+http://188.93.238.40:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png",EUROSPORT 1 HD PT
+http://188.93.238.40:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png",EUROSPORT 2 PT
+http://188.93.238.40:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png",MOTORVISION TV
+http://188.93.238.40:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png",PFC
+http://188.93.238.40:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTV.png",FUEL TV
+http://188.93.238.40:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png",A BOLA TV
+http://188.93.238.40:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png",DISNEY CHANNEL
+http://188.93.238.40:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png",DISNEY JUNIOR
+http://188.93.238.40:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png",CARTOON NETWORK
+http://188.93.238.40:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png",NICKELODEON
+http://188.93.238.40:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png",PANDA
+http://188.93.238.40:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png",PANDA BIGGS
+http://188.93.238.40:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png",SIC K
+http://188.93.238.40:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png",BABY TV
+http://188.93.238.40:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png",JIMJAM
+http://188.93.238.40:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICCAO
+http://188.93.238.40:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png",TVI REALITY
+http://188.93.238.40:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TVCINE 1
+http://188.93.238.40:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TVCINE 1 HD
+http://188.93.238.40:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png",TVCINE 2
+http://188.93.238.40:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png",TVCINE 2 HD
+http://188.93.238.40:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png",TVCINE 3
+http://188.93.238.40:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png",TVCINE 3 HD
+http://188.93.238.40:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png",TVCINE 4
+http://188.93.238.40:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png",TVCINE 4 HD
+http://188.93.238.40:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png",TVSERIES
+http://188.93.238.40:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png",TVSERIES HD
+http://188.93.238.40:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD
+http://188.93.238.40:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD HD
+http://188.93.238.40:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEMUNDO.png",CINEMUNDO
+http://188.93.238.40:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png",FOX MOVIES
+http://188.93.238.40:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX HD
+http://188.93.238.40:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png",AXN HD
+http://188.93.238.40:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png",FOX LIFE HD
+http://188.93.238.40:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png",FOX CRIME HD
+http://188.93.238.40:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png",FOX COMEDY
+http://188.93.238.40:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png",AXN WHITE HD
+http://188.93.238.40:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png",AXN BLACK HD
+http://188.93.238.40:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png",SYFY
+http://188.93.238.40:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC
+http://188.93.238.40:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC HD
+http://188.93.238.40:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png",MTV PORTUGAL
+http://188.93.238.40:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png",VH1 EUROPE
+http://188.93.238.40:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1CLASSIC.png",VH1 CLASSIC
+http://188.93.238.40:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCMPOP.png",MCM POP
+http://188.93.238.40:8000/play/a03a/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AFROMUSIC.png",AFRO MUSIC
+http://188.93.238.40:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",DISCOVERY
+http://188.93.238.40:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NATIONAL GEOGRAPHIC HD
+http://188.93.238.40:8000/play/a03t/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png",NATIONAL GEOGRAPHIC WILD
+http://188.93.238.40:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png",HISTORIA
+http://188.93.238.40:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISSEIA.png",ODISSEIA
+http://188.93.238.40:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png",E! ENTERTAINMENT
+http://188.93.238.40:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLAZETV.png",BLAZE
+http://188.93.238.40:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png",TRAVEL CHANNEL
+http://188.93.238.40:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCENTERT.png",BBC ENTERTAINMENT
+http://188.93.238.40:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBONOW.png",GLOBO NOW
+http://188.93.238.40:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png",TV RECORD
+http://188.93.238.40:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EURONEWS.png",EURONEWS
+http://188.93.238.40:8000/play/a06g/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png",CNN
+http://188.93.238.40:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png",BLOOMBERG
+http://188.93.238.40:8000/play/a032/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png",CNBC
+http://188.93.238.40:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANGELUSTV.png",ANGELUS TV
+http://188.93.238.40:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMADEIRA.png",RTP MADEIRA
+http://188.93.238.40:8000/play/a007/index.m3u8
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png",RTP ACORES
+http://188.93.238.40:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png",CANCAO NOVA
+http://188.93.238.40:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png",RTP AFRICA
+http://188.93.238.40:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVEi.png",TVEi
+http://188.93.238.40:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROCHANNEL.png",EUROCHANNEL PT
+http://188.93.238.40:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png",TOROS TV
+http://188.93.238.40:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAEPESCA.png",CACA & PESCA
+http://188.93.238.40:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205",REAL MADRID TV
+http://188.93.238.40:8000/play/a09a/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KOMBATSPORT.png",KOMBAT SPORT
+http://188.93.238.40:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png",DISCOVERY SHOWCASE
+http://188.93.238.40:8000/play/a052/index.m3u8
+
 
 
 
@@ -7445,113 +7133,6 @@ http://iptv192.dyndns.tv:3333/live/Chami/skype27082017/4314.ts
 
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",
-
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" ,CM TV
-http://188.93.238.62:8000/play/a07d
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" ,SPORT TV+
-http://188.93.238.62:8000/play/a052
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png" ,GLOBO
-http://188.93.238.62:8000/play/a02m
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png" ,SIC MULHER
-http://188.93.238.62:8000/play/a04x
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png" ,PORTO CANAL
-http://188.93.238.62:8000/play/a06v
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png" ,24 KITCHEN HD
-http://188.93.238.62:8000/play/a08j
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png" ,CANAL Q
-http://188.93.238.62:8000/play/a09x
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" ,SPORT TV 1
-http://188.93.238.62:8000/play/a0be
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" ,SPORT TV 1 HD
-http://188.93.238.62:8000/play/a0b6
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" ,SPORT TV 1 HD
-http://188.93.238.62:8000/play/a0b6
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" ,SPORT TV 2 HD
-http://188.93.238.62:8000/play/a0b7
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" ,SPORT TV 3
-http://188.93.238.62:8000/play/a0dl
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" ,SPORT TV 3 HD
-http://188.93.238.62:8000/play/a0b8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" ,SPORT TV 4
-http://188.93.238.62:8000/play/a0ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" ,SPORT TV 5
-http://188.93.238.62:8000/play/a0ah
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4K.png" ,SPORT TV 4K
-http://188.93.238.62:8000/play/a0c0
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,BENFICA TV
-http://188.93.238.62:8000/play/a034
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,BENFICA TV HD
-http://188.93.238.62:8000/play/a08a
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" ,SPORTING TV
-http://188.93.238.62:8000/play/a05h
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" ,EUROSPORT 1 PT
-http://188.93.238.62:8000/play/a02q
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" ,EUROSPORT 1 HD PT
-http://188.93.238.62:8000/play/a08n
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" ,EUROSPORT 2 PT
-http://188.93.238.62:8000/play/a07a
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png" ,MOTORVISION TV
-http://188.93.238.62:8000/play/a047
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" ,A BOLA TV
-http://188.93.238.62:8000/play/a09w
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" ,DISNEY CHANNEL
-http://188.93.238.62:8000/play/a043
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" ,DISNEY JUNIOR
-http://188.93.238.62:8000/play/a05g
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" ,CARTOON NETWORK
-http://188.93.238.62:8000/play/a06w
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" ,NICKELODEON
-http://188.93.238.62:8000/play/a03w
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png" ,PANDA
-http://188.93.238.62:8000/play/a09j
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" ,PANDA BIGGS
-http://188.93.238.62:8000/play/a056
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png" ,SIC K
-http://188.93.238.62:8000/play/a0cf
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png" ,BABY TV
-http://188.93.238.62:8000/play/a050
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png" ,JIMJAM
-http://188.93.238.62:8000/play/a0ci
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png" ,TVI FICCAO
-http://188.93.238.62:8000/play/a09v
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png" ,TVI REALITY
-http://188.93.238.62:8000/play/a04w
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png" ,TVCINE 1
-http://188.93.238.62:8000/play/a0dn
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png" ,TVCINE 1 HD
-http://188.93.238.62:8000/play/a044
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png" ,TVCINE 2
-http://188.93.238.62:8000/play/a0ca
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png" ,TVCINE 2 HD
-http://188.93.238.62:8000/play/a08s
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png" ,TVCINE 3
-http://188.93.238.62:8000/play/a0do
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png" ,TVCINE 3 HD
-http://188.93.238.62:8000/play/a08q
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png" ,TVCINE 4
-http://188.93.238.62:8000/play/a0cj
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png" ,TVCINE 4 HD
-http://188.93.238.62:8000/play/a03u
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png" ,TVSERIES
-http://188.93.238.62:8000/play/a0dp
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png" ,TVSERIES HD
-http://188.93.238.62:8000/play/a08r
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" ,MTV PORTUGAL
-http://188.93.238.62:8000/play/a098
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/A&E.png" ,A&E
-http://188.93.238.62:8000/play/a0e2
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png" ,TLC
-http://188.93.238.62:8000/play/a04y
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png" ,CBS REALITY
-http://188.93.238.62:8000/play/a09r
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png" ,TV RECORD
-http://188.93.238.62:8000/play/a091
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png" ,CANCAO NOVA
-http://188.93.238.62:8000/play/a07c
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png" ,TOROS TV
-http://188.93.238.62:8000/play/a05e
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAEPESCA.png" ,CACA & PESCA
-http://188.93.238.62:8000/play/a03z
 
 
 
@@ -12664,154 +12245,6 @@ http://178.214.76.162:8061/StarWorl
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_TUNISIE_NAT1_TV"  ,|AR|_TUNISIE_NAT1_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/57.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_TUNISIE_NAT2_TV"  ,|AR|_TUNISIE_NAT2_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/58.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Elhiwar_Ettounsi"  ,|AR|_Elhiwar_Ettounsi
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/91.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ATTESSIA_TV"  ,|AR|_ATTESSIA_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/56.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ZITOUNA"  ,|AR|_ZITOUNA
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/60.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Dzair_TV"  ,|AR|_Dzair_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/93.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Aouala"  ,|AR|_Aouala
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/55.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_2M_MAROC"  ,|AR|_2M_MAROC
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/44.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_medi1afrique"  ,|AR|_medi1afrique
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/95.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Libya_Hadash"  ,|AR|_Libya_Hadash
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/79.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Libya_TV"  ,|AR|_Libya_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/81.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Libya_One"  ,|AR|_Libya_One
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/78.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Libya218"  ,|AR|_Libya218
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/77.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Libya_24"  ,|AR|_Libya_24
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/80.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_MBC_1"  ,|AR|_MBC_1
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/61.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_MBC_2"  ,|AR|_MBC_2
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/65.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_MBC_4"  ,|AR|_MBC_4
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/62.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_MTV_lebenon"  ,|AR|_MTV_lebenon
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/103.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ROTANA_KHALIJIA_TV"  ,|AR|_ROTANA_KHALIJIA_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/125.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_BAHRAIN_SPORTS"  ,|AR|_BAHRAIN_SPORTS
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/140.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_BAHRAIN_QURAN"  ,|AR|_BAHRAIN_QURAN
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/139.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_BAHRAIN_INTERNATIONAL"  ,|AR|_BAHRAIN_INTERNATIONAL
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/138.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_TOYOR_ALJANAH"  ,|AR|_TOYOR_ALJANAH
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/126.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_BAHRAIN_TV"  ,|AR|_BAHRAIN_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/137.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Al_Jazeera_Documentaire"  ,|AR|_Al_Jazeera_Documentaire
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/46.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Al_Arabiya"  ,|AR|_Al_Arabiya
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/38.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Al_Hadath"  ,|AR|_Al_Hadath
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/40.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_FRANCE_24_AR"  ,|AR|_FRANCE_24_AR
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/20.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Sky_News_Arabic"  ,|AR|_Sky_News_Arabic
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/45.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_BBC_Arabic"  ,|AR|_BBC_Arabic
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/28.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ALAAN_TV"  ,|AR|_ALAAN_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/19.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_RUSSIA ALYAOUM_TV"  ,|AR|_RUSSIA ALYAOUM_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/88.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_hiwar_news"  ,|AR|_hiwar_news
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/67.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Alalam_news"  ,|AR|_Alalam_news
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/97.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_ALIKHBARIYA_HD"  ,|AR|_SAUDI_ALIKHBARIYA_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/3.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Space_Toon"  ,|AR|_Space_Toon
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/75.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Majed_Kids"  ,|AR|_Majed_Kids
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/76.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Iqraa"  ,|AR|_Iqraa
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/68.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Makkah_TV"  ,|AR|_Makkah_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/89.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_SONNA_HD"  ,|AR|_SAUDI_SONNA_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/5.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_QURAN_HD"  ,|AR|_SAUDI_QURAN_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/4.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_THAKAFIYA_HD"  ,|AR|_SAUDI_THAKAFIYA_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/6.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DUBAI_ONE_HD"  ,|AR|_DUBAI_ONE_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/15.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ABUDHABI_Emirat"  ,|AR|_ABUDHABI_Emirat
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/70.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_AD_Drama"  ,|AR|_AD_Drama
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/69.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_CBC_Drama"  ,|AR|_CBC_Drama
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/42.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Nahar_Drama_Egypt"  ,|AR|_Nahar_Drama_Egypt
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/72.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Palestine"  ,|AR|_Palestine
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/101.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ALMAYADEEN_TV"  ,|AR|_ALMAYADEEN_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/87.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_TRT_Arabiya"  ,|AR|_TRT_Arabiya
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/73.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Nahar_TV_Egypt"  ,|AR|_Nahar_TV_Egypt
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/71.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Jordon_TV"  ,|AR|_Jordon_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/74.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ALCHARQIYA"  ,|AR|_ALCHARQIYA
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/98.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Al_Manar_TV"  ,|AR|_Al_Manar_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/54.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ALRAI_TV"  ,|AR|_ALRAI_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/50.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Syrian_Drama"  ,|AR|_Syrian_Drama
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/29.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAMA_SYRIA"  ,|AR|_SAMA_SYRIA
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/36.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SHARQIYA_TV"  ,|AR|_SHARQIYA_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/37.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ON_E"  ,|AR|_ON_E
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/43.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_Qatar_TV_HD"  ,|AR|_Qatar_TV_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/27.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_ABU_DHABI_TV"  ,|AR|_ABU_DHABI_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/53.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_2_HD"  ,|AR|_SAUDI_2_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/1.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_1_HD"  ,|AR|_SAUDI_1_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/2.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAMA_DUBAI_HD"  ,|AR|_SAMA_DUBAI_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/12.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_NOUR_DUBAI"  ,|AR|_NOUR_DUBAI
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/16.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_FUTURE_TV"  ,|AR|_FUTURE_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/17.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DW_AR"  ,|AR|_DW_AR
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/22.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DUBAI_ZAMAN"  ,|AR|_DUBAI_ZAMAN
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/11.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DUBAI_TV_HD"  ,|AR|_DUBAI_TV_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/10.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SHARJAH_SPORTS"  ,|AR|_SHARJAH_SPORTS
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/39.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_SAUDI_RIYADHIYA_1_HD"  ,|AR|_SAUDI_RIYADHIYA_1_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/9.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DUBAI_RACING_1_HD"  ,|AR|_DUBAI_RACING_1_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/13.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DUBAI_RACING_2_HD"  ,|AR|_DUBAI_RACING_2_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/14.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3"  tvg-name="|AR|_DUBAI_SPORTS_3_HD"  ,|AR|_DUBAI_SPORTS_3_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.m3u8
 
 
 
@@ -13682,140 +13115,6 @@ http://91.149.172.100:80/channel?id=126&u=demo&p=demo
 
 
 #EXTINF:-1 group-title="Russian-SERVER3",
-#EXTINF:-1 group-title="Russian-SERVER3" tvg-logo="https://cdn.countryflags.com/thumbs/russia/flag-button-square-250.png" ,==Russia==
-http://..........
-
-#EXTINF:-1 group-title="Russian-SERVER3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,IF 2-3 CHANNELS
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Russian-SERVER3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NOT WORK MEANS
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Russian-SERVER3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,EXPIRED AND 
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Russian-SERVER3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,NONE AT THIS SECTION
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Russian-SERVER3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,SECTION WILL
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Russian-SERVER3"  tvg-logo="http://weclipart.com/gimg/1D553ACE838B9116/8TxKXz7kc.png" ,WORK
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Russian-SERVER3"  tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-#EXTINF:-1 group-title="Russian-SERVER3",Altyn_Asir 
-http://213.59.128.162:9999/play/a01a 
-#EXTINF:-1 group-title="Russian-SERVER3",Altyn_Asyr 
-http://213.59.128.162:9999/play/Altyn_Asyr 
-#EXTINF:-1 group-title="Russian-SERVER3",Anyday3D 
-http://213.59.128.162:9999/play/Anyday3D 
-#EXTINF:-1 group-title="Russian-SERVER3",Anyday_HD 
-http://213.59.128.162:9999/play/Anyday_HD 
-#EXTINF:-1 group-title="Russian-SERVER3",Armenia_1_TV 
-http://213.59.128.162:9999/play/Armenia_1_TV 
-#EXTINF:-1 group-title="Russian-SERVER3",BBC_World_News 
-http://213.59.128.162:9999/play/BBC_World_News 
-#EXTINF:-1 group-title="Russian-SERVER3",Boomerang 
-http://213.59.128.162:9999/play/Boomerang 
-#EXTINF:-1 group-title="Russian-SERVER3",Bridge_TV_classic 
-http://213.59.128.162:9999/play/Bridge_TV_classic 
-#EXTINF:-1 group-title="Russian-SERVER3",Cinema 
-http://213.59.128.162:9999/play/Cinema 
-#EXTINF:-1 group-title="Russian-SERVER3",Euronews 
-http://213.59.128.162:9999/play/Euronews 
-#EXTINF:-1 group-title="Russian-SERVER3",Extreme_Sports 
-http://213.59.128.162:9999/play/Extreme_Sports 
-#EXTINF:-1 group-title="Russian-SERVER3",Fashion_TV 
-http://213.59.128.162:9999/play/a00g 
-#EXTINF:-1 group-title="Russian-SERVER3",France 24 
-http://213.59.128.162:9999/play/a00w 
-#EXTINF:-1 group-title="Russian-SERVER3",GameShow_TV 
-http://213.59.128.162:9999/play/GameShow_TV 
-#EXTINF:-1 group-title="Russian-SERVER3",Glazella3D 
-http://213.59.128.162:9999/play/Glazella3D 
-#EXTINF:-1 group-title="Russian-SERVER3",H1 
-http://213.59.128.162:9999/play/H1 
-#EXTINF:-1 group-title="Russian-SERVER3",History 
-http://213.59.128.162:9999/play/History 
-#EXTINF:-1 group-title="Russian-SERVER3",Jim_Jam 
-http://213.59.128.162:9999/play/Jim_Jam 
-#EXTINF:-1 group-title="Russian-SERVER3",Luxury 
-http://213.59.128.162:9999/play/Luxury 
-#EXTINF:-1 group-title="Russian-SERVER3",Mama 
-http://213.59.128.162:9999/play/a00c 
-#EXTINF:-1 group-title="Russian-SERVER3",Mute3D 
-http://213.59.128.162:9999/play/Mute3D 
-#EXTINF:-1 group-title="Russian-SERVER3",Mute_HD 
-http://213.59.128.162:9999/play/Mute_HD 
-#EXTINF:-1 group-title="Russian-SERVER3",NHK_World_TV_HD 
-http://213.59.128.162:9999/play/NHK_World_TV_HD 
-#EXTINF:-1 group-title="Russian-SERVER3",NST 
-http://213.59.128.162:9999/play/a007 
-#EXTINF:-1 group-title="Russian-SERVER3",Nano 
-http://213.59.128.162:9999/play/a00p 
-#EXTINF:-1 group-title="Russian-SERVER3",Nickelodeon 
-http://213.59.128.162:9999/play/a00x 
-#EXTINF:-1 group-title="Russian-SERVER3",O! 
-http://213.59.128.162:9999/play/O! 
-#EXTINF:-1 group-title="Russian-SERVER3",O2ТВ 
-http://213.59.128.162:9999/play/O2ТВ 
-#EXTINF:-1 group-title="Russian-SERVER3",Ocean_TV 
-http://213.59.128.162:9999/play/Ocean_TV 
-#EXTINF:-1 group-title="Russian-SERVER3",Purple 
-http://213.59.128.162:9999/play/Purple 
-#EXTINF:-1 group-title="Russian-SERVER3",RTД HD 
-http://213.59.128.162:9999/play/a00u 
-#EXTINF:-1 group-title="Russian-SERVER3",Russia_Today_SD 
-http://213.59.128.162:9999/play/Russia_Today_SD 
-#EXTINF:-1 group-title="Russian-SERVER3",SET 
-http://213.59.128.162:9999/play/SET 
-#EXTINF:-1 group-title="Russian-SERVER3",Spike 
-http://213.59.128.162:9999/play/Spike 
-#EXTINF:-1 group-title="Russian-SERVER3",TVC-Kristall 
-http://213.59.128.162:9999/play/a016 
-#EXTINF:-1 group-title="Russian-SERVER3",TVM_Channel 
-http://213.59.128.162:9999/play/TVM_Channel 
-#EXTINF:-1 group-title="Russian-SERVER3",TV_5_Monde 
-http://213.59.128.162:9999/play/TV_5_Monde 
-#EXTINF:-1 group-title="Russian-SERVER3",Top_Shop 
-http://213.59.128.162:9999/play/Top_Shop 
-#EXTINF:-1 group-title="Russian-SERVER3",Trace_Urban_HD 
-http://213.59.128.162:9999/play/Trace_Urban_HD 
-#EXTINF:-1 group-title="Russian-SERVER3",Travel-Adventure_HD 
-http://213.59.128.162:9999/play/Travel-Adventure_HD 
-#EXTINF:-1 group-title="Russian-SERVER3",World Fashion Channel 
-http://213.59.128.162:9999/play/World Fashion Channel 
-#EXTINF:-1 group-title="Russian-SERVER3",shop&show 
-http://213.59.128.162:9999/play/shop_show 
-#EXTINF:-1 group-title="Russian-SERVER3",Рыжий 
-http://213.59.128.162:9999/play/Ryzhij 
-#EXTINF:-1 group-title="Russian-SERVER3",СТРК_HD 
-http://213.59.128.162:9999/play/СТРК_HD 
-#EXTINF:-1 group-title="Russian-SERVER3",Сарафан 
-http://213.59.128.162:9999/play/Сарафан 
-#EXTINF:-1 group-title="Russian-SERVER3",Союз 
-http://213.59.128.162:9999/play/a010 
-#EXTINF:-1 group-title="Russian-SERVER3",Страна 
-http://213.59.128.162:9999/play/a00a 
-#EXTINF:-1 group-title="Russian-SERVER3",Супер 
-http://213.59.128.162:9999/play/Super 
-#EXTINF:-1 group-title="Russian-SERVER3",ТДК 
-http://213.59.128.162:9999/play/ТДК 
-#EXTINF:-1 group-title="Russian-SERVER3",Твой_дом 
-http://213.59.128.162:9999/play/Твой_дом 
-#EXTINF:-1 group-title="Russian-SERVER3",Тлум 
-http://213.59.128.162:9999/play/Tlum 
-#EXTINF:-1 group-title="Russian-SERVER3",Точка_ТВ 
-http://213.59.128.162:9999/play/Точка_ТВ 
-#EXTINF:-1 group-title="Russian-SERVER3",Три_Ангела 
-http://213.59.128.162:9999/play/Три_Ангела 
-#EXTINF:-1 group-title="Russian-SERVER3",Узур 
-http://213.59.128.162:9999/play/Узур 
-#EXTINF:-1 group-title="Russian-SERVER3",Успех 
-http://213.59.128.162:9999/play/Успех 
-#EXTINF:-1 group-title="Russian-SERVER3",Центральное_телевидение 
-http://213.59.128.162:9999/play/Центральное_телевидение 
-#EXTINF:-1 group-title="Russian-SERVER3",ЧЕ 
-http://213.59.128.162:9999/play/ЧЕ 
-#EXTINF:-1 group-title="Russian-SERVER3",Ювелирочка 
-http://213.59.128.162:9999/play/YUvelirochka
 
 
 
