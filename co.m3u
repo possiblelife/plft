@@ -45,66 +45,66 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.parikiaki.com/wp-content/uploads/Cyprus1.png" ,===Cyprus===
 http://..........
 
-#EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" tvg-id="Rik1" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
+#EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" tvg-id="RIK1.cy" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" tvg-id="Rik1" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
+#EXTINF:-1 group-title="Cyprus" tvg-name="Rik1" tvg-id="RIK1.cy" tvg-logo="http://www.riknews.com.cy/images/stories/icons/logo-2.png" ,RIKSAT
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png" ,RIK1
+#EXTINF:-1 group-title="Cyprus" tvg-id="RIK1.cy" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png" ,RIK1
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
+#EXTINF:-1 group-title="Cyprus" tvg-id="RIK1.cy" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
 http://www.fireshow.xyz/rik1.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
+#EXTINF:-1 group-title="Cyprus" tvg-id="RIK1.cy" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
 http://216.241.148.28:8000/play/a00h/index.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png" ,RIK2
+#EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png" ,RIK2
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
+#EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
 http://www.fireshow.xyz/rik2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
+#EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
 http://216.241.148.28:8000/play/a00i/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/rik-hd-jpg-H1Uop6wxQ.jpg" ,RIK HD
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/rik-hd-jpg-H1Uop6wxQ.jpg" ,RIK HD
 http://216.241.148.28:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA (Retry if failed)
+#EXTINF:-1 group-title="Cyprus" tvg-id="TVOne.cy" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA (Retry if failed)
 http://www.omegatv.com.cy/live/|webnoagent$$start=file: \"http://$$end=\"},$$replace=file: \"$$replacewith=$$add=
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA
+#EXTINF:-1 group-title="Cyprus" tvg-id="TVOne.cy" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA
 http://www.fireshow.xyz/megacym.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA
+#EXTINF:-1 group-title="Cyprus" tvg-id="TVOne.cy" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA
 http://216.241.148.28:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
+#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma TV" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://81.21.47.74/hls/live.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
+#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma TV" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://www.fireshow.xyz/sigmam.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
+#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma TV" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://216.241.148.28:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
+#EXTINF:-1 group-title="Cyprus"  tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus 
 http://www.alphacyprus.com.cy/page/live|agentnodown$$start=http://l$$end=        }],$$replace=',$$replacewith=$$add=
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
+#EXTINF:-1 group-title="Cyprus" tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
 http://www.alphacyprus.com.cy/page/live|webnoagent$$start=url: 'http://$$end=',\n        }]$$replace=url: '$$replacewith=$$add=
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
+#EXTINF:-1 group-title="Cyprus" tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
 http://216.241.148.28:8000/play/a00u/index.m3u8
 
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus
+#EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus
 https://www.ant1.com.cy/web-tv-live/|agentnodown$$start=live-player', ['$$end=.m3u8$$replace=live-player', ['$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
+#EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy"  tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
 http://www.fireshow.xyz/ant1cym.html|webdown$$start=src:  \"http://$$end=.m3u8$$replace1=src:  \"$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
+#EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
 http://216.241.148.28:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
+#EXTINF:-1 group-title="Cyprus" tvg-id="CapitalTV.cy" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://master.cystreams.com:25461/live/greek/asshole/14.ts
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
+#EXTINF:-1 group-title="Cyprus" tvg-id="CapitalTV.cy" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://www.anacon.org/app/chans/cy/capitalcy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
+#EXTINF:-1 group-title="Cyprus" tvg-id="CapitalTV.cy" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://216.241.148.28:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
+#EXTINF:-1 group-title="Cyprus" tvg-id="Extra.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
 http://master.cystreams.com:25461/live/greek/asshole/15.ts
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
+#EXTINF:-1 group-title="Cyprus" tvg-id="Extra.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
 http://www.anacon.org/app/chans/cy/extracy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
+#EXTINF:-1 group-title="Cyprus" tvg-id="Extra.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
 http://216.241.148.28:8000/play/a00q/index.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus
+#EXTINF:-1 group-title="Cyprus" tvg-id="PlusTV.cy" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus
 http://www.anacon.org/app/chans/cy/pluscy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus
+#EXTINF:-1 group-title="Cyprus" tvg-id="PlusTV.cy" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus
 http://216.241.148.28:8000/play/a00p/index.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
@@ -130,11 +130,11 @@ http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.ts
 http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://farosonair.com/iconfaros.png",FAROS on Air
 http://master.cystreams.com:25461/live/faros/farostv/1866.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
+#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
 https://www.youtube.com/watch?v=qRY56sJJ2to
-#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
+#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
+#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
 http://216.241.148.28:8000/play/a00j/index.m3u8
 
 
@@ -173,9 +173,9 @@ https://www.youtube.com/watch?v=5r5iftFbASw
 http://www.anacon.org/app/chans/gr/ert3s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 (USE GREECE VPN) (Youtube)
 https://www.youtube.com/watch?v=ELB7cKTx5ig
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
 https://www.youtube.com/watch?v=qRY56sJJ2to
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
+#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg" ,ERT Play WebTV (Youtube)
 https://www.youtube.com/watch?v=dupGV_GjnOQ
@@ -187,19 +187,19 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
 https://www.youtube.com/watch?v=oJbm78ZoMj4
 #EXTINF:-1 group-title="Greece" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
 http://www.anacon.org/app/chans/gr/megag.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube
+#EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube
 https://www.youtube.com/watch?v=QlI8pnEoBW8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
+#EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
 http://www.anacon.org/app/chans/gr/skai.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
+#EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
 http://master.cystreams.com:25461/live/greek/asshole/42.ts
-#EXTINF:-1 group-title="Greece" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI official Web
+#EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI official Web
 http://www.skai.gr/mobile/tv-live/|webview zoom=100 scroll=0,100
-#EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
+#EXTINF:-1 group-title="Greece" tvg-id="star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://www.anacon.org/app/chans/gr/starg.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
+#EXTINF:-1 group-title="Greece" tvg-id="star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://master.cystreams.com:25461/live/greek/asshole/40.ts
-#EXTINF:-1 group-title="Greece" tvg-id="Star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
+#EXTINF:-1 group-title="Greece" tvg-id="star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA (USE GREECE VPN)
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
@@ -209,7 +209,7 @@ https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
 http://www.anacon.org/app/chans/gr/open.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="E TV" tvg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
 http://master.cystreams.com:25461/live/greek/asshole/43.ts
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
+#EXTINF:-1 group-title="Greece" tvg-id="vouli.gr" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
 https://www.youtube.com/watch?v=FsTKqUqSQPY
@@ -221,7 +221,7 @@ http://gr.euronews.com/live|webnoagent$$start=https://euronews-$$end=playlist.m3
 http://.....
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/0Ovqq2f.png" ,TILESPORT
 http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png" ,Action 24
+#EXTINF:-1 group-title="Greece" tvg-id="Action24.gr" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png" ,Action 24
 http://stream-15.dc3.dailymotion.com/48/dm/3/x61fbhs/live-1.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://4.bp.blogspot.com/-CSt3UGbihus/U_D9TOsr3CI/AAAAAAAAZv4/z1L9SCenBKo/s1600/best_tv.png" ,BEST TV 
 https://best-tv.gr/HLS/hls/best/index.m3u8
@@ -247,7 +247,7 @@ http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 rtmp://live.cretetv.gr/cretetv/myStream
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/naS6gM" ,CretaTV
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="Kontra Channel" tvg-id="KontraEN.gr" tvg-logo="https://goo.gl/S96RUr" ,KONTRA
+#EXTINF:-1 group-title="Greece" tvg-name="Kontra Channel" tvg-id="Kontra.gr" tvg-logo="https://goo.gl/S96RUr" ,KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/3EsuCz" ,AIGAIO
 https://ssh101.com/m3u8/dyn/aigaiotvlive/index.m3u8
@@ -398,7 +398,7 @@ http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
 http://..........
 
-#EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="https://www.greektvlive.info/wp-content/uploads/2015/06/ert-hd-150x150.png" ,ERT HD
+#EXTINF:-1 group-title="Greece-SERVER2" tvg-id="EPT-HD.gr" tvg-logo="https://www.greektvlive.info/wp-content/uploads/2015/06/ert-hd-150x150.png" ,ERT HD
 http://5.135.92.138:31783/out/u/583_1.m3u8
 #EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 http://5.135.92.138:40327/out/u/atsykmssuyrsyhth.m3u8
