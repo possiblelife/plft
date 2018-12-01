@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,29/11/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,01/12/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -77,7 +77,7 @@ http://81.21.47.74/hls/live.m3u8
 http://www.fireshow.xyz/sigmam.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma TV" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://216.241.148.28:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Cyprus"  tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus 
+#EXTINF:-1 group-title="Cyprus"  tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus 
 http://www.alphacyprus.com.cy/page/live|agentnodown$$start=http://l$$end=        }],$$replace=',$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
 http://www.alphacyprus.com.cy/page/live|webnoagent$$start=url: 'http://$$end=',\n        }]$$replace=url: '$$replacewith=$$add=
@@ -185,8 +185,6 @@ https://www.youtube.com/watch?v=bAyzQwA_pfU
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA (Youtube)
 https://www.youtube.com/watch?v=oJbm78ZoMj4
-#EXTINF:-1 group-title="Greece" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA
-http://www.anacon.org/app/chans/gr/megag.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI Youtube
 https://www.youtube.com/watch?v=QlI8pnEoBW8
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://pbs.twimg.com/profile_images/1039551003702566912/IA8zd-C4_400x400.jpg" ,SKAI
@@ -4714,6 +4712,454 @@ http://77.134.143.101:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER3",
 
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
+http://..........
+
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE: USE
+https://www.youtube.com/watch?v=7sIsiHbDi_0
+#EXTINF:-1 group-title="France PREMIUM-SERVER1"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,VLC WITH
+https://www.youtube.com/watch?v=7sIsiHbDi_0
+#EXTINF:-1 group-title="France PREMIUM-SERVER1"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,REPEAT ENABLE.
+https://www.youtube.com/watch?v=7sIsiHbDi_0
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
+http://.....
+
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TF1
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9035
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| FRANCE 2
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9034
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| FRANCE 3
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9033
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| FRANCE 4
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9032
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| FRANCE 5
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9031
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| FRANCE O
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9030
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| M6
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9029
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| ARTE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9028
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",•●★---|FR| CH. CANAL+ |FR|---★●•
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9027
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL+
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9026
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL+ CINEMA
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9025
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL+ SPORT
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9024
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL+ SERIES
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9023
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL+ FAMILY
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9022
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL+ DECALE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9021
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",•●★-----|FR| CINEMA |FR|-----★●•
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9020
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CINE+ PREMIER
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9019
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CINE+ FRISSON
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9018
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CINE+ EMOTION
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9017
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CINE+ FAMIZ
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9016
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CINE+ CLUB
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9015
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CINE+ CLASSIC
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9014
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| OCS MAX
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9013
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| OCS CITY
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9012
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| OCS CHOC
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9011
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| OCS GEANTS
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9010
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| ALTICE STUDIO HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/13701
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| STUDIO MOVIE 1
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17731
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| STUDIO MOVIE 2
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17730
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| STUDIO MOVIE 3
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17729
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| STUDIO COMEDY HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17727
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| STUDIO CRIME HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17728
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| DISNEY CINEMA
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9009
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TCM CINEMA
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9008
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| PARAMOUNT CHANNEL
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9007
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| SUNDANCE TV
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9090
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| ACTION
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9006
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CRIME DISTRICT
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9727
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| VIVOLTA
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9728
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",•●★-|FR| DIVERTISSEMENT |FR|-★●•
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9003
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| COMEDIE+ HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9002
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| 13EME RUE HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9001
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| POLAR+ HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17726
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| SYFY HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9000
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| WARNER TV HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17725
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| SERIE CLUB
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8999
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MTV HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8998
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| ROUGE TV
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9725
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| ELLE GIRL
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8996
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| NON STOP PEOPLE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9091
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| E! ENTERTAINMENT HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8995
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| NOVELAS TV HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17724
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BE CURIOUS
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9729
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MCM
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9092
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| GAME ONE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8993
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| J-ONE HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8994
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MANGAS
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8992
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| AB1 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8991
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| AB3 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8990
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TV BREIZH HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8989
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TEVA HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8988
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| PARIS PREMIERE HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8987
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RTL9
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8986
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BET
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8985
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| C8 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8984
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| W9 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8983
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TMC HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8982
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TFX HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8980
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| NRJ 12 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8979
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CSTAR HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8978
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TF1 FILMS SERIES HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8977
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| 6TER HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8976
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| NUMERO 23
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8975
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CHERIE 25
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8974
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| LUCKY JACK
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/15807
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TV5 MONDE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8973
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",•●★-|FR| CH. AFRICAINES |FR|-★●•
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8972
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| NOLLYWOOD TV HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8971
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| A+
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9093
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TRACE AFRICA HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8970
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",•●★---|FR| DECOUVERTE |FR|---★●•
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8969
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| PLANETE+ HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8968
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| PLANETE+ CI HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8967
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| PLANETE+ A&E HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8966
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| DISCOVERY CHANNEL HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/7105
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| DISCOVERY SCIENCE HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/7106
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| DISCOVERY ID HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/7969
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| DISCOVERY FAMILY HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/15238
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MY CUISINE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/10126
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| VICELAND
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9094
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| NATIONAL GEO HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8965
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| NATIONAL GEO WILD HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8964
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| (VO)YAGE HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8963
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| USHUAIA TV
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8962
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| HISTOIRE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8961
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TOUTE L'HISTOIRE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8960
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| SCIENCE ET VIE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8957
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| ANIMAUX HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8959
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TREK
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9095
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| SEASONS HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8955
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CHASSE ET PECHE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8958
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC DECOUVERTE HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8956
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",•●★---|FR| RMC SPORT |FR|----★●•
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/7970
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT NEWS
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5820
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT 1 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/7971
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT 1
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5562
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT 1 ACCESS HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17723
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT 2 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5563
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT 2
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9824
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT 2 ACCESS HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17722
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT 3 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5564
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT 3
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17720
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT 3 ACCESS HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17721
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT 4 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9724
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT 4
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9825
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT LIVE 5 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17719
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT LIVE 6 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17718
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT LIVE 7 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17717
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT LIVE 8 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17716
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT LIVE 9 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17715
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT LIVE 10 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17714
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT LIVE 11 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17713
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RMC SPORT LIVE 12 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17712
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",•●★-----|FR| SPORT |FR|------★●•
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8954
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BEIN SPORTS 1 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8952
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BEIN SPORTS 1
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/7459
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BEIN SPORTS 2 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8951
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BEIN SPORTS 2
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/7460
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BEIN SPORTS 3 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8950
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BEIN SPORTS 3
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/7461
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| INFOSPORT+ HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8942
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| EUROSPORT 1 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8941
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| EUROSPORT 2 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8940
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| OM TV
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8937
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| OL TV
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8936
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| ONZEO
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9096
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| GIRONDINS TV
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9097
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| AB MOTEURS HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8933
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| EQUIDIA
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8934
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| EQUIDIA LIVE HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8935
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| GOLF+ HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8932
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| GOLF CHANNEL
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9098
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| EXTREME SPORTS
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8931
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MOTORS TV HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8930
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| L'EQUIPE 21 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8929
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| FOOT+ 24/24 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8939
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",•●★----|FR| JEUNESSE |FR|----★●•
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8928
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| DISNEY JUNIOR HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8927
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| NICKELODEON JUNIOR
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8924
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TIJI
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8926
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| PIWI+ HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8923
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BOOMERANG HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8922
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| NICKELODEON
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8921
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CARTOON NETWORK HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8920
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| DISNEY XD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8919
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL J HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8925
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TELETOON+ HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8918
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| NICKELODEON 4TEEN HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8917
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| DISNEY CHANNEL HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8916
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BOING HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8915
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TOONAMI HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8914
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| GULLI HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8913
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",•●★----|FR| MUSIQUE |FR|-----★●•
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8911
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MTV HITS
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8907
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| M6 MUSIC HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8910
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| NRJ HITS HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8909
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| TRACE URBAN
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8901
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MCM TOP
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9099
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| RFM TV
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9100
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MTV BASE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8905
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MTV DANCE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8906
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MTV ROCKS
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8903
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MTV MUSIC 24
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8904
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MTV CLASSIC
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8902
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| VH1
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9101
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| VH1 CLASSIC
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9102
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MEZZO
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9105
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MEZZO LIVE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9106
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| MELODY
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9104
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| VIRGIN TV
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8898
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BRAVA
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9103
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| DJAZZ
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9107
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",•●★-----|FR| AUTRES |FR|-----★●•
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9821
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| LEMAN BLEU
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9731
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| KTO
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9732
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| WEO
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/9733
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",•●★---|FR| CANAL PLAY |FR|---★●•
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/8896
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BOX OFFICE 1
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5730
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BOX OFFICE 2
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5731
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BOX OFFICE 3
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5732
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| BOX OFFICE 4
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5733
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL PLAY 1
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5734
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL PLAY 2
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5735
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL PLAY 3
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5736
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL PLAY 4
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5737
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL PLAY 5
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5738
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL PLAY 6
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5739
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL PLAY 7
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5740
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL PLAY 8
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5741
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL PLAY 9
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5742
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| CANAL PLAY 10
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/5743
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",•●★-----|BE| BELGIUM |BE|----★●•
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/3351
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| LA UNE HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/15244
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| LA DEUX HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/15245
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| LA TROIS HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/15246
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| RTL-TVI HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/15247
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| CLUB-RTL HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/15248
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| PLUG-RTL
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/15249
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| AB3 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/15250
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| AB EXPLORE
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/15239
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| PROXI 11.1 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17736
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| PROXI 11.2 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17735
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| PROXI 11.3 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17734
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| VOO SPORT 1 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17733
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|BE| VOO SPORT WORLD 1 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17732
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| ELEVEN SPORTS 1 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17742
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| ELEVEN SPORTS 2 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17740
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",|FR| ELEVEN SPORTS 3 HD
+http://premium-play.org:8000/domm0H56Cj/q3ODLP6C16/17738
 
 
 
@@ -6916,214 +7362,6 @@ http://62.28.213.14:9981/stream/channelid/1402355728
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png",RTP 1
-http://188.93.238.40:8000/play/a003/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png",RTP 2
-http://188.93.238.40:8000/play/a004/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png",SIC
-http://188.93.238.40:8000/play/a00y/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI
-http://188.93.238.40:8000/play/a024/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI
-http://188.93.238.40:8000/play/a04z/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png",SIC NOTICIAS
-http://188.93.238.40:8000/play/a00z/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png",RTP 3
-http://188.93.238.40:8000/play/a006/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png",TVI24
-http://188.93.238.40:8000/play/a00p/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CM TV
-http://188.93.238.40:8000/play/a03c/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png",SPORT TV+
-http://188.93.238.40:8000/play/a05l/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png",GLOBO
-http://188.93.238.40:8000/play/a00r/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png",SIC MULHER
-http://188.93.238.40:8000/play/a05g/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png",PORTO CANAL
-http://188.93.238.40:8000/play/a02u/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png",SIC CARAS
-http://188.93.238.40:8000/play/a02y/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png",SIC RADICAL
-http://188.93.238.40:8000/play/a02t/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png",RTP MEMORIA
-http://188.93.238.40:8000/play/a02w/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png",24 KITCHEN HD
-http://188.93.238.40:8000/play/a04g/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png",CANAL Q
-http://188.93.238.40:8000/play/a034/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1
-http://188.93.238.40:8000/play/a025/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 HD
-http://188.93.238.40:8000/play/a03q/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2
-http://188.93.238.40:8000/play/a012/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 HD
-http://188.93.238.40:8000/play/a03r/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3
-http://188.93.238.40:8000/play/a017/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 HD
-http://188.93.238.40:8000/play/a03s/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4
-http://188.93.238.40:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png",SPORT TV 5
-http://188.93.238.40:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV HD
-http://188.93.238.40:8000/play/a03p/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV HD
-http://188.93.238.40:8000/play/a03w/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png",SPORTING TV
-http://188.93.238.40:8000/play/a060/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png",EUROSPORT 1 PT
-http://188.93.238.40:8000/play/a009/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png",EUROSPORT 1 HD PT
-http://188.93.238.40:8000/play/a04d/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png",EUROSPORT 2 PT
-http://188.93.238.40:8000/play/a039/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png",MOTORVISION TV
-http://188.93.238.40:8000/play/a05c/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PFC.png",PFC
-http://188.93.238.40:8000/play/a036/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTV.png",FUEL TV
-http://188.93.238.40:8000/play/a054/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png",A BOLA TV
-http://188.93.238.40:8000/play/a01i/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png",DISNEY CHANNEL
-http://188.93.238.40:8000/play/a01e/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png",DISNEY JUNIOR
-http://188.93.238.40:8000/play/a05z/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png",CARTOON NETWORK
-http://188.93.238.40:8000/play/a02v/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png",NICKELODEON
-http://188.93.238.40:8000/play/a053/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png",PANDA
-http://188.93.238.40:8000/play/a026/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png",PANDA BIGGS
-http://188.93.238.40:8000/play/a05p/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png",SIC K
-http://188.93.238.40:8000/play/a00k/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png",BABY TV
-http://188.93.238.40:8000/play/a00c/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png",JIMJAM
-http://188.93.238.40:8000/play/a00n/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICCAO
-http://188.93.238.40:8000/play/a01h/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png",TVI REALITY
-http://188.93.238.40:8000/play/a05f/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TVCINE 1
-http://188.93.238.40:8000/play/a019/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TVCINE 1 HD
-http://188.93.238.40:8000/play/a059/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png",TVCINE 2
-http://188.93.238.40:8000/play/a00f/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png",TVCINE 2 HD
-http://188.93.238.40:8000/play/a049/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png",TVCINE 3
-http://188.93.238.40:8000/play/a01a/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png",TVCINE 3 HD
-http://188.93.238.40:8000/play/a047/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png",TVCINE 4
-http://188.93.238.40:8000/play/a00o/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png",TVCINE 4 HD
-http://188.93.238.40:8000/play/a051/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png",TVSERIES
-http://188.93.238.40:8000/play/a01b/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png",TVSERIES HD
-http://188.93.238.40:8000/play/a048/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD
-http://188.93.238.40:8000/play/a00e/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD HD
-http://188.93.238.40:8000/play/a03h/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEMUNDO.png",CINEMUNDO
-http://188.93.238.40:8000/play/a00a/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png",FOX MOVIES
-http://188.93.238.40:8000/play/a05i/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX HD
-http://188.93.238.40:8000/play/a03v/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png",AXN HD
-http://188.93.238.40:8000/play/a03u/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png",FOX LIFE HD
-http://188.93.238.40:8000/play/a04e/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png",FOX CRIME HD
-http://188.93.238.40:8000/play/a04f/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png",FOX COMEDY
-http://188.93.238.40:8000/play/a02x/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png",AXN WHITE HD
-http://188.93.238.40:8000/play/a04c/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png",AXN BLACK HD
-http://188.93.238.40:8000/play/a04a/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png",SYFY
-http://188.93.238.40:8000/play/a011/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC
-http://188.93.238.40:8000/play/a05b/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC HD
-http://188.93.238.40:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png",MTV PORTUGAL
-http://188.93.238.40:8000/play/a00l/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png",VH1 EUROPE
-http://188.93.238.40:8000/play/a05m/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1CLASSIC.png",VH1 CLASSIC
-http://188.93.238.40:8000/play/a057/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCMPOP.png",MCM POP
-http://188.93.238.40:8000/play/a03a/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AFROMUSIC.png",AFRO MUSIC
-http://188.93.238.40:8000/play/a01d/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",DISCOVERY
-http://188.93.238.40:8000/play/a014/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NATIONAL GEOGRAPHIC HD
-http://188.93.238.40:8000/play/a03t/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png",NATIONAL GEOGRAPHIC WILD
-http://188.93.238.40:8000/play/a02s/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png",HISTORIA
-http://188.93.238.40:8000/play/a00b/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISSEIA.png",ODISSEIA
-http://188.93.238.40:8000/play/a015/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png",E! ENTERTAINMENT
-http://188.93.238.40:8000/play/a02z/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLAZETV.png",BLAZE
-http://188.93.238.40:8000/play/a05k/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png",TRAVEL CHANNEL
-http://188.93.238.40:8000/play/a04b/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCENTERT.png",BBC ENTERTAINMENT
-http://188.93.238.40:8000/play/a05d/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBONOW.png",GLOBO NOW
-http://188.93.238.40:8000/play/a037/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png",TV RECORD
-http://188.93.238.40:8000/play/a005/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EURONEWS.png",EURONEWS
-http://188.93.238.40:8000/play/a06g/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNN.png",CNN
-http://188.93.238.40:8000/play/a05r/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLOOMBERGTV.png",BLOOMBERG
-http://188.93.238.40:8000/play/a032/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CNBC.png",CNBC
-http://188.93.238.40:8000/play/a033/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANGELUSTV.png",ANGELUS TV
-http://188.93.238.40:8000/play/a010/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMADEIRA.png",RTP MADEIRA
-http://188.93.238.40:8000/play/a007/index.m3u8
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png",RTP ACORES
-http://188.93.238.40:8000/play/a008/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png",CANCAO NOVA
-http://188.93.238.40:8000/play/a03b/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png",RTP AFRICA
-http://188.93.238.40:8000/play/a031/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVEi.png",TVEi
-http://188.93.238.40:8000/play/a05o/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROCHANNEL.png",EUROCHANNEL PT
-http://188.93.238.40:8000/play/a00d/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png",TOROS TV
-http://188.93.238.40:8000/play/a05x/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAEPESCA.png",CACA & PESCA
-http://188.93.238.40:8000/play/a055/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="http://vignette3.wikia.nocookie.net/logopedia/images/2/27/Realmadrid_TV.svg/revision/latest/scale-to-width-down/600?cb=20100605113205",REAL MADRID TV
-http://188.93.238.40:8000/play/a09a/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KOMBATSPORT.png",KOMBAT SPORT
-http://188.93.238.40:8000/play/a03i/index.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png",DISCOVERY SHOWCASE
-http://188.93.238.40:8000/play/a052/index.m3u8
-
-
 
 
 
@@ -8998,128 +9236,38 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/S
 
 #EXTINF:-1 group-title="China-SERVER2"
 
-#EXTINF:-1 group-title="China-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/255px-Flag_of_the_People%27s_Republic_of_China.svg.png" ,==China==
-http://..........
-
-#EXTINF:-1 group-title="China-SERVER2",CCTV-NEWS
-http://223.110.241.204:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS
-#EXTINF:-1 group-title="China-SERVER2",CETV-1标清
-http://223.110.241.204:6610/gitv/live1/G_CETV-1/G_CETV-1
-#EXTINF:-1 group-title="China-SERVER2",CETV-2标清
-http://223.110.241.204:6610/gitv/live1/G_CETV-2/G_CETV-2
-#EXTINF:-1 group-title="China-SERVER2",CETV-3标清
-http://223.110.241.204:6610/gitv/live1/G_CETV-3/G_CETV-3
-#EXTINF:-1 group-title="China-SERVER2",CETV-4标清
-http://223.110.241.204:6610/gitv/live1/G_CETV-4/G_CETV-4
-#EXTINF:-1 group-title="China-SERVER2",湖南卫视超清-8M
-http://223.110.241.204:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ
-#EXTINF:-1 group-title="China-SERVER2",江苏卫视超清
-http://223.110.241.204:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ
-#EXTINF:-1 group-title="China-SERVER2",北京卫视超清-8M
-http://223.110.241.204:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ
-#EXTINF:-1 group-title="China-SERVER2",浙江卫视超清
-http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ
-#EXTINF:-1 group-title="China-SERVER2",东方卫视超清-8M
-http://223.110.241.204:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ
-#EXTINF:-1 group-title="China-SERVER2",安徽卫视
-http://223.110.241.204:6610/gitv/live1/AHWS/AHWS
-#EXTINF:-1 group-title="China-SERVER2",辽宁卫视
-http://223.110.241.204:6610/gitv/live1/LNWS/LNWS
-#EXTINF:-1 group-title="China-SERVER2",山东卫视
-http://223.110.241.204:6610/gitv/live1/SDWS/SDWS
-#EXTINF:-1 group-title="China-SERVER2",广西卫视
-http://223.110.241.204:6610/gitv/live1/GXWS/GXWS
-#EXTINF:-1 group-title="China-SERVER2",旅游卫视
-http://223.110.241.204:6610/gitv/live1/LYWS/LYWS
-#EXTINF:-1 group-title="China-SERVER2",重庆卫视
-http://223.110.241.204:6610/gitv/live1/G_CHONGQING/G_CHONGQING
-#EXTINF:-1 group-title="China-SERVER2",四川卫视
-http://223.110.241.204:6610/gitv/live1/SCWS/SCWS
-#EXTINF:-1 group-title="China-SERVER2",河南卫视
-http://223.110.241.204:6610/gitv/live1/HENAN/HENAN
-#EXTINF:-1 group-title="China-SERVER2",东南卫视
-http://223.110.241.204:6610/gitv/live1/DNWS/DNWS
-#EXTINF:-1 group-title="China-SERVER2",天津卫视
-http://223.110.241.204:6610/gitv/live1/TJWS/TJWS
-#EXTINF:-1 group-title="China-SERVER2",江西卫视
-http://223.110.241.204:6610/gitv/live1/JXWS/JXWS
-#EXTINF:-1 group-title="China-SERVER2",湖北卫视
-http://223.110.241.204:6610/gitv/live1/G_HUBEI/G_HUBEI
-#EXTINF:-1 group-title="China-SERVER2",吉林卫视
-http://223.110.241.204:6610/gitv/live1/G_JILIN/G_JILIN
-#EXTINF:-1 group-title="China-SERVER2",山西卫视
-http://223.110.241.204:6610/gitv/live1/SXWS/SXWS
-#EXTINF:-1 group-title="China-SERVER2",贵州卫视
-http://223.110.241.204:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU
-#EXTINF:-1 group-title="China-SERVER2",青海卫视
-http://223.110.241.204:6610/gitv/live1/G_QINGHAI/G_QINGHAI
-#EXTINF:-1 group-title="China-SERVER2",内蒙古卫视
-http://223.110.241.204:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU
-#EXTINF:-1 group-title="China-SERVER2",云南卫视
-http://223.110.241.204:6610/gitv/live1/G_YUNNAN/G_YUNNAN
-#EXTINF:-1 group-title="China-SERVER2",河北卫视
-http://223.110.241.204:6610/gitv/live1/G_HEBEI/G_HEBEI
-#EXTINF:-1 group-title="China-SERVER2",宁夏卫视
-http://223.110.241.204:6610/gitv/live1/G_NINGXIA/G_NINGXIA
-#EXTINF:-1 group-title="China-SERVER2",新疆卫视
-http://223.110.241.204:6610/gitv/live1/G_XINJIANG/G_XINJIANG
-#EXTINF:-1 group-title="China-SERVER2",甘肃卫视
-http://223.110.241.204:6610/gitv/live1/G_GANSU/G_GANSU
-#EXTINF:-1 group-title="China-SERVER2",优漫卡通
-http://223.110.241.204:6610/gitv/live1/G_YOUMAN/G_YOUMAN
-#EXTINF:-1 group-title="China-SERVER2",广东卫视
-http://223.110.241.204:6610/gitv/live1/G_GUANGDONG/G_GUANGDONG
-#EXTINF:-1 group-title="China-SERVER2",深圳卫视
-http://223.110.241.204:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN
-#EXTINF:-1 group-title="China-SERVER2",黑龙江卫视
-http://223.110.241.204:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG
-#EXTINF:-1 group-title="China-SERVER2",南方卫视（广东）
-http://223.110.241.204:6610/gitv/live1/G_NANFANG/G_NANFANG
-#EXTINF:-1 group-title="China-SERVER2",厦门卫视
-http://223.110.241.204:6610/gitv/live1/G_XIAMEN/G_XIAMEN
-#EXTINF:-1 group-title="China-SERVER2",山东卫视超清
-http://223.110.241.204:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ
-#EXTINF:-1 group-title="China-SERVER2",嘉佳卡通
-http://223.110.241.204:6610/gitv/live1/G_JIAJIA/G_JIAJIA
-#EXTINF:-1 group-title="China-SERVER2",农林卫视
-http://223.110.241.204:6610/gitv/live1/G_NONGLIN/G_NONGLIN
-#EXTINF:-1 group-title="China-SERVER2",老故事
-http://223.110.241.204:6610/gitv/live1/G_LAOGUSHI/G_LAOGUSHI
-#EXTINF:-1 group-title="China-SERVER2",中国交通频道
-http://223.110.241.204:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT
-#EXTINF:-1 group-title="China-SERVER2",国学频道
-http://223.110.241.204:6610/gitv/live1/G_GUOXUE/G_GUOXUE
-#EXTINF:-1 group-title="China-SERVER2",篮球
-http://223.110.241.204:6610/gitv/live1/G_LANQIU/G_LANQIU
-#EXTINF:-1 group-title="China-SERVER2",卡酷少儿
-http://223.110.241.204:6610/gitv/live1/G_KAKU/G_KAKU
-#EXTINF:-1 group-title="China-SERVER2",金鹰卡通
-http://223.110.241.204:6610/gitv/live1/G_JINYING/G_JINYING
-#EXTINF:-1 group-title="China-SERVER2",炫动卡通
-http://223.110.241.204:6610/gitv/live1/G_XUANDONG/G_XUANDONG
-#EXTINF:-1 group-title="China-SERVER2",湖南卫视
-http://223.110.241.204:6610/gitv/live1/G_HUNAN/G_HUNAN
-#EXTINF:-1 group-title="China-SERVER2",北京卫视
-http://223.110.241.204:6610/gitv/live1/G_BEIJING/G_BEIJING
-#EXTINF:-1 group-title="China-SERVER2",浙江卫视
-http://223.110.241.204:6610/gitv/live1/G_ZHEJIANG/G_ZHEJIANG
-#EXTINF:-1 group-title="China-SERVER2",东方卫视
-http://223.110.241.204:6610/gitv/live1/G_DONGFANG/G_DONGFANG
-#EXTINF:-1 group-title="China-SERVER2",陕西卫视
-http://223.110.241.204:6610/gitv/live1/G_SHANXI/G_SHANXI
-#EXTINF:-1 group-title="China-SERVER2",CCTV-1
-http://223.110.241.204:6610/gitv/live1/G_CCTV-1/G_CCTV-1
 #EXTINF:-1 group-title="China-SERVER2",CCTV-2
-http://223.110.241.204:6610/gitv/live1/G_CCTV-2/G_CCTV-2
-#EXTINF:-1 group-title="China-SERVER2",CCTV-3
-http://223.110.241.204:6610/gitv/live1/G_CCTV-3-HD/G_CCTV-3-HD
-#EXTINF:-1 group-title="China-SERVER2",CCTV-5
-http://223.110.241.204:6610/gitv/live1/G_CCTV-5-HD/G_CCTV-5-HD
-#EXTINF:-1 group-title="China-SERVER2",CCTV-8
-http://223.110.241.204:6610/gitv/live1/G_CCTV-8/G_CCTV-8
-
-
-
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607546_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-1HD
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106500611_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-4
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541167_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-3HD
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558316_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-5+HD
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106500622_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-5HD
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558317_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-7
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607547_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-6HD
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558318_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-9
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607548_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-8HD
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558319_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-11
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541170_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-10
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607549_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-13
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106500629_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-12
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607616_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-15
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541263_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV-14
+http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607553_800.m3u8
 
 
 
@@ -12245,6 +12393,614 @@ http://178.214.76.162:8061/StarWorl
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
 
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS1 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/55.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS2 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/41.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS3 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/39.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS4 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/37.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS5 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/35.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS6 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/33.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS7 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/31.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS8 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/29.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS9 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/27.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS10 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/53.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 11 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/51.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 12 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/49.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS FR 1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/47.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS FR 2
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/45.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS FR 3
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/43.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 1 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/54.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 2 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/40.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 3 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/38.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 4 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/36.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 5 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/34.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 6 SD 
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/32.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 7 SD 
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/30.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 8 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/28.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 9 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/26.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 10 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/52.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 11 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/50.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 12 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/48.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 13 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/46.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 14 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/44.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS 15 SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/42.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeIN Movies 1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/60.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeIN Movies 2 
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/59.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeIN Movies 3 
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/58.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeIN Movies 4
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/57.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Baraeim
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/66.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein AMC
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/65.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein DMAX
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/64.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein DTX
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/63.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Gourmet
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/62.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Junior
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/61.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeIN Series
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/56.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Dream Works
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/25.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Fatafeat
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/24.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Fox HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/23.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Fox Movies HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/22.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:Animal_Planet_HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/19.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:Cinemachi_Kids
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/18.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:Cinemachi_Movies
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/17.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:Discovery_Sc
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/16.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:Fast_FunBOX
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/15.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:FilmBox_Arthouse
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/14.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:FilmBox_HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/13.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:Fix_Foxi
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/12.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:Fox_Action_Movies
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/11.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:Fox_Family_Movies
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/10.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:FX HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/9.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:GULLI_BIL_ARABIE
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/8.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:H2_HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/7.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:my_Cinema
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/6.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Outdoor
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/5.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Travel Channel
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/1.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",2M Maroc
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/68.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Aoula HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/67.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Maghribia
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4177.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MA:Arrabia
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/458
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MA:Arriadia
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/457
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:Assadisa
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/456
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MA;Medi1
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/451
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MA:Tamazight Maroc
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/579
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MA:Tele Maroc
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/3611
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TF1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/75.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",M6
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/76.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",France 2
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/77.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",France 3
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/78.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",France 4
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/79.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",France 5
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/80.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",6Ter
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/97.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",C8
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/85.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",W9
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/86.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NT1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/83.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",HD 1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/82.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",France O
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/81.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Cherie25
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/96.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Numero 23
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/94.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TMC
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/87.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Arte
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/84.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:RMC Decouvert
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/305
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:BFM News
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/283
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:France Info
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/3688
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:Cnews
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/471
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:LEQUIPE
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/580
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:Gulli
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/289
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:Cstar
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/302
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:NRJ12
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/285
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Canal+
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/99.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Canal+ Decale
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/100.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Canal+ Cinema
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/101.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:Canal+ Family
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/184
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Canal+ Series
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/104.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:Canal+ Sport
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/5190
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Jazeera
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/109.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al jazeera Mubasher
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/111.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Arabiya
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/110.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:Al Arabiya Al hadath
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/636.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",CNBC Arabiya
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/113.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC1-HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/114.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC1-SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4630.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC2-HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/115.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC2-SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4631.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC3-HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/116.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC3-SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4632.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC4-HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/117.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC4-SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4633.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Drama HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/119.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Drama SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4636.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC+ Drama
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/122.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Action HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/118.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Action SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4634.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Max HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/120.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Max SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4637.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Bollywood
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/123.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Bollywood SD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4635.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC+ Variety HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/121.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Masr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/124.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Masr 2
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/125.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Sport 1 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/21.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Sport 2 HD
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/20.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Cartoon Network ar
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/106.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Space Toon
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/105.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Toyor Al Janah local
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/107.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Toyor Baby
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/108.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Tiji
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4010.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Piwi
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4008.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Teletoon
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4009.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Gulli Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4004.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Nickelodeon fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4006.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Nickelodeon JR Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4007.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Disney Junior FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4001.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Disney Channel fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/3999.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Disney Cinema Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4000.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Disney XD Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4002.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Game One
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4003.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Mangas
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4005.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Boing Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4013.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Boomerang Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4012.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Canal J
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4014.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Cartoon Network fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4011.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Abu Dhabi Sport 3
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4022.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Abu Dhabi Sport 4
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4023.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Abu Dhabi Sport 5
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4024.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Planete+
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4089.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Planete CI
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4093.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Planete AE
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4094.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:Nat Geo FR
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/486.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:Nat Geo Wild FR
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/485.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Voyage
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4185.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Animaux
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4181.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ushuaia
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4184.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Discovery FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4178.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Discovery Sc FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4179.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Discovery ID FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4180.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Crime District
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4188.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Rmc Decouverte
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4092.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Trek
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4183.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sciences & Vie
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4091.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Season
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4090.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Chasse et Peche
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4187.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Histoire
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4182.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Toute L Histoire
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4186.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Action
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4191.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Cine Premier
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4192.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Cine Emotion
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4190.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Cine Frisson
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4195.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Cine Classic
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4193.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Cine Club
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4194.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Cine Famiz
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4275.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Cine FX
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4196.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Cine Polar
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4197.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Tcm Cinema
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4198.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Paramount Channel FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4265.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ocs Choc
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4199.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ocs City
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4200.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ocs Geant
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4201.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ocs Max
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4189.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ocs Go Cinema1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4202.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ocs Go Cinema2
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4203.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ocs Go Cinema3
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4204.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ocs Go Cinema4
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4205.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",13  Rue
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4251.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Serie Club
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4278.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYFY Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4270.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TV Breizh
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4272.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Comedie+
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4252.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Paris Premier
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4277.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",RTL9
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4267.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AB1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4273.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",E! Entertainement
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4253.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:ELLE Girl
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/2164.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:TV5 Monde
+http://iptv.ndasat.com:88/universtv/0PFZPi6whJ/1528
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:Euronews FR
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/3616.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Infosport
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4262.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SFR Sport 1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4268.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SFR Sport 2
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4269.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AB Moteur
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4274.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Equidia Life
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4255.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:Equidia Live
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1409.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:Eurosport 1 FR
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/572.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Eurosport 2 FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4257.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Extreme Sport FR
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4259.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Golf Channel
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4261.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Golf+ Fr
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4260.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MCM
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4263.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FR:MTV France
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1030.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",RFM
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4266.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Trace Urban
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4271.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",A1 Jordan
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1406.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Jadeed
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4347.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:Al Manar
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/543.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:Al Mayadeen
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/544.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:LBC
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/591.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LDC
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4351.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:MTV Leb
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/546.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:Future TV
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/542.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NBN
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4353.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OTV
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4354.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Aqsa
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4355.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Quds
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4356.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Falestinia
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4357.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Palestine
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4359.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:Palestine Live
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1495.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:Palestine Today
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/875.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Prime
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4358.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:Jordan TV
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1478.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:Jordan Sport
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1514.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Ordon Alyawm
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4363.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",aR:Zweina Baladna
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1006.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Syria
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4338.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Syria Al Ekhbaria
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4339.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Syria Drama
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4345.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Syria Education
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4340.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",AR:Sama TV
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/935.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Halab Today
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4341.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Nour El Sham
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4342.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Orient
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4343.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DMC Drama
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4287.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DMC Sport
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4286.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ON Sport
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4288.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Al Fujaira
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4289.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Rotana Aflam
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4285.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Rotana Cinema
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4284.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Rotana Classic
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4283.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Rotana Drama
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4280.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Rotana Khaligia
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4281.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Rotana Musica
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4282.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LA 1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4383.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LA 2
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4384.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Antena3
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4368.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Cuatro
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4376.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Tele5
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4396.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",La Sexta
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4382.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",#0
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4367.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",FDF
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4379.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Canal 24 Horas
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4372.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Movistar Accion
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4385.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Movistar Comedia
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4386.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Movistar Dcine
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4387.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Movistar Estrenos
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4390.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Movistar Series
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4392.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Boing es
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4375.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Clan TV
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4374.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Disney ES
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4378.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein La Liga
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4370.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports ES
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4371.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Gol TV
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4380.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",la Liga  tv
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4381.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Movistar Deportes1
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4388.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Movistar Deportes2
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4389.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Movistar Futbol
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4391.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Barca TV
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4369.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Real Madrid TV
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4395.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Caza Y Pesca
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4373.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Discovery Es
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4377.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Nat geo es
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4393.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Nat Geo Wild es
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4394.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Viajar
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4397.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Test
+http://190.2.132.7:8080/live/atlasuk/i1ukulG3h1/4416.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DZ-Entv
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/569.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DZ-Canal Algerie
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/427.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DZ-Algerie 3
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/432.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DZ-AL Haddaf
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/559.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DZ-Dzair News
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/565.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DZ-Dzair TV
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/446.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DZ-Echorouk TV
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/425.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DZ-Echourouk News
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/560.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DZ-Ennahar tv
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/426.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",DZ-Samira TV
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/449.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TN-National1
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/434.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TN-National2
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/435.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TN-AlhiwarTN
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/445.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TN-Ettasia
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/438.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TN-Hannibal
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/437.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TN-Mtunisia
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/1418.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TN-Nessma
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/436.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TN-Tounesna
+http://iptv.ndasat.com:88/live/universtv/0PFZPi6whJ/443.ts
 
 
 
@@ -12263,77 +13019,180 @@ http://178.214.76.162:8061/StarWorl
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 1 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/2.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 2 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/3.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 3 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/4.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 4 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/5.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 5 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/6.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 6 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/7.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 7 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/8.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 8 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/9.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beIN Sports 9 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/10.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN AD Sports 1 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/26.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN AD Sports 2 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/27.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",KASS SPORTS 1 (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/18.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN WWE HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/39.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN MOVIES 1HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/34.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN MOVIES 2HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/35.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN MOVIES 3 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/36.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN MOVIES 4 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/37.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC1 (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/29.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC 2 (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/30.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC 4 (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/31.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC Action (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/32.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC MAX (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/33.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",MBC MASR (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/28.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN Movies HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/44.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN Movies  2h (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/45.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN Movies Action HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/42.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN Movies Action  2 (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/43.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN Movies Kids HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/46.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN Fox Movies HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/38.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN Box Office 1 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/47.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OSN BOX OFFICE 2 HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/48.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",SR: Supersport 2
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/49.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Quest Arabiya HD (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/40.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Fox Tv HD 1080 (BG)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/41.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",2M MAROC (AR)
-http://68.183.29.174:8000/live/EmWIJPRvUM/freeiptvdaily.tv/11.ts
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AL ANIS TV
+http://188.93.238.56:8000/play/a02q
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Aoula Inter +L HD
+http://188.93.238.56:8000/play/a014
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Aoula Inter
+http://188.93.238.56:8000/play/a017
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Aoula Inter HD
+http://188.93.238.56:8000/play/a015
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AL HAKIM-TV
+http://188.93.238.56:8000/play/a01s
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Arrabiaa HD
+http://188.93.238.56:8000/play/a016
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Al Maghribia HD
+http://188.93.238.56:8000/play/a013
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Assadissa HD
+http://188.93.238.56:8000/play/a018
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Arryadia HD
+http://188.93.238.56:8000/play/a01a
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BVN
+http://188.93.238.56:8000/play/a00s
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BENZ TV
+http://188.93.238.56:8000/play/a01p
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Beur TV
+http://188.93.238.56:8000/play/a02o
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Bahia TV
+http://188.93.238.56:8000/play/a02j
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Blue Hustler
+http://188.93.238.56:8000/play/a01f
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",CM2
+http://188.93.238.56:8000/play/a031
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",CM1
+http://188.93.238.56:8000/play/a033
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",CNL
+http://188.93.238.56:8000/play/a00t
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",CM2
+http://188.93.238.56:8000/play/a030
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Cartoon Network Arabic
+http://188.93.238.56:8000/play/a02s
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dzair TV
+http://188.93.238.56:8000/play/a02h
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Dzair News
+http://188.93.238.56:8000/play/a02g
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Echourouk TV SD
+http://188.93.238.56:8000/play/a02d
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Echourouk News
+http://188.93.238.56:8000/play/a02e
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",EL FADJR TV DZ
+http://188.93.238.56:8000/play/a02m
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",El Adjwaa
+http://188.93.238.56:8000/play/a02u
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",El Djazairia TV
+http://188.93.238.56:8000/play/a02i
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",El Bilad TV
+http://188.93.238.56:8000/play/a02n
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Ennahar TV
+http://188.93.238.56:8000/play/a02c
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",El Haddaf TV
+http://188.93.238.56:8000/play/a02k
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Fashion One
+http://188.93.238.56:8000/play/a00u
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Fashion One
+http://188.93.238.56:8000/play/a01k
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Alwan HD
+http://188.93.238.56:8000/play/a01v
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Movies HD
+http://188.93.238.56:8000/play/a01u
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Comedia
+http://188.93.238.56:8000/play/a01o
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Gouraya TV
+http://188.93.238.56:8000/play/a01x
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",GM Muzicana
+http://188.93.238.56:8000/play/a01n
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",HALA DRAMA
+http://188.93.238.56:8000/play/a029
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",HALA BOLLYWOOD
+http://188.93.238.56:8000/play/a027
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",HALA MIX
+http://188.93.238.56:8000/play/a028
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",HALA SERIES
+http://188.93.238.56:8000/play/a026
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",HALA MOVIES
+http://188.93.238.56:8000/play/a024
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",HALA TURK
+http://188.93.238.56:8000/play/a025
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Hustler HD
+http://188.93.238.56:8000/play/a01i
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Hashtag
+http://188.93.238.56:8000/play/a02v
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",LYRG
+http://188.93.238.56:8000/play/a02b
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",M Music HD
+http://188.93.238.56:8000/play/a01t
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",M Chaabi
+http://188.93.238.56:8000/play/a01q
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Menrva HD TV
+http://188.93.238.56:8000/play/a01w
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Medi1 TV
+http://188.93.238.56:8000/play/a019
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Music Box Russia
+http://188.93.238.56:8000/play/a00v
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Numidia News
+http://188.93.238.56:8000/play/a02p
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",NetViet
+http://188.93.238.56:8000/play/a00p
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OFIVE ORIENT
+http://188.93.238.56:8000/play/a01r
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",OFIVE AFRICA
+http://188.93.238.56:8000/play/a01l
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Private TV HD
+http://188.93.238.56:8000/play/a01g
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",RAWAJ 2 TV
+http://188.93.238.56:8000/play/a01z
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",RAWAJ 1 TV
+http://188.93.238.56:8000/play/a01y
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",RAWAJ 4 TV
+http://188.93.238.56:8000/play/a021
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",RAWAJ 3 TV
+http://188.93.238.56:8000/play/a020
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",RAWAJ 6 TV
+http://188.93.238.56:8000/play/a023
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",RAWAJ 5 TV
+http://188.93.238.56:8000/play/a022
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Redlight HD
+http://188.93.238.56:8000/play/a01h
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",S7T Anime
+http://188.93.238.56:8000/play/a038
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",S7T Aflam HD
+http://188.93.238.56:8000/play/a032
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",S7T Bollywood
+http://188.93.238.56:8000/play/a02y
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",S7T Cartoon
+http://188.93.238.56:8000/play/a02w
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",S7T CLASSIC
+http://188.93.238.56:8000/play/a02z
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",S7T Korean
+http://188.93.238.56:8000/play/a036
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",S7T Music
+http://188.93.238.56:8000/play/a02x
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",S7T Movies HD
+http://188.93.238.56:8000/play/a034
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",S7T Sport HD
+http://188.93.238.56:8000/play/a035
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",S7T Series
+http://188.93.238.56:8000/play/a037
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",S7T Tourisme
+http://188.93.238.56:8000/play/a039
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Samira TV
+http://188.93.238.56:8000/play/a02l
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Sahara TV Algeria
+http://188.93.238.56:8000/play/a02t
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Suryoyo Sat
+http://188.93.238.56:8000/play/a00r
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",TBN-Ukraine
+http://188.93.238.56:8000/play/a00x
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",TBN Russia
+http://188.93.238.56:8000/play/a00w
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",TVK
+http://188.93.238.56:8000/play/a00z
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",TN Events
+http://188.93.238.56:8000/play/a01m
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Thai Global Network
+http://188.93.238.56:8000/play/a00y
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tamazight HD
+http://188.93.238.56:8000/play/a01b
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",The Word Network
+http://188.93.238.56:8000/play/a011
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",The Overcomer
+http://188.93.238.56:8000/play/a010
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",ZAD TV
+http://188.93.238.56:8000/play/a02r
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",N/A
+http://188.93.238.56:8000/play/a00q
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",cbc BENNA
+http://188.93.238.56:8000/play/a02f
 
 
 
