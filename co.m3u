@@ -85,7 +85,7 @@ http://www.alphacyprus.com.cy/page/live|webnoagent$$start=url: 'http://$$end=',\
 http://216.241.148.28:8000/play/a00u/index.m3u8
 
 #EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus
-https://www.ant1.com.cy/web-tv-live/|webnoagent$$start=live-player', ['$$end=.m3u8$$replace=live-player', ['$$replacewith=$$add=.m3u8
+https://www.ant1.com.cy/web-tv-live/|webnoagent$$start=href=\"https://l$$end=\" data-in$$replace=href=\"$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy"  tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
 http://www.fireshow.xyz/ant1cym.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
