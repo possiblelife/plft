@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,08/12/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,10/12/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -53,74 +53,64 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|agentnodown$$start=file: "htt
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="RIK1.cy" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
 http://www.fireshow.xyz/rik1.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-id="RIK1.cy" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
-http://216.241.148.28:8000/play/a00h/index.m3u8
+
 #EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png" ,RIK2
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
 http://www.fireshow.xyz/rik2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
-http://216.241.148.28:8000/play/a00i/index.m3u8
+
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/rik-hd-jpg-H1Uop6wxQ.jpg" ,RIK HD
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/rik-hd-jpg-H1Uop6wxQ.jpg" ,RIK HD
-http://216.241.148.28:8000/play/a00l/index.m3u8
+
 #EXTINF:-1 group-title="Cyprus" tvg-id="TVOne.cy" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA (Retry if failed)
 http://www.omegatv.com.cy/live/|webnoagent$$start=file: \"http://$$end=\"},$$replace=file: \"$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-id="TVOne.cy" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA
 http://www.fireshow.xyz/megacym.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-id="TVOne.cy" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA
-http://216.241.148.28:8000/play/a00n/index.m3u8
+
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma TV" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma TV" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://www.fireshow.xyz/sigmam.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma TV" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
-http://216.241.148.28:8000/play/a00o/index.m3u8
+
 #EXTINF:-1 group-title="Cyprus"  tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus 
 http://www.alphacyprus.com.cy/page/live|agentnodown$$start=http://l$$end=        }],$$replace=',$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
 http://www.alphacyprus.com.cy/page/live|webnoagent$$start=url: 'http://$$end=',\n        }]$$replace=url: '$$replacewith=$$add=
-#EXTINF:-1 group-title="Cyprus" tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
-http://216.241.148.28:8000/play/a00u/index.m3u8
+
 #EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus
 https://www.ant1.com.cy/web-tv-live/|webnoagent$$start=href=\"https://l$$end=\" data-in$$replace=href=\"$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy"  tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
 http://www.fireshow.xyz/ant1cym.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
-http://216.241.148.28:8000/play/a00m/index.m3u8
+
 #EXTINF:-1 group-title="Cyprus" tvg-id="CapitalTV.cy" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://master.cystreams.com:25461/live/greek/asshole/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-id="CapitalTV.cy" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://www.anacon.org/app/chans/cy/capitalcy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="CapitalTV.cy" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
-http://216.241.148.28:8000/play/a00r/index.m3u8
+
+
 #EXTINF:-1 group-title="Cyprus" tvg-id="Extra.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
 http://master.cystreams.com:25461/live/greek/asshole/15.ts
 #EXTINF:-1 group-title="Cyprus" tvg-id="Extra.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
 http://www.anacon.org/app/chans/cy/extracy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-id="Extra.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
-http://216.241.148.28:8000/play/a00q/index.m3u8
+
 #EXTINF:-1 group-title="Cyprus" tvg-id="PlusTV.cy" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus
 http://www.anacon.org/app/chans/cy/pluscy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-id="PlusTV.cy" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus
-http://216.241.148.28:8000/play/a00p/index.m3u8
+
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://master.cystreams.com:25461/live/greek/asshole/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://www.lakatamia.tv/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
-http://216.241.148.28:8000/play/a00v/index.m3u8
+
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
 https://www.youtube.com/watch?v=FsTKqUqSQPY
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS
 http://gr.euronews.com/live|webnoagent$$start=https://euronews-$$end=playlist.m3u8$$replace=$$replacewith=$$add=playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/cbctvmall.gif" ,TV Mall
 http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/cbctvmall.gif" ,TV Mall
-http://216.241.148.28:8000/play/a00s/index.m3u8
+
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
 https://istoikona.com/CYSPORTS|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.radioepistrofi.com/templates/olympus/images/logo.jpg" ,RADIO EPISTROFI - TopFM99.9
@@ -133,8 +123,7 @@ http://master.cystreams.com:25461/live/faros/farostv/1866.m3u8
 https://www.youtube.com/watch?v=qRY56sJJ2to
 #EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
-http://216.241.148.28:8000/play/a00j/index.m3u8
+
 
 
 
@@ -414,6 +403,55 @@ http://5.135.92.138:40327/out/u/atsykmssuyrsyhth.m3u8
 
 
 #EXTINF:-1 group-title="Greece-SERVER3",
+
+#EXTINF:-1 group-title="Greece-SERVER3",Alpha
+http://145.239.65.29:6511/live/Alpha/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",Star
+http://145.239.65.29:6511/live/Star/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",Skai
+http://145.239.65.29:6511/live/Skai/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",Ant1
+http://145.239.65.29:6511/live/Ant1/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",Open
+http://145.239.65.29:6511/live/Etv/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",Makedonia
+http://145.239.65.29:6511/live/Makedonia/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",HpeirosTV
+http://145.239.65.29:6511/live/HpirosTV3453/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",Kriti TV
+http://145.239.65.29:6511/live/kriti/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",THESALIA
+http://145.239.65.29:6511/live/thesalia/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",xtra3
+http://145.239.65.29:6511/live/extra3/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",ERT3
+http://145.239.65.29:6511/live/casteretr3/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",ERT2
+http://145.239.65.29:6511/live/motorsvision/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",ERT1
+http://145.239.65.29:6511/live/EDT/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",ERTHD
+http://145.239.65.29:6511/live/erthd/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",Kontra
+http://145.239.65.29:6511/live/Konta/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",ANT1 EUROPE
+http://145.239.65.29:6511/live/ant1erpa/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",APT
+http://145.239.65.29:6511/live/art/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",Diktio
+http://145.239.65.29:6511/live/diktionn/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",Nickeledeon
+http://145.239.65.29:6511/live/Nickeledeon/mpegts?token=fotmpe1
+#EXTINF:-1 group-title="Greece-SERVER3",Smile
+http://145.239.65.29:6511/live/Boomerang/mpegts?token=fotmpe1
+
+
+
+
+
+
+
+
 
 
 
@@ -1695,7 +1733,60 @@ https://easyview.eu/watch.php?stream=dave|agentnodown$$start=https://origin$$end
 
 #EXTINF:-1 group-title="UK-SERVER2", 
 
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC1.png" ,BBC ONE HD 
+http://5.255.90.226:5000/play/a019
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC2.png" ,BBC TWO 
+http://5.255.90.226:5000/play/a003
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC2.png" ,BBC TWO HD 
+http://5.255.90.226:5000/play/a018
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV.png" ,ITV 
+http://5.255.90.226:5000/play/a00b
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV+1.png" ,ITV +1 
+http://5.255.90.226:5000/play/a00h
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" ,BBC FOUR 
+http://5.255.90.226:5000/play/a004
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" ,BBC FOUR HD 
+http://5.255.90.226:5000/play/a01f
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV2.png" ,ITV 2 
+http://5.255.90.226:5000/play/a00c
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4.png" ,ITV 4 
+http://5.255.90.226:5000/play/a00e
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4+1.png" ,ITV 4 +1 
+http://5.255.90.226:5000/play/a00f
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITVBE.png" ,ITVBe 
+http://5.255.90.226:5000/play/a00g
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCNEWS.png" ,BBC NEWS 
+http://5.255.90.226:5000/play/a012
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCPARL.png" ,BBC PARLIAMENT 
+http://5.255.90.226:5000/play/a00m
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBBC.png" ,CBBC 
+http://5.255.90.226:5000/play/a014
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBBC.png" ,CBBC HD 
+http://5.255.90.226:5000/play/a017
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBEEBIES.png" ,Cbeebies 
+http://5.255.90.226:5000/play/a005
 
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b7/Real_Lives.png/revision/latest?cb=20150615111708" ,Real Lives 
+http://92.14.111.173:8007/play/a00v
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" ,NAT GEO WILD 
+http://92.14.111.173:8007/play/a00w
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" ,NATIONAL GEOGRAPHIC 
+http://92.14.111.173:8007/play/a00x
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" ,HISTORY 
+http://92.14.111.173:8007/play/a00z
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/H2.png" ,H2 
+http://92.14.111.173:8007/play/a00y
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMEINVESTIGATION.png" ,CRIME + INVESTIGATION 
+http://92.14.111.173:8007/play/a00u
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" ,SKY SPORTS F1 
+http://92.14.111.173:8007/play/a011
+
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL4UK.png" ,CHANNEL 4 HD 
+http://81.171.27.106:9002/play/a00j
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/4SEVEN.png" ,4Seven 
+http://81.171.27.106:9002/play/a00k
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://www.mulliganssportsbar.co.uk/wp-content/uploads/2017/05/RacingUK-01.png" ,RACING UK 
+http://81.171.27.106:9002/play/a00g
 
 
 
@@ -3762,7 +3853,32 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",
 
-
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SPORT1
+http://146.0.143.112:8080/play/a01i
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SIXX
+http://146.0.143.112:8080/play/a01f
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3
+http://146.0.143.112:8080/play/a01u
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2
+http://146.0.143.112:8080/play/a01t
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 1
+http://146.0.143.112:8080/play/a01s
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TF1
+http://146.0.143.112:8080/play/a002
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TELE 5
+http://146.0.143.112:8080/play/a01h
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TV BREIZH
+http://146.0.143.112:8080/play/a01m
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TMC
+http://146.0.143.112:8080/play/a018
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",W9
+http://146.0.143.112:8080/play/a01l
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",la trois
+http://146.0.143.112:8080/play/a01d
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",la deux
+http://146.0.143.112:8080/play/a01c
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",la une
+http://146.0.143.112:8080/play/a01b
 
 
 
@@ -4375,7 +4491,28 @@ http://77.134.143.101:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BTV
+http://146.0.143.112:8080/play/a01q
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",BFM TV
+http://146.0.143.112:8080/play/a019
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",Disney Channel
+http://146.0.143.112:8080/play/a01g
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",France 5
+http://146.0.143.112:8080/play/a016
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",France 4
+http://146.0.143.112:8080/play/a01k
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",France 3
+http://146.0.143.112:8080/play/a017
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",France 2
+http://146.0.143.112:8080/play/a015
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",France Ô
+http://146.0.143.112:8080/play/a014
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",LCI
+http://146.0.143.112:8080/play/a01o
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",HISTOIRE
+http://146.0.143.112:8080/play/a01n
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",M6
+http://146.0.143.112:8080/play/a003
 
 
 
@@ -5583,7 +5720,28 @@ http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/809.m3u8
 
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png" ,ANTENA 3 HD
+https://tinyurl.com/ANTENA3HD-index-m3u8
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CALLE13.png" ,CALLE 13
+https://tinyurl.com/CALLE13-index-m3u8
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" ,SYFY
+https://tinyurl.com/SYFY-index-m3u8
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png" ,BEIN SPORTS LALIGA
+https://tinyurl.com/LALIGA-index-m3u8
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSESPANHA.png" ,BEIN SPORTS
+https://tinyurl.com/y9dsqtxz
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png" ,MOVISTAR DEPORTES 1
+https://tinyurl.com/DEPORTES-index-m3u8
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png" ,MOVISTAR GOLF
+https://tinyurl.com/GOLF-index-m3u8
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png" ,LALIGA TV
+https://tinyurl.com/LIGATVBAR-index-m3u8
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" ,NATIONAL GEOGRAPHIC
+https://tinyurl.com/GEOGRAPH-index-m3u8
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISEA.png" ,ODISEA
+https://tinyurl.com/ODISEA-index-m3u8
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DECASA.png" ,DECASA
+https://tinyurl.com/DECASA-index-m3u8
 
 
 
@@ -6581,6 +6739,23 @@ http://62.28.213.14:9981/stream/channelid/1402355728
 
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",
+
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" ,SPORT TV 1 
+http://pina7.ddns.net:8000/aplicacao/scp4ever/10.ch
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" ,SPORT TV 2 
+http://pina7.ddns.net:8000/aplicacao/scp4ever/11.ch
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" ,SPORT TV 3 
+http://pina7.ddns.net:8000/aplicacao/scp4ever/12.ch
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" ,SPORT TV 4 
+http://pina7.ddns.net:8000/aplicacao/scp4ever/13.ch
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" ,SPORT TV 5 
+http://pina7.ddns.net:8000/aplicacao/scp4ever/14.ch
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,BENFICA TV 
+http://pina7.ddns.net:8000/aplicacao/scp4ever/15.ch
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" ,ELEVEN SPORTS 1 
+http://pina7.ddns.net:8000/aplicacao/scp4ever/16.ch
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" ,ELEVEN SPORTS 2 
+http://pina7.ddns.net:8000/aplicacao/scp4ever/17.ch
 
 
 
