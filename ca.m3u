@@ -114,6 +114,10 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1264.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1272.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_Disney_XD_Actualixado.png",Disney XD  (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1273.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="KIDS",Disney Junior (East)
+http://newyork.streamlive.to:80/mobile/hm2x644tccsp2vu/playlist.m3u8
+#EXTINF:-1 group-title="KIDS",Disney Junior (West)
+http://newyork.streamlive.to:80/mobile/z6augr7dmiycx35/playlist.m3u8
 #EXTINF:0 group-title="KIDS" tvg-logo="http://www.fotoseimagenes.net/imagenes/full/0/26/0/nickelodeon-latinoamerica-1.jpg",Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png",NICK 
