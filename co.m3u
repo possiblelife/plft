@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,13/12/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,15/12/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -53,64 +53,50 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|agentnodown$$start=file: "htt
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="RIK1.cy" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
 http://www.fireshow.xyz/rik1.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-
 #EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png" ,RIK2
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
 http://www.fireshow.xyz/rik2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/rik-hd-jpg-H1Uop6wxQ.jpg" ,RIK HD
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
-
 #EXTINF:-1 group-title="Cyprus" tvg-id="TVOne.cy" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA (Retry if failed)
 http://www.omegatv.com.cy/live/|webnoagent$$start=file: \"http://$$end=\"},$$replace=file: \"$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-id="TVOne.cy" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA
 http://www.fireshow.xyz/megacym.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma TV" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://81.21.47.74/hls/live.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma TV" tvg-logo="http://www.sigmatv.com/application/themes/default/img/redesign/sigma-logo-final.png" ,SIGMA
 http://www.fireshow.xyz/sigmam.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-
 #EXTINF:-1 group-title="Cyprus"  tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus 
 http://www.alphacyprus.com.cy/page/live|agentnodown$$start=http://l$$end=        }],$$replace=',$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
 http://www.alphacyprus.com.cy/page/live|webnoagent$$start=url: 'http://$$end=',\n        }]$$replace=url: '$$replacewith=$$add=
-
 #EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus
 https://www.ant1.com.cy/web-tv-live/|webnoagent$$start=href=\"https://l$$end=\" data-in$$replace=href=\"$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy"  tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus 
 http://www.fireshow.xyz/ant1cym.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-
 #EXTINF:-1 group-title="Cyprus" tvg-id="CapitalTV.cy" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://master.cystreams.com:25461/live/greek/asshole/14.ts
 #EXTINF:-1 group-title="Cyprus" tvg-id="CapitalTV.cy" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://www.anacon.org/app/chans/cy/capitalcy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-id="CapitalTV.cy" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
-
-
 #EXTINF:-1 group-title="Cyprus" tvg-id="Extra.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA
 http://master.cystreams.com:25461/live/greek/asshole/15.ts
 #EXTINF:-1 group-title="Cyprus" tvg-id="Extra.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
 http://www.anacon.org/app/chans/cy/extracy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-
 #EXTINF:-1 group-title="Cyprus" tvg-id="PlusTV.cy" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus
 http://www.anacon.org/app/chans/cy/pluscy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://master.cystreams.com:25461/live/greek/asshole/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://www.lakatamia.tv/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
-
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
 https://www.youtube.com/watch?v=FsTKqUqSQPY
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS
 http://gr.euronews.com/live|webnoagent$$start=https://euronews-$$end=playlist.m3u8$$replace=$$replacewith=$$add=playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/cbctvmall.gif" ,TV Mall
 http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
-
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
 https://istoikona.com/CYSPORTS|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.radioepistrofi.com/templates/olympus/images/logo.jpg" ,RADIO EPISTROFI - TopFM99.9
@@ -161,6 +147,8 @@ https://www.youtube.com/watch?v=5r5iftFbASw
 http://www.anacon.org/app/chans/gr/ert3s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 (USE GREECE VPN) (Youtube)
 https://www.youtube.com/watch?v=ELB7cKTx5ig
+#EXTINF:-1 group-title="Greece" tvg-id="EPT-HD.gr" tvg-logo="https://www.greektvlive.info/wp-content/uploads/2015/06/ert-hd-150x150.png" ,ERT HD
+http://5.135.92.138:31783/out/u/583_1.m3u88
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
 https://www.youtube.com/watch?v=qRY56sJJ2to
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
@@ -171,6 +159,8 @@ https://www.youtube.com/watch?v=dupGV_GjnOQ
 https://www.youtube.com/watch?v=bAyzQwA_pfU
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
+#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
+http://5.135.92.138:40327/out/u/atsykmssuyrsyhth.m3u
 #EXTINF:-1 group-title="Greece" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA (Youtube)
 https://www.youtube.com/watch?v=oJbm78ZoMj4
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI Youtube
@@ -381,13 +371,9 @@ http://wpso.com:1936/hls/wzra.m3u8
 
 
 #EXTINF:-1 group-title="Greece-SERVER2",
-#EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="http://cdn.e-radio.gr/logos/gr/big/manaellada.png" ,==GREECE==
-http://..........
 
-#EXTINF:-1 group-title="Greece-SERVER2" tvg-id="EPT-HD.gr" tvg-logo="https://www.greektvlive.info/wp-content/uploads/2015/06/ert-hd-150x150.png" ,ERT HD
-http://5.135.92.138:31783/out/u/583_1.m3u8
-#EXTINF:-1 group-title="Greece-SERVER2" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
-http://5.135.92.138:40327/out/u/atsykmssuyrsyhth.m3u8
+
+
 
 
 
@@ -1633,47 +1619,47 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 http://.........
 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
-https://easyview.eu/watch.php?stream=bbc-1|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-1|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2 
-https://easyview.eu/watch.php?stream=bbc-two|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-two|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4 
-https://easyview.eu/watch.php?stream=bbc-four|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-four|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc   
-https://easyview.eu/watch.php?stream=cbbc|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=cbbc|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies  
-https://easyview.eu/watch.php?stream=cbeebies|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=cbeebies|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales 
-https://easyview.eu/watch.php?stream=bbc-one-wales|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-one-wales|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland  
-https://easyview.eu/watch.php?stream=bbc-one-scotland|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-one-scotland|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland 
-https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament 
-https://easyview.eu/watch.php?stream=bbc-parliament|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-parliament|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News 
-https://easyview.eu/watch.php?stream=bbc-news|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-news|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba
-https://easyview.eu/watch.php?stream=bbc-alba|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=bbc-alba|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV 
-https://easyview.eu/watch.php?stream=itv|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=itv|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2 
-https://easyview.eu/watch.php?stream=itv2|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=itv2|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3 
-https://easyview.eu/watch.php?stream=itv3|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=itv3|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4 
-https://easyview.eu/watch.php?stream=itv4|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=itv4|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV
-https://easyview.eu/watch.php?stream=citv|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=citv|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be. 
-https://easyview.eu/watch.php?stream=itvbe|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=itvbe|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="http://123tv.live/wp-content/uploads/2018/08/More4-269x151.png",More 4
-https://easyview.eu/watch.php?stream=more4|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=more4|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg",Really
-https://easyview.eu/watch.php?stream=really|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=really|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png",Channel 4
-https://easyview.eu/watch.php?stream=channel4|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=channel4|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://i.imgur.com/JwXwTpkm.png",Dave
-https://easyview.eu/watch.php?stream=dave|agentnodown$$start=https://origin$$end=			  hls.a$$replace=');$$replacewith=$$add=
+https://easyview.eu/watch.php?stream=dave|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 
 
 
@@ -5463,162 +5449,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/633.m3u8$http-refferer=
 
 
 
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TOROS HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/730.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CAZA Y PESCA
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/731.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TELEDEPORTES
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/732.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",REAL MADRID
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/733.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BARCA TV
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/734.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MULTIFUTBOLL 3
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/736.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MULTIFUTBOLL 2
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/737.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MULTIFUTBOLL 1
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/738.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MULTIDEPORTES 3
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/739.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MULTIDEPORTES 2
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/740.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MULTIDEPORTES 1
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/741.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN MAX 2 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/743.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN MAX 1 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/744.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN LA LIGA TV 3
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/745.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN LA LIGA TV 2
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/746.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN LA LIGA TV 1
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/747.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Eurosport 2
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/748.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Eurosport 1 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/749.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",M.GOLF HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/750.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",GOL TV
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/751.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA LIGA TV BAR
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/752.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Movistar Futbol HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/753.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Movistar Deportes 2 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/754.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Movistar Deportes 1 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/755.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Moto GP  HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/756.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Movistar F1 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/757.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CANAL PANDA
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/758.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NICKELODEON
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/759.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CLAN TVE
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/760.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DISNEY XD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/761.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DISNEY CHANNEL
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/762.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CANAL ORBE 21
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/764.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CANAL DECASA
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/765.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CANAL COCINA
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/766.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",COSMO HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/767.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MTV Rocks
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/768.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MTV
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/769.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",VH1
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/770.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MEZZO
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/771.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",VIAJAR
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/772.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NON STOP PEOPLE
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/773.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",HISTORIA
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/774.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CRIME & INVESTIGATION
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/775.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DISCOVERY
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/776.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NAT GEO WILD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/777.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NAT GEO HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/778.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CALLE 13 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/779.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TCM HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/780.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TNT HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/781.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",SYFY HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/782.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",AXN WHITE HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/783.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",AXN HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/784.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",AMC HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/785.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",FOX LIFE HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/786.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",FOX HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/787.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",HOLLYWOOD HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/788.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",COMEDY CENTRAL HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/789.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",M. SERIES XTRA HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/790.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",M. SERIES
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/791.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",M. XTRA
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/792.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",M CINE ESPANOL
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/793.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",M. DCINE HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/794.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",M. COMEDIA HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/795.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",M. ACCION HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/796.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",M. ESTRENOS HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/797.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ANDALUCIA TV
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/798.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TV GALICIA
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/799.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ENERGY
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/800.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DIVINITY
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/801.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",FDF
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/802.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NOVA
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/803.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA SEXTA HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/804.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TELECINCO HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/805.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CUATRO HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/806.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ANTENA 3 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/807.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA2
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/808.m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA1 HD
-http://66.70.182.154:25461/live/sRdGl89XnP/aou3JTPoDb/809.m3u8
-
-
 
 
 
@@ -6676,6 +6506,130 @@ http://pina7.ddns.net:8000/aplicacao/scp4ever/17.ch
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",
 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI 
+http://iptvlowcost.club:8080/live/eco/eco/2292.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png",TVI24 
+http://iptvlowcost.club:8080/live/eco/eco/2764.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CM TV 
+http://iptvlowcost.club:8080/live/eco/eco/2765.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png",SPORT TV+ 
+http://iptvlowcost.club:8080/live/eco/eco/2760.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png",PORTO CANAL 
+http://iptvlowcost.club:8080/live/eco/eco/7954.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png",SIC MULHER 
+http://iptvlowcost.club:8080/live/eco/eco/7956.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png",SIC CARAS 
+http://iptvlowcost.club:8080/live/eco/eco/7957.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png",CANAL Q 
+http://iptvlowcost.club:8080/live/eco/eco/7974.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 
+http://iptvlowcost.club:8080/live/eco/eco/2295.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 
+http://iptvlowcost.club:8080/live/eco/eco/2296.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4 
+http://iptvlowcost.club:8080/live/eco/eco/2298.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png",SPORT TV 5 
+http://iptvlowcost.club:8080/live/eco/eco/2299.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4K.png",SPORT TV 4K 
+http://iptvlowcost.club:8080/live/eco/eco/8171.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BENFICA TV HD 
+http://iptvlowcost.club:8080/live/eco/eco/2112.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png",SPORTING TV 
+http://iptvlowcost.club:8080/live/eco/eco/2300.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png",SPORTING TV HD 
+http://iptvlowcost.club:8080/live/eco/eco/94.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png",EUROSPORT 1 PT 
+http://iptvlowcost.club:8080/live/eco/eco/2294.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png",ELEVEN SPORTS 1 
+http://iptvlowcost.club:8080/live/eco/eco/7947.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png",ELEVEN SPORTS 1 HD 
+http://iptvlowcost.club:8080/live/eco/eco/7905.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png",ELEVEN SPORTS 2 
+http://iptvlowcost.club:8080/live/eco/eco/7948.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png",ELEVEN SPORTS 2 HD 
+http://iptvlowcost.club:8080/live/eco/eco/7906.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png",ELEVEN SPORTS 3 
+http://iptvlowcost.club:8080/live/eco/eco/7949.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png",ELEVEN SPORTS 3 HD 
+http://iptvlowcost.club:8080/live/eco/eco/7907.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS4.png",ELEVEN SPORTS 4 HD 
+http://iptvlowcost.club:8080/live/eco/eco/7929.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS5.png",ELEVEN SPORTS 5 HD 
+http://iptvlowcost.club:8080/live/eco/eco/7930.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS6.png",ELEVEN SPORTS 6 HD 
+http://iptvlowcost.club:8080/live/eco/eco/7931.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png",MOTORVISION TV 
+http://iptvlowcost.club:8080/live/eco/eco/7965.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png",A BOLA TV 
+http://iptvlowcost.club:8080/live/eco/eco/2759.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KOMBATSPORT.png",KOMBAT SPORT 
+http://iptvlowcost.club:8080/live/eco/eco/7966.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAEPESCA.png",CACA & PESCA 
+http://iptvlowcost.club:8080/live/eco/eco/7964.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png",DISNEY CHANNEL 
+http://iptvlowcost.club:8080/live/eco/eco/7971.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png",DISNEY JUNIOR 
+http://iptvlowcost.club:8080/live/eco/eco/2733.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png",CARTOON NETWORK 
+http://iptvlowcost.club:8080/live/eco/eco/7972.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png",NICKELODEON 
+http://iptvlowcost.club:8080/live/eco/eco/7973.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png",PANDA 
+http://iptvlowcost.club:8080/live/eco/eco/2731.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png",PANDA BIGGS 
+http://iptvlowcost.club:8080/live/eco/eco/7969.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png",BABY TV 
+http://iptvlowcost.club:8080/live/eco/eco/2729.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png",JIMJAM 
+http://iptvlowcost.club:8080/live/eco/eco/2728.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICCAO 
+http://iptvlowcost.club:8080/live/eco/eco/2766.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TVCINE 1 
+http://iptvlowcost.club:8080/live/eco/eco/2287.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png",TVCINE 2 
+http://iptvlowcost.club:8080/live/eco/eco/2288.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png",TVCINE 3 
+http://iptvlowcost.club:8080/live/eco/eco/2289.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png",TVCINE 4 
+http://iptvlowcost.club:8080/live/eco/eco/2290.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png",TVSERIES 
+http://iptvlowcost.club:8080/live/eco/eco/2291.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD 
+http://iptvlowcost.club:8080/live/eco/eco/2745.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEMUNDO.png",CINEMUNDO 
+http://iptvlowcost.club:8080/live/eco/eco/2741.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png",FOX MOVIES 
+http://iptvlowcost.club:8080/live/eco/eco/2743.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX 
+http://iptvlowcost.club:8080/live/eco/eco/2740.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png",AXN 
+http://iptvlowcost.club:8080/live/eco/eco/2283.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png",FOX LIFE 
+http://iptvlowcost.club:8080/live/eco/eco/2742.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png",FOX CRIME 
+http://iptvlowcost.club:8080/live/eco/eco/7967.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png",FOX COMEDY 
+http://iptvlowcost.club:8080/live/eco/eco/2744.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png",AXN WHITE 
+http://iptvlowcost.club:8080/live/eco/eco/2285.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png",AXN BLACK 
+http://iptvlowcost.club:8080/live/eco/eco/2284.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",DISCOVERY 
+http://iptvlowcost.club:8080/live/eco/eco/7976.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NATIONAL GEOGRAPHIC 
+http://iptvlowcost.club:8080/live/eco/eco/7977.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png",HISTORIA 
+http://iptvlowcost.club:8080/live/eco/eco/7979.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISSEIA.png",ODISSEIA 
+http://iptvlowcost.club:8080/live/eco/eco/7978.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png",TLC 
+http://iptvlowcost.club:8080/live/eco/eco/7968.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBONOW.png",GLOBO NOW 
+http://iptvlowcost.club:8080/live/eco/eco/7961.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVEi.png",TVEi 
+http://iptvlowcost.club:8080/live/eco/eco/10578.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png",DISCOVERY SHOWCASE 
+http://iptvlowcost.club:8080/live/eco/eco/7975.m3u8
 
 
 
@@ -9033,15 +8987,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="India-SERVER2",
 
-#EXTINF:-1 group-title="India-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" ,==India==
-http://.........
 
-#EXTINF:-1 group-title="India-SERVER2",Animal Planet HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1 group-title="India-SERVER2",SONY ROX MUSIC HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8
-#EXTINF:-1 group-title="India-SERVER2",Discovery WORLD HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 
 
 
@@ -9071,1504 +9017,63 @@ http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
 #EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" ,==India==
 http://..........
 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="DiscoveryKids.in" ,Discovery Kids 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225775/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="DiscoveryScience.in" ,Discovery Science 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="DiscoveryTurbo.in" ,Discovery Turbo 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,NEO PRIME 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225789/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,NEO SPORTS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225791/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,NEWS X 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225796/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="SonyEntertainmentTV.uk" ,Sony Tv 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="SonyMAX.in" ,Sony Max 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Max+ 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225812/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="SonyMix.in", Sony Mix 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="TLC.in" ,TLC
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="SonySAB.in" ,Sony SAB 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="SonySix.in" ,SONY SIX 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="FoodFood.in" ,FOOD FOOD 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225836/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SAFARI TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225854/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="AnimalPlanet.in" ,ANIMAL PLANET 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="Discovery.uk" ,DISCOVERY 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="ZEETV.in" ,ZEE TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE MARATI 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225881/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="ZeeBangla.in" ,ZEE BANGLA 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225882/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE TELUNGU 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225883/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE R 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225889/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="ZeeTalkies.in" ,ZEE TALKIES 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225921/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="ZeeNews.in" ,ZEE NEWS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225922/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE PUNJAB 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225923/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,24GHANTA 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225925/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE R 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225926/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE MP 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225927/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE RAJASTHAN 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225928/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE TAMIL 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225929/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="ZeeBusiness.in" ,ZEE BUSINESS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225930/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SONY TEN1 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SONY TEN2 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SONY TEN3 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="ZeeCinema.in" ,ZEE CINEMA 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="ZeeKannada.in" ,ZEE KANNADA 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225936/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE R NEWS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225937/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEETV HD 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,KALINGA TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226016/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="9XTashan.in" ,9X TASHAN 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ABP 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226020/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,MAST 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226021/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ORIYA 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226023/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ODHISA TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226024/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="9XJhakaas.in" ,9X JHAKAAS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226026/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="9xO.in", 9XO 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DAGAL 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226029/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ORIYA 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226032/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,UN 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226033/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,NEWS WORLD 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226034/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,UN 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226042/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,&TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226048/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,&PICTURES 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SONY BBC EARTH 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZING TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226080/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,BLOOMBERG 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226082/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE CINEMA HD 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226083/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,&TV HD 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226084/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,INDIA NEWS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226085/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,FASHION TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226086/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,CHARDIKLA TIME TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226087/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,JAAA 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226088/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,MH ONE 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226089/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="BNTV.svn" ,BANGALA 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,KALINGAR 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226091/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="JayaTv.in" ,JAYA TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226092/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="KairaliTv.in" ,KAIRALI TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226093/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV 9 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226094/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,J MOVIE 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226095/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE R 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226096/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SAB D 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226097/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE R 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226098/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SONY AAG 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,KAUMUDY 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226100/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="JayaMax.in" ,JAYA MAX 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226101/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,IBC 24 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226102/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="PolimerTv.in" ,POLIMER TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226103/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RAANG 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226106/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE R 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226107/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,NEWS LIVE 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226108/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="AlJazeera.nws" ,AL JAZEERA 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,PRAG NEWS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226110/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,JANAM TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226111/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,V NEWS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226112/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV 9 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226113/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,MH ONE 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ANJAN 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226115/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE R 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226116/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="B4UMovies.in" ,B4U MOVIES 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,PITAARA 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226122/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE BIHAR 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226241/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TOTAL TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226242/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RAJ NEWS KANNADA 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226243/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,CINEMA TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226246/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,CVR NEWS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226247/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,CVR HEALTH 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226248/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,HINDI SABAR 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226249/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,CTVN AKD PLUS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226250/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,WIN TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226251/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ABHI TAK 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226252/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,CVR NEWS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226253/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RAJ NEWS TELUGU 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226254/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,VISSA TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226255/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RAJ MUSIX TELUGU 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226256/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,POWERVISION 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226258/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RAJ MALAYALAM NEWS 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226259/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RAJ NEWS TAMIL 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226260/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ASHIRVATHAM TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226262/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,WOW CINEMA 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226263/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ABP NEWS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226264/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ROSE TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226265/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SHOP CJ 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226266/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,BHARATH SAMACHAR 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226268/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TRAM 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226269/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD NORTH EAST 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226300/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226302/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" , ISAI ARUVI 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226303/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,PUTHIYA THALAMURAI 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226304/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,MARATI 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226305/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SAKHSI TELUNGU 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226306/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,T NEWS 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226307/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,NEWS 7 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226308/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DISCOVERY TAMIL 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226311/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" , TAMIL 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226313/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RAJ DIGITAL PLUS 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226316/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RAJ MUSIC KANNADA 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226317/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,KALINGAR NEWS 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226318/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SANKARA TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226320/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,VASANTH TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226321/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV5MONDE ASIA 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226322/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DW 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226323/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,GOD TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226325/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,JINVANI 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226326/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,MADHA TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226327/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SADHANA TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226328/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,LF HD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226329/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SONY TEN3 HD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE ACTION 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,MAYABALI 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226332/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SANGEET BANGALA 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226333/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RT 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226334/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,MBC TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226335/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,GOODNESS 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226336/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,GEMPORIA 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226337/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ASSAM TALKS 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226339/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SATHIYAM 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226340/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,B TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226341/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TAMIYAN TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226342/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RS TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226343/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226344/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226345/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD SPORTS 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226347/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD RAJASTHAN 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226348/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,LSTV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226349/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV5 NEWS 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226350/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,10 TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226351/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SUBHAVAARTHA TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226352/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,HOME SHOP 18 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226354/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE SALAM 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226355/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" , TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226357/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RAMDHENU 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226358/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,F MUSIC 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226360/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,BANGALA 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226361/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,MAKKAL TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226362/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,WION TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226363/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RENGONI 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226364/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,MEGA TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226365/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SHAAM 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226366/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DHOOM 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226369/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV 9 MARATHI 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226370/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226374/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD CHANDANA 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226375/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226376/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD NEWS 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226377/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD PUNJABI 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226379/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SUDARSANA NEWS 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226380/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD TAMIL 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226381/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,100 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226382/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226383/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD URDU 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226384/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD BIHAR 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226385/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD KASHIR 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226386/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,PATHRIKA 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226389/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" , D SPORT 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226392/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ARIHATH 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226396/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TELUNGU 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226399/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ANGEL TV HD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226400/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,OM TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226403/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,BANGLA 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,KUSHI TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226405/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,NEPAL ONE 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226407/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,NHK WORLD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226408/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,PEACE OF MIND 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226409/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,NEWS 7 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226410/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SARAL 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226411/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SHALOM TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226412/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SONY WAH 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SVBC TTD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226415/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ZEE UP 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226417/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,INDIA TODAY 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226423/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TEZ 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226432/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,SONY LE PLEX HD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226446/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DISCOVERY JEET 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226447/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Isai Aruvi-2 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226303/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,& Pictures 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226049/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,& Pictures HD 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226203/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,& TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226048/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,?? 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226313/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,10 TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226351/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,24 Ghanta 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225925/01.m3u8  
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,7S Music 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226213/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,9X Jalwa 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226011/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,9X Jhakaas 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226026/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,9X Tashan 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226017/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,9xM 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226053/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,9XO 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226028/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Aakaash 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226090/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ABN News 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226140/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ABP Ananda 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226052/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ABP Asmita 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226264/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,ABP Majha 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226020/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Al Jazeera 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Alankar 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226042/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Amrita 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226310/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Animal Planet 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225872/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Anjan 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226115/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Aradana TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226229/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Arijan 
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226115/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Assam Talks 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226339/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,B4U Movies 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226118/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Bangla 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226361/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Bansal News 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226216/1.m3u8 
-EXTINF:0 group-title="India PREMIUM-SERVER1" ,BBC World News 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Bhakti TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226357/01.m3u8 
-EXTINF:0 group-title="India PREMIUM-SERVER1" ,Bhojpuri Cinema 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226056/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Big Ganga 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226088/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,BTV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226341/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,BTVi 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226009/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Cauvery News 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226276/1.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Channel Win-2 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226057/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,CN News 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226285/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,CVR English News 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226253/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,D Sport 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226392/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Dabangg 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226097/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Dangal 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226029/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Bangla 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226374/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Bihar 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226385/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Chandana 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226375/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Kashir 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226386/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Malayalam 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226301/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Marathi 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226344/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD MP 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226376/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD News 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226377/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD North East 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226300/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Odiya 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226302/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Punjabi-2 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226379/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Raja 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226348/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Saptagiri 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226345/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Sports 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226346/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Tamil 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226381/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD UP 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226383/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Urdu 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226384/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD Yadagiri 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226347/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Dhoom 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226369/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Dhoom Music 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226369/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Dighvijay News 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226240/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Discovery 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225874/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Discovery (Tamil) 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226311/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Discovery HD World 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226205/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Discovery Science
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Discovery Turbo 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Divya TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226211/1.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,E24 
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226010/01.m3u8  
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Enterr 10 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Fakt Marathi 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226305/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Fatafati Music 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226360/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Flowers TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225838/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Food Food 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225836/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Gemporia 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226337/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,God TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226325/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Harvest TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226233/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Home Shop 18 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226354/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,IBC 24 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226102/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Jaihind TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226402/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Janam TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226111/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Jaya Max 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226101/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Jaya Movie 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226095/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Jaya Plus 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226282/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Jaya TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226092/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Jinvani 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226326/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Kairali People TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226359/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Kairali TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226093/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Kairali We 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226019/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Kalinga TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226016/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Kalingar 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226091/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Kalingar News 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226318/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Kanak News 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226224/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Kappa TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226319/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Kaumudy 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226100/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Khabrein Abhi Tak 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226252/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Kolkatta TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Kushi TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226405/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Living Foodz 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225886/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,LSTV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226349/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Madha TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226327/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Maha Movie 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226225/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Maiboli 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226332/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Makkal TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226362/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Manoranjan Movies 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226226/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Manoranjan TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226227/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Mathrubhumi News 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226314/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Media One 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226368/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Mega TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226365/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,mh1 Music 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226114/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,MK Six 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226239/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,MK Tunes 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226214/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,MK TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226196/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Murasu 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226290/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Music Fatafati 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226360/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Naaptol (Bangla) 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226271/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Naaptol (Kannada) 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226272/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Naaptol (Tamil) 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226274/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Naaptol (Telugu) 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226275/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Nambikkai TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226262/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,National Voice UP UK 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226236/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,NDTV Good Times 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225774/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Nepal One 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226407/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,News 24 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226138/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,News 7 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226308/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,News Live 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226108/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,News Nation 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225732/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,News World 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226034/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,NTV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226141/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,OK India 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226286/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Om Spiritual 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226403/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,OTV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226024/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Paras TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226289/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Patrika TV Raj 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226389/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Polimer Music 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226103/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Polimer News 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226283/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Power Vision 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226258/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Prag News 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226110/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Prajaa TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226234/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Prarthana Bhawan 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226223/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Prathna TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226033/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Pratidin Time 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226288/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Public TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226139/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Puthiya Thalamurai 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226304/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Puthu Yugam 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226313/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Raang 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226106/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Raj Digital Plus 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226316/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Raj Music (Kannada) 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226317/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Raj Musix (Kannada) 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226317/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Raj Musix (Malayalam) 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226257/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Raj Musix (Tamil) 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226238/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Raj News (Malayalam) 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226259/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Raj TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226220/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Ramdhenu 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226358/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Rang 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226106/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Rengoni 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226364/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Republic TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226000/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RSTV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226343/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,RT 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226334/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Ruposhi Bangla 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226361/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Saam 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226366/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sadhana TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226328/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sakshi TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226306/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sandesh News 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225852/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sangeet Bangla 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226333/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sangeet Bhojpuri 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226064/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sangeet Marathi 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226222/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sankara TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226320/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sanskar 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226070/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Saral Jeevan 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226411/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sarthi 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226284/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sathiyam 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226340/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Seithigal 24x7 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226318/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Shalom TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226412/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Shiva Shakthi Sai TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226382/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Shubh TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226235/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Shubhsandesh TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226228/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sirippoli 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226221/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Aath 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226099/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony BBC Earth 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226068/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony BBC Earth HD 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Max 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225811/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Mix 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225816/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Pal 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Sab 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225825/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Sab 
-HD http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226078/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Six 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225827/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Six HD 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225780/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Ten 1 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225931/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Ten 1 HD 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Ten 2 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225932/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Ten 2 HD 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226077/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Ten 3 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225933/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Ten 3 HD 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226330/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225803/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony TV HD 
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225772/02.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Wah 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226413/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sony Yay 
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226065/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sri Sankara 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226320/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Subhavaartha TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226352/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Sudarsana News 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226380/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,T News 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226307/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Tamilian Television 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226342/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Tarang Music 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226023/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Tarang TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226032/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Thanthi TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226219/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TLC 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225819/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TLC HD World 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Travel XP 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV 100 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226382/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV5 Monde Asia 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226322/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV5 News 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226350/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV5 Telugu 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226350/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV9 Gujarati 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226113/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV9 Kannada 
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226094/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV9 Marathi 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226370/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV9 News 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226142/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,TV9 Telugu 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226094/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,V6 News 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226197/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Vasanth 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226321/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,VTV News 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226112/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Wion TV
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226363/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee 24 Kalak 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226116/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee 24 Taas 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225926/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Action 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226331/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Bangla 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225882/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Bangla Cinema 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225889/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Bangla HD 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226277/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Business 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225930/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Cinema 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225935/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Cinemal
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226098/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Kalinga 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225937/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Kannada 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225936/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Marathi 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225881/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Marathi HD 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226278/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee MP 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225927/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee News 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225922/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee PB HP HR 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225923/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Raj 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225928/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Salaam 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226355/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Sarthak 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226107/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Talkies 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225921/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Talkies HD 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226202/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Tamil 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225929/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Telugu 
-http://125.17.105.168/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225929/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Telugu Cinema 
-http://125.17.105.168/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226098/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Telungu 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225883/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee TV 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225878/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee TV HD 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225942/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Zee Yuva 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226096/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Assam Talks 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226339/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Bansal News 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226216/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Bharat Samachar 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226268/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_BTV News 24X7 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226341/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Cinema TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226246/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Dhoom Music 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226369/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Dighvijay 24x7 News 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226240/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Dishum 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226269/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Divya TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226211/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Enterr 10 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Goodnews TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226231/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Hindi Khabar 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226249/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Homeshop 18 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226354/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Jinvani TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226326/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Khabrein Abhi Tak 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226252/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Living Foodz HD 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226329/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Maiboli 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226332/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Manoranjan TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226227/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Mega TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226365/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Naaptol Green 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226265/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_News 24 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226138/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_NTV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226141/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Paras TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226289/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Patrika TV Raj 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226389/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_People 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226359/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Ramdhenu 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226358/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Shop CJ 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226266/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Shubh TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226235/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Shubhsandesh TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226228/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Sony BBC Earth HD 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226280/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Sony Ten 1 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225931/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Sony Ten 1 HD 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225875/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Sony Ten 3 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225933/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Sony Ten 3 HD 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226330/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Vissa TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226255/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Zee 24 Kalak 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226116/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_Zee Bihar Jharkhand 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226241/1.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_10 TV Telugu News 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226351/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Abn Telugu News 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226140/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_ABP Asmita 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226264/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Aradana TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226229/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Cauvery News 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226276/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_CTVN AKD Plus 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226250/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_CVR English News 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226253/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_CVR Health 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226248/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Gemporia 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226337/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_God TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226325/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Goodness TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226336/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Harvest TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226233/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Jaya Plus 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226282/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Kanak News 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226224/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Kappa TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226319/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Mathrubhumi News 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226314/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_MK Six 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226239/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_MK Tunes 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226214/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Naaptol Kannada 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226272/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Naaptol Tamil 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226274/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Naaptol Telugu 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226275/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Nambikkai TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226262/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_National Voice 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226236/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Power Vision 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226258/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Prajaa TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226234/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Pratidin Time 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226288/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Public TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226139/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Puthiya Thalaimurai 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226304/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Raj Musix Malayalam 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226257/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Raj Musix Tamil 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226238/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Raj Musix Telugu 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226256/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Raj News Malayalam 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226259/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Raj News Tamil 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226260/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Raj News Telugu 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226254/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Sathiyam TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226340/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Tamilian Television 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226342/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_TV9 Telugu News 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226142/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",South Indian_Vasanth TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226321/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Bangla_Music Fatafati 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226360/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Bangla_Naaptol Bangla 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226271/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Bangla_Ruposhi Bangla TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226361/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Bangla_Saam TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226366/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",International_DW TV 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226323/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",International_RT 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226334/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",International_TV5 Monde Asia 
-http://mhms8.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226322/1.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_&PICTURES 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226049/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_&TV HD 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226084/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_9X TASHAN 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226017/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_ABP MAJHA 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226020/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_ASSAM TALKS 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226339/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_BANSAL NEWS 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226216/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_BHARAT SAMACHAR 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226268/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_BTV NEWS 24X7 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226341/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_CINEMA TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226246/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_DANGAL 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226029/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_DHOOM MUSIC 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226369/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_DIGHVIJAY 24X7 NEWS 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226240/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_DISHUM 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226269/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_DIVYA TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226211/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_ENTERR 10 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226218/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_FAKT MARATHI 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226305/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_GOODNEWS TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226231/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_HINDI KHABAR 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226249/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_HOMESHOP 18 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226354/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_INDIA NEWS 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226085/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_JINVANI TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226326/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_KHABREIN ABHI TAK 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226252/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_LIVING FOODZ HD 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226329/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_MADHA TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226327/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_MAHA MOVIE 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226225/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_MAIBOLI 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226332/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_MAKKAL TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226362/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_MANORANJAN MOVIES 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226226/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_MANORANJAN TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226227/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_MBC TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226335/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_MEDIAONE 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226368/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_MEGA TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226365/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_MH ONE SHRADDHA 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226089/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_NDTV PROFIT PRIME 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225781/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_NEWSX 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225796/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_OK INDIA 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226286/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_OTV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226024/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_PARAS TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226289/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_PATRIKA TV RAJASTHAN 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226389/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_PEOPLE 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226359/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_RAMDHENU 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226358/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_RENGONI TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226364/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_SAKSHI TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226306/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_SANGEET MARATHI 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226222/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_SARTHI 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226284/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_SONY MAX 2 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225812/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_SONY MIX 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225816/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_SONY PAL 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226200/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_SONY TEN 1 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225931/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_SONY TEN 2 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225932/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_SONY TEN 3 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225933/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_TARANG MUSIC 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226023/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_TARANG TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226032/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_THANTHI TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226219/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_VISSA TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226255/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_WION 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226363/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_WOW CINEMA 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226263/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_ZEE ACTION 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226331/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_ZEE BIHAR JHARKHAND 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226241/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_ZEE BUSINESS 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225930/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_ZEE CINEMA HD 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226083/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_ZEE KALINGA NEWS 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225937/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_ZEE RAJASTHAN NEWS 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225928/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Indian_ZING 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226080/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",International_DW TV 
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226323/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",DD1 
-http://mhms9.airtel.tv/wh7f454c46tw3723233184_323017196/PLTV/88888888/224/3221226296/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", DD ODIA 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226302/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Taranga TV 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226032/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Taranga Music 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226023/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Prathana TV 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226033/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Alankar TV 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226042/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",MBC Odia TV 
-http://mhms9.airtel.tv/wh7f454c46tw3612331058_1550720847/PLTV/88888888/224/3221226335/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",ZEE Sarthak TV 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226107/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",ZEE Kalinga 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225937/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", NEWS world ODISHA TV 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226034/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",NEWS 24 Hindi
-http://mhms8.airtel.tv/PLTV/88888888/224/3221226138/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Republic TV
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226000/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",WION NEWS
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226363/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",BBC NEWS
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226051/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Bloomberg
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226082/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",NEWSX
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225796/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",ZEE NEWS
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225922/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",ZEE Business
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225930/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",IBC24 NEWS
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226102/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",TLC WORLD HD
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",LF FOOD HD 
-http://mhms8.airtel.tv/wh7f454c46tw2162781931_1815925993/PLTV/88888888/224/3221226329/03.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Discovery WORLD HD 
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Discovery TV
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225874/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Discovery TURBO
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225782/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Discovery Science
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225778/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Discovery Kids
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225775/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Animal Planet
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225872/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", TLC
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225819/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY BBC EARTH
-http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226068/03.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY BBC EARTH HD
-http://mhms8.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/03.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Animal Planet HD
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", NDTV Goodtimes
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225774/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", FTV
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226086/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", TRAVELXP SD
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", AXN HD 
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", AXN SD 
-http://cshms3.airtel.tv/wh7f454c46tw501677772_1439149542/PLTV/88888888/224/3221226443/04.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONYPIX HD 
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226486/04.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONYPIX SD 
-http://cshms3.airtel.tv/wh7f454c46tw708965953_498209345/PLTV/88888888/224/3221226442/04.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY PLEX HD TV 
-http://mhms7.airtel.tv/wh7f454c46tw1749079137_988046400/PLTV/88888888/224/3221226446/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", AND TV HD 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226084/03.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Sony TV HD 
-http://cshms4.airtel.tv/wh7f454c46tw1375599167_1532996093/PLTV/88888888/224/3221225772/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZeeTV HD 
-http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225942/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SonyMAX HD 
-http://cshms4.airtel.tv/wh7f454c46tw288508750_687813938/PLTV/88888888/224/3221225776/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONYSAB HD 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226078/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZEECINEMA HD 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226083/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",And Picture HD 
-http://mhms7.airtel.tv/wh7f454c46tw3697671574_1750568037/PLTV/88888888/224/3221226203/02.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",SONY ROX MUSIC HD 
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226204/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",DISCOVERY Jeet HD 
-http://cshms1.airtel.tv/wh7f454c46tw1565302381_1163892044/PLTV/88888888/224/3221226479/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Sony TV 
-http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225803/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Zee Cinema 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225935/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Zee Classic 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226067/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Sony MAX 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225811/02.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Sony Sab 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225825/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", B4U Movies 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226118/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SetMaX2 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225812/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SetWAH 
-http://mhms9.airtel.tv/wh7f454c46tw175355988_1612456563/PLTV/88888888/224/3221226413/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SetPAL 
-http://mhms9.airtel.tv/wh7f454c46tw175355988_1612456563/PLTV/88888888/224/3221226200/04.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", AND TV 
-http://cshms3.airtel.tv/wh7f454c46tw3798502344_146685544/PLTV/88888888/224/3221226048/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", AND Picture 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226049/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", BIGMAGIC 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225745/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY MIX MUSIC 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225816/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Wow Hindi Music 
-http://cshms3.airtel.tv/wh7f454c46tw2509066654_38357389/PLTV/88888888/224/3221226477/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", B4U Music 
-http://cshms4.airtel.tv/wh7f454c46tw2783999742_1460436464/PLTV/88888888/224/3221226055/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZEE Anmol 
-http://mhms9.airtel.tv/wh7f454c46tw1620127263_47575185/PLTV/88888888/224/3221226199/04.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZEE ETC 
-http://mhms7.airtel.tv/wh7f454c46tw3349910653_749941675/PLTV/88888888/224/3221226353/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZEE Action 
-http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226331/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",ZEETV SD 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225878/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", WOW Cinema 
-http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226263/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Cinema TV 
-http://mhms8.airtel.tv/wh7f454c46tw3749195007_759815032/PLTV/88888888/224/3221226246/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", B4u Movies 
-http://cshms1.airtel.tv/wh7f454c46tw1856578274_592848553/PLTV/88888888/224/3221226118/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Maha Movie
-http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226225/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Manoranjan Movies
-http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226226/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Manoranjan TV
-http://mhms9.airtel.tv/wh7f454c46tw3857929647_579493363/PLTV/88888888/224/3221226227/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", E24 TV 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226010/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",9X Music
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226053/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",9X JALWA
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226011/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",ZING
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226080/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", 9XO MUSIC 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226028/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", FOOD FOOD TV 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225836/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Pitaara TV 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226122/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY TEN1 HD 
-http://cshms3.airtel.tv/wh7f454c46tw2224230268_1388919955/PLTV/88888888/224/3221225875/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY TEN2 HD 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226077/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY TEN3 HD 
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221226330/04.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY SIX HD 
-http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY ESPN HD 
-http://cshms3.airtel.tv/wh7f454c46tw1200204061_952100745/PLTV/88888888/224/3221226076/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY TEN1 SD 
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225931/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY TEN2 SD 
-http://cshms3.airtel.tv/wh7f454c46tw3547367093_1434011504/PLTV/88888888/224/3221225932/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY TEN3 SD
-http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225933/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY SIX SD 
-http://cshms3.airtel.tv/wh7f454c46tw2717373403_526904823/PLTV/88888888/224/3221225827/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SONY ESPN 
-http://cshms3.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225805/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", NeoPrime 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225789/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", NeoSports 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221225791/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", DD Sports 
-http://mhms9.airtel.tv/wh7f454c46tw872912663_877861895/PLTV/88888888/224/3221226346/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", DSports HD 
-http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", DSports L1 
-http://mhms8.airtel.tv/wh7f454c46tw2201796875_990797628/PLTV/88888888/224/3221226392/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", DSports L2 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226392/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Bhojpuri Cinema 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226056/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Dabangg TV 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226097/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Dangaal TV 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226029/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Gaanga TV 
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226088/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ANJAN BhojPuri 
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226115/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZEE Rajasthan
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225928/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZEE MP Chatisgarh
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225927/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZEE 24Taas
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225926/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZEE Talkies
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225921/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZEE YUVA
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226096/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZEE Punjab_Haryana
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225923/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", MH1 Music2 Punjabi
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226114/03.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", 9X Tashaan Punjabi
-http://cshms3.airtel.tv/wh7f454c46tw2597826742_982070999/PLTV/88888888/224/3221226017/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", AASTHA TV
-http://cshms4.airtel.tv/PLTV/88888888/224/3221226069/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZEE Telugu
-http://cshms3.airtel.tv/PLTV/88888888/224/3221225936/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", ZEE CINEMALU Telugu
-http://cshms3.airtel.tv/PLTV/88888888/224/3221226098/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Raj Musix Telugu
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226256/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", VISSA Telugu
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226255/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", RAJ NEWS Telugu
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226254/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Zee Talkies HD Marathi
-http://mhms9.airtel.tv/wh7f454c46tw1740452154_1525996477/PLTV/88888888/224/3221226202/03.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Zee Marathi HD
-http://mhms9.airtel.tv/wh7f454c46tw2538240699_1785371466/PLTV/88888888/224/3221226278/03.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", MAYABOLI Marathi
-http://mhms8.airtel.tv/PLTV/88888888/224/3221226332/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", FAKT Marathi
-http://mhms6.airtel.tv/PLTV/88888888/224/3221226305/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", SAAM Marathi
-http://mhms8.airtel.tv/PLTV/88888888/224/3221226366/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", Sangeet Marathi
-http://mhms6.airtel.tv/PLTV/88888888/224/3221226222/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1", TV9 Marathi
-http://mhms7.airtel.tv/wh7f454c46tw3695513406_740427845/PLTV/88888888/224/3221226370/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",DD Bharati 
-http://mhms9.airtel.tv/wh7f454c46tw167550841_1932516860/PLTV/88888888/224/3221226291/04.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",DD INDIA 
-http://mhms9.airtel.tv/wh7f454c46tw3723233184_323017196/PLTV/88888888/224/3221226293/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",DD Kissan 
-http://mhms9.airtel.tv/wh7f454c46tw3723233184_323017196/PLTV/88888888/224/3221226294/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",CN NEWS Bangla
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226285/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",DHOOM MUSIC Bangla
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226369/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Fatafati MUSIC Bangla
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226360/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Channel Bangla
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226361/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",ZEE Bangla
-http://cshms1.airtel.tv/PLTV/88888888/224/3221225882/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",ZEE Bangla HD
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226277/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",ZEE Bangla Cinema
-http://cshms1.airtel.tv/PLTV/88888888/224/3221225889/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",SONY AATH Bangla
-http://cshms1.airtel.tv/PLTV/88888888/224/3221226099/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",24 Ghanta Bangla
-http://cshms1.airtel.tv/PLTV/88888888/224/3221225925/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Sangeet Bangla
-http://mhms9.airtel.tv/PLTV/88888888/224/3221226333/06.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1",Aakash TV Bangla
-http://cshms1.airtel.tv/PLTV/88888888/224/3221226090/01.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,FLOWERS 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225838/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Media One TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226368/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Amrita 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226310/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Jaihind TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226402/index.m3u8  
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="MathrubhumiNews.in" ,Mathrubhumi News 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226314/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="KairaliPeopleTV.in" ,Kairali People TV 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226359/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Raj News Malayalam 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226259/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="WEtv.us" ,We Tv 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226019/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Kappa Tv 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226319/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,Raj Music Malayalam 
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226257/index.m3u8 
-#EXTINF:-1 group-title="India PREMIUM-SERVER1" ,DD MALAYALAM 
-http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226301/index.m3u8 
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png" ,Zee Cinema
+http://161.0.157.8/PLTV/88888888/224/3221226709/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/ZeeWorldNewLogo.jpg/800px-ZeeWorldNewLogo.jpg" ,Zee World
+http://161.0.157.6/PLTV/88888888/224/3221226542/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/800px-Universal_Channel_Logo_2013.svg.png" ,Universal Channel
+http://161.0.157.5/PLTV/88888888/224/3221226828/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/800px-HBO_logo.svg.png" ,HBO International
+http://161.0.157.6/PLTV/88888888/224/3221226127/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/HBO_2_Logo.png" ,HBO 2 International
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/20/FOXPremiumComedy.png" ,FOX Premium Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7c/FOXPremiumMovies.png" ,FOX Premium Movies
+http://161.0.157.6/PLTV/88888888/224/3221226321/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="http://promocionestigosv.com/report-tigo/SV/tigo-star-canales/images/fox_cinema.jpg" ,FOX Premium Cinema
+http://161.0.157.7/PLTV/88888888/224/3221226793/03.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://i.imgur.com/djeM9yx.png" ,Flow Sports
+http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/DC_2014_hero.svg/800px-DC_2014_hero.svg.png" ,Disney Channel HD
+http://161.0.157.6/PLTV/88888888/224/3221226299/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="http://khmertv.info/images/system/ch/small/cnc.jpg" ,CNC
+http://161.0.157.8/PLTV/88888888/224/3221226845/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" ,Cartoon Network HD
+http://161.0.157.9/PLTV/88888888/224/3221226843/index.m3u8 
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://stluciatimes.com/wp-content/uploads/2016/05/CATCH-150x150.jpg" ,Catch
+http://161.0.157.9/PLTV/88888888/224/3221226865/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://stluciatimes.com/wp-content/uploads/2016/05/CATCH-560x390.jpg" ,Catch 2
+http://161.0.157.9/PLTV/88888888/224/3221226874/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"   tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/06/B4U_Movies.png" ,B4U Movies
+http://161.0.157.5/PLTV/88888888/224/3221226255/03.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Animal_Planet_logo_%28black_and_green%29.svg/800px-Animal_Planet_logo_%28black_and_green%29.svg.png" ,Animal Planet HD
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/World_Fishing_Network.png" ,World Fishing Network
+http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8?thebestfreeenglishchannels.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CBC_Television_2009.svg/800px-CBC_Television_2009.svg.png" ,CBC Television
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/04/AndTV_Logo.jpg" ,And TV
+http://161.0.157.5/PLTV/88888888/224/3221226705/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/38/MyNetworkTV_2D_Logo.svg/800px-MyNetworkTV_2D_Logo.svg.png" ,My Network TV
+http://161.0.157.9/PLTV/88888888/224/3221226727/03.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/NBC_2014_Ident.svg/800px-NBC_2014_Ident.svg.png" ,NBC (East)
+http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2a/Fox_Sports_Racing.jpg.png" ,Fox Sports Racing
+http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/800px-ESPN2_logo.svg.png" ,ESPN 2
+http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="CookingChannelHD.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Cooking_Channel.png" ,Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/CNBC_World.svg/800px-CNBC_World.svg.png" ,CNBC World
+http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="11331" tvg-name="CBS" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/92.png" ,CBS (East)
+http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="BTNHD.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b4/Big_Ten_Network.png" ,Big Ten Network
+http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
+#EXTINF:-1 group-title="India PREMIUM-SERVER1" tvg-id="AXSTV.us" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/800px-AXS_TV_logo.svg.png" ,AXS TV
+http://161.0.157.6/PLTV/88888888/224/3221226568/index.m3u8
+
 
 
 
@@ -11874,7 +10379,250 @@ http://178.214.76.162:8061/StarWorl
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein1 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1286.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein2 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1285.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein3 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1284.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein4 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1283.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein5 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1282.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein6 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1281.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein7 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1280.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein8 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1279.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein9 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1278.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein10 1M
+http://2111.space:25461/live/admin_205678/75eixnOP/1277.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein1 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1296.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein2 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1295.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein3 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1294.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein4 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1293.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein5 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1292.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein6 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1291.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein7 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1290.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein8 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1289.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein9 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1288.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein10 2M
+http://2111.space:25461/live/admin_205678/75eixnOP/1287.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT1
+http://2111.space:25461/live/admin_205678/75eixnOP/1336.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT2
+http://2111.space:25461/live/admin_205678/75eixnOP/1335.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT3
+http://2111.space:25461/live/admin_205678/75eixnOP/1334.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT4
+http://2111.space:25461/live/admin_205678/75eixnOP/1333.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT5
+http://2111.space:25461/live/admin_205678/75eixnOP/1332.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT6
+http://2111.space:25461/live/admin_205678/75eixnOP/1331.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT7
+http://2111.space:25461/live/admin_205678/75eixnOP/1330.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT8
+http://2111.space:25461/live/admin_205678/75eixnOP/1329.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT9
+http://2111.space:25461/live/admin_205678/75eixnOP/1328.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT10
+http://2111.space:25461/live/admin_205678/75eixnOP/1327.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 1
+http://2111.space:25461/live/admin_205678/75eixnOP/1356.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 2
+http://2111.space:25461/live/admin_205678/75eixnOP/1355.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 3
+http://2111.space:25461/live/admin_205678/75eixnOP/1354.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 4
+http://2111.space:25461/live/admin_205678/75eixnOP/1353.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 5
+http://2111.space:25461/live/admin_205678/75eixnOP/1352.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 6
+http://2111.space:25461/live/admin_205678/75eixnOP/1351.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 7
+http://2111.space:25461/live/admin_205678/75eixnOP/1350.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 8
+http://2111.space:25461/live/admin_205678/75eixnOP/1349.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 9
+http://2111.space:25461/live/admin_205678/75eixnOP/1348.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 10
+http://2111.space:25461/live/admin_205678/75eixnOP/1347.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein__Sport1
+http://2111.space:25461/live/admin_205678/75eixnOP/1326.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT2
+http://2111.space:25461/live/admin_205678/75eixnOP/1325.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT3
+http://2111.space:25461/live/admin_205678/75eixnOP/1324.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT4
+http://2111.space:25461/live/admin_205678/75eixnOP/1323.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT5
+http://2111.space:25461/live/admin_205678/75eixnOP/1322.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT6
+http://2111.space:25461/live/admin_205678/75eixnOP/1321.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT7
+http://2111.space:25461/live/admin_205678/75eixnOP/1320.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT8
+http://2111.space:25461/live/admin_205678/75eixnOP/1319.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT9
+http://2111.space:25461/live/admin_205678/75eixnOP/1318.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT10
+http://2111.space:25461/live/admin_205678/75eixnOP/1317.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__1
+http://2111.space:25461/live/admin_205678/75eixnOP/1346.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__2
+http://2111.space:25461/live/admin_205678/75eixnOP/1345.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__3
+http://2111.space:25461/live/admin_205678/75eixnOP/1344.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORTS__4
+http://2111.space:25461/live/admin_205678/75eixnOP/1343.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__5
+http://2111.space:25461/live/admin_205678/75eixnOP/1342.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__6
+http://2111.space:25461/live/admin_205678/75eixnOP/1341.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__7
+http://2111.space:25461/live/admin_205678/75eixnOP/1340.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__8
+http://2111.space:25461/live/admin_205678/75eixnOP/1339.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__9
+http://2111.space:25461/live/admin_205678/75eixnOP/1338.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__10
+http://2111.space:25461/live/admin_205678/75eixnOP/1337.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1316.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport2 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1315.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport3 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1314.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport4 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1313.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1312.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1311.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1310.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1309.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1308.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 FULL HD
+http://2111.space:25461/live/admin_205678/75eixnOP/1307.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1306.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport2 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1305.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport3 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1304.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport4 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1303.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1302.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1301.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1300.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1299.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1298.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 4KB PLUSE
+http://2111.space:25461/live/admin_205678/75eixnOP/1297.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports1 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1276.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports2 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1275.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports3 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1274.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports4 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1273.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports5 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1272.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports6 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1271.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports7 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1270.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports8 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1269.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports9 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1268.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports10 EX
+http://2111.space:25461/live/admin_205678/75eixnOP/1267.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_1 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/943.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_2 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/942.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_3 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/941.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_4 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/940.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_5 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/939.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_6 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/938.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_7 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/937.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_8 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/936.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_9 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/935.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_10 LOW
+http://2111.space:25461/live/admin_205678/75eixnOP/934.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN-WWE
+http://2111.space:25461/live/admin_205678/75eixnOP/999.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_2_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1814.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_4_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1816.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN1_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1813.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein10_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1822.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN3_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1815.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein5_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1817.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein6_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1818.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein7_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1819.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein8_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1820.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein9_720P
+http://2111.space:25461/live/admin_205678/75eixnOP/1821.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_1
+http://2111.space:25461/live/admin_205678/75eixnOP/1825.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_2
+http://2111.space:25461/live/admin_205678/75eixnOP/1826.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_3
+http://2111.space:25461/live/admin_205678/75eixnOP/1827.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_4
+http://2111.space:25461/live/admin_205678/75eixnOP/1828.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_5
+http://2111.space:25461/live/admin_205678/75eixnOP/1829.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_6
+http://2111.space:25461/live/admin_205678/75eixnOP/1831.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_7
+http://2111.space:25461/live/admin_205678/75eixnOP/1830.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_8
+http://2111.space:25461/live/admin_205678/75eixnOP/1832.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_9
+http://2111.space:25461/live/admin_205678/75eixnOP/1833.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_10
+http://2111.space:25461/live/admin_205678/75eixnOP/1834.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Moroco 3 Arriadia
+http://2111.space:25461/live/admin_205678/75eixnOP/4770.m3u8
 
 
 
@@ -11958,46 +10706,206 @@ http://178.132.7.77:2095/spartsat0027/0651226882/5888
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/2.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 2 HD (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/3.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 3 HD (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/4.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 4 HD (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/5.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 5 HD (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/6.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 6 HD (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/7.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 7 HD (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/8.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 8 HD (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/9.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 9 HD (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/10.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 10 HD (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/24.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 1 HD (FR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/20.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 2 HD (FR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/21.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 3 HD (FR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/22.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports HD (ES)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/23.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN WWE HD (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/39.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Dubai Sports (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/13.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",KASS SPORTS 1 (AR)
-http://www.freeiptvdaily.net:8000/live/MldPfbSELH/freeiptvdaily.tv/18.ts
-
-
-
-
-
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein1 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1286.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein2 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1285.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein3 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1284.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein4 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1283.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein5 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1282.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein6 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1281.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein7 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1280.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein8 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1279.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein9 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1278.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein10 1M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1277.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein1 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1296.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein2 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1295.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein3 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1294.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein4 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1293.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein5 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1292.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein6 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1291.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein7 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1290.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein8 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1289.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein9 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1288.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein10 2M
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1287.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1336.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1335.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1334.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT4
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1333.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT5
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1332.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT6
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1331.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT7
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1330.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT8
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1329.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT9
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1328.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT10
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1327.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1356.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1355.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1354.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 4
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1353.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 5
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1352.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 6
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1351.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 7
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1350.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 8
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1349.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 9
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1348.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 10
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1347.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein__Sport1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1326.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1325.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1324.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT4
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1323.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT5
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1322.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT6
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1321.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT7
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1320.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT8
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1319.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT9
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1318.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT10
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1317.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__1
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1346.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__2
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1345.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__3
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1344.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORTS__4
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1343.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__5
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1342.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__6
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1341.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__7
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1340.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__8
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1339.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__9
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1338.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__10
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1337.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport1 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1316.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport2 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1315.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport3 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1314.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport4 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1313.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport5 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1312.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport6 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1311.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport7 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1310.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport8 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1309.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport9 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1308.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport10 FULL HD
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1307.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport1 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1306.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport2 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1305.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport3 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1304.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport4 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1303.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport5 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1302.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport6 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1301.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport7 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1300.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport8 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1299.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport9 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1298.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport10 4KB PLUSE
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1297.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports1 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1276.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports2 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1275.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports3 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1274.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports4 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1273.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports5 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1272.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports6 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1271.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports7 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1270.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports8 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1269.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports9 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1268.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports10 EX
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1267.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_1 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/943.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_2 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/942.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_3 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/941.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_4 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/940.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_5 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/939.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_6 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/938.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_7 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/937.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_8 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/936.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_9 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/935.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_10 LOW
+http://93.190.138.205:25461/live/admin_102192/IatDVYw6/934.m3u8
 
 
 
