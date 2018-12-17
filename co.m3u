@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,15/12/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,17/12/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -1618,47 +1618,47 @@ http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34b
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://.........
 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=bbc-1|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2 (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=bbc-two|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4 (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=bbc-four|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc   
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc   (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=cbbc|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies  
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies  (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=cbeebies|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=bbc-one-wales|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland  
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland  (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=bbc-one-scotland|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=bbc-parliament|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=bbc-news|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba(RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=bbc-alba|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=itv|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2 (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=itv2|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3 (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=itv3|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4 (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=itv4|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV(RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=citv|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be. 
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be. (RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=itvbe|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="http://123tv.live/wp-content/uploads/2018/08/More4-269x151.png",More 4
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="http://123tv.live/wp-content/uploads/2018/08/More4-269x151.png",More 4(RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=more4|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg",Really
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg",Really(RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=really|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png",Channel 4
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png",Channel 4(RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=channel4|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://i.imgur.com/JwXwTpkm.png",Dave
+#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://i.imgur.com/JwXwTpkm.png",Dave(RETRY IF FAILED)
 https://easyview.eu/watch.php?stream=dave|agentnodown$$start=https://origin$$end=						  hls.a$$replace=');$$replacewith=$$add=
 
 
@@ -1678,38 +1678,6 @@ https://easyview.eu/watch.php?stream=dave|agentnodown$$start=https://origin$$end
 
 #EXTINF:-1 group-title="UK-SERVER2", 
 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC1.png" ,BBC ONE HD 
-http://5.255.90.226:5000/play/a019
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC2.png" ,BBC TWO 
-http://5.255.90.226:5000/play/a003
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC2.png" ,BBC TWO HD 
-http://5.255.90.226:5000/play/a018
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV.png" ,ITV 
-http://5.255.90.226:5000/play/a00b
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV+1.png" ,ITV +1 
-http://5.255.90.226:5000/play/a00h
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" ,BBC FOUR 
-http://5.255.90.226:5000/play/a004
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBC4.png" ,BBC FOUR HD 
-http://5.255.90.226:5000/play/a01f
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV2.png" ,ITV 2 
-http://5.255.90.226:5000/play/a00c
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4.png" ,ITV 4 
-http://5.255.90.226:5000/play/a00e
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITV4+1.png" ,ITV 4 +1 
-http://5.255.90.226:5000/play/a00f
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITVBE.png" ,ITVBe 
-http://5.255.90.226:5000/play/a00g
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCNEWS.png" ,BBC NEWS 
-http://5.255.90.226:5000/play/a012
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCPARL.png" ,BBC PARLIAMENT 
-http://5.255.90.226:5000/play/a00m
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBBC.png" ,CBBC 
-http://5.255.90.226:5000/play/a014
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBBC.png" ,CBBC HD 
-http://5.255.90.226:5000/play/a017
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBEEBIES.png" ,Cbeebies 
-http://5.255.90.226:5000/play/a005
 
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b7/Real_Lives.png/revision/latest?cb=20150615111708" ,Real Lives 
 http://92.14.111.173:8007/play/a00v
@@ -2806,495 +2774,6 @@ http://185.134.228.141:8891
 
 
 #EXTINF:-1 group-title="Bulgaria-SERVER2",
-
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,24 Kitchen HD
-http://84.54.185.208:4057
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,24 TEXHO
-http://84.54.185.208:4168
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,24Kitchen
-http://84.54.185.208:4056
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,2M Monde
-http://84.54.185.208:4278
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Agro TV
-http://84.54.185.208:4046
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Al Jazeera
-http://84.54.185.208:4219
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Alfa TV
-http://84.54.185.208:4196
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Algerie 3
-http://84.54.185.208:4282
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,amc
-http://84.54.185.208:4218
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Animal Planet
-http://84.54.185.208:4039
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Animal Planet HD
-http://84.54.185.208:4040
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Arena Sport 1
-http://84.54.185.208:4087
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Arena Sport 2
-http://84.54.185.208:4088
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Arena Sport 3
-http://84.54.185.208:4089
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Arena Sport 4
-http://84.54.185.208:4090
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Arena Sport 5
-http://84.54.185.208:4091
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Armenia 1 TV
-http://84.54.185.208:4277
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Armenia TV
-http://84.54.185.208:4226
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,AutoMotorSport HD
-http://84.54.185.208:4076
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,AXN
-http://84.54.185.208:4018
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,AXN Black
-http://84.54.185.208:4019
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,AXN White
-http://84.54.185.208:4020
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Baby TV
-http://84.54.185.208:4155
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Balkanika Music
-http://84.54.185.208:4106
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Balkanika Music TV HD
-http://84.54.185.208:4107
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BBC World News
-http://84.54.185.208:4240
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BBC World News Europe HD
-http://84.54.185.208:4238
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BG Music Channel
-http://84.54.185.208:4108
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BG Music Channel HD
-http://84.54.185.208:4109
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BG-DNES HD
-http://84.54.185.208:4194
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BiT
-http://84.54.185.208:4058
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BiT HD
-http://84.54.185.208:4059
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Bloomberg Europe TV
-http://84.54.185.208:4204
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Bloomberg TV Bulgaria
-http://84.54.185.208:4048
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Bloomberg TV Bulgaria HD
-http://84.54.185.208:4285
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BNP TV
-http://84.54.185.208:4197
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BNT 1
-http://84.54.185.208:4001
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BNT 1 HD
-http://84.54.185.208:4188
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BNT 2
-http://84.54.185.208:4189
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BNT HD
-http://84.54.185.208:4187
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,BNT World
-http://84.54.185.208:4210
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Boomerang
-http://84.54.185.208:4152
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Box HD
-http://84.54.185.208:4114
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Box TV
-http://84.54.185.208:4113
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Brazzers TV Europe HD
-http://84.54.185.208:4176
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV
-http://84.54.185.208:4002
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV Action
-http://84.54.185.208:4007
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV Action
-http://84.54.185.208:4006
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV Cinema
-http://84.54.185.208:4004
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV Comedy
-http://84.54.185.208:4005
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV HD
-http://84.54.185.208:4003
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,bTV Lady
-http://84.54.185.208:4008
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Bulgaria 24
-http://84.54.185.208:4049
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Bulgaria On Air
-http://84.54.185.208:4047
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,C I Network
-http://84.54.185.208:4022
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Cartoon Network
-http://84.54.185.208:4154
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CBS Reality
-http://84.54.185.208:4241
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CBS Reality
-http://84.54.185.208:4158
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CCTV F
-http://84.54.185.208:4224
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CCTV News
-http://84.54.185.208:4230
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CCTV-4
-http://84.54.185.208:4225
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CCTV9 Documentary
-http://84.54.185.208:4288
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CCTV9 Documentary
-http://84.54.185.208:4237
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CENTOXCENTO TV
-http://84.54.185.208:4178
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Chasse
-http://84.54.185.208:4236
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Chasse Peche
-http://84.54.185.208:4289
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Cherno More
-http://84.54.185.208:4195
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Cinemax
-http://84.54.185.208:4140
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Cinemax 2
-http://84.54.185.208:4138
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Cinemax 2 HD
-http://84.54.185.208:4139
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Cinemax HD
-http://84.54.185.208:4141
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CITY TV
-http://84.54.185.208:4112
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CNBC Europe
-http://84.54.185.208:4235
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CNN
-http://84.54.185.208:4215
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CodeFashion TV HD
-http://84.54.185.208:4279
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,CodeFashion TV HD
-http://84.54.185.208:4228
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Comedy Central Extra
-http://84.54.185.208:4128
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,DaVinci Learning
-http://84.54.185.208:4043
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Deluxe Lounge HD
-http://84.54.185.208:4233
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Destination BG
-http://84.54.185.208:4050
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Diema
-http://84.54.185.208:4011
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Diema Family
-http://84.54.185.208:4012
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Diema Sport
-http://84.54.185.208:4070
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Diema Sport 2
-http://84.54.185.208:4069
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Diema Sport HD
-http://84.54.185.208:4071
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Discovery Channel
-http://84.54.185.208:4024
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Discovery Science
-http://84.54.185.208:4026
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Discovery Science HD
-http://84.54.185.208:4027
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Discovery Showcase HD
-http://84.54.185.208:4025
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Disney Channel
-http://84.54.185.208:4146
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Disney Junior
-http://84.54.185.208:4148
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,DM Sat
-http://84.54.185.208:4216
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Dorcel TV
-http://84.54.185.208:4183
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,DSTV
-http://84.54.185.208:4105
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Duck TV
-http://84.54.185.208:4145
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,DW Europe
-http://84.54.185.208:4203
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,EKids
-http://84.54.185.208:4156
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Euro D
-http://84.54.185.208:4142
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Euronews
-http://84.54.185.208:4081
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Eurosport
-http://84.54.185.208:4077
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Eurosport 1 HD
-http://84.54.185.208:4078
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Eurosport 2
-http://84.54.185.208:4079
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Eurosport 2 HD
-http://84.54.185.208:4080
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Eurosport News
-http://84.54.185.208:4095
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,EvilAngel TV
-http://84.54.185.208:4182
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Evrokom
-http://84.54.185.208:4193
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,EXOTICA TV
-http://84.54.185.208:4185
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,F+
-http://84.54.185.208:4066
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fashion One HD
-http://84.54.185.208:4214
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fashion TV
-http://84.54.185.208:4217
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fashion TV HD
-http://84.54.185.208:4212
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fen Folk TV
-http://84.54.185.208:4103
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FEN TV
-http://84.54.185.208:4101
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fen TV HD
-http://84.54.185.208:4102
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FilmBox HD
-http://84.54.185.208:4133
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FilmBox HD
-http://84.54.185.208:4144
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fine Living
-http://84.54.185.208:4045
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fishing Hunting TV
-http://84.54.185.208:4252
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Folklor TV
-http://84.54.185.208:4099
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Food Network HD
-http://84.54.185.208:4055
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FOX
-http://84.54.185.208:4013
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FOX Crime
-http://84.54.185.208:4016
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fox Crime HD
-http://84.54.185.208:4017
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FOX HD
-http://84.54.185.208:4201
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FOX HD
-http://84.54.185.208:4065
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FOX Life
-http://84.54.185.208:4014
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Fox Life HD
-http://84.54.185.208:4015
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,FOX TV
-http://84.54.185.208:4064
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,France 24
-http://84.54.185.208:4227
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,France 5 HD
-http://84.54.185.208:4305
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HBO
-http://84.54.185.208:4134
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HBO 2
-http://84.54.185.208:4136
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HBO 2 HD
-http://84.54.185.208:4137
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HBO 3 HD
-http://87.246.0.155:5286/tv_HBO_3
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HBO HD
-http://84.54.185.208:4135
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HBO HD
-http://87.246.0.155:5286/tv_HBO
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,HD
-http://84.54.185.208:4073
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,History Channel
-http://84.54.185.208:4037
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,History Channel HD
-http://84.54.185.208:4038
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Hobby lov
-http://84.54.185.208:4063
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Hobby TV
-http://84.54.185.208:4061
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Hobby TV HD
-http://84.54.185.208:4062
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Hustler HD
-http://84.54.185.208:4181
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,iConcert
-http://84.54.185.208:4118
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,ID Xtra
-http://84.54.185.208:4130
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,ID Xtra HD
-http://84.54.185.208:4131
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Kanal 3
-http://84.54.185.208:4192
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Karussel
-http://84.54.185.208:4163
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,KCN Music 2
-http://84.54.185.208:4124
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Kino Nova
-http://84.54.185.208:4010
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Kiss TV
-http://84.54.185.208:4115
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Magic TV
-http://84.54.185.208:4116
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Mezzo
-http://84.54.185.208:4120
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Mezzo Live HD
-http://84.54.185.208:4122
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Moviestar
-http://84.54.185.208:4021
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,MTV
-http://84.54.185.208:4117
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,MTV Hits
-http://84.54.185.208:4121
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,MTV Live HD
-http://84.54.185.208:4119
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,MTV Rocks
-http://84.54.185.208:4123
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,N/A
-http://84.54.185.208:4072
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Nat Geo HD
-http://84.54.185.208:4030
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Nat Geo Wild HD
-http://84.54.185.208:4032
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,NatGeo Wild
-http://84.54.185.208:4031
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,National Geographic
-http://84.54.185.208:4029
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,NEWS 24 Ukraine
-http://84.54.185.208:4161
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,NHK World TV
-http://84.54.185.208:4246
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Nick Jr
-http://84.54.185.208:4149
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Nickelodeon
-http://84.54.185.208:4150
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Nova Sport HD
-http://84.54.185.208:4067
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Nova TV
-http://84.54.185.208:4009
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,ORT1
-http://84.54.185.208:4248
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Outdoor Channel HD
-http://84.54.185.208:4041
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Penthouse 1 HD
-http://84.54.185.208:4180
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,PINK O TV
-http://84.54.185.208:4186
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Planeta Folk
-http://84.54.185.208:4098
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Planeta HD
-http://84.54.185.208:4097
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Planeta TV
-http://84.54.185.208:4096
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,PP TV
-http://84.54.185.208:4250
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rai 1
-http://84.54.185.208:4253
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rai 2
-http://84.54.185.208:4254
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rai 3
-http://84.54.185.208:4229
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rai News 24
-http://84.54.185.208:4290
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rai Sport 1
-http://84.54.185.208:4092
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Redlight HD
-http://84.54.185.208:4184
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rodina TV
-http://84.54.185.208:4104
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Rossiya 24
-http://84.54.185.208:4167
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,RTR Planeta
-http://84.54.185.208:4162
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,RTR Planeta
-http://84.54.185.208:4222
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,RTVi
-http://84.54.185.208:4170
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Russia Today
-http://84.54.185.208:4258
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Russia Today Documentary
-http://84.54.185.208:4259
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Russia Today Documentary HD
-http://84.54.185.208:4173
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Russia Today HD
-http://84.54.185.208:4174
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Satellite TVAlgerie
-http://84.54.185.208:4287
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Satisfaction TV
-http://84.54.185.208:4177
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Shanson TV
-http://84.54.185.208:4202
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,SKAT
-http://84.54.185.208:4198
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Sky News
-http://84.54.185.208:4175
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Smile of a Child
-http://84.54.185.208:4153
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,STS International
-http://84.54.185.208:4306
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Sunrise Music
-http://84.54.185.208:4110
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Supertennis HD
-http://84.54.185.208:4094
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Telecafe
-http://84.54.185.208:4286
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,The Voice
-http://84.54.185.208:4111
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Tiankov Folk
-http://84.54.185.208:4261
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Tiankov Folk HD
-http://84.54.185.208:4262
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Tiankov Orient Folk
-http://84.54.185.208:4126
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Tiankov Orient Folk HD
-http://84.54.185.208:4127
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TLC
-http://84.54.185.208:4044
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Trace Sport Stars
-http://84.54.185.208:4082
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Trace Sport Stars HD
-http://84.54.185.208:4068
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Travel Channel
-http://84.54.185.208:4051
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Travel Channel HD
-http://84.54.185.208:4052
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Travel TV
-http://84.54.185.208:4054
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Travel TV HD
-http://84.54.185.208:4053
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV Centr
-http://84.54.185.208:4263
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV Evropa
-http://84.54.185.208:4190
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV+
-http://84.54.185.208:4264
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV1
-http://84.54.185.208:4265
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV1 HD
-http://84.54.185.208:4223
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV1000
-http://84.54.185.208:4143
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TV5MONDE EUROPE
-http://84.54.185.208:4266
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TVE
-http://84.54.185.208:4268
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TVP Polonia
-http://84.54.185.208:4269
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TVRUS
-http://84.54.185.208:4302
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TVRUS
-http://84.54.185.208:4164
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,TVT
-http://84.54.185.208:4270
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,UNITEL CLASSICA HD
-http://84.54.185.208:4244
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,VH1
-http://84.54.185.208:4271
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,VH1 Classic
-http://84.54.185.208:4272
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Viasat Explorer
-http://84.54.185.208:4033
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Viasat History
-http://84.54.185.208:4034
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Viasat History HD
-http://84.54.185.208:4035
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Viasat Nature
-http://84.54.185.208:4036
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,VTK
-http://84.54.185.208:4200
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Wild TV HD
-http://84.54.185.208:4042
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,World Fight Channel HD
-http://84.54.185.208:4084
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Время
-http://84.54.185.208:4160
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Детский Мир
-http://84.54.185.208:4172
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Дом Кино
-http://84.54.185.208:4159
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Музыка
-http://84.54.185.208:4166
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Наше Кино
-http://84.54.185.208:4165
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,НТВ Мир
-http://84.54.185.208:4169
-#EXTINF:-1 group-title="Bulgaria-SERVER2" ,Охота и рыбалка
-http://84.54.185.208:4060
 
 
 
@@ -8987,7 +8466,80 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="India-SERVER2",
 
-
+#EXTINF:-1 group-title="India-SERVER2",Rishtey
+http://81.173.228.209:8000/play/a00s
+#EXTINF:-1 group-title="India-SERVER2",COLORS
+http://81.173.228.209:8000/play/a00t
+#EXTINF:-1 group-title="India-SERVER2",ARY Family
+http://81.173.228.209:8000/play/a011
+#EXTINF:-1 group-title="India-SERVER2",Dunya News
+http://81.173.228.209:8000/play/a012
+#EXTINF:-1 group-title="India-SERVER2",Hidayat TV
+http://81.173.228.209:8000/play/a017
+#EXTINF:-1 group-title="India-SERVER2",Venus TV
+http://81.173.228.209:8000/play/a016
+#EXTINF:-1 group-title="India-SERVER2",RishteyCine
+http://81.173.228.209:8000/play/a00w
+#EXTINF:-1 group-title="India-SERVER2",HUM Masala
+http://81.173.228.209:8000/play/a007
+#EXTINF:-1 group-title="India-SERVER2",HUM News
+http://81.173.228.209:8000/play/a008
+#EXTINF:-1 group-title="India-SERVER2",Aplus TV
+http://81.173.228.209:8000/play/a004
+#EXTINF:-1 group-title="India-SERVER2",Noor TV
+http://81.173.228.209:8000/play/a00c
+#EXTINF:-1 group-title="India-SERVER2",HUM EUROPE
+http://81.173.228.209:8000/play/a003
+#EXTINF:-1 group-title="India-SERVER2",Madani Chnl
+http://81.173.228.209:8000/play/a018
+#EXTINF:-1 group-title="India-SERVER2",GEO Kahani
+http://81.173.228.209:8000/play/a00e
+#EXTINF:-1 group-title="India-SERVER2",SONY SAB
+http://81.173.228.209:8000/play/a00j
+#EXTINF:-1 group-title="India-SERVER2",PTV Global
+http://81.173.228.209:8000/play/a015
+#EXTINF:-1 group-title="India-SERVER2",B4U Music
+http://81.173.228.209:8000/play/a019
+#EXTINF:-1 group-title="India-SERVER2",NDTV 24×7
+http://81.173.228.209:8000/play/a00f
+#EXTINF:-1 group-title="India-SERVER2",Samaa
+http://81.173.228.209:8000/play/a010
+#EXTINF:-1 group-title="India-SERVER2",Sangat
+http://81.173.228.209:8000/play/a00b
+#EXTINF:-1 group-title="India-SERVER2",TV 99
+http://81.173.228.209:8000/play/a005
+#EXTINF:-1 group-title="India-SERVER2",Star GOLD
+http://81.173.228.209:8000/play/a00v
+#EXTINF:-1 group-title="India-SERVER2",SONY MIX
+http://81.173.228.209:8000/play/a00k
+#EXTINF:-1 group-title="India-SERVER2",New Vision TV
+http://81.173.228.209:8000/play/a013
+#EXTINF:-1 group-title="India-SERVER2",SONY MAX
+http://81.173.228.209:8000/play/a00r
+#EXTINF:-1 group-title="India-SERVER2",SONY TV
+http://81.173.228.209:8000/play/a00i
+#EXTINF:-1 group-title="India-SERVER2",ABP News
+http://81.173.228.209:8000/play/a00m
+#EXTINF:-1 group-title="India-SERVER2",AAJ TAK
+http://81.173.228.209:8000/play/a00l
+#EXTINF:-1 group-title="India-SERVER2",GEO TV
+http://81.173.228.209:8000/play/a00n
+#EXTINF:-1 group-title="India-SERVER2",B4U Movies
+http://81.173.228.209:8000/play/a01a
+#EXTINF:-1 group-title="India-SERVER2",92 News
+http://81.173.228.209:8000/play/a006
+#EXTINF:-1 group-title="India-SERVER2",Ahlebait TV
+http://81.173.228.209:8000/play/a002
+#EXTINF:-1 group-title="India-SERVER2",Star Plus
+http://81.173.228.209:8000/play/a00u
+#EXTINF:-1 group-title="India-SERVER2",PTC PUNJABI
+http://81.173.228.209:8000/play/a00g
+#EXTINF:-1 group-title="India-SERVER2",GEO News
+http://81.173.228.209:8000/play/a00z
+#EXTINF:-1 group-title="India-SERVER2",Aastha
+http://81.173.228.209:8000/play/a00d
+#EXTINF:-1 group-title="India-SERVER2",Star Bharat
+http://81.173.228.209:8000/play/a00x
 
 
 
@@ -10640,51 +10192,154 @@ http://2111.space:25461/live/admin_205678/75eixnOP/4770.m3u8
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beiN Sports 1 HD
-http://178.132.7.77:2095/spartsat0027/0651226882/49
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beiN Sports 2 HD
-http://178.132.7.77:2095/spartsat0027/0651226882/48
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beiN Sports 3 HD
-http://178.132.7.77:2095/spartsat0027/0651226882/47
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beiN Sports 4 HD
-http://178.132.7.77:2095/spartsat0027/0651226882/46
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beiN Sports 5 HD
-http://178.132.7.77:2095/spartsat0027/0651226882/45
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beiN Sports 6 HD
-http://178.132.7.77:2095/spartsat0027/0651226882/44
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beiN Sports 7 HD
-http://178.132.7.77:2095/spartsat0027/0651226882/43
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beiN Sports 8 HD
-http://178.132.7.77:2095/spartsat0027/0651226882/42
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beiN Sports 9 HD
-http://178.132.7.77:2095/spartsat0027/0651226882/2058
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beiN Sports 10 HD
-http://178.132.7.77:2095/spartsat0027/0651226882/2057
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beiN Sports 11 HD
-http://178.132.7.77:2095/spartsat0027/0651226882/2056
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",beiN Sports 12 HD
-http://178.132.7.77:2095/spartsat0027/0651226882/2055
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR| BEIN SPORTS 1 FHD
-http://178.132.7.77:2095/spartsat0027/0651226882/5897
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR| BEIN SPORTS 2 FHD
-http://178.132.7.77:2095/spartsat0027/0651226882/5896
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR| BEIN SPORTS 3 FHD
-http://178.132.7.77:2095/spartsat0027/0651226882/5895
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR| BEIN SPORTS 4 FHD
-http://178.132.7.77:2095/spartsat0027/0651226882/5894
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR| BEIN SPORTS 5 FHD
-http://178.132.7.77:2095/spartsat0027/0651226882/5893
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR| BEIN SPORTS 6 FHD
-http://178.132.7.77:2095/spartsat0027/0651226882/5892
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR| BEIN SPORTS 7 FHD
-http://178.132.7.77:2095/spartsat0027/0651226882/5891
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR| BEIN SPORTS 8 FHD
-http://178.132.7.77:2095/spartsat0027/0651226882/5890
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR| BEIN SPORTS 9 FHD
-http://178.132.7.77:2095/spartsat0027/0651226882/5889
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR| BEIN SPORTS 10 FHD
-http://178.132.7.77:2095/spartsat0027/0651226882/5888
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_TUNISIE_NAT1_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/57.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_TUNISIE_NAT2_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/58.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Elhiwar_Ettounsi
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/91.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ATTESSIA_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/56.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ZITOUNA
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/60.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Dzair_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/93.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Aouala
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/55.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_2M_MAROC
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/44.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_medi1afrique
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/95.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Libya_Hadash
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/79.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Libya_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/81.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Libya_One
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/78.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Libya218
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/77.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Libya_24
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/80.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_MBC_1
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/61.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_MBC_2
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/65.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_MBC_4
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/62.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_MTV_lebenon
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/103.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ROTANA_KHALIJIA_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/125.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_BAHRAIN_SPORTS
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/140.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_BAHRAIN_QURAN
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/139.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_BAHRAIN_INTERNATIONAL
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/138.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_TOYOR_ALJANAH
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/126.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_BAHRAIN_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/137.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Al_Jazeera_Documentaire
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/46.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Al_Arabiya
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/38.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Al_Hadath
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/40.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_FRANCE_24_AR
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/20.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Sky_News_Arabic
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/45.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_BBC_Arabic
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/28.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ALAAN_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/19.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_RUSSIA ALYAOUM_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/88.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_hiwar_news
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/67.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Alalam_news
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/97.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_ALIKHBARIYA_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/3.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Space_Toon
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/75.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Majed_Kids
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/76.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Iqraa
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/68.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Makkah_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/89.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_SONNA_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/5.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_QURAN_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/4.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_THAKAFIYA_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/6.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DUBAI_ONE_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/15.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ABUDHABI_Emirat
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/70.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_AD_Drama
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/69.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_CBC_Drama
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/42.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Nahar_Drama_Egypt
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/72.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Palestine
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/101.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ALMAYADEEN_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/87.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_TRT_Arabiya
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/73.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Nahar_TV_Egypt
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/71.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Jordon_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/74.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ALCHARQIYA
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/98.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Al_Manar_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/54.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ALRAI_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/50.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Syrian_Drama
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/29.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAMA_SYRIA
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/36.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SHARQIYA_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/37.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ON_E
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/43.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Qatar_TV_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/27.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ABU_DHABI_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/53.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_2_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/1.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_1_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/2.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAMA_DUBAI_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/12.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_NOUR_DUBAI
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/16.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_FUTURE_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/17.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DW_AR
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/22.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DUBAI_ZAMAN
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/11.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DUBAI_TV_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/10.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SHARJAH_SPORTS
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/39.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_RIYADHIYA_1_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/9.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DUBAI_RACING_1_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/13.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DUBAI_RACING_2_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/14.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DUBAI_SPORTS_3_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.ts
 
 
 
