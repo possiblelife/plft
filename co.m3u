@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,17/12/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,19/12/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -660,6 +660,8 @@ http://........
 http://........
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/1/19/Assemblée_nationale_du_Québec.svg/1200px-Assemblée_nationale_du_Québec.svg.png" ,Assemblee Nationale du Quebec (French)
 http://diffusionm4.assnat.qc.ca/canal9/250.sdp/playlist.m3u8
+#EXTINF:-1 group-title="USA/Canada-WebTV" ,Canada Star TV
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://20549-presscdn.pagely.netdna-cdn.com/wp-content/uploads/cpac_social_seo_logo_bil_1200x630.jpg" ,CPAC
 http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 #EXTINF:-1 group-title="USA/Canada-WebTV" tvg-logo="http://i67.tinypic.com/261m6it.jpg" ,CTV News Live Events 1
@@ -1424,108 +1426,6 @@ http://161.0.157.51/PLTV/88888888/224/3221227040/01.m3u8
 #EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"
 
 
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="abcspark.ca" tvg-name="Canada: ABC SPARK CANADA" tvg-logo="http://goldtv.ca/logos/canada/abcspark.jpg",Canada: ABC SPARK CANADA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11372.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="amc.ca" tvg-name="Canada: AMC" tvg-logo="http://goldtv.ca/logos/canada/AMC.jpg",Canada: AMC
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11531.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="animalplanet.ca" tvg-name="Canada: ANIMAL PLANET" tvg-logo="http://goldtv.ca/logos/canada/Animalplanet.jpg",Canada: ANIMAL PLANET
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11530.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="aptn.ca" tvg-name="Canada: APTN" tvg-logo="http://goldtv.ca/logos/canada/Aptn.jpg",Canada: APTN
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11421.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="bbcworld.ca" tvg-name="Canada: BBC CANADA" tvg-logo="http://goldtv.ca/logos/canada/BBCCanada.jpg",Canada: BBC CANADA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11419.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: BBC KIDS" tvg-logo="http://goldtv.ca/logos/canada/BBCKids.jpg",Canada: BBC KIDS
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11418.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: BBC WORLD NEWS" tvg-logo="http://goldtv.ca/logos/canada/BBCWorldnews.jpg",Canada: BBC WORLD NEWS
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11467.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: BNN" tvg-logo="http://goldtv.ca/logos/canada/BNN.jpg",Canada: BNN
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11417.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="booktelevision.ca" tvg-name="Canada: BOOK TV" tvg-logo="http://goldtv.ca/logos/canada/BOOKTV.jpg",Canada: BOOK TV
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11465.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="bravo.ca" tvg-name="Canada: BRAVO" tvg-logo="http://goldtv.ca/logos/canada/Bravo.jpg",Canada: BRAVO
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11416.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="canald.ca" tvg-name="Canada: CANAL D" tvg-logo="http://goldtv.ca/logos/canada/CANALD.jpg",Canada: CANAL D
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11445.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="canalsavoir.ca" tvg-name="Canada: CANAL SAVOIR" tvg-logo="http://goldtv.ca/logos/canada/CANALSAVOIR.jpg",Canada: CANAL SAVOIR
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11529.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="cmt.ca" tvg-name="Canada: CMT CANADA" tvg-logo="http://goldtv.ca/logos/canada/CMTCANADA.jpg",Canada: CMT CANADA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11462.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: CNBC" tvg-logo="http://goldtv.ca/logos/canada/CNBC.jpg",Canada: CNBC
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11409.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: CNN" tvg-logo="http://goldtv.ca/logos/canada/CNN.jpg",Canada: CNN
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11525.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: CNN INTERNATIONAL" tvg-logo="http://goldtv.ca/logos/canada/CNNInternational.jpg",Canada: CNN INTERNATIONAL
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11408.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="comedynetwork.ca" tvg-name="Canada: COMEDY EAST" tvg-logo="http://goldtv.ca/logos/canada/ComedyEast.jpg",Canada: COMEDY EAST
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11360.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="comedygold.ca" tvg-name="Canada: COMEDY GOLD" tvg-logo="http://goldtv.ca/logos/canada/ComedyGold.jpg",Canada: COMEDY GOLD
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11524.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="cookingchannel.ca" tvg-name="Canada: COOKING CHANNEL" tvg-logo="http://goldtv.ca/logos/canada/COOKINGChannel.jpg",Canada: COOKING CHANNEL
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11523.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="cosmopolitantv.ca" tvg-name="Canada: COSMO" tvg-logo="http://goldtv.ca/logos/canada/cosmotv.jpg",Canada: COSMO
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11460.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="cottagelife.ca" tvg-name="Canada: COTTAGE LIFE" tvg-logo="http://goldtv.ca/logos/canada/cottagelife.jpg",Canada: COTTAGE LIFE
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11459.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: CP24" tvg-logo="",Canada: CP24
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11522.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="crimeinvestigation.ca" tvg-name="Canada: CRIME   INVEST" tvg-logo="http://goldtv.ca/logos/canada/crimeinvest.jpg",Canada: CRIME   INVEST
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11461.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="ctv2.ca" tvg-name="Canada: CTV 2 VANCOUVER" tvg-logo="http://goldtv.ca/logos/canada/ctv2vacouver.jpg",Canada: CTV 2 VANCOUVER
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11519.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="ctvnews.ca" tvg-name="Canada: CTV NEWS NETWORK" tvg-logo="http://goldtv.ca/logos/canada/ctvnews.jpg",Canada: CTV NEWS NETWORK
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11518.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="ctv.ca" tvg-name="Canada: CTV OTTAWA" tvg-logo="http://goldtv.ca/logos/canada/ctvnewsottawa.jpg",Canada: CTV OTTAWA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11517.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="ctv.ca" tvg-name="Canada: CTV TORONTO" tvg-logo="http://goldtv.ca/logos/canada/ctvtoronto.jpg",Canada: CTV TORONTO
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11516.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="ctv.ca" tvg-name="Canada: CTV VANCOUVER" tvg-logo="http://goldtv.ca/logos/canada/ctvvancouver.jpg",Canada: CTV VANCOUVER
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11342.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="ctv2.ca" tvg-name="Canada: CTV2 OTTAWA" tvg-logo="http://goldtv.ca/logos/canada/ctv2ottawa.jpg",Canada: CTV2 OTTAWA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11359.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="disneychannel.ca" tvg-name="Canada: DISNEY CANADA" tvg-logo="http://goldtv.ca/logos/canada/disneycanada.jpg",Canada: DISNEY CANADA
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11357.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="foodnetwork.ca" tvg-name="Canada: FOOD NETWORK" tvg-logo="http://goldtv.ca/logos/canada/foodnetwork.jpg",Canada: FOOD NETWORK
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11509.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: FOX NEWS" tvg-logo="http://goldtv.ca/logos/canada/foxnewschannel.jpg",Canada: FOX NEWS
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11508.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="globaltoronto.ca" tvg-name="Canada: GLOBAL TORONTO" tvg-logo="http://goldtv.ca/logos/canada/GlobalToronto.jpg",Canada: GLOBAL TORONTO
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11505.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: GLOBAL VANCOUVER" tvg-logo="http://goldtv.ca/logos/canada/GlobalVancouver.jpg",Canada: GLOBAL VANCOUVER
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11395.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: GOLF" tvg-logo="http://goldtv.ca/logos/canada/Golf.jpg",Canada: GOLF
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11456.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="hbo.ca" tvg-name="Canada: HBO 1" tvg-logo="http://goldtv.ca/logos/canada/HBO1.jpg",Canada: HBO 1
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11503.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="hbo2.ca" tvg-name="Canada: HBO 2" tvg-logo="http://goldtv.ca/logos/canada/HBO2.jpg",Canada: HBO 2
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11403.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="hgtv.ca" tvg-name="Canada: HGTV" tvg-logo="http://goldtv.ca/logos/canada/hgtv.jpg",Canada: HGTV
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11502.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="historia.ca" tvg-name="Canada: HISTORIO" tvg-logo="http://goldtv.ca/logos/canada/Historia.jpg",Canada: HISTORIO
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11343.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="omni1.ca" tvg-name="Canada: OMNI 1" tvg-logo="http://goldtv.ca/logos/canada/OMNI1.jpg",Canada: OMNI 1
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11491.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="omni2.ca" tvg-name="Canada: OMNI 2" tvg-logo="http://goldtv.ca/logos/canada/OMNI2.jpg",Canada: OMNI 2
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11364.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="onegetfit.ca" tvg-name="Canada: ONE" tvg-logo="http://goldtv.ca/logos/canada/One.jpg",Canada: ONE
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11352.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="outtv.ca" tvg-name="Canada: OUTTV" tvg-logo="http://goldtv.ca/logos/canada/OutTV.jpg",Canada: OUTTV
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11490.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: OWN" tvg-logo="http://goldtv.ca/logos/canada/OWN.jpg",Canada: OWN
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11489.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: PBS EAST" tvg-logo="",Canada: PBS EAST
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11488.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="peachtree.ca" tvg-name="Canada: PEACH TREE" tvg-logo="http://goldtv.ca/logos/canada/Peachtree.jpg",Canada: PEACH TREE
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11351.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: PRISE" tvg-logo="",Canada: PRISE
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11389.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: RDI" tvg-logo="",Canada: RDI
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11487.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="rds.ca" tvg-name="Canada: RDS" tvg-logo="http://goldtv.ca/logos/canada/RDS.jpg",Canada: RDS
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11388.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3" tvg-id="rds2.ca" tvg-name="Canada: RDS 2" tvg-logo="http://goldtv.ca/logos/canada/RDS2.jpg",Canada: RDS 2
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11350.ts
-#EXTINF:-1 group-title="CANADA PREMIUM-SERVER3"  tvg-name="Canada: SERIS" tvg-logo="",Canada: SERIS
-http://watch.goldtv.ca:25461/live/iptvhdmitr-restream/fsNJPPQTzA/11387.ts
 
 
 
@@ -1896,14 +1796,7 @@ http://185.53.163.214:5678/ipvt_012
 
 #EXTINF:-1 group-title="UK-SERVER6", 
 
-#EXTINF:-1 group-title="UK-SERVER6",BT Sports ESPN
-http://163.172.86.57:3135/BT/espn21/mono.m3u8
-#EXTINF:-1 group-title="UK-SERVER6",BT Sports 1
-http://163.172.86.57:3135/BT1/Stream/mono.m3u8
-#EXTINF:-1 group-title="UK-SERVER6",BT Sports 2
-http://163.172.86.57:3135/B/2/mono.m3u8
-#EXTINF:-1 group-title="UK-SERVER6",BT Sports 3
-http://163.172.86.57:3135/B/3/mono.m3u8
+
 
 
 
@@ -4302,7 +4195,54 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",
 
-
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBEN.png" ,ProSieben
+http://78.94.43.134:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KABELEINS.png" ,kabel eins
+http://78.94.43.134:8000/play/a00f/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTE.png" ,arte HD
+http://78.94.43.134:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIXX.png" ,sixx
+http://78.94.43.134:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="http://i.imgur.com/U4djygi.png" ,TELE 5
+http://78.94.43.134:8000/play/a01o/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PROSIEBENMAXX.png" ,ProSieben MAXX
+http://78.94.43.134:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/RTLplus_Logo_2016.png" ,RTLplus
+http://78.94.43.134:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PHOENIX.png" ,Phoenix HD
+http://78.94.43.134:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/N24DOKU.png" ,N24 Doku
+http://78.94.43.134:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NTV.png" ,n-tv
+http://78.94.43.134:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NTV.png" ,n-tv HD
+http://78.94.43.134:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALJAZEERA.png" ,Al Jazeera
+http://78.94.43.134:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" ,Eurosport 1 DE
+http://78.94.43.134:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AUTOMOTO.png" ,auto motor und sport channel
+http://78.94.43.134:8000/play/a01p/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" ,Disney Channel
+http://78.94.43.134:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DEUTSCHESMUSIKFERNSEHEN.png" ,Deutsches Musik Fernsehen
+http://78.94.43.134:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANIMALPLANET.png" ,Animal Planet
+http://78.94.43.134:8000/play/a01q/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" ,Discovery
+http://78.94.43.134:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Planet_logo_New.png" ,Planet
+http://78.94.43.134:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png" ,TLC
+http://78.94.43.134:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTLPASSION.png" ,RTL Passion
+http://78.94.43.134:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTLCRIME.png" ,RTL Crime
+http://78.94.43.134:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTLLIVING.png" ,RTL Living
+http://78.94.43.134:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/UNITELCLASSICA.png" ,Classica
+http://78.94.43.134:8000/play/a02y/index.m3u8
 
 
 
@@ -4312,7 +4252,24 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3" tvg-logo="http://i.imgur.com/dQMc5EO.png" ,Sky Sport News HD 
+http://92.60.237.33:17000/play/SkySportNews
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3" tvg-logo="http://i.imgur.com/GM9BhHH.png" ,Sky Sport 1 HD DE 
+http://92.60.237.33:17000/play/SkySport1
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3" tvg-logo="http://i.imgur.com/JM9osWD.png" ,Sky Sport 2 HD DE 
+http://92.60.237.33:17000/play/SkySport2
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" ,SKY SPORT BUNDESLIGA 1 HD 
+http://92.60.237.33:17000/play/SkyBundesliga1
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" ,SKY SPORT BUNDESLIGA 2 HD 
+http://92.60.237.33:17000/play/SkyBundesliga2
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" ,SKY SPORT BUNDESLIGA 3 HD 
+http://92.60.237.33:17000/play/SkyBundesliga3
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Sky_Sport_Bundesliga_HD_Logo_2016.png" ,SKY SPORT BUNDESLIGA 4 HD 
+http://92.60.237.33:17000/play/SkyBundesliga4
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYCINEMA.png" ,Sky Cinema 
+http://92.60.237.33:17000/play/SkyCinema
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYATLANTIC.png" ,Sky Atlantic 
+http://92.60.237.33:17000/play/SkyAtlantic
 
 
 
@@ -6118,9 +6075,12 @@ http://iptvlowcost.club:8080/live/eco/eco/7975.m3u8
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",
 
 
-
-
-
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 
+http://livebar.pw/lba/123/g5/tv1pt.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 
+http://livebar.pw/lba/123/g7/sport2port.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 
+http://livebar.pw/lba/123/g3/pt3sport.m3u8
 
 
 
@@ -8466,80 +8426,6 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
 
 #EXTINF:-1 group-title="India-SERVER2",
 
-#EXTINF:-1 group-title="India-SERVER2",Rishtey
-http://81.173.228.209:8000/play/a00s
-#EXTINF:-1 group-title="India-SERVER2",COLORS
-http://81.173.228.209:8000/play/a00t
-#EXTINF:-1 group-title="India-SERVER2",ARY Family
-http://81.173.228.209:8000/play/a011
-#EXTINF:-1 group-title="India-SERVER2",Dunya News
-http://81.173.228.209:8000/play/a012
-#EXTINF:-1 group-title="India-SERVER2",Hidayat TV
-http://81.173.228.209:8000/play/a017
-#EXTINF:-1 group-title="India-SERVER2",Venus TV
-http://81.173.228.209:8000/play/a016
-#EXTINF:-1 group-title="India-SERVER2",RishteyCine
-http://81.173.228.209:8000/play/a00w
-#EXTINF:-1 group-title="India-SERVER2",HUM Masala
-http://81.173.228.209:8000/play/a007
-#EXTINF:-1 group-title="India-SERVER2",HUM News
-http://81.173.228.209:8000/play/a008
-#EXTINF:-1 group-title="India-SERVER2",Aplus TV
-http://81.173.228.209:8000/play/a004
-#EXTINF:-1 group-title="India-SERVER2",Noor TV
-http://81.173.228.209:8000/play/a00c
-#EXTINF:-1 group-title="India-SERVER2",HUM EUROPE
-http://81.173.228.209:8000/play/a003
-#EXTINF:-1 group-title="India-SERVER2",Madani Chnl
-http://81.173.228.209:8000/play/a018
-#EXTINF:-1 group-title="India-SERVER2",GEO Kahani
-http://81.173.228.209:8000/play/a00e
-#EXTINF:-1 group-title="India-SERVER2",SONY SAB
-http://81.173.228.209:8000/play/a00j
-#EXTINF:-1 group-title="India-SERVER2",PTV Global
-http://81.173.228.209:8000/play/a015
-#EXTINF:-1 group-title="India-SERVER2",B4U Music
-http://81.173.228.209:8000/play/a019
-#EXTINF:-1 group-title="India-SERVER2",NDTV 24×7
-http://81.173.228.209:8000/play/a00f
-#EXTINF:-1 group-title="India-SERVER2",Samaa
-http://81.173.228.209:8000/play/a010
-#EXTINF:-1 group-title="India-SERVER2",Sangat
-http://81.173.228.209:8000/play/a00b
-#EXTINF:-1 group-title="India-SERVER2",TV 99
-http://81.173.228.209:8000/play/a005
-#EXTINF:-1 group-title="India-SERVER2",Star GOLD
-http://81.173.228.209:8000/play/a00v
-#EXTINF:-1 group-title="India-SERVER2",SONY MIX
-http://81.173.228.209:8000/play/a00k
-#EXTINF:-1 group-title="India-SERVER2",New Vision TV
-http://81.173.228.209:8000/play/a013
-#EXTINF:-1 group-title="India-SERVER2",SONY MAX
-http://81.173.228.209:8000/play/a00r
-#EXTINF:-1 group-title="India-SERVER2",SONY TV
-http://81.173.228.209:8000/play/a00i
-#EXTINF:-1 group-title="India-SERVER2",ABP News
-http://81.173.228.209:8000/play/a00m
-#EXTINF:-1 group-title="India-SERVER2",AAJ TAK
-http://81.173.228.209:8000/play/a00l
-#EXTINF:-1 group-title="India-SERVER2",GEO TV
-http://81.173.228.209:8000/play/a00n
-#EXTINF:-1 group-title="India-SERVER2",B4U Movies
-http://81.173.228.209:8000/play/a01a
-#EXTINF:-1 group-title="India-SERVER2",92 News
-http://81.173.228.209:8000/play/a006
-#EXTINF:-1 group-title="India-SERVER2",Ahlebait TV
-http://81.173.228.209:8000/play/a002
-#EXTINF:-1 group-title="India-SERVER2",Star Plus
-http://81.173.228.209:8000/play/a00u
-#EXTINF:-1 group-title="India-SERVER2",PTC PUNJABI
-http://81.173.228.209:8000/play/a00g
-#EXTINF:-1 group-title="India-SERVER2",GEO News
-http://81.173.228.209:8000/play/a00z
-#EXTINF:-1 group-title="India-SERVER2",Aastha
-http://81.173.228.209:8000/play/a00d
-#EXTINF:-1 group-title="India-SERVER2",Star Bharat
-http://81.173.228.209:8000/play/a00x
 
 
 
@@ -10361,208 +10247,70 @@ http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.ts
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein1 1M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1286.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein2 1M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1285.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein3 1M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1284.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein4 1M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1283.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein5 1M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1282.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein6 1M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1281.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein7 1M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1280.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein8 1M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1279.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein9 1M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1278.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein10 1M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1277.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein1 2M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1296.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein2 2M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1295.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein3 2M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1294.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein4 2M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1293.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein5 2M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1292.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein6 2M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1291.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein7 2M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1290.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein8 2M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1289.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein9 2M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1288.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein10 2M
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1287.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT1
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1336.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT2
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1335.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT3
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1334.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT4
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1333.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT5
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1332.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT6
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1331.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT7
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1330.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT8
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1329.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT9
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1328.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT10
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1327.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 1
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1356.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 2
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1355.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 3
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1354.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 4
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1353.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 5
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1352.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 6
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1351.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 7
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1350.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 8
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1349.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 9
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1348.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT 10
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1347.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein__Sport1
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1326.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT2
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1325.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT3
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1324.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT4
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1323.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT5
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1322.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT6
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1321.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT7
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1320.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT8
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1319.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT9
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1318.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN__SPORT10
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1317.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__1
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1346.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__2
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1345.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__3
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1344.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORTS__4
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1343.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__5
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1342.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__6
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1341.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__7
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1340.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__8
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1339.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__9
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1338.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN_SPORT__10
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1337.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport1 FULL HD
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1316.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport2 FULL HD
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1315.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport3 FULL HD
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1314.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport4 FULL HD
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1313.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport5 FULL HD
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1312.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport6 FULL HD
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1311.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport7 FULL HD
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1310.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport8 FULL HD
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1309.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport9 FULL HD
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1308.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport10 FULL HD
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1307.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport1 4KB PLUSE
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1306.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport2 4KB PLUSE
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1305.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport3 4KB PLUSE
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1304.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport4 4KB PLUSE
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1303.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport5 4KB PLUSE
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1302.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport6 4KB PLUSE
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1301.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport7 4KB PLUSE
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1300.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport8 4KB PLUSE
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1299.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport9 4KB PLUSE
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1298.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BeinSport10 4KB PLUSE
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1297.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports1 EX
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1276.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports2 EX
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1275.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports3 EX
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1274.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports4 EX
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1273.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports5 EX
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1272.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports6 EX
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1271.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports7 EX
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1270.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports8 EX
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1269.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports9 EX
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1268.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sports10 EX
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/1267.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_1 LOW
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/943.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_2 LOW
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/942.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_3 LOW
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/941.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_4 LOW
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/940.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_5 LOW
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/939.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_6 LOW
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/938.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_7 LOW
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/937.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_8 LOW
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/936.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_9 LOW
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/935.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein_10 LOW
-http://93.190.138.205:25461/live/admin_102192/IatDVYw6/934.m3u8
-
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/1.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/2.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 3 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/3.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 4 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/4.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 5 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/5.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 6 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/6.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 7 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/7.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 8 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/8.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 9 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/9.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Sports 10 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/10.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Sky Sport 1 HD
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/15.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN AD Sports 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/16.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN AD Sports 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/17.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Movies Kids HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/21.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Movies HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/22.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Movies  2h (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/23.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Movies Action HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/24.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Movies 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/25.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Movies 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/26.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Movies 3 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/27.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beIN Movies 4 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/28.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Box Office 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/29.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Box Office 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/30.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Quest Arabiya HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/31.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN WWE HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/32.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Fox Movies HD (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/33.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC 1 (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/35.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC 2 (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/36.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC 4 (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/37.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC MASR (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/38.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC Action (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/39.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC MAX (AR)
+http://www.freeiptvdaily.net:8000/live/JCsNzLlSDS/freeiptvdaily.tv/40.ts
 
 
 
