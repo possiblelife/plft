@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,24/12/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,26/12/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -2578,25 +2578,23 @@ http://live.eurocom.bg:8080/hls/stream.m3u8
 http://ataka.tv:1935/live/live/playlist.m3u8
 #EXTINF:-1 group-title="Bulgaria-WebTV",AL JAZEERA Balcan
 http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/160.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV",Auto TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV",Balkanika
+#EXTINF:-1 group-title="Bulgaria-WebTV"  tvg-logo="https://www.firstonetv.net/images/logos/bg/BALKANIKA.png",Balkanika
 rtsp://stream.teracomm.bg/balkanika
 #EXTINF:0 group-title="Bulgaria-WebTV",BG DNES
 http://80.72.95.40:8088
 #EXTINF:0 group-title="Bulgaria-WebTV",BG-Dnes HD
 http://80.72.95.40:8088i
-#EXTINF:-1 group-title="Bulgaria-WebTV",BNT
+#EXTINF:-1 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/BNT1.png",BNT
 http://46.10.150.113/alpha/alpha/playlist.m3u8
 #EXTINF:-1 group-title="Bulgaria-WebTV",BTK
 http://46.249.95.180/vtk/high.m3u8
 #EXTINF:0 group-title="Bulgaria-WebTV",BNP TV
 mms://bnptv.tv:10801A3
-#EXTINF:0 group-title="Bulgaria-WebTV",Bulgaria On Air
+#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/ONAIR.png",Bulgaria On Air
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bulgaria-WebTV",CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="Bulgaria-WebTV",channel Auto TV
+#EXTINF:0 group-title="Bulgaria-WebTV"  tvg-logo="https://www.firstonetv.net/images/logos/bg/AUTO_MOTO.png",channel Auto TV
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:0 group-title="Bulgaria-WebTV",channel 100 gaz
 mms://100automoto.tv/100gaz
@@ -2614,31 +2612,31 @@ mms://100automoto.tv/channel_porsche
 http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
 #EXTINF:0 group-title="Bulgaria-WebTV",Cherno more
 http://lb.blb.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV",CITY
+#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/CITYTV.png",CITY
 http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
 #EXTINF:-1 group-title="Bulgaria-WebTV",Clubland TV
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 #EXTINF:0 group-title="Bulgaria-WebTV",etv
 http://195.24.89.20/tvs/etv.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV",FEN
+#EXTINF:-1 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/FENTV.png",FEN
 rtsp://stream.teracomm.bg/fen
 #EXTINF:-1 group-title="Bulgaria-WebTV",Heart TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV",Planeta
+#EXTINF:-1 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/PLANETA.png",Planeta
 rtsp://stream.teracomm.bg/planeta
 #EXTINF:-1 group-title="Bulgaria-WebTV",MU-VI tv
 http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
 #EXTINF:0 group-title="Bulgaria-WebTV",NRJ Hits
 rtsp://5.196.138.6:1935/live/nrjbelgique_360p
-#EXTINF:0 group-title="Bulgaria-WebTV",ROMA TV
+#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/ROMATV.png",ROMA TV
 http://185.46.161.3/hls/sd.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV",Roma TV
+#EXTINF:-1 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/ROMATV.png",Roma TV
 http://77.78.130.123/hls/sd.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV",Roma TV HD
+#EXTINF:-1 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/ROMATV.png",Roma TV HD
 http://77.78.130.123/hls/hd.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV",Travel TV
+#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/TRAVELTV.png",Travel TV
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
-#EXTINF:0 group-title="Bulgaria-WebTV",Travel TV HD
+#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/TRAVELTV.png",Travel TV HD
 http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
 #EXTINF:-1 group-title="Bulgaria-WebTV",TV Evropa 
 http://lb.blb.cdn.bg:2018/fls/tvevropa.stream/playlist.m3u8
@@ -2701,96 +2699,6 @@ http://185.134.228.141:8891
 
 
 #EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",
-
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/255px-Flag_of_Bulgaria.svg.png" ,==Bulgaria==
-http://..........
-
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,NOTE: RETRY
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,AGAIN IF 
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1"  tvg-logo="http://www.mtholyoke.edu/~bloom22j/classweb/vinnyspolitics/images/warning_sign_clip_art_12971.jpg" ,FAILED.
-https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
-http://.....
-
-
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/DIEMASPORT2.png", Diema Sport 2 (Диема Спорт 2)
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqZKIjz0wSUtocw2bvXWxgZBB6vamn78nsNBgqfn6O3YCG%2f7rIENtFFO%2bLULUE3U7nexWs38bCu4RlJiCjLXc2QEl0l6uufwwSfK2XoJ1FShLMyPLek8N0xHPkljv%2bTYHabrNpJwMCiUXE8IYb8b%2fUXLF77scjWD1MscSM7bD7PLmK0hvwmacK8Ui9bdE%2ffPs3yCViUqZjyyxSp8tjLVOM3Ya%2fb9Ldth8Fjsp3eKt8%2b99NuGScQ6WYfD9zMM7%2fil74%2fqApxX334hUh1H1TQZHS1DBggosqkDICtQN5ELsQ1M5RtFvvSu%2bgn5eDoXtP1J60IEdA6qKpHSsBHLEFeLoq%2b8PvwDJe1FvDsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/DIEMASPORT.png", Diema Sport (Диема Спорт)
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAN0EmSgjAAAMAHWZTKkpiDBwRkDRhkc25DQEkYQEBELB%2fv9BO6TXDUpGVnlRQaWs2c8X3GbtmEHcW2011VuSVGplvLybtfobP7pcnAC33L0LMrJcQwKP5uE7gF0oFwvEqtwThVfXQ7lnVGCXlRv42i57SGOaILOlumN7Of8xyG5B5nGeFuVXSzpg6k6LbG6pUrIA7ztRIEPElEr71UlPKeDfa8UDc6puDNPNzljyEMke%2bawB55ZbOxh73P9CaK7cT1TuK8338yUOdDa0s5ix%2b4KflHgaKmiZIkwKO6E2QobwQEZFnYKABBXTEOMtp8FqK4asWNix9kpjn%2bj2DTiaXJbPtDi8w%2bilUnvUy1r9P9F4MJgYA7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/EUROSPORT1.png", Eurosport 1
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUtygjAAANADOYyRBBIWLkJM5FOhhLTQ7rAW2oAOf8Hx8L638r7mapKSJHaS59eP9lzTvtnwtb9MGnmkD1jlRYWZjW3kjJ0C2j8rdS8yL9xIdDHJfe1tmMx%2b%2byi528ynFM7a9%2bpvcmRwE5YBjbpByfez%2bOT6bV0yiZ1C%2f8YEVP%2fNjwpO1tUWPR1IzKLdVgA3rpnDuxS7VF5Y6nPFCsGrnTu4yBS3duQV10dx6LZkScbpWU8zbh4QDIWGsqxuTwubjJkQGlhQYiCMgOHYCBnAsh18sLiLHPCMs%2fxvKnWVLLU5hTr%2fOqI5oPv9CylVbs8PAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/BNT1.png", BNT 1 (БНТ 1)
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMmZDQuShD4RgyTZVmtU3aYqWrV6mRjv9%2bD1HFbdUQzCgGvO9DkTViRhYsr2nMm1GGMXLq%2fNk0mp1xoNxvtOTKqwnrFgm7Lrc9QkX6wWm6MiCLPPdGDyoo59wNNxjzYYsrAerkyBWjVUOdC76%2fLEEl%2ff0A4Kq%2bc3dqmBTSFS%2fGbmd8Dy9QV0WLU2o3ikB6fd1XMvrvYtedHsw9MWvZvm1NWxAFob4vOHikzilf3tmcUgCaz%2bq9ONgm1IbQhMz3zMRRsAkLkImcFyCQycKEAEf4Dn2SGa2%2bIDuTwc6SRH9bVarf7%2fypfkPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/IDXTRA.png", ID Xtra
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAvMhJC4sFDEGpZoXRi9611qUs63dp16%2fj4PSePHTot8NWEblnEKIJOPwqUmf1WzW3M1kh%2bzM6K%2b7Oew3rQuCyyIdq51%2brgZ%2fPZpiUVLcLCA8OUrb3KieB67iSrDBbszzs7bbDkfUeSyvhtpnfdRu%2fw9oaN4Pl3wJbqQmH6YuHtWT06%2fOhbsZ%2bk7%2f2pF5EOnLZ7muFFzuJKJLCPz%2fEcJPHSPsfR6qIrOQysua6m6wr2KVEQRkCxTIQUYJgW9gzmIAscE4pHfKfq4G2q%2f0WMutQa627b%2f4H2Hyn7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/NOVATV.png", Nova TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPMoROFwoHDwWLQqAsE2dob2wKigpDMUr8%2bHnv6h3daCcCjcy9pqrfhD4XB51YAjjeDQympEjsGbALFH%2b9BbUrztKbbqX5%2bAsSd%2bbn52N1rAE%2bjtTNxhgXVVDXgoKfPh9Kckq7pQjBb9peRBvMqiijV348L41co3PDde6p53x5LXUox66t6tMGTjILe3oHc%2bu0Uq0DH0Y%2bfc%2bQjGK3RrKycJf70GSNf8iay6dBTF0RTAhLSfLWwYdQ6HkQIYP6zDYwxcBwLIwNQCyH7gh3sQM%2bUkWqrOJFxdOdejbFeioztt3%2bA8OZ6VMPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/BNTHD.png", BNT HD  (БНТ HD)
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAANy8lygjAAANAPchgCJMQcemAVWTKihRJukGgFtMhilA4f377705uLx8RAw2jaQ5s2AomUVMD%2f4eIXRNk9LacgsLygG8SBsaDTpPo6%2b%2bNQNlfmQqketycree6PxeelHeoTB4%2f3Icp7mPXhchubt4uR1rSPxc%2fexTzDc8B7yY7hMne075vtQJO9HhtUjUrdvgU52Fiq77TQm4qCZBdcnec%2bd3Yw1kY%2bafU9fe4O0y3uIuyiJG49tN7ztHBfVzYSKU3q4BVh3XF0w1Cwb20ViCFQiAmhApBJ%2fpdnQwJWzruQal%2bP%2bpmh2XC0QpRkyTNMvUqaiH1vJmkLnYMuTj7%2bAMAbHUAjAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/EUROSPORT2.png", Eurosport 2
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYhiBBGIOHthpEcMu440WUxbDUqCUDB%2fve%2bm2t5j19TCttxg%2bUZ0zq9FD1g8AR3o5haHjfd0e3n32BP7gbB8di1NFdhLzWslZSvzFdYljmZ0yBAb3SE50m%2fh0%2bjNxbgfj4KFt5hifi1K7Ng0jnUqUilCt6DSQRkn9%2bdMxWmqL%2fIz0tt1j6u%2bFS0Ei%2bymvi1ezjZJhn5ZxV%2bX7xDcifMy%2f%2bdKQdY3dqcuPAN5QrqJMxNU%2f6rvsUJFimgoAInL0swgRlESsQShKqoaRpdoGxNJxGlk8foPlZcQCyKaqWPwSbZfLG3AFpesPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/NOVASPORT.png", Nova Sport
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYpiyBEIOHgSTlK2RfbkJRYGOVEADMny8713lMPbaR7cZ%2fb2c9HKsi77IM9NMvZWic%2bIOPrNxmUEBSI4tM8ibTk3x077cZ8iUUbeVlxuUkvptxIQ7SdVidWVHOgrmEoSj78xALwSvr38j4ixRfHPxAnp5yhN5ql1D%2b7kF7rELhjXdxs1rnIsfUOgwniQnc5kFTqe0UdJu8LbozfFbtfTo%2bVXhM%2bVaG01k3cOmouDfrrbYzvwre%2b0aVCxLUVURkqMhAggkEekAiJKmI3jSsAmQtPd0e2BU%2fgkA5WQkiKVFkC2Hwwda7aoKDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/DIEMA.png", Diema (Диема)
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAANyktygjAAANADMUwBE5MsXBBCRgGRAiq4U0KVjwVSfjocvq7f639uFgd%2bDWtNsIZV1f3tTkFoSDm56eXojZ7LlMjhc0w5jRy9dUPqoVgO2lwmtAvgUCgvoHwmrmor9%2bK3ZhrybjFO%2fT760PNyVTpyzIM7LspwlbSPLlu%2f5tLWZa6TMONRdcv1YZzBlF1FeypTEfeCOPI79f9g84jEhMs92z7EIfw927M4tNDhpzF5uqZZ28vIMn9vbNug4Ph5PuwXiAzLMlYrFXETqwABTSVrAFQNrgli0KaAaIuCcWkUaHcS3Vc4ZaQ57mhjbjb%2fk7pqnw8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/BALKANIKA.png", Balkanika Music Television
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwV3XQjAAAOAf5DiYGbvoIkPEyUd42Z0SatGXlXX68e%2fzIF7ubvmivi0GtE3Fp8tcJHx%2beUNcF4crC3Qazh8gNWFZz8NVaQ2IX8%2f6AiZGSbTdq5XGtdLc09FRsoMCra7rzoUbRH0e3zkgiSTZYsSwzNDo%2bKYC7NYeuNKF9%2fzglMueqGU25PMyO2dysqhovBjdNhNTJSnow5OptSl69umXblNl0WvKQqqJdNq6Ujxmk1vlDz3gkX87bli5BpXw0Z879avVL%2fdgLDqXuOJlnzUufoYJCAG6Lpve2pKhCVUZIwhl1UDYdAzXhlj9FcTXd43jJII93kEzf9Y%2buePWsxP8buoo3rEHxMNAjqRY%2fQN5OvhdOwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/PLANETA.png", Planeta TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqZBiDz0gWiiVnXojmpfdlySWmmV6gXj43uOkTyn%2fxfvXRz5hbXPhGTnI51MJjJ5hQxUYDtibIc7eRgI%2fRXU6EN%2bVobdKppP%2feTQoJ51r4XZpajBo6r3nd6K5zah6a2QY89TpSpTvsId87b0QX5gpymJHNP5MvC3Fr2yfeTqp0m7SW3XEAHuDh%2fGuzO2KPxo7yDHL%2bUIsd0lQcvqTyzK9DDkZPD8Fcqhz26LyWX9x1tY5GEcxh9tMZFOiG4YKqKOrUIEgYotCFVgWhh55saFGCx%2bl4sGlEiheFaa2KjvV3tzWa%2b%2frKZOsw8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/NATGEOWILD.png", Nat Geo Wild
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAANzFFugjAAANADEUJXSrEffrRSBYYUQYHxs4gDlyIOIVAwHt69A7yGDVj2XRi6xOiyKOCZ14hkDMJbmGUi4HeT4kV1jFY86nOuDkwN4%2fFKpxoE8SX2LphF%2b2nAYvxN8ih%2fyGNUk5M%2fBcbfoJC8U%2fjYypV3iNOkdJcKBmlW5UaqhOgHjX%2bazVK4bVg7NwNn3dfkivomjdMyX7URE3vPgBCaYX440CdFu59PFqvmnxjDJwSP8p6gF9%2fZrQ9KFH6TBsd9%2b7JsuNlA09TtLV3pyEZAJxghHVj%2foWNxhgh4PRM0n5Uli6Rwz%2b0u4tNCLbVevwEVuxb1DwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/KINONOVA.png", Kino Nova
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPmhAqtCwHD1QoYR2xyHYxAQdkkVXHQvh438MBDf1hC8nD1iM8%2bW9Q203SzaOvNYrxw7bLBVdhMFleOvTru2lFqh9QaTr3J%2fIw%2bCP%2fWmVJNM6qfnHH%2bTWsdU2KNjmfFHd4QWjG2K40kym9fjY60mIxSJkQvp1EHbviSVe%2b6QUhHTMnWnJgfOoKFpkzInLNC4zuC3pIM%2bR117biWD5sJWJuZNqWppaoY76J9vma%2fqLsxmhQ3dxmGnckC6eTIIqcTDSFgzIEnCpByAEkqbKODAxVsPOee19YlJCcz9eAamQA9PU5Hr9ShRhhDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/NATGEO.png", National Geographic
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAANzEtygjAAANADOUxSBUIWXZDwlyIon5KdhBJM6iAiODgevn0HeLUz0GCm9EUOmya%2fiP3JGH5B9lgMFA5zEJTNaW1rfqqhncX7q7P3VawKxwDL%2bNQrxdwgwhbeZdDyUwV4kfCJJHVrwYr4IqwKziTuewQSplh%2bmGvnywylX%2f0vuB55WWxzYt9N95YNRa48ItcErPJ4voDGFPfRThaxTi0DPBRJeUsfufg2gTcvdjQr%2bCSgfPMf654qCVXfpdcHSt8G2lK63e005NmWpiMdatjUdQ0aJkaO4RIdw%2fc0Acma8cMt3S7EMncm6ncxzoZ0I84d9aehjT33%2bGKR9fkHXdhSUyMBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/PLANETAHD.png", Planeta HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUmSgjAAAMAHTVFEE0hy8BBCIGyKWixyQ2QVEUZHxeLx0z11Devjipc0IufUaUY0v3FQVKOfOR3LH3UjQ7ol5idrcWJ4GA4il34m4qZYMRLWCZFtwL5%2b%2frRHfk%2f3fdKQ2wgi%2fHy3p%2bzz7m9wwt5W9umkFR4PBCx3INladUXBM1gF7qP4kvMA%2fVvo5OT6ii3k0qGc7cfEHahar%2bPPn9wnvc68i6064wsYZn3YqV5xxNd8Vy9p0bL61Jm%2bmFwxi3jR8JrzNYQKthhREEZAoTpCCtB0ik1NGIiCJeI4ulRH50DU36yXc5nc5cA2m3%2fHnHGVDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/DISNEYCHANNEL.png", Disney Channel
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMqbZSISHPgR1WVOlFaUvO6iqdam4TZl%2bfM%2bxKlOz6U6LVJ4sy88mtbfbePAYgGhQ%2bs6s8T1UXb1OntX8DgNvYuXKi2M%2f%2bSdSXwymORPcfonFdTfa5oFNcMj9psO5MlLb2WU8f%2fnnBQWXc0jtMe3isVLBUIzx%2btA9suJaiJ1n1F6owDackvXfJO%2fgmOlzy2VhPvWEA3MDyiJXlGlNYzslKWAkbdwowkcb0Y9hrD5n8E%2fSWhhhnH8wgboOJUkkJlVERBAQVRkhEWBZJQY%2baEgFHyN1%2b2saZjl4Xa17rKyJPMJyv%2f8CETc09w8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/DISCOVERYCHANNEL.png", Discovery Channel
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwdtugjAAANAPMmRFCoWHPXB1gi1SpYW%2bLGJIuTgQFUTCx%2b%2bcViWnnFS43KVGFw1ZBlQzcgL1ro1PyUtb6Nyf8H1oWjl90Nm6vF8oq4AQJPxizDauPjzL8lSTHNoLiY%2b7mZ50Um6CQw3sdArr%2figbaQ38llXbziSCcn9XxiHu36VQi2UxRta1TjNPdAYPqS4sCaJzvjxqUbOfa4Bwxmhxey7e6HGNszJCn1QCIjoDOxQNq1vh5nVxfympQk1LulVHW9fdapqCAttUIIJAsQwIFaAbFvJ034EWWKdO9NLbx27Sz8l1Y%2f0dCjPd48EZ35TnXvFAsd1G0DuM%2bfc%2f0%2foysCMBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/FOX.png", Fox
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwduSQzAAANAPMkYmQuTBg6pbULurLvW2rWDXpbGYMOPj95x6tOzFcHdpiPL4mPAUqp9M40jvXbStaf%2flq2mj07QD%2b8pg5ROgRMZfgNZegQGctmBNkyplBAkbQPDu6Ovm0aKL4%2fLi8J97%2beFgiS%2bj5LvHg%2b%2fgHXl3UQguPdusFKrwf%2bcmqfulZImhvMgYeMIeBcrm%2fLlPyFiGYQmbw8umLADmmbjeNhc1YyGuh0TeTw1D24aqKmPXMmSEEZCJjpAMNJ3gq%2bZcEAFnpbcP%2fl3la9GG1Y1S90qX0jLNf3IZkjL7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/FENTV.png", Fen TV (Фен ТВ)
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPMkSWttiDh0JZSqZCFS3hxmJgYNSCKEL8%2bHnvLrJEGgfCqL%2bwtTRh8WzGy5hEUWbVZfbuC3YjeJ3yqo4GPznNzk4WOUu84CSsdirHa51u7WrgbZNIJDaREIzG6goAiM%2fnQXf4p1mYl0Erre8R4PE2CjrL275N8zUbKu%2bIKr05OfVigQ%2fdSRExNqSA5gt3FXXhzwCOy7uY2v4zbY4Yxsj%2fw7vUWcumUEwGh%2b%2fCcVwBdFGUcikety%2b0Tdc1LUuzfbLTgA10DSMANB0ibFPoOQDrX8kVGofwF3ahIqiVNA6fvNnv%2fwFpospzDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/ROMATV.png", Roma TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcuWgiAAANAP6nhSBMmFC4TUHDJNbaqd%2bRqiscxXdfz47hXen5YetlTSIXk%2bgMpHMtwG%2bO4lT5cNWdQA7XrsoBO1NRKOLYzJT2tQLyz9Q5kH7LdYtB3d0LMIeXp9NCke%2fDzqljtmd%2fdAY89LwTMDH%2f1GaprM9v%2br40qyAellV1TD5Q7Aei3kCHxxFYhx10Mh3zu3yRPH5Gzy10Qnn0RNndu1NU9RgEOcaTKp7Y2ITzPCgFKg6wp2yEqBGKqKaUCoqMgwMUNrG5rqrLujH392lHx6t6q2yUt9uwaxrC%2btuTTy%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/BNT2.png", BNT 2 (БНТ 2)
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwduSQzAAANAPMsYlQTz0QSWWohudIPZNQ28u0WlZ7fTje07zB2r2SkgAEJMxSf1Q1KV2iDL0%2bs%2fvNfa4HCc8%2bUYSlAVbO3qtpSW4bYt5jmylokOxKrLNRAL59iQL%2fwaQwejDUoql562SjawUFOQ91rSBSBz4e1KLp3k2bu8eL7uWHhDNHxyUaycLuYTV8z4E3am6ePiiV8dfFjLYjLE5EbLFixx7w0x5K2xHgwlb4ecH9fuOzMcli9t3FUQfyzF93wRAdQIPqdCBuuraEKq6ZbsOtsgWuvqHJkt%2bbdA5QnGV7tbLrTW4lW02X7wiaLkPAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/DIEMAFAMILY.png", Diema Family (Диема Фемили)
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwceSgjAAANAP2mGIKSQ5eECKK6IkFCk3V0BUQKQI4%2fjx%2b95%2bqshv2zKm9iFNDB9%2bOnh5ybBjRbc7sHkC0bZxFi96pYtOfNPOpqjkKL8ZY9arPgrTZTOPuh27ziewhXk9as794LMlXcUylbjMl0jlIQdGXbgMU1nukyA7OQc5aH%2bvcwWDPePOkb%2fbzGJ1WVgDfo6yLJCHamGEwcBdOhfb%2fhE9bvNTtGaXFiv33JAByGoLujQYhKoSQAnQM5kn1x0gp%2bt6%2feUuCnS73onLgyRTDL%2bEQsOACCnU1pmCKQYK1zBWANE4NYm1wRx8Xf1%2b67U0INHYVL7V%2fHjeW4jJjEugjX7e8Tf2qGPDDrP1Pw20MIQ7AQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/FOXLIFE.png", Fox Life
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPIgRsC4WDB2pBHTaVZaSXyaDsVEjYhPjxvmeEc5ec4guqfSGg9yMALPB5jv05r4O5aAZWZmoqDLNQtbdHmSsy7%2fkEWb90gL%2bNJ3zDnMRx5t%2b3JeygXxOWCuXR2HYxQjlVMhaxG%2fUi51RNnLitFvZjazzcif02XkshKmzqMe1lwl3nRaN9rXhqL5lzdDDoXLPUipFc57AwV%2bGdgGEu%2f6M6kw5cb6cf6anDj5qcmxXu%2fm7dI4WN9fooGBwOAEIRW4YmIoxkUVcREmVF1TFVTIJ0%2bWNdmLQlOBgAkQaric7FWqfLfv8FrA0R5g8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/CITYTV.png", City TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPUkrrRXNwsCcMI5aMdktErJOeIKJSPn7eO%2bPx2yMs6q0pmR5xagKetbCWfLTKZdW9bqbny3WVNyGCcqAGOEtRXHv9pzDSnhFM2du%2bb5dw7O59yxyNXQT86%2fIQ8mORxPOX3UnCmg1wiZtmbvkruC21ykFa54a0kXJGV%2bZ0q5XBwnKeW259qD%2b0x%2bU00xxwLpAUuFsAqugwVPr%2b9BPjen68E%2fZ3wvaU74RCy4IIidQ1VBFTDERNwVgERNGoTRwTa2BHUVWPB3MMpp%2bIqE0JlRmrJ13%2fB85N5Uv7AAAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/MAGIC.png", Magic TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwUtygjAAANADOQwhCYQsXPAxIFISEGjDzijW%2bmlRBCPD4fsehrDAjtZjznDXDjwjiBz1MAHURdVo%2buX9gZLP3srvsvBkqtPzuXpcdccp%2by7jNnDqHrzIQiCU99tpgLa4cHMENAcqPDFc%2fGl6UdV7Q6u06cZ8tA%2bBZmLdDFFvMin3mXp6tfpYJPtJiCb8EkT6bXN05aoqZf3OYs8RKiSJs7MuatN4v7eCTr5gP6dbBa%2b1NY%2fb3fMgEFQ696e1%2b5ptAoMAImQQ5rkGJhgY1MHYALZDSWivfEzBnDxi6HPecxOEYoqCqLCeV2%2b5%2fAdS3TErDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/KANAL3.png", Kanal 3 (Канал 3)
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwclygjAAANAPYhi2AObQAwlSBAJFJFhuiKA2bLIpGT%2b%2b7xEeW9xseld2nt%2fvOy3juHCrlgzLVAi1d2PHhUeP8qZCTBqqzEPTgoMC1zNnf9JJCsvKe9Rm7L5%2b%2blUlpicVw7STGLYWOl9mFAmo3hsNYP2LoqbWqUG4d%2bgO9nKlSTtn3S8es3OnlXmvWG1FAuuY2kzBwchzTSZoF2wrv0w869c%2bU2maxSoqnxgWdTWjzV%2bvH2dMm%2bQc%2bNGD7WcfWB%2fdVDFWNU00HWsnAhPIIjQAEGXdgKat7xGA8qfKT6GbTlWmdqF%2bufvjFgkDy5OjE7PEDvM3zoYB3oWpkr%2f%2bASWYOSsjAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/SPORTAL.png", Sportal.bg
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwd1ugjAYANAHWoiFFj974YXFiiCgSxGnN4vKX7tKFSSo4eF3Dv6%2bv8LHpusfmXkrPSkCYZImyNipPvyVYZakjfYWU6qvMS%2bP4OS692UUxh22Y%2fLYHyfP5JYKWS35cwAeGF%2bxWTVouLj%2b2ab8g1I7ig6IAcxCCR19DRGRhZJv8L3mQrO76MNX%2f%2fOVP1nuKnFWIl4WLCjjgbdt23RUSyow3Q62yo1Jk1QdncOG1EXdba9mcR1PkgGugO%2fML8LrXTK64Hieg7EFq8XMIkCQRaeEWMidUli6nBGKxtuqq3e1i%2fRal3vRiureK1rN5%2f9gqPSsDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/THE_VOICE.png", The Voice Bulgaria
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwcuWQzAAANAPchyvJFjMQqLq1ZbRdsoOJV6D0lFyfPzcuzIKFCfRevwelubndHChrA0fkjaBEElCGJzDYCZHmeIsRQ6Vs%2fmSfSImZJ5r157bIdasnofNuNfO5%2f4b%2fE7H5v4IMbRjJbu0ZqH%2bgcRvRXQrpq1ua9ZNFSnjjhiSzAL96WM3c%2fs6v1fW4N7MaOO8dzgvG9GcdrhSFD1VqchHC2hHcDeEueWCdzx6EW6TLh4Wss%2bQoks5wdes3MzXyu9QlQmRFYVXLUPjgQpEXkcA8CJEumrCAwa6uNdjX60pHh0xf4ysiOHJ5riNoyVuXk8EUuaXzhX1kUDzr3%2bdqmQ9IwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/HARMONIA.png", Harmonia TV (Хармония ТВ)
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/OwEAAB%2bLCAAAAAAABAAFwVGTQkAAAOAfZEy7LNs%2b9LAhLlZpNuLlRthLJ0SrY%2frx9306ruPHcjKj5VeRWdpcfRaN41JOvu4E7FGlcRnQ30vNyOjeSeOu9JSf2vj1B7SQDW8vs7O2ftK6N%2fBWijIipDHanTWbTcLfWVlNSynaPkhm35FvCs6TQPkrx%2fHXSv4cqYg7moT8LuFZkIXC2cNi2JfavbPzFo37Ywy15Iadg9Vdbd1jQwELMQn4Kjk89vV%2bolFUNXM6cj8zbF40B2Zz5kWbzSdENpwNOOTBnALV%2ff4YWLMsTddVvKNrFWEEVGIipALDJNg2nC0i4PMAadGRfiXB8yLxTTmsK%2ffEUsnC5dWtZaBzhTJ0U56g2PwDYvKuwzsBAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/BIT.png", Bit TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcmSQ0AAANAPmlKaNM3BQbqJBEGMsdzEHpm2hLGUj5%2f37gGtXTd7Tq6fEO0HC3Jb9nnyvriINDMUotvXzAZ9bs5l6%2fyOzbQF7lP1ChRphhYWzvQujMujmSqTXzA3xRY2MN9pq3Uv6ocnUc4%2f53sIuJAbX46n6SrdvK7CpUdBqxfGUHFd%2bpHmGdo2S0OXG3fQp5FjstYfYV9qNXzIlma1RKRFOeJ8HVGRkBNNvsNhFw8B8RjzpxODdFViIIKAkUUIGSCIMiKCdoYyOG6NJORXu4Zw9cmC0zirrlBVlH%2ftbXn8%2bwAAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/STARA_ZAGORA.png", TV Stara Zagora
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwcGSgiAAANAPapwIMOTQQQlN19CUyjpWG1lG4W6mTB%2ffe3nhITNRr3U1UendpnmTg1YwpZtVVxYgPuaFGdg5XxzE%2f3qbhJlPkrEwk%2bxcDoXc1e02iLwbwos4slHjRaqSxf2i%2bz93brK0haQEtd3uUj4u0f6kTjdpKzEoX9tRP8K2S5I6jKod4lxqjUe0B3X83IQxXQB4fev90QxLV8gAzx%2bpePgHdCRcdwxbswx5%2bNN9YPQUKeW56X4ZW3mXj0sgYxAhh4S%2b52CCgUOnGDvAnVIyd3mAKfhsaAaxwjQoAtiQixyY97q%2bZ7Mvrtbosg8BAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/AUTO_MOTO.png", 100 Auto Moto TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/IwEAAB%2bLCAAAAAAABAAFwcmOgjAAANAPIqTYheUwB8RStG6AVuRiYBgFAmqjlkL8%2bHnvQ0n2GVAbLYFxpBN1z9Mh8xtjmcH3Q8ZFnjR6P3KZly4CaB%2fCm4yfLxtP9%2fVBSyaiFpRDnc6FaiDhVt6pIg%2f5RrV0aawqLtxo2tUP8Hvl7%2fHYL3QSbprNMxfFuoTeyefUCOfVa1rEz%2f6Pa8vbrspOZdc0JvatvIIEstoeyj3MeJrs5NiycCY6cuOR9HvwarpvrmRwmHma3ek6xZfLlzgwCCBCphP6rokdbJmejbFpEdtzFoTOsWd924%2bhWj2io8VEFitWV8Ew4zI%2b8R3SbHvugG30RSUGRX%2f%2bAfNdZeIjAQAA$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/ONAIR.png", Bulgaria ON AIR (България Он Ер)
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/TwEAAB%2bLCAAAAAAABAAFwceSgjAAANAP2mE2lARy8ABEqcIGkHYTpEhHUJHx4%2fe91kBe4PO5ug9HRZa2iSTG4Pe%2fr6bYkaLTXcqXpz6NWxjzvD07dfGUM9P0EbWQoa1VwNVBgJ1fY8TJdFttz55mSJo0IlvvJBx1Zu59G7KkXT7xj7DeUQ%2fXaONr5Vz%2bBWAUB5uGdeWWeuG4PQgqkM8p24pqSesrcSiafEDltYwDj0R51KmWLs6YPYPzkJhaAt13k8rW5fopH%2ffwLeC6jdnXXh0O32DMpgUpA4Yka%2bjy%2bEKRU1WO5xnxJEuMIAqAwUgQGAARFgk8KgIGX9M5xVOTNYW1f3SdaplPICXdR0iGtty97gYcyCaGQfHlKE1WF17h4nK71qpSlV7u5B%2b6aZyqTwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/TVART.png", TVArt
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/%2bwAAAB%2bLCAAAAAAABAAFwcdugzAAANAPihDGmOEDBzPbQMOmwA1RIGaGoVhEfHzfE580XFd6G8h453do9sjjK8KTOBjZ0tgOeL8%2fxdDeUr5usO9M315NZXK2n4wuMBqKbqC9quvu5kcnq6VpOOxfUu0vGwiz%2byqQLpwjlt2q6oKFfiVAFNpZhdZhlh08%2fPR4bmbRTT5fOiFh%2bC4k%2fLbOKn7MZqRYRzZkPYaumjOj%2f9GuZkc7REvkNQD%2fbdS7JAUaBhRFTrGJyiEFAQ7LCHFAkrFiSpaOMLiCmD2OeNpdq8zzJPXItFos1LR%2f9hH2r%2fsAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/TRAVELTV.png", Travel TV
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwclygjAAANAPchhiFpaDB0CpoSiyGGhuMg0iDbIERRw%2fvu8Z%2bnm4sGBPBLf1CVb3B%2bVLWwTK866zF4vdCqxws5yfDImtCOnw5y5FUzwBdzoZB52MrqJe95UACnd5ChKr%2fy64z%2f2v7CdiKpqaDiFSWFCfWf8K8%2fF0JDed6iwK0uZB%2b0MRZK4hZftEkly9x4WV9cip3iXh%2btcoe1i%2f46bHi8MbxXyVb%2bXoiuTIqvHeAma2H7XX6C2DjEp0atVcfogJPQ8ipJm%2bY2nYxECzDYw1QAzb3JKdi23wgZY8iC5L8%2bE1Odkkl3A41M5m8w8TMjYlDwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1" tvg-logo="https://www.firstonetv.net/images/logos/bg/TRAVELHD.png", Travel HD
-httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/DwEAAB%2bLCAAAAAAABAAFwdu2QkAAANAPsqwGMy4PPZiRHExJLtWbM3IwIUph%2bfizN%2bZtWdy%2fXndrKJuzvU8m%2f%2bpqdldhKRxwNLx2tCoKVnqPwm%2bjN7tlVI281KHP%2fvOFiH7MjE%2fQuWrM%2bQrHcUpT%2fjkPtbzb4HduhHbNG3SI%2fYV5sq8vPwB0l4GkJklo694iqxtpLaEl0bkwbqg5YWW%2fv4LcJjEpLuHfAyOTD00eMB4s9HeBjS4wy5zbOBKedX8s16ZS5C5xKch4fQI9WZEmEyIriqjZpi5CDQLRUCEUAVINzUI7DA2wCqrTLr30CgPLvndkHtPNITltt%2f9tPKS9DwEAAA%3d%3d$http-refferer=http://linkprotect.xmtvplayer.com
-
-
 
 
 
@@ -3227,7 +3135,7 @@ http://..........
 http://..........
 
 
-#EXTINF:-1 group-title="France-Belgium-WebTV",Action
+#EXTINF:-1 group-title="France-Belgium-WebTV" tvg-logo="http://212.8.253.112/logo/FRANCE/ACTIONHD.png",Action
 http://live-s101.abweb.com/liveabs101/ngrp:action.stream_bis/chunklist_b1796000.m3u8
 #EXTINF:0 group-title="France-Belgium-WebTV" tvg-name="Alsace20" tvg-id="Alsace20" tvg-logo="http://www.televisionslocales.com/wp-content/uploads/photo-gallery/thumb/alsace20-300x200.png",Alsace20
 http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
@@ -3237,7 +3145,7 @@ http://live-s102.abweb.com/liveabs102/ngrp:animaux.stream_bis/chunklist_b1096000
 http://csm-e.dai.bfmtv.com/csm/live/109797390.m3u8
 #EXTINF:-1 group-title="France-Belgium-WebTV" tvg-logo="https://pbs.twimg.com/profile_images/875697565462908928/44KptPDt_400x400.jpg" ,BFM Paris
 http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8
-#EXTINF:0 group-title="France-Belgium-WebTV",BFM Sport
+#EXTINF:0 group-title="France-Belgium-WebTV"  tvg-logo="http://212.8.253.112/logo/FRANCE/BFMHD.png",BFM Sport
 http://rmc-i.akamaihd.net/hls/live/218333/876630703001/BFMSPORT/master-1.m3u8
 #EXTINF:0 group-title="France-Belgium-WebTV",Canal 9
 rtmp://84.16.66.106:1935/livecast/livehd
@@ -3261,7 +3169,7 @@ rtmp://str81.creacast.com/grandlilletv/high
 http://ec.playmedia.fr/indies-live/live/playlist.m3u8
 #EXTINF:-1 group-title="France-Belgium-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/27/LogoLCN.JPG" ,La Chaine Normande
 http://live.lachainenormande.fr/live/lcn/livestream/playlist.m3u8
-#EXTINF:-1 group-title="France-Belgium-WebTV",Mangas TV
+#EXTINF:-1 group-title="France-Belgium-WebTV" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE2/MANGA.png",Mangas TV
 http://live-trl102.abweb.com/liveabtrl102/ngrp:mangas.stream_bis/chunklist_b2096000.m3u8
 #EXTINF:-1 group-title="France-Belgium-WebTV",Matele
 http://37.187.27.150:1935/matelelive/ngrp:matelelive_all/playlist.m3u8
@@ -3275,7 +3183,7 @@ http://live-trl101.abweb.com/liveabtrl101/ngrp:scienceetvie.stream_bis/chunklist
 http://live2.awedia.com/hls/tebeo.m3u8
 #EXTINF:-1 group-title="France-Belgium-WebTV",Toute L'Histoire
 http://live-s101.abweb.com/liveabs101/ngrp:toutelhistoire.stream_bis/chunklist_b1096000.m3u8
-#EXTINF:-1 group-title="France-Belgium-WebTV",Trek TV
+#EXTINF:-1 group-title="France-Belgium-WebTV" tvg-logo="http://212.8.253.112/logo/FRANCE/TREKHD.png" ,Trek TV
 http://live-trl01.abweb.com/livetrl01/ngrp:trek.stream_bis/chunklist_b1796000.m3u8
 #EXTINF:0 group-title="France-Belgium-WebTV" tvg-logo="http://television.com.ar/wp-content/uploads/2016/06/TV5MODE-540x370.jpg" ,TV5 Monde
 http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_8.m3u8
@@ -3356,11 +3264,11 @@ http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 #EXTINF:-1 group-title="France-SERVER2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
 http://..........
 
-#EXTINF:-1 group-title="France-SERVER2",beIN Sports 1 France
+#EXTINF:-1 group-title="France-SERVER2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beIN Sports 1 France
 httphost://$http-raw=http://unblocked.lol/beinsports1france$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="France-SERVER2",beIN Sports 2 France
+#EXTINF:-1 group-title="France-SERVER2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beIN Sports 2 France
 httphost://$http-raw=http://unblocked.lol/beinsports2france$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="France-SERVER2",beIN Sports 3 France
+#EXTINF:-1 group-title="France-SERVER2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beIN Sports 3 France
 httphost://$http-raw=http://unblocked.lol/beinsports3france$http-refferer=https://unblocked.lol/tv
 
 
@@ -3444,201 +3352,201 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Cartoon Network HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CARTOONNETWORKHD.png",Cartoon Network HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/520.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Discovery Science HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/DISCOVERYSCIENCEHD.png",Discovery Science HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/519.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Disney Jr Fr
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/DISNEYJUNIORHD.png",Disney Jr Fr
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/518.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Nat Geo HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/NGCHD.png",Nat Geo HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/517.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Nat Geo Wild  HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/NGCWILDHD.png" ,Nat Geo Wild  HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/516.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",NRJ12 HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/NRJ12HD.png",NRJ12 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/515.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",13 EME RUE HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/13EMERUEHD.png",13 EME RUE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/514.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",6TER HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/6TERHD.png",6TER HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/513.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",A LA CARTE 10
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/512.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",A LA CARTE 7
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/ALACARTE7HD.png",A LA CARTE 7
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/511.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",A LA CARTE 8
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/510.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",A LA CARTE 9
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/509.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",AB Moteur HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/ABMOTEURHD.png",AB Moteur HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/508.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",AB1
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/AB1HD.png",AB1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/507.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",AB3
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/AB3HD.png",AB3
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/506.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",ACTION
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/ACTIONHD.png" ,ACTION
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/505.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",ANIMAUX
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/ANIMAUXHD.png",ANIMAUX
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/504.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",ARTE HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/ARTEHD.png",ARTE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/503.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",beINS PORTS 2HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beINS SPORTS 2HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/86.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",BFM TV
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/BFMHD.png",BFM TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/464.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Boing
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/BOINGHD.png" ,Boing
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/521.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",BOOMERANG HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/BOOMERANGHD.png",BOOMERANG HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/522.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",C8
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/C8HD.png",C8
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/495.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Canal  Cinema
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CANAL+CINEMAHD.png",Canal  Cinema
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/494.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Canal  Decale
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CANAL+DECALEHD.png",Canal  Decale
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/493.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Canal  Family
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CANAL+FAMILYHD.png",Canal  Family
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/492.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Canal  Series
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CANAL+SERIEHD.png" ,Canal  Series
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/491.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CANAL HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CANAL+HD.png",CANAL HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/465.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CANAL J
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALJHD.png",CANAL J
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/490.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CANAL PLAY 1
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY%201HD.png",CANAL PLAY 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/489.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CANAL PLAY 2
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY2HD.png",CANAL PLAY 2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/488.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CANAL PLAY 3
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY%203HD.png",CANAL PLAY 3
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/487.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CANAL PLAY 4
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY4HD.png",CANAL PLAY 4
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/486.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CANAL PLAY 5
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CANALPLAY5HD.png",CANAL PLAY 5
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/485.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CANAL PLAY 6
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://185.79.114.21:88/logos/canalplay.png",CANAL PLAY 6
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/484.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",CANAL PLAY 7
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/483.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Chasse et Peche
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CHASSEETPECHEHD.png",Chasse et Peche
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/482.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CHERIE 25 HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CHERIE25HD.png",CHERIE 25 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/481.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CINE CLASSIC
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+CLASSICHD.png",CINE CLASSIC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/480.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CINE CLASSIC HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+CLASSICHD.png",CINE CLASSIC HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/479.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CINE EMOTION
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+EMOTIONHD.png",CINE EMOTION
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/478.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CINE EMOTION HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+EMOTIONHD.png",CINE EMOTION HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/477.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CINE FAMIZ
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE2/CINEFAMIZ.png",CINE FAMIZ
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/476.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Cine Famiz HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE2/CINEFAMIZ.png",Cine Famiz HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/475.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CINE FRISSON
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+FRISSONHD.png",CINE FRISSON
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/474.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CINE FRISSON HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+FRISSONHD.png",CINE FRISSON HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/473.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CINE FX
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CINEFXHD.png",CINE FX
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/472.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CINE POLAR
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE2/CINEPOLAR.png",CINE POLAR
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/471.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CINE PREMIER HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+PREMIEREHD.png",CINE PREMIER HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/470.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",COMEDIE  HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/COMEDIEHD.png",COMEDIE  HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/469.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",COMEDIE Plus
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/COMEDIEHD.png",COMEDIE Plus
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/468.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CSTAR HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CSTARHD.png" ,CSTAR HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/467.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",D17
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/466.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",D8
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/496.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",DISCOVERY
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/DISCOVERYHD.png",DISCOVERY
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/386.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",DISNEY CHANNEL
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/DISNEYCHANNELHD.png",DISNEY CHANNEL
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/451.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",DISNEY CINEMA
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/DISNEYCINEMAGICHD.png" ,DISNEY CINEMA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/452.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Disney xd  HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/DISNEYXDHD.png",Disney xd  HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/453.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",EQUIDIA live
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/EQUIDIALIVEHD.png",EQUIDIA live
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/454.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",FRANCE 2
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE2HD.png",FRANCE 2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/458.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",France 4  HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE4HD.png",France 4  HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/459.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",France 5 HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE5HD.png",France 5 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/460.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",France O  HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCEOHD.png",France O  HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/461.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",GAME ONE
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/GAMEONEHD.png" ,GAME ONE
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/462.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",GULLI HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/GULLIHD.png" ,GULLI HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/463.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",HD1
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://185.79.114.21:88/logos/HD1.jpg",HD1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/450.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",i Tele
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/449.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",L'EQUIPE 21
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/LEQUIPE21HD.png",L'EQUIPE 21
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/447.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",La Deux
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE2/RTSDEUX.png",La Deux
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/446.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",La une BE
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/445.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",LCI
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/LCIHD.png",LCI
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/444.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",M6
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/M6HD.png",M6
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/443.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Mangas
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE2/MANGA.png",Mangas
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/441.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",National geo wild
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/NGCWILDHD.png",National geo wild
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/440.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",NICKELODEON HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/NICKELODEONHD.png",NICKELODEON HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/394.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",NICKELODEON JUNIOR
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/NICKELODEONJUNIORHD.png",NICKELODEON JUNIOR
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/439.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",NRJ Hits
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/NRJ12HD.png",NRJ Hits
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/438.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",NUMERO 23 HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/NUMERO23HD.png",NUMERO 23 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/437.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",OCS CHOC HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/OCSCHOCHD.png",OCS CHOC HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/436.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",OCS CITY
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/OCSCITYHD.png",OCS CITY
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/435.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",OCS GEANT
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/OCSGO.png",OCS GEANT
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/434.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",OCS MAX
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/OCSMAXHD.png" ,OCS MAX
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/433.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",OLTV HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/432.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Orange Cine horreur HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://185.79.114.21:88/logos/Orange.png",Orange Cine horreur HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/431.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Orange enquete exclusive HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://185.79.114.21:88/logos/Orange.png",Orange enquete exclusive HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/430.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",PARAMOUNT CHANNEL HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/PARAMOUNTCHANNELHD.png",PARAMOUNT CHANNEL HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/429.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",PARIS PREMIERE  HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/PARISPREMIEREHD.png",PARIS PREMIERE  HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/428.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",PARIS PREMIERE HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/PARISPREMIEREHD.png",PARIS PREMIERE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/427.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",PIWI HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/PIWIHD.png",PIWI HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/426.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",PLANETE  HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/PLANET+HD.png",PLANETE  HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/425.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",PLANETE A&E HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE2/PLANETE.png",PLANETE A&E HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/424.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",PLANETE CI HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/PLANET+CIHD.png",PLANETE CI HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/423.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",rmc decouverte
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/RMCDECOUVERTEHD.png",rmc decouverte
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/421.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",RTL TVI
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/420.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",RTS Deux
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE2/RTSDEUX.png",RTS Deux
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/419.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",RTS Un
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE2/RTSUN.png",RTS Un
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/418.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",SCIENCE ET VIE HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1"  tvg-logo="http://212.8.253.112/logo/FRANCE/SCIENCEETVIEHD.png",SCIENCE ET VIE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/417.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",SCIENCES & VIE
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/SCIENCEETVIEHD.png",SCIENCES & VIE
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/416.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",SERIE CLUB
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/415.m3u8$http-refferer=http://localhost
@@ -3650,61 +3558,61 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/413.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/412.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",SCINE A LA DEMANDE 3
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/411.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Syfy HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/SYFYHD.png",Syfy HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/410.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Teva
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/TEVAHD.png",Teva
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/409.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",TF1 HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/TFXHD.png",TF1 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/408.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Tiji
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/TIJIHD.png",Tiji
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/407.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",TOUTE LHISTOIRE
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/HISTOIREHD.png",TOUTE LHISTOIRE
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/406.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",TRACE URBAN
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/TRACEURBANHD.png",TRACE URBAN
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/392.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",TV BREIZH HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/TVBREIZHHD.png",TV BREIZH HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/405.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",USHUAIA  HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/USHUAIAHD.png",USHUAIA  HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/404.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="France PREMIUM-SERVER1",Zouzou TV LOCAL
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/403.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",A LA CARTE 5
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://185.79.114.21:88/logos/A%20LA%20CARTE.png",A LA CARTE 5
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/402.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",A la Carte 6
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://185.79.114.21:88/logos/A%20LA%20CARTE.png",A la Carte 6
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/401.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",A.LA.CARTE.1
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/ALACARTE%201HD.png",A.LA.CARTE.1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/400.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",A.LA.CARTE.3
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/ALACARTE3HD.png",A.LA.CARTE.3
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/399.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",A.LA.CARTE.4
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://185.79.114.21:88/logos/A%20LA%20CARTE.png",A.LA.CARTE.4
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/398.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",CINE PREMIER
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/CINE+PREMIEREHD.png",CINE PREMIER
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/396.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",FRANCE 24
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE24.png",FRANCE 24
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/395.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",NT1
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/NT1HD.png",NT1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/391.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",TCM CINEMA
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/TCMCINEMAHD.png",TCM CINEMA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/390.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",TEVA/TMC
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/TEVAHD.png",TEVA/TMC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/389.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",TREK HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/TREKHD.png",TREK HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/388.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",TV5 MONDE
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/TV5MONDE.png",TV5 MONDE
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/387.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",VOYAGE HD
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/VOYAGEHD.png",VOYAGE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/385.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",Bein max 4
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/BEINSPORTMAX4HD.png",Bein max 4
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/528.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",EURONEWS
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE24.png",EURONEWS
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/527.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",FRANCE 3
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/FRANCE3HD.png",FRANCE 3
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/526.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",RTL9
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/RTL9HD.png",RTL9
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/525.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",TELETOON
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/TELETOON+HD.png",TELETOON
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/524.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="France PREMIUM-SERVER1",W9
+#EXTINF:-1 group-title="France PREMIUM-SERVER1" tvg-logo="http://212.8.253.112/logo/FRANCE/W9.png",W9
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=http://localhost
 
 
@@ -3788,721 +3696,6 @@ http://77.134.143.101:8000/play/a00m/index.m3u8
 
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER3",
-
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Equidia.Live.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/2318
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:EQUIDIA LIVE
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/18444
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:EQUIDIA LIVE HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/18387
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Equipe21.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19530
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:L'EQUIPE21 SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/18443
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:13eme.rue.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19511
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:6Ter.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19512
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:AB.Moteurs.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19513
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:AB1.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19514
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:AB3.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19516
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Action.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19515
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Altice.studio.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19517
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Animaux.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19611
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Beinsport1.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19500
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Beinsports3.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19503
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:beinsports4.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19504
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Beinsports5.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19505
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Beinsports6.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19506
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Beinsports7.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19507
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Beinsports8.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19508
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Beinsports9.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19509
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BFM.Sport.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19510
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Canal.Cinema.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19621
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Canal.Family.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19622
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:canal.j.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19623
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Canal.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19624
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Canal.Series.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19625
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Canal.Sport.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19626
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cartoon.Network.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19627
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cherie25.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19629
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cine.Classic.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19630
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cine.Club.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19631
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cine.Emotion.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19632
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cine.Famiz.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19633
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cine.Frisson.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19634
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cine.Premier.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19635
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:France2.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19535
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:France3.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19536
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:France4.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19537
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:France5.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19538
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Arte.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19612
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BBlack.Afrika.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19613
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BBlack.Caribbean.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19614
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BBlack.ClassiK.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19615
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BFM.TV.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19616
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Boing.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19617
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Boomerang.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19618
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:boomerang1.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19619
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:C8.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19620
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CNews.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19636
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Comedie.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19637
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Crime.District.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19518
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CStar.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19519
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Discovery.investigation.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19521
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Disney.Channel.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19524
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISNEY.Junior.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19526
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Disney.XD.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19527
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DisneyChannel1.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19528
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:euro.channel.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19531
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Eurosport1.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19532
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Franceinfo.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19539
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:FranceO.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19540
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Game.One.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19541
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Golf.Channel.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19542
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Gong.Max.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19543
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Gong.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19544
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Gulli.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19545
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Histoire.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19546
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:InfoSport.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19547
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:LCI.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19549
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:LCP.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19550
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:M6.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19551
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:MANGAS.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19552
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:MCM.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19553
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:MCM.Top.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19554
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Natgeo.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19557
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Nick4teens.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19559
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Nickelodeon.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19561
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NRJ.Hits.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19565
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NRJ12.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19566
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NT1.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19567
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Numero23.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19568
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Ocs.choc.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19569
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Ocs.city.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19570
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Ocs.geants.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19571
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Ol.Tv.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19573
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OM.Tv.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19574
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Paris.Premi.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19576
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Piwi.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19577
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Planete.AE.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19578
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Planete.Ci.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19579
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Planete.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19580
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:POLAR.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19581
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RTL9.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19587
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Science.et.Vie.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19588
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Seasons.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19589
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:serie.club.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19590
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:sundance.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19591
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:syfy.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19592
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TCM.Cinema.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19593
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TeleTOON.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19594
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Teva.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19595
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TF1.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19596
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Tiji.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19597
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TMC.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19598
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Trace.Africa.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19601
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Trace.Gospel.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19602
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Trace.Naija.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19603
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Trace.Tropical.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19604
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Trace.Urban.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19605
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TV.Breizh.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19607
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Ushua.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19608
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:13eme Rue HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19638
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC.Decouverte.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19582
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Rmc.Sport1.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19583
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Rmc.Sport2.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19584
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Rmc.Sport3.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19585
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Rmc.Sport5.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19586
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:W9.SD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19610
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TF1 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19702
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TF1 Series Films HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19703
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TFX HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19704
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TMC HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19706
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:beIN Sports 1 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19645
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:beIN Sports 2 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19646
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:beIN Sports 3 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19647
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Canal Cinema HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19652
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Canal Decale HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19653
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Canal Family HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19654
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Canal J HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19655
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Canal Series HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19656
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Canal Sport HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19657
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cine Classic HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19658
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cine Emotion HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19659
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cine Frisson HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19661
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cine FX HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19662
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Cine Premiere HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19663
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:France 2 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19674
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:France 24 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19675
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:France 3 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19676
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:France 4 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19677
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:France 5 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19678
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:France O HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19679
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:6ter HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19639
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:AB Moteurs HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19640
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:AB1 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19641
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Action HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19642
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Animaux HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19643
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BFM TV HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19648
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Boing HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19649
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Boomerang HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19650
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:C8 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19651
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Discovery Family HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19665
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Discovery HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19666
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Discovery Investigation HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19667
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Discovery SC HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19668
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:E! Entertainment HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19669
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Equidia HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19670
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Euronews HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19671
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Eurosport 2 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19673
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:LCI HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19680
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:M6 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19681
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Nat Geo Wild HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19682
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Nat Geographique HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19683
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NRJ 12 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19684
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OCS Choc HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19685
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OCS City HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19686
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OCS Geants HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19687
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OCS Max HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19688
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Paris Premiere HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19689
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Piwi HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19690
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Planete AE HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19692
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Planete Ci HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19693
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Planete HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19691
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RTL9 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19697
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Serie Club DH
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19698
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:SYFY HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19699
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Teva HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19701
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Toute L`Histoire HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19707
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Uchuaia TV HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19708
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:Voyage HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19709
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:W9 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19710
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC Sport 1 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19694
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC Sport 2 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19695
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC Sport 3 HD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19696
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 1 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19499
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 2 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19498
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 3 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19497
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 4 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19496
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 5 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19495
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 6 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19494
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 7 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19493
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 8 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19492
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 9 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19491
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 10 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19490
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 11 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19489
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 13 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19488
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 14 4k
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19487
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT NEWS 4K
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/19486
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:6TER H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21150
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:ANIMAUX_H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21152
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:ARTE H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21153
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BEIN1_H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21208
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BEIN2_H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21209
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BEIN3_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21210
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BFMTV H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21154
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:C8 H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21185
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CANAL_DECALE_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21188
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CANAL_FAMILY_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21189
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CANAL_H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21190
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CANAL_SERIES_H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21191
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CANAL_SPORT_H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21192
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CANALJ_H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21186
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CARTOON_N_H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21193
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CINE_EMOTION_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21195
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CINE_FAMIZ_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21196
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CINE_FRISSON_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21197
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CNEWS H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21156
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CSTAR H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21157
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:dis-sc_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21159
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:discovery-family_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21160
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISNEY_JUNIOR_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21162
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:equidia_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21205
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:FRANCE O H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21199
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:FRANCE2 H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21200
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:FRANCE3 H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21201
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:FRANCE4 H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21202
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:FRANCE5 H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21203
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:GULLI H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21163
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:L'EQUIPE H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21206
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:LCI H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21164
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:M6 H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21165
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:MY_CUISINE_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21168
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NATIONAL_GEO_CHANNEL_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21169
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NRJ12 H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21171
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NUMERO23 H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21172
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OCS_CHOC_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21180
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OCS_CITY_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21181
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OCS_GEANTS_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21182
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OCS_MAX_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21183
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:PLANETE_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21184
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC_SPORT1_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21173
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC_SPORT2_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21174
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC_SPORT3_H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21175
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TEVA_h265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21177
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TF1 H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21213
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TF1_SERIESFILMS_H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21212
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TFX H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21211
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TMC H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21178
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:USHUAIA_H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21179
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:W9 H265
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/21207
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:13EME RUE FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23539
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:6TER FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23540
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:AB1 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23541
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:AB3 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23542
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:ACTION FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23543
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:ALTICE STUDIO FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23544
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:ANIMAUX FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23545
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BFM PARIS FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23549
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BJK TV FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23550
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BOING FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23551
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:BOOMERANG FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23552
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:C8 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23553
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CANAL  CINEMA FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23554
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CANAL  DECALE FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23555
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CANAL  FAMILY FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23556
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CANAL  FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23557
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CANAL  SERIES FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23558
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CANAL  SPORT FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23559
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CARTOON NETWORK FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23560
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CHASSE ET PECHE FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23561
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CHERIE 25 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23562
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CINE  FRISSON FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23563
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CINE  PREMIER FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23564
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CINE CLASSIC FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23565
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:CINE EMOTION FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23566
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:COMEDIE  FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23567
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DAVINCI-LEARNING FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23568
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISCOVERY FAMILY FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23569
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISCOVERY FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23570
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISCOVERY INVESTIGATION FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23571
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISCOVERY SCIENCE FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23572
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISCOVERY SCIENCE TR FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23573
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISCOVERY TR FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23574
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISNEY CHANNEL FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23575
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISNEY CHANNEL TR FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23576
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISNEY CINEMA FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23577
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISNEY JUNIOR FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23578
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:DISNEY XD FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23579
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:E! ENTERTAINMENT FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23580
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:EUROSPORT 1 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23581
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:EUROSPORT 2 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23582
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:FOOT  FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23583
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:FRANCE 2 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23584
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:FRANCE 3 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23585
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:FRANCE 4 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23586
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:FRANCE 5 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23587
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:FRANCE O FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23588
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:GAME ONE FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23589
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:GOLF  FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23590
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:GOLF CHANNEL FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23591
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:GS TV FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23592
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:GULLI FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23593
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:INFOSPORT FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23594
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NATIONAL GEO WILD FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23595
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NATIONAL GEOGRAPHIC FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23596
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NICKELODEON 1 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23597
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NICKELODEON FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23598
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NICKELODEON JUNIOR FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23599
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NICKELODEON4-TEEN FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23600
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NOLLYWOOD FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23601
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NOVELAS FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23602
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NRJ 12 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23603
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:NTV FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23604
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OCS CHOC FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23605
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OCS CITY FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23606
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OCS GEANT FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23607
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:OCS MAX FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23608
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:PARAMOUNT CHANNEL FULLHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23609
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:PARAMOUNT DECALE FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23610
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:PARIS PREMIERE FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23611
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:PIWI FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23612
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:PLANET TURK FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23613
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:PLANETE  FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23614
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:PLANETE A&E FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23615
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:PLANETE CI FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23616
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:POLAR  FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23617
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:POWERTURK FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23618
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC DECOUVERTE FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23619
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 1 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23620
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 2 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23621
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 3 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23622
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT 4 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23623
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RMC SPORT NEWS  FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23624
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:RTL9 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23625
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:SCIENCE ET VIE FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23626
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:SERIE CLUB FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23627
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:SFR SPORT 5 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23628
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:SUNDANCE TV FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23629
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:SYFY FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23630
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TCM CINEMA FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23631
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TELETOON 1 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23632
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TELETOON FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23633
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TEVA FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23634
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TF1 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23635
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TF1 FHD 1
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23636
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TF1 SERIES FILMS FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23637
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TFX FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23638
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TMC FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23639
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TOONAMI FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23640
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TOUTE L HISTOIRE FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23641
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:TV BREIZH FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23642
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:USHUAIA TV FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23643
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:VICELAND FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23644
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:VOYAGE FULLHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23645
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:W9 FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23646
-#EXTINF:-1 group-title="France PREMIUM-SERVER3",F:WARNER TV FHD
-http://xtream.in:9000/uGkAHSjf1h/7vTLmqnxHE/23647
 
 
 
@@ -5359,13 +4552,13 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/652.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/653.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",BARCA TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/641.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",beIN LaLIga 1 (event only)
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png",beIN LaLIga 1 (event only)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/649.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",beIN LaLIga 2 (event only)
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png",beIN LaLIga 2 (event only)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/648.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",beIN LaLIga 3 (event only)
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png",beIN LaLIga 3 (event only)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/647.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Bein Liga HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png",Bein Liga HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/654.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Boing
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/656.m3u8$http-refferer=http://localhost
@@ -5425,7 +4618,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/670.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/639.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",NOVA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/671.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",ODISEA HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISEA.png",ODISEA HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/672.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",PANDA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/673.m3u8$http-refferer=http://localhost
@@ -5435,11 +4628,11 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/636.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/674.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",TNT
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/675.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",ANTENA 3 HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png",ANTENA 3 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/676.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",AXN WHITE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/677.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",CALLE 13 HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CALLE13.png",CALLE 13 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/678.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",CANAL  ACTION HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/679.m3u8$http-refferer=http://localhost
@@ -5481,7 +4674,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/702.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/703.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",NAT GEO WILD HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/705.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NATIONAL GEOGRAPHIC HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/706.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",NICK Jr
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/707.m3u8$http-refferer=http://localhost
@@ -5497,7 +4690,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/711.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/630.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",MOVISTAR FORMULA 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/631.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",movistar Futbol
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png",movistar Futbol
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/632.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",MOVISTAR MOTOGP
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/633.m3u8$http-refferer=http://localhost
