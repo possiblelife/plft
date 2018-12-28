@@ -1024,98 +1024,99 @@ http://161.0.157.38/PLTV/88888888/224/3221227026/01.m3u8
 
 #EXTINF:-1 group-title="USA-SERVER4",
 
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png",TCM
-http://ustv247.com/turner-classic-movies-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-9t19zy_0dfecd0d.png?region=0%2C0%2C299%2C160",DISNEY CHANNEL
-http://ustv247.com/disney-channel-live/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/1200px-FX_Italia_logo.svg.png",FX
-http://ustv247.com/fx-live/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Animal_Planet_2018.svg/1200px-Animal_Planet_2018.svg.png",ANIMAL PLANET
-http://ustv247.com/animal-planet-live/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Comedylogo.png/200px-Comedylogo.png",THE COMEDY CHANNEL
-http://ustv247.com/the-comedy-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png",HALLMARK CHANNEL
-http://ustv247.com/hallmark-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NAT GEO WILD
-http://ustv247.com/nat-geo-wild-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Syfy-logo-880x660.png",SYFY
-http://ustv247.com/syfy-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://logonoid.com/images/tbs-logo.png",TBS
-http://ustv247.com/tbs-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/07/BBC-AMERICA-Logo.jpg",BBC AMERICA
-http://ustv247.com/bbc-america-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/HGTV_new_logo.png",HGTV
-http://ustv247.com/hgtv-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/pbs.png",PBS
-http://ustv247.com/pbs-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png",CARTOON NETWORK HD
-http://ustv247.com/cartoon-network-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="http://res.cloudinary.com/culturemap-com/image/upload/ar_4:3,c_fill,g_faces:center,w_1200/v1523639696/photos/9415_original.jpg",BRAVO TV
-http://ustv247.com/bravo-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/A%26E-Network-Logo.svg/1200px-A%26E-Network-Logo.svg.png",A&E
 http://ustv247.com/ae-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2000px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
-http://ustv247.com/national-geographic-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png",HISTORY CHANNEL
-http://ustv247.com/history-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2000px-Showtime.svg.png",SHOWTIME
-http://ustv247.com/showtime-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png",DISCOVERY CHANNEL
-http://ustv247.com/discovery-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HBO
-http://ustv247.com/hbo-hd-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2000px-USA-Network-Logo.svg.png",USA NETWORK
-http://ustv247.com/usa-network-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png",THE CW
-http://ustv247.com/cw/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156",AMC
-http://ustv247.com/amc-live-stream-free/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://i0.wp.com/getorganizedbk.org/wp-content/uploads/2017/03/fox5ny300px.png?zoom=2.625&resize=300%2C300&ssl=1",FOX 5
-http://ustv247.com/fox-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png",NBC
-http://ustv247.com/nbc-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="http://yournextjob.info/wp-content/uploads/2016/09/CBS21News_silver_Logo-400.png",CBS21
-http://ustv247.com/cbs-live-stream-free/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/WLNE-TV_2011_Logo.png",ABC 6
 http://ustv247.com/abc-live-stream-usa-free/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png",THE WEATHER CHANNEL
-http://ustv247.com/watch-weather-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/AMC_HD.png/revision/latest?cb=20110408022156",AMC
+http://ustv247.com/amc-live-stream-free/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Animal_Planet_2018.svg/1200px-Animal_Planet_2018.svg.png",ANIMAL PLANET
+http://ustv247.com/animal-planet-live/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://www.thewrap.com/wp-content/uploads/2014/07/BBC-AMERICA-Logo.jpg",BBC AMERICA
+http://ustv247.com/bbc-america-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Big_Ten_Network.svg/800px-Big_Ten_Network.svg.png",BIG TEN NETWORK
+http://ustv247.com/big-ten-network-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="http://res.cloudinary.com/culturemap-com/image/upload/ar_4:3,c_fill,g_faces:center,w_1200/v1523639696/photos/9415_original.jpg",BRAVO TV
+http://ustv247.com/bravo-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://logos-download.com/wp-content/uploads/2016/10/Cartoon_Network_logo_black.png",CARTOON NETWORK HD
+http://ustv247.com/cartoon-network-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="http://yournextjob.info/wp-content/uploads/2016/09/CBS21News_silver_Logo-400.png",CBS21
+http://ustv247.com/cbs-live-stream-free/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs_sports_network.png",CBS SPORTS NETWORK
+http://ustv247.com/cbs-sports-network-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/701px-CNBC_logo.svg.png",CNBC
 http://ustv247.com/cnbc-live-stream-hd/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png",FOX BUSINESS
-http://ustv247.com/fox-business-live-stream-hd/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSNBC_2015_logo.svg/2000px-MSNBC_2015_logo.svg.png",MSNBC
-http://ustv247.com/msnbc-live-stream-hd/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png",CNN
 http://ustv247.com/cnn-news-live-stream-usa/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png",DISCOVERY CHANNEL
+http://ustv247.com/discovery-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://lumiere-a.akamaihd.net/v1/images/open-uri20160811-32147-9t19zy_0dfecd0d.png?region=0%2C0%2C299%2C160",DISNEY CHANNEL
+http://ustv247.com/disney-channel-live/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://refb.org/wp-content/uploads/2018/09/ESPN-Logo.png",ESPN
+http://ustv247.com/watch-espn-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://i0.wp.com/getorganizedbk.org/wp-content/uploads/2017/03/fox5ny300px.png?zoom=2.625&resize=300%2C300&ssl=1",FOX 5
+http://ustv247.com/fox-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/Fox_Business.svg/1200px-Fox_Business.svg.png",FOX BUSINESS
+http://ustv247.com/fox-business-live-stream-hd/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="http://jlcauvin.com/wp-content/uploads/2014/04/fox-news-logo.png",FOX NEWS
 http://ustv247.com/fox-news-live-stream-hd/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2000px-FOX_Sports_logo.svg.png",FOX SPORTS WEST
+http://ustv247.com/fox-sports-west-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png",FS1
 http://ustv247.com/fox-sports-1-live/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/FS2_logo_2015.svg/2000px-FS2_logo_2015.svg.png",FS2
 http://ustv247.com/fox-sports-2-live/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/FX_Italia_logo.svg/1200px-FX_Italia_logo.svg.png",FX
+http://ustv247.com/fx-live/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Golf_Channel_Logo.png",GOLF CHANNEL
 http://ustv247.com/golf-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png",HALLMARK CHANNEL
+http://ustv247.com/hallmark-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HBO
+http://ustv247.com/hbo-hd-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c4/HGTV_new_logo.png",HGTV
+http://ustv247.com/hgtv-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6d/The_History_Channel_logo.png",HISTORY CHANNEL
+http://ustv247.com/history-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png",MLB NETWORK
 http://ustv247.com/mlb-network-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://lh4.googleusercontent.com/-V_P5kDWxm20/AAAAAAAAAAI/AAAAAAAACFQ/pOgMC6p5ruY/s0-c-k-no-ns/photo.jpg",NFL NETWORK
-http://ustv247.com/nfl-network-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/2000px-NBC_Sports_2012.svg.png",NBC SPORTS NETWORK
-http://ustv247.com/nbc-sports-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1000px-Tennis_Channel_logo.svg.png",TENNIS CHANNNEL
-http://ustv247.com/tennis-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png",TNT
-http://ustv247.com/tnt-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/2000px-FOX_Sports_logo.svg.png",FOX SPORTS WEST
-http://ustv247.com/fox-sports-west-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs_sports_network.png",CBS SPORTS NETWORK
-http://ustv247.com/cbs-sports-network-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Big_Ten_Network.svg/800px-Big_Ten_Network.svg.png",BIG TEN NETWORK
-http://ustv247.com/big-ten-network-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MSNBC_2015_logo.svg/2000px-MSNBC_2015_logo.svg.png",MSNBC
+http://ustv247.com/msnbc-live-stream-hd/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2000px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
+http://ustv247.com/national-geographic-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NAT GEO WILD
+http://ustv247.com/nat-geo-wild-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png",NBA TV
 http://ustv247.com/nba-tv-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
-#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://refb.org/wp-content/uploads/2018/09/ESPN-Logo.png",ESPN
-http://ustv247.com/watch-espn-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png",NBC
+http://ustv247.com/nbc-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/NBC_Sports_2012.svg/2000px-NBC_Sports_2012.svg.png",NBC SPORTS NETWORK
+http://ustv247.com/nbc-sports-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://lh4.googleusercontent.com/-V_P5kDWxm20/AAAAAAAAAAI/AAAAAAAACFQ/pOgMC6p5ruY/s0-c-k-no-ns/photo.jpg",NFL NETWORK
+http://ustv247.com/nfl-network-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://static.tvtropes.org/pmwiki/pub/images/pbs.png",PBS
+http://ustv247.com/pbs-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/2000px-Showtime.svg.png",SHOWTIME
+http://ustv247.com/showtime-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Syfy-logo-880x660.png",SYFY
+http://ustv247.com/syfy-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://logonoid.com/images/tbs-logo.png",TBS
+http://ustv247.com/tbs-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png",TCM
+http://ustv247.com/turner-classic-movies-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1000px-Tennis_Channel_logo.svg.png",TENNIS CHANNNEL
+http://ustv247.com/tennis-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Comedylogo.png/200px-Comedylogo.png",THE COMEDY CHANNEL
+http://ustv247.com/the-comedy-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png",THE CW
+http://ustv247.com/cw/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png",THE WEATHER CHANNEL
+http://ustv247.com/watch-weather-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1200px-TNT_Logo_2016.svg.png",TNT
+http://ustv247.com/tnt-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="USA-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2000px-USA-Network-Logo.svg.png",USA NETWORK
+http://ustv247.com/usa-network-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+
 
 
 
