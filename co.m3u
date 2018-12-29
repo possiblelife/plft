@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,26/12/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,29/12/18
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -3818,7 +3818,12 @@ http://77.134.143.101:8000/play/a00m/index.m3u8
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: Sport1 HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/217.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: Sport2 HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/218.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER3",FR: Sport3 HD
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/651.m3u8
 
 
 
@@ -4227,7 +4232,32 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",
 
-
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 1 HQ
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/159.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 2 HQ
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/160.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Bundesliga 1 HQ
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/158.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 1 HD 1080P
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/4624.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/1422.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 2 HD ( During Games only )
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/1286.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/1285.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/1287.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 5 HD ( During Games only )
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/1288.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/1418.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/1419.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/1420.m3u8
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 9 HD ( During Games only )
+http://ip.avov4.us:8000/live/ahmet54/54ahmet/1421.m3u8
 
 
 
@@ -5980,13 +6010,156 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4058.m3u8
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",
 
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4055.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png",SPORT TV+
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3984.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png",SIC MULHER
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3983.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png",SIC CARAS
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4043.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 HD
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3995.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BTV HD
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3975.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png",SPORTING TV
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3988.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png",A BOLA TV
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3999.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png",MOTORSPORT.TV
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4030.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TVCINE 1 HD
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3990.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png",TVCINE 2 HD
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4050.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png",TVCINE 3 HD
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4051.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png",TVCINE 4 HD
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3996.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png",TVSeries HD
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4054.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICÇÃO
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4057.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png",MTV BASE
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/6009.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVCLASSIC.png",MTV CLASSIC
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/6008.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVROCKS.png",MTV ROCKS
+http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/6005.m3u8
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1 
-http://livebar.pw/lba/123/g5/tv1pt.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 
-http://livebar.pw/lba/123/g7/sport2port.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 
-http://livebar.pw/lba/123/g3/pt3sport.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",
+
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV +
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/947.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 1
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/71.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 1 HD
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/72.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 2
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/73.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 2 HD
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/74.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 3
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/75.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 3 HD
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/158.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 4
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/76.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 4 HD
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/77.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 5
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/78.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 5 HD
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/159.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORTING TV
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/81.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORTING TV HD
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/160.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 1
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2861.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 1 HD
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2736.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 2
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2862.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 2 HD
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2737.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 3 HD
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2738.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 4 HD
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2739.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 5 HD
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2740.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 6 HD
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2741.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",KOMBAT SPORT
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/660.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",FIGHTING NETWORK
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/1075.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",MOTORVISION
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/84.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",EUROSPORT
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/86.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",EUROSPORT 2
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/87.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV + (LOW)
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2181.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 1 (LOW)
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2180.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 2 (LOW)
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2179.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 3 (LOW)
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2178.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 4 (LOW)
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2177.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 5 (LOW)
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2176.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",BENFICA TV (LOW)
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2175.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORTING TV (LOW)
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2174.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 1 LOW
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2774.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 2 LOW
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2775.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 3 LOW
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2782.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 4 LOW
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2783.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 5 LOW
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2784.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",EUROSPORT (LOW)
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2172.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",EUROSPORT 2 (LOW)
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2171.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",KOMBAT SPORT (LOW)
+http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2169.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -9052,33 +9225,6 @@ http://mbcwanasatv-live.hls.adaptive.level3.net/hls-live/mbc-wanasatv/_definst_/
 
 
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,======BEIN SPORTS Group=======
-http://......
-
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1",BeinSports
-http://27.254.63.132:1935/live/_definst_/bein1HD.stream/playlist.m3u8?username=test&password=asdfasdfasdf
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1",beIN Sports 1 HD
-http://bein.website/movecast/beIN.m3u8?id=bein1-hq
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1",beIN Sports 2 HD
-http://bein.website/movecast/beIN.m3u8?id=bein2-hq
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1",beIN Sports 3 HD
-http://bein.website/movecast/beIN.m3u8?id=bein3-hq
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1",beIN Sports 4 HD
-http://bein.website/movecast/beIN.m3u8?id=bein4-hq
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1",beIN Sports 5 HD
-http://bein.website/movecast/beIN.m3u8?id=bein5-hq
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1",beIN Sports 6 HD
-http://bein.website/movecast/beIN.m3u8?id=bein6-hq
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1",beIN Sports 7 HD
-http://bein.website/movecast/beIN.m3u8?id=bein7-hq
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1",beIN Sports 8 HD
-http://bein.website/movecast/beIN.m3u8?id=bein8-hq
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1",beIN Sports 9 HD
-http://bein.website/movecast/beIN.m3u8?id=bein9-hq
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1",BeIN Sport 10 HD 
-http://bein.website/movecast/beIN.m3u8?id=bein10-hq
-
-
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,==OSN==
 http://......
@@ -9164,250 +9310,1148 @@ http://178.214.76.162:8061/StarWorl
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein1 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1286.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein2 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1285.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein3 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1284.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein4 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1283.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein5 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1282.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein6 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1281.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein7 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1280.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein8 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1279.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein9 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1278.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein10 1M
-http://2111.space:25461/live/admin_205678/75eixnOP/1277.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein1 2M
-http://2111.space:25461/live/admin_205678/75eixnOP/1296.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein2 2M
-http://2111.space:25461/live/admin_205678/75eixnOP/1295.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein3 2M
-http://2111.space:25461/live/admin_205678/75eixnOP/1294.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein4 2M
-http://2111.space:25461/live/admin_205678/75eixnOP/1293.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein5 2M
-http://2111.space:25461/live/admin_205678/75eixnOP/1292.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein6 2M
-http://2111.space:25461/live/admin_205678/75eixnOP/1291.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein7 2M
-http://2111.space:25461/live/admin_205678/75eixnOP/1290.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein8 2M
-http://2111.space:25461/live/admin_205678/75eixnOP/1289.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein9 2M
-http://2111.space:25461/live/admin_205678/75eixnOP/1288.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein10 2M
-http://2111.space:25461/live/admin_205678/75eixnOP/1287.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT1
-http://2111.space:25461/live/admin_205678/75eixnOP/1336.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT2
-http://2111.space:25461/live/admin_205678/75eixnOP/1335.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT3
-http://2111.space:25461/live/admin_205678/75eixnOP/1334.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT4
-http://2111.space:25461/live/admin_205678/75eixnOP/1333.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT5
-http://2111.space:25461/live/admin_205678/75eixnOP/1332.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT6
-http://2111.space:25461/live/admin_205678/75eixnOP/1331.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT7
-http://2111.space:25461/live/admin_205678/75eixnOP/1330.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT8
-http://2111.space:25461/live/admin_205678/75eixnOP/1329.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT9
-http://2111.space:25461/live/admin_205678/75eixnOP/1328.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT10
-http://2111.space:25461/live/admin_205678/75eixnOP/1327.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 1
-http://2111.space:25461/live/admin_205678/75eixnOP/1356.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 2
-http://2111.space:25461/live/admin_205678/75eixnOP/1355.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 3
-http://2111.space:25461/live/admin_205678/75eixnOP/1354.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 4
-http://2111.space:25461/live/admin_205678/75eixnOP/1353.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 5
-http://2111.space:25461/live/admin_205678/75eixnOP/1352.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 6
-http://2111.space:25461/live/admin_205678/75eixnOP/1351.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 7
-http://2111.space:25461/live/admin_205678/75eixnOP/1350.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 8
-http://2111.space:25461/live/admin_205678/75eixnOP/1349.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 9
-http://2111.space:25461/live/admin_205678/75eixnOP/1348.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT 10
-http://2111.space:25461/live/admin_205678/75eixnOP/1347.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein__Sport1
-http://2111.space:25461/live/admin_205678/75eixnOP/1326.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT2
-http://2111.space:25461/live/admin_205678/75eixnOP/1325.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT3
-http://2111.space:25461/live/admin_205678/75eixnOP/1324.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT4
-http://2111.space:25461/live/admin_205678/75eixnOP/1323.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT5
-http://2111.space:25461/live/admin_205678/75eixnOP/1322.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT6
-http://2111.space:25461/live/admin_205678/75eixnOP/1321.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT7
-http://2111.space:25461/live/admin_205678/75eixnOP/1320.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT8
-http://2111.space:25461/live/admin_205678/75eixnOP/1319.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT9
-http://2111.space:25461/live/admin_205678/75eixnOP/1318.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN__SPORT10
-http://2111.space:25461/live/admin_205678/75eixnOP/1317.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__1
-http://2111.space:25461/live/admin_205678/75eixnOP/1346.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__2
-http://2111.space:25461/live/admin_205678/75eixnOP/1345.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__3
-http://2111.space:25461/live/admin_205678/75eixnOP/1344.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORTS__4
-http://2111.space:25461/live/admin_205678/75eixnOP/1343.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__5
-http://2111.space:25461/live/admin_205678/75eixnOP/1342.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__6
-http://2111.space:25461/live/admin_205678/75eixnOP/1341.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__7
-http://2111.space:25461/live/admin_205678/75eixnOP/1340.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__8
-http://2111.space:25461/live/admin_205678/75eixnOP/1339.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__9
-http://2111.space:25461/live/admin_205678/75eixnOP/1338.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT__10
-http://2111.space:25461/live/admin_205678/75eixnOP/1337.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 FULL HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1316.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport2 FULL HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1315.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport3 FULL HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1314.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport4 FULL HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1313.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 FULL HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1312.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 FULL HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1311.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7 FULL HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1310.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 FULL HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1309.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 FULL HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1308.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 FULL HD
-http://2111.space:25461/live/admin_205678/75eixnOP/1307.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport1 4KB PLUSE
-http://2111.space:25461/live/admin_205678/75eixnOP/1306.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport2 4KB PLUSE
-http://2111.space:25461/live/admin_205678/75eixnOP/1305.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport3 4KB PLUSE
-http://2111.space:25461/live/admin_205678/75eixnOP/1304.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport4 4KB PLUSE
-http://2111.space:25461/live/admin_205678/75eixnOP/1303.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport5 4KB PLUSE
-http://2111.space:25461/live/admin_205678/75eixnOP/1302.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport6 4KB PLUSE
-http://2111.space:25461/live/admin_205678/75eixnOP/1301.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport7 4KB PLUSE
-http://2111.space:25461/live/admin_205678/75eixnOP/1300.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport8 4KB PLUSE
-http://2111.space:25461/live/admin_205678/75eixnOP/1299.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport9 4KB PLUSE
-http://2111.space:25461/live/admin_205678/75eixnOP/1298.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport10 4KB PLUSE
-http://2111.space:25461/live/admin_205678/75eixnOP/1297.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports1 EX
-http://2111.space:25461/live/admin_205678/75eixnOP/1276.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports2 EX
-http://2111.space:25461/live/admin_205678/75eixnOP/1275.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports3 EX
-http://2111.space:25461/live/admin_205678/75eixnOP/1274.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports4 EX
-http://2111.space:25461/live/admin_205678/75eixnOP/1273.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports5 EX
-http://2111.space:25461/live/admin_205678/75eixnOP/1272.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports6 EX
-http://2111.space:25461/live/admin_205678/75eixnOP/1271.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports7 EX
-http://2111.space:25461/live/admin_205678/75eixnOP/1270.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports8 EX
-http://2111.space:25461/live/admin_205678/75eixnOP/1269.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports9 EX
-http://2111.space:25461/live/admin_205678/75eixnOP/1268.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein Sports10 EX
-http://2111.space:25461/live/admin_205678/75eixnOP/1267.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_1 LOW
-http://2111.space:25461/live/admin_205678/75eixnOP/943.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_2 LOW
-http://2111.space:25461/live/admin_205678/75eixnOP/942.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_3 LOW
-http://2111.space:25461/live/admin_205678/75eixnOP/941.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_4 LOW
-http://2111.space:25461/live/admin_205678/75eixnOP/940.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_5 LOW
-http://2111.space:25461/live/admin_205678/75eixnOP/939.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_6 LOW
-http://2111.space:25461/live/admin_205678/75eixnOP/938.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_7 LOW
-http://2111.space:25461/live/admin_205678/75eixnOP/937.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_8 LOW
-http://2111.space:25461/live/admin_205678/75eixnOP/936.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_9 LOW
-http://2111.space:25461/live/admin_205678/75eixnOP/935.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_10 LOW
-http://2111.space:25461/live/admin_205678/75eixnOP/934.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN-WWE
-http://2111.space:25461/live/admin_205678/75eixnOP/999.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_2_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1814.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein_4_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1816.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN1_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1813.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein10_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1822.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN3_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1815.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein5_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1817.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein6_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1818.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein7_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1819.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein8_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1820.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein9_720P
-http://2111.space:25461/live/admin_205678/75eixnOP/1821.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_1
-http://2111.space:25461/live/admin_205678/75eixnOP/1825.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_2
-http://2111.space:25461/live/admin_205678/75eixnOP/1826.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_3
-http://2111.space:25461/live/admin_205678/75eixnOP/1827.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_4
-http://2111.space:25461/live/admin_205678/75eixnOP/1828.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_5
-http://2111.space:25461/live/admin_205678/75eixnOP/1829.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_6
-http://2111.space:25461/live/admin_205678/75eixnOP/1831.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_7
-http://2111.space:25461/live/admin_205678/75eixnOP/1830.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_8
-http://2111.space:25461/live/admin_205678/75eixnOP/1832.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_9
-http://2111.space:25461/live/admin_205678/75eixnOP/1833.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN_SPORT_10
-http://2111.space:25461/live/admin_205678/75eixnOP/1834.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-Low_1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2315
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-Low_2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2316
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-Low_3
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2317
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-Low_4
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2318
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-Low_5
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2319
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-Low_6
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2320
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-Low_7
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2321
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-Low_8
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2322
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-Low_9
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2323
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-Low_10
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2324
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-1_512
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21046
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-2_512
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21574
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-3_512
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21044
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-4_512
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21043
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-5_512
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21042
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-6_512
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21041
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-7_512
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21040
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-8_512
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21039
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-9_512
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21038
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSport-10_512
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21037
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 1 1M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23425
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 2 1M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23424
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 3 1M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23423
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 4 1M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23422
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 5 1M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23421
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 6 1M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23420
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 7 1M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23419
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 8 1M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23418
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 9 1M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23417
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 10 1M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23416
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 1 2M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23415
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 2 2M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23414
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 3 2M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23413
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 4 2M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23412
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 5 2M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23411
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 6 2M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23410
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 7 2M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23409
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 8 2M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23408
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 9 2M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23407
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Bein.Sports 10 2M
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23406
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT.1_1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4420
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT.2_1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4421
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT.3_1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4422
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT.4_1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4423
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT.5_1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4424
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT.6_1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4425
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT.7_1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4426
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT.8_1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4427
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT.9_1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4428
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT.10_1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4429
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT.11_1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2297
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT.12_1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2298
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT-Free-1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2299
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORT-NEW-1080p
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2335
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSports1 4K
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10251
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSports2 4K
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10250
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSports3 4K
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10249
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSports4 4K
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10248
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSports5 4K
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10247
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSports6 4K
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10246
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSports7 4K
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10245
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSports8 4K
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10244
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSports9 4K
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10243
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BeinSports10 4K
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10242
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",bein sport 1 h265
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21030
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",bein sport 2 h265
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21031
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",bein sport 3 h265
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21032
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",bein sport 4 h265
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21033
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",bein sport 5 h265
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21034
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",bein sport 6 h265
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21035
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",bein sport 7 h265
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21036
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORTS-1-SD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2287
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORTS-2-SD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2288
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORTS-3-SD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2289
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORTS-4-SD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2290
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORTS-5-SD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2291
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORTS-6-SD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2292
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORTS-7-SD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2293
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORTS-8-SD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2294
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORTS-9-SD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2295
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN-SPORTS-10-SD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2296
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",##### OSN  #####
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13534
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",VIP:BEIN MOVIES 1 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/23
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",VIP:BEIN MOVIES 2 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/24
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",VIP:BEIN MOVIES 3 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",VIP:BEIN MOVIES 4 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/28
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:MOVIES
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17053
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:MOVIES ACTION
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17052
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:MOVIES FIRST
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17048
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Movies First HD 2h
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17047
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:First HBO HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17026
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Movies Action HD 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17013
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Movies Comedy HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17012
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Movies Thriller HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17005
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Series Comedy HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16993
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Series First HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16992
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Series HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16991
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Star Movie HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16984
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Star World HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16983
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:MOVIES FESTIVAL HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4714
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Movies Premiere 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10165
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Movies Comedy 2 H
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/14361
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Box OFFICE 1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4301
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:BOX OFFICE 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4731
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:BOX OFFICE 3
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4730
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:MOVIES KIDS
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17046
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Animal Planet HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17041
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Discovery Family HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17034
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Disney Channel HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17031
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Disney Junior
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17030
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Disney.HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17029
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:E! HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17028
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:History Channel HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17023
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Living HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17021
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Nat Geo HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17000
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:NAT GEO People HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16999
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Nat GEO Wild HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16998
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Discovery IDX HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/14386
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:WWE
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4311
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Ya Hala HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16976
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Ya Hala Oula HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16975
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Ya Hala Al Oula 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16977
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:MUSALSALAT HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17003
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Ya hala Cinema HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16974
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:CINEMA 1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17038
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:CINEMA 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17037
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:ALYAWM
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17042
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",VIP:ART Hekayat 1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2259
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",VIP:ART Hekayat 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2260
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",VIP:ART AFLAM 1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2257
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",VIP:ART AFLAM 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2258
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",VIP:ART CINEMA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2261
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Sports 1 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16987
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Sports 2 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16986
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Sports 3 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16990
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Sports 4 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16989
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Ad Sport 1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4312
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Ad Sport 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4313
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Ad Sport 3
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4350
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Ad Sport 4
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4403
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Ad Sport 5
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9746
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",vip:Ad Sport 6
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/14392
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",##### BEIN ENTRAINMENT #####
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21081
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Drama_1_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21053
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Baby_TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21048
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Jeem_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21059
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Sériés_1_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21064
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Sériés_2_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21065
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Baraeem_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21049
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_be_Junior_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21050
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_DMAX_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21052
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Fatafeat_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21056
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Gourmet_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21057
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_AMC_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21047
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Boomerang_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21051
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_DreamWorks_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21054
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_DTX_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21055
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_HGTV_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21058
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Travel_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21066
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Movies_1_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21060
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Movies_2_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21061
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Movies_3_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21062
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN_Movies_4_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21063
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_Box_Office-1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21067
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_Box_Office-2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21068
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_Box_Office-3
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21069
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_Movies_Premiere
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21076
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_Movies_Turk
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21077
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_MOVIES-STARS
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21072
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_MOVIESACTION
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21073
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_MOVIESCOMEDY
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21074
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_MOVIESFESTIVAL
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21075
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_SERIESCOMEDY
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21078
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_SERIESDRAMA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21079
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_SERIESVICE
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21080
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_GURME
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21070
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",T:BEIN_IZ
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/21071
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",##### MyHD ######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/14582
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC_1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11085
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC_2_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11084
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC_3_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11083
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC_4_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11082
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC_Masr
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11077
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC_Masr_2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11076
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC_Drama _HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11081
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC+_Drama _HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10201
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC_MAX_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11079
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC_Variety_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11078
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC_ACTION
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11080
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC_Bollywood_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11075
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC SPORTS_1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/7413
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC SPORTS_2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/7412
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC SPORTS_3
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/7411
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:MBC SPORTS_4
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12936
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:Fox HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12459
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:Fox Movies  HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8535
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:Fox Family Movies HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19320
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:Fox Action Movies
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16936
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:FX HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/14585
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:FIX FOXI
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/14546
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:TCM
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/14584
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:Cinema HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16939
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:Cinemachi Kids HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16938
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:Filmbox HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/14547
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:FilmBox Arthouse
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3614
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:Douc Box HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19319
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:JimJim
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12455
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:BARAEM
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12464
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:Cartoon Network HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16934
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:Discovery Kids HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16933
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:Discovery HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16931
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:Discovery Turbo
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16930
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:Animal Planet HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16935
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MYHD:BBC First HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/17039
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:GULLI ARABIC
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19322
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MyHD:DMAX
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16928
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",####### EGYPT #######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/44
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Nile-Sport
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/7417
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:AlAhly
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/7416
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:NILE_Drama
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3985
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Dmc_Sports
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/7415
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:ON_SPORT
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10972
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:ON_DRAMA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10966
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:ON E HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10969
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:ON_TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10967
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:DMC_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10964
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:DMC_DREAMA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10965
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Nile_Family
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2423
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Nile_Cinema
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2426
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Nile_Comedy
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2425
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Nile Life
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9920
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Nile_News
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3681
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Cinema
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10353
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:CAIRO_AFLAM
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9928
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Rotana_Classic
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4397
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Rotana_drama
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/14186
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:rotana-cinema
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4368
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:ROTANA_CLIP
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2632
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:ROTANA_MASRIA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2638
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Rotana-Aflem
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4366
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:rotana_music
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2637
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Rotana_Khalijia
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10970
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:AlHayat
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9253
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:AlHayat2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4372
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Sada Drama
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16249
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:AlKAHERA_WALNAS
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9747
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Alkahera Wa Alnas 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16248
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:CNN
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9934
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:CBC
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3675
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:CBC_EXTRA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/855
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:CBC_DRAMA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3677
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:CBC_SOFRA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/853
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:TEN
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10349
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:DREAM
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3661
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:dream 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10348
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Melody_CINEMA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3589
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:AlNahar-drama
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4386
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:AlNahar
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4002
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Al-Nahar-Drama
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2418
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Moga_Comedy
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3674
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Sada ElBalad Drama
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3595
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:MELODY_CLASSIC
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2419
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:panorama_film
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10358
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Panorama-Drama1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2630
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Panorama-Drama2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2421
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Panorama Food
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12705
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:darbaka_aflam
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10354
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:toktok_cinema
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10351
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Sudan-SPORT
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9932
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Nile_TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9914
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:CNBC ARABIYA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9935
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Mekameleen
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9936
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Mazzika
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9924
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Cima Alibaba
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9925
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Melody Hits
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9923
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:B4U Aflam
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4008
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:B4U_PLUS
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3616
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Zee-Aflam
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4359
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:ZEE_ALWAN
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3617
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:Beur-tv
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9937
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:CATV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9930
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NILE:AL_Aqsa
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9921
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",####### Saudi #######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12068
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Saudi:Saudia
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4360
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Saudi.Tv1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12065
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Saudi.Tv2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12064
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Saudi:SAUDI_24
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12061
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Saudi:Ajyal
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13670
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Saudi:Quran
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13661
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Saudi:News
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13660
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Saudi:Almajd Edu
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13669
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SAUDI:SAUDI1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3978
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SAUDI:SAUDI2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3976
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SAUDI:SUNNA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3680
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Saudi:Sport
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13658
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KSA Sport 1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19456
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KSA Sport 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19455
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Dawri Plus 1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19459
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Dawri Plus 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19458
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Dawri Plus 3
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19457
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ksa Sport  1 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19454
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Ksa Sport  2 HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19453
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",####### eslamic #######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3682
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ESLAM:IQRAA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3653
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ESLAM:QREAN-2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9927
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ESLAM:Al_Rahma
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12754
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ESLAM:MECCA-TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3624
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ESLAM:AlNas
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9939
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Eslam:AlMajd_Quran
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2821
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ESLAM:Al_majd_Scientific
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12748
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ESLAM:Al_majd_Al_hadeeth
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12747
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ESLAM:AHEL AL QURAN
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12751
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ESLAM:ALResala-HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3620
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ESLAM:Alfajr
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/5614
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ESLAM:resala-eslam
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9948
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",####### Morocco #######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8647
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MAR:ALMAGHRIBIA HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8202
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MAR:Al_Oula_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8205
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MAR:2M_MARoc
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8204
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MAR:Assadissa HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8199
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MAR:ARrabiaa HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8200
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MAR:Arryadia HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8201
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MAR:Medi1_SAT
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8203
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MAR:TAMAZIGHT_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8198
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Moroco 1 Alaoula
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16686
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Moroco 2m Monde
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16687
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Moroco 3 Arriadia
-http://2111.space:25461/live/admin_205678/75eixnOP/4770.m3u8
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16685
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Moroco 4 Arrabiaa
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16684
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Moroco 6 Assadissa
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16683
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Moroco 8 Tamazight
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16682
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Moroco Almaghribia
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16681
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Moroco Almaghribia2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16680
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Moroco Medi 1TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16679
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MAR:TELE MAROC
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11096
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MAR:Al_Aoula_ALayoune HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8604
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MAR:MAROC_AFLAM2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8603
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MAR:AflamTV.7.Maroc
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11561
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",GM|AFLAM
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19324
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",GM|CHAABI
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19326
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",GM|COMIDIA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19327
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",GM|DCUMENTARIE
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19328
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",GM|DRAMA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19329
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",GM|KATAKIT
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19330
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",GM|MUSIC TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19331
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",GM|TAMAZIGHT
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19332
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",GM|TECHNO
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/19333
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",####### Emarat #######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12004
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Emarat
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12003
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Emarat:Dubai
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11998
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Emarat:Nat.Geo-Abudhabi
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12002
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Emarat:Noor.Dubai
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11999
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Emarat:One.Dubai
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11995
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Emarat:Sama.Dubai
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11996
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Emarat:Zaman.Dubai
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11997
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Emarat:Abu_Dubai_1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2438
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",EMARAT:DUBAI-SPORT
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4369
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Emarat:Dubai-Sport_1.HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2435
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Emarat:DubaiSport2_HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2432
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Emarat:Dubai_Sports-3
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2433
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Emarat:Dubai_Sports-4
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/2431
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",####### Kuwait #######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12060
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:Kuwait 1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12059
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:Kuwait2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12058
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:TV3
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12051
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:KTV 1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25703
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:KTV 2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25702
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:Ktv Al Arabi
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25701
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:KTV Arabe
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25700
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:KTV Ethraa
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25699
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:Ktv Plus
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25698
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:KTV quran
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25697
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:KTV s.plus
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25696
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:KTV SPORT HD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25695
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:Sport-Plus
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13672
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:Ethraa
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12052
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Kuwait:Plus
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12055
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",###### IRAQ ######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10804
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:IraqiaSport
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10806
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:Al_Forat
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10822
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:AL_HURRA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10834
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:AL-SHARQIA-TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10831
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:BAGHDAD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10830
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:alforat
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10812
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:AlIraqiya_NEW
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10807
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:alrashid
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10814
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:anb
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10809
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:Hadath
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10818
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:Shabab
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10811
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:Toyor_Al_Iraq
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10824
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:ANB-BAGDAD
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3656
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",IRAQ:NEWS
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10816
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",##### SYRIA #####
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10096
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:DRAMA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10095
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:Sama
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9944
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:Medical
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3654
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:Syria_TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3655
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:HALAB_TODAY
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10853
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:NUUR_Acham_SYRIA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10856
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:AlOula
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25714
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:Culture
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25713
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:Education
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25712
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:EDUCATION (ElTarbaouia)
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25711
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:FM
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25710
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:NEWS
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25709
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",SYRIA:SATELLITE TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25708
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",########  LEBANON #########
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11379
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LEBANON:FUTURE
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10797
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LEBANON:LDC
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10799
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LEBANON:NBN
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10801
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LEBANON:Almayadeen
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10802
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LEBANON:LBC
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9912
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LEBANON:ALJADEED
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10861
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LEBANON:ALMANAR
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10241
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LEBANON:OTV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10859
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LEBANON:MTV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11050
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LEBANON:Lebanon TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10800
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LEBANON:Noor_Sat
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10860
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LEBANON:Al-Janoubia
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10839
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",##### Algeria #####
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8616
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALG:algerie
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/5615
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALG:BAHIA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8608
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALG:AL NAHAR
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9745
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALG:Benna
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8606
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALG:Algeria 5
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11125
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALG:DZAIR_TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11117
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALG:CHOUROUK
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11124
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALG:SAMIRA TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8615
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALG:BEUR_TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10944
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALG:EL_FADJR TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10947
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALG:EL-BILAD-TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10946
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",ALG:D-zair-news
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9938
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",####### TUNISIE #######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4742
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TUN:TN Aljanoubia
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8646
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TUN:M-Tunisia
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8640
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TUN:Tunisna TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8639
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TUN:Zaytouna
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/8638
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TUN:ALMUSTAKILLAH
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11130
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TUN:Tunisia-NAT_1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10852
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TUN:TUNISNA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10843
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TUN:Alzitouna
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10836
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TUN:TN_Zaytouna
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4753
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TUN:Attessia
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11101
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TUN:Nessma
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10850
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",TUN:Hannibal
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10849
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",####### LIBYA #######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12024
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:Panorama
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12021
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:Libya 218
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12015
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:Libya Alwatanya
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12016
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:LIBYA ONE
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12018
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:LIBYA TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12020
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:Sport Channel
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12603
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:218
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25694
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:218 NEWS
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25693
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:24
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25692
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:AL MARAH
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25691
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:Al-Ahrar TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25690
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:ALRASMEYA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25689
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:Alwatanya
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25688
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:CHANNEL
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25687
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:Hadath TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25686
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:ONE
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25685
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:Panorama TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25684
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:RASMIA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25683
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",LIBYA:libya_Alhadath
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12601
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",####### Jordan #######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12083
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Jordan:Jordan Today
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12071
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Jordan:Noor
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12074
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Jordan:Jorden TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12073
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",JORDAN:JASKO
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9931
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Jordan:Roya
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12081
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Jordan:Sport
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12080
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Jordan:ONE
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12077
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",JORDAN:Amen
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25704
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",JORDAN:Manaseer
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25707
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",JORDAN:Mubasher
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25706
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",JORDAN:Ro2ya
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/25705
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",####### Palestine #######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12035
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Palestine
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12030
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Palestine.live
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12034
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Palestine.Sport
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12033
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Palestine.News
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12032
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",PALESTINE.TODAY
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12031
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",PALESTINE:Alyawm
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12029
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OMAN:Cultural
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12042
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OMAN:Oman
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12045
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OMAN:Sport
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12043
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",YEMEN:Al Saeedah
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12009
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",YEMEN:Almasira
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12005
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",YEMEN:BELQEES
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12012
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",YEMEN:shabab
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12006
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",YEMEN:Today
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12010
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",YEMEN:YEMEN TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/12011
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",###### ARAB_NEWS ######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10361
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:ANN
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9744
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:watan tv
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3586
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:alhadath
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10240
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:TRT Arabic
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10237
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:AlArabiya
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/11133
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:AlJazeera
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/7410
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:Al MANAR TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3652
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:Aljazeera mubasher
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/4391
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:Alhiwar
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9913
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:ARAB
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/9933
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:DW_ Alarabiya
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3621
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:BBC_Arabia
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3625
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:SKY_NEWS_ARABIA
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3629
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:FRANCE_24_(AR)
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3626
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:AlJazeera_Documentary
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3618
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",NEWS:AlJazeera_Mubasher
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/3619
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",####### KIDS-ARABIC #######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/5377
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:TOYOR_ALJANAH
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10082
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:BEIN_JUNIOR
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10091
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:BEIN_JEEM
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10090
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:Baby
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10077
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:Nickelodeon
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10064
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:SPACETOON
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10087
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:Movie_Kids
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10075
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:TOYOR_baby
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10076
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:CARTOON NETWORK
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10084
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:Disney
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10068
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:Fatafeat
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10066
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:MODY
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10238
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:SMSM
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/10239
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:Ajyal
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13061
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:Atfal Mwaheb
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13062
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:BARAEM
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13063
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:Cartoon_Network
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13051
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:HodHod
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13057
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:Kramesh
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13053
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:Sat7
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13055
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:Majid
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13059
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:Mickey
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13058
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",KIDS:SemSem
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13056
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",kids:Disney_1
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/20493
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",kids:DISNEY_2
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/20492
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",kids:DISNEY_3
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/20491
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",kids:Disney_4
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/20490
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",kids:Disney_5
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/20489
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",kids:Disney_6
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/20488
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",kids:Disney_7
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/20487
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",kids:DISNEY_8
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/20486
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",kids:Disney_9
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/20485
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",###### CRISTIAN-CHANNEL######
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13034
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:Ctv
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13033
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:NoorAlshabab
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13032
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:NoorAlsharq
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13031
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:NoorKodas
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13030
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:NoorMariam
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13029
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:NoorMusic
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13028
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:NoorSpirit
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13027
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:Noursat(Christian)
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13026
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:NoursatChabab(Christian)
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/13025
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:Me Sat Christian
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16260
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:Sat7 Christian
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16265
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:Koogi kids Christian
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16254
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",-:Miracle Christian
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16259
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",##### SUDAN #####
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16754
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan Sport
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16753
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan TV
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16752
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan 24
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16748
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan Drama
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16747
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan Om Dorman
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16749
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan Blue Nile
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16751
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan Music
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16745
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan Alamanal
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16744
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan Ashoroqq
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16743
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan Dabanga
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16742
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan Jazeera Green
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16741
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan Kassala
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16740
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan Knowledge
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16750
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sudan TV (Somalia)
+http://163.172.100.183:9000/uGkAHSjf1h/7vTLmqnxHE/16746
 
 
 
@@ -9686,709 +10730,196 @@ http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/40.ts
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein1 1M
-http://2111.space:25461/admin_184374/O8zkriFl/1286
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein2 1M
-http://2111.space:25461/admin_184374/O8zkriFl/1285
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein3 1M
-http://2111.space:25461/admin_184374/O8zkriFl/1284
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein4 1M
-http://2111.space:25461/admin_184374/O8zkriFl/1283
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein5 1M
-http://2111.space:25461/admin_184374/O8zkriFl/1282
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein6 1M
-http://2111.space:25461/admin_184374/O8zkriFl/1281
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein7 1M
-http://2111.space:25461/admin_184374/O8zkriFl/1280
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein8 1M
-http://2111.space:25461/admin_184374/O8zkriFl/1279
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein9 1M
-http://2111.space:25461/admin_184374/O8zkriFl/1278
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein10 1M
-http://2111.space:25461/admin_184374/O8zkriFl/1277
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein1 2M
-http://2111.space:25461/admin_184374/O8zkriFl/1296
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein2 2M
-http://2111.space:25461/admin_184374/O8zkriFl/1295
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein3 2M
-http://2111.space:25461/admin_184374/O8zkriFl/1294
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein4 2M
-http://2111.space:25461/admin_184374/O8zkriFl/1293
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein5 2M
-http://2111.space:25461/admin_184374/O8zkriFl/1292
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein6 2M
-http://2111.space:25461/admin_184374/O8zkriFl/1291
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein7 2M
-http://2111.space:25461/admin_184374/O8zkriFl/1290
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein8 2M
-http://2111.space:25461/admin_184374/O8zkriFl/1289
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein9 2M
-http://2111.space:25461/admin_184374/O8zkriFl/1288
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein10 2M
-http://2111.space:25461/admin_184374/O8zkriFl/1287
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT1
-http://2111.space:25461/admin_184374/O8zkriFl/1336
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT2
-http://2111.space:25461/admin_184374/O8zkriFl/1335
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT3
-http://2111.space:25461/admin_184374/O8zkriFl/1334
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT4
-http://2111.space:25461/admin_184374/O8zkriFl/1333
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT5
-http://2111.space:25461/admin_184374/O8zkriFl/1332
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT6
-http://2111.space:25461/admin_184374/O8zkriFl/1331
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT7
-http://2111.space:25461/admin_184374/O8zkriFl/1330
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT8
-http://2111.space:25461/admin_184374/O8zkriFl/1329
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT9
-http://2111.space:25461/admin_184374/O8zkriFl/1328
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT10
-http://2111.space:25461/admin_184374/O8zkriFl/1327
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT 1
-http://2111.space:25461/admin_184374/O8zkriFl/1356
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT 2
-http://2111.space:25461/admin_184374/O8zkriFl/1355
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT 3
-http://2111.space:25461/admin_184374/O8zkriFl/1354
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT 4
-http://2111.space:25461/admin_184374/O8zkriFl/1353
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT 5
-http://2111.space:25461/admin_184374/O8zkriFl/1352
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT 6
-http://2111.space:25461/admin_184374/O8zkriFl/1351
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT 7
-http://2111.space:25461/admin_184374/O8zkriFl/1350
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT 8
-http://2111.space:25461/admin_184374/O8zkriFl/1349
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT 9
-http://2111.space:25461/admin_184374/O8zkriFl/1348
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT 10
-http://2111.space:25461/admin_184374/O8zkriFl/1347
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein__Sport1
-http://2111.space:25461/admin_184374/O8zkriFl/1326
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN__SPORT2
-http://2111.space:25461/admin_184374/O8zkriFl/1325
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN__SPORT3
-http://2111.space:25461/admin_184374/O8zkriFl/1324
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN__SPORT4
-http://2111.space:25461/admin_184374/O8zkriFl/1323
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN__SPORT5
-http://2111.space:25461/admin_184374/O8zkriFl/1322
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN__SPORT6
-http://2111.space:25461/admin_184374/O8zkriFl/1321
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN__SPORT7
-http://2111.space:25461/admin_184374/O8zkriFl/1320
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN__SPORT8
-http://2111.space:25461/admin_184374/O8zkriFl/1319
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN__SPORT9
-http://2111.space:25461/admin_184374/O8zkriFl/1318
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN__SPORT10
-http://2111.space:25461/admin_184374/O8zkriFl/1317
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT__1
-http://2111.space:25461/admin_184374/O8zkriFl/1346
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT__2
-http://2111.space:25461/admin_184374/O8zkriFl/1345
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT__3
-http://2111.space:25461/admin_184374/O8zkriFl/1344
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORTS__4
-http://2111.space:25461/admin_184374/O8zkriFl/1343
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT__5
-http://2111.space:25461/admin_184374/O8zkriFl/1342
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT__6
-http://2111.space:25461/admin_184374/O8zkriFl/1341
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT__7
-http://2111.space:25461/admin_184374/O8zkriFl/1340
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT__8
-http://2111.space:25461/admin_184374/O8zkriFl/1339
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT__9
-http://2111.space:25461/admin_184374/O8zkriFl/1338
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT__10
-http://2111.space:25461/admin_184374/O8zkriFl/1337
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport1 FULL HD
-http://2111.space:25461/admin_184374/O8zkriFl/1316
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport2 FULL HD
-http://2111.space:25461/admin_184374/O8zkriFl/1315
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport3 FULL HD
-http://2111.space:25461/admin_184374/O8zkriFl/1314
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport4 FULL HD
-http://2111.space:25461/admin_184374/O8zkriFl/1313
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport5 FULL HD
-http://2111.space:25461/admin_184374/O8zkriFl/1312
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport6 FULL HD
-http://2111.space:25461/admin_184374/O8zkriFl/1311
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport7 FULL HD
-http://2111.space:25461/admin_184374/O8zkriFl/1310
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport8 FULL HD
-http://2111.space:25461/admin_184374/O8zkriFl/1309
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport9 FULL HD
-http://2111.space:25461/admin_184374/O8zkriFl/1308
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport10 FULL HD
-http://2111.space:25461/admin_184374/O8zkriFl/1307
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport1 4KB PLUSE
-http://2111.space:25461/admin_184374/O8zkriFl/1306
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport2 4KB PLUSE
-http://2111.space:25461/admin_184374/O8zkriFl/1305
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport3 4KB PLUSE
-http://2111.space:25461/admin_184374/O8zkriFl/1304
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport4 4KB PLUSE
-http://2111.space:25461/admin_184374/O8zkriFl/1303
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport5 4KB PLUSE
-http://2111.space:25461/admin_184374/O8zkriFl/1302
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport6 4KB PLUSE
-http://2111.space:25461/admin_184374/O8zkriFl/1301
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport7 4KB PLUSE
-http://2111.space:25461/admin_184374/O8zkriFl/1300
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport8 4KB PLUSE
-http://2111.space:25461/admin_184374/O8zkriFl/1299
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport9 4KB PLUSE
-http://2111.space:25461/admin_184374/O8zkriFl/1298
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeinSport10 4KB PLUSE
-http://2111.space:25461/admin_184374/O8zkriFl/1297
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein Sports1 EX
-http://2111.space:25461/admin_184374/O8zkriFl/1276
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein Sports2 EX
-http://2111.space:25461/admin_184374/O8zkriFl/1275
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein Sports3 EX
-http://2111.space:25461/admin_184374/O8zkriFl/1274
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein Sports4 EX
-http://2111.space:25461/admin_184374/O8zkriFl/1273
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein Sports5 EX
-http://2111.space:25461/admin_184374/O8zkriFl/1272
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein Sports6 EX
-http://2111.space:25461/admin_184374/O8zkriFl/1271
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein Sports7 EX
-http://2111.space:25461/admin_184374/O8zkriFl/1270
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein Sports8 EX
-http://2111.space:25461/admin_184374/O8zkriFl/1269
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein Sports9 EX
-http://2111.space:25461/admin_184374/O8zkriFl/1268
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein Sports10 EX
-http://2111.space:25461/admin_184374/O8zkriFl/1267
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",####### EGYPT #######
-http://2111.space:25461/admin_184374/O8zkriFl/452
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",##### IPSAT #######
-http://2111.space:25461/admin_184374/O8zkriFl/788
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein_1 LOW
-http://2111.space:25461/admin_184374/O8zkriFl/943
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein_2 LOW
-http://2111.space:25461/admin_184374/O8zkriFl/942
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein_3 LOW
-http://2111.space:25461/admin_184374/O8zkriFl/941
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein_4 LOW
-http://2111.space:25461/admin_184374/O8zkriFl/940
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein_5 LOW
-http://2111.space:25461/admin_184374/O8zkriFl/939
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein_6 LOW
-http://2111.space:25461/admin_184374/O8zkriFl/938
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein_7 LOW
-http://2111.space:25461/admin_184374/O8zkriFl/937
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein_8 LOW
-http://2111.space:25461/admin_184374/O8zkriFl/936
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein_9 LOW
-http://2111.space:25461/admin_184374/O8zkriFl/935
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein_10 LOW
-http://2111.space:25461/admin_184374/O8zkriFl/934
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN-Max1
-http://2111.space:25461/admin_184374/O8zkriFl/1053
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN-Max2
-http://2111.space:25461/admin_184374/O8zkriFl/1052
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein-Movies-1-HD
-http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/524.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein-Movies-2-HD
-http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/523.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein-Movies-3-HD
-http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/522.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein-Movies-4-HD
-http://2111.space:25461/live/ipsat_osn_bein/5lJj7657GHH34xv,OIgj/521.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Movies HD
-http://2111.space:25461/admin_184374/O8zkriFl/1047
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Movies 2h
-http://2111.space:25461/admin_184374/O8zkriFl/1046
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Movies Firest
-http://2111.space:25461/admin_184374/O8zkriFl/1045
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Movies Kids HD
-http://2111.space:25461/admin_184374/O8zkriFl/1017
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Movies-Action
-http://2111.space:25461/admin_184374/O8zkriFl/1044
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Movies-Comedy
-http://2111.space:25461/admin_184374/O8zkriFl/1043
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-MOVIES-FESTIVAL-HD
-http://2111.space:25461/admin_184374/O8zkriFl/1041
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Movies-Thriller
-http://2111.space:25461/admin_184374/O8zkriFl/1040
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-MUSALSALAT
-http://2111.space:25461/admin_184374/O8zkriFl/1002
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-MUSIC-NOW
-http://2111.space:25461/admin_184374/O8zkriFl/1001
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Star-Movis
-http://2111.space:25461/admin_184374/O8zkriFl/1035
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Star-World
-http://2111.space:25461/admin_184374/O8zkriFl/1034
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Yahala Alaula
-http://2111.space:25461/admin_184374/O8zkriFl/1004
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Yahala Cinema
-http://2111.space:25461/admin_184374/O8zkriFl/1003
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Yahala HD
-http://2111.space:25461/admin_184374/O8zkriFl/1005
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-CENIMA1
-http://2111.space:25461/admin_184374/O8zkriFl/1007
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-CENIMA2
-http://2111.space:25461/admin_184374/O8zkriFl/1006
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-ALYAWM HD
-http://2111.space:25461/admin_184374/O8zkriFl/1032
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-ANIMAL-PLANET
-http://2111.space:25461/admin_184374/O8zkriFl/1031
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-B4U-Aflam
-http://2111.space:25461/admin_184374/O8zkriFl/1030
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-BBC First HD
-http://2111.space:25461/admin_184374/O8zkriFl/1029
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Box-OFFICE-1
-http://2111.space:25461/admin_184374/O8zkriFl/1039
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-BOX-OFFICE-2
-http://2111.space:25461/admin_184374/O8zkriFl/1038
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-BOX-OFFICE-3
-http://2111.space:25461/admin_184374/O8zkriFl/1037
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Comedy Central HD
-http://2111.space:25461/admin_184374/O8zkriFl/1028
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Discovery Family HD
-http://2111.space:25461/admin_184374/O8zkriFl/1027
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Discovery IDX HD
-http://2111.space:25461/admin_184374/O8zkriFl/1026
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Discovery-Channel
-http://2111.space:25461/admin_184374/O8zkriFl/1025
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-DISCOVERY-SCIENCE
-http://2111.space:25461/admin_184374/O8zkriFl/1024
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Disney Channel HD
-http://2111.space:25461/admin_184374/O8zkriFl/1023
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Disney Junior
-http://2111.space:25461/admin_184374/O8zkriFl/1022
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Disney XD
-http://2111.space:25461/admin_184374/O8zkriFl/1021
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Fight Box HD
-http://2111.space:25461/admin_184374/O8zkriFl/1019
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-First HBO
-http://2111.space:25461/admin_184374/O8zkriFl/1042
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Nat Geo
-http://2111.space:25461/admin_184374/O8zkriFl/1015
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-NAT-GEO-WILD
-http://2111.space:25461/admin_184374/O8zkriFl/1013
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Nickelodeon HD
-http://2111.space:25461/admin_184374/O8zkriFl/1012
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Series HD
-http://2111.space:25461/admin_184374/O8zkriFl/1036
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-Syfy
-http://2111.space:25461/admin_184374/O8zkriFl/1000
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN-WWE
-http://2111.space:25461/admin_184374/O8zkriFl/999
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",###### Movies Comedy ######
-http://2111.space:25461/admin_184374/O8zkriFl/608
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein_2_720P
-http://2111.space:25461/admin_184374/O8zkriFl/1814
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein_4_720P
-http://2111.space:25461/admin_184374/O8zkriFl/1816
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN1_720P
-http://2111.space:25461/admin_184374/O8zkriFl/1813
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein10_720P
-http://2111.space:25461/admin_184374/O8zkriFl/1822
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN3_720P
-http://2111.space:25461/admin_184374/O8zkriFl/1815
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein5_720P
-http://2111.space:25461/admin_184374/O8zkriFl/1817
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein6_720P
-http://2111.space:25461/admin_184374/O8zkriFl/1818
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein7_720P
-http://2111.space:25461/admin_184374/O8zkriFl/1819
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein8_720P
-http://2111.space:25461/admin_184374/O8zkriFl/1820
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein9_720P
-http://2111.space:25461/admin_184374/O8zkriFl/1821
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT_1
-http://2111.space:25461/admin_184374/O8zkriFl/1825
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT_2
-http://2111.space:25461/admin_184374/O8zkriFl/1826
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT_3
-http://2111.space:25461/admin_184374/O8zkriFl/1827
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT_4
-http://2111.space:25461/admin_184374/O8zkriFl/1828
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT_5
-http://2111.space:25461/admin_184374/O8zkriFl/1829
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT_6
-http://2111.space:25461/admin_184374/O8zkriFl/1831
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT_7
-http://2111.space:25461/admin_184374/O8zkriFl/1830
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT_8
-http://2111.space:25461/admin_184374/O8zkriFl/1832
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT_9
-http://2111.space:25461/admin_184374/O8zkriFl/1833
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BEIN_SPORT_10
-http://2111.space:25461/admin_184374/O8zkriFl/1834
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_Baraeem_HD
-http://2111.space:25461/admin_184374/O8zkriFl/3840
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_AMC_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4635
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_Baby_TV
-http://2111.space:25461/admin_184374/O8zkriFl/4634
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_be_Junior_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4633
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_Boomerang_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4632
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_DMAX_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4631
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_Drama_1_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4630
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_DreamWorks_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4629
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_DTX_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4628
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_Fatafeat_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4627
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_Gourmet_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4626
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_HGTV_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4625
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_Jeem_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4624
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN_Travel_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4623
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MYHD:MBC_2_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4645
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MYHD:MBC_3_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4644
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MYHD:MBC_4_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4643
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MYHD:MBC_ACTION
-http://2111.space:25461/admin_184374/O8zkriFl/4642
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MYHD:MBC_Bollywood_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4641
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MYHD:MBC_Drama _HD
-http://2111.space:25461/admin_184374/O8zkriFl/4640
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MYHD:MBC_Masr
-http://2111.space:25461/admin_184374/O8zkriFl/4639
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MYHD:MBC_Masr_2
-http://2111.space:25461/admin_184374/O8zkriFl/4638
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MYHD:MBC_MAX_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4637
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MYHD:MBC_Variety_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4636
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:AL_Aqsa
-http://2111.space:25461/admin_184374/O8zkriFl/4714
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Al-Nahar-Drama
-http://2111.space:25461/admin_184374/O8zkriFl/4713
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:AlAhly
-http://2111.space:25461/admin_184374/O8zkriFl/4660
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:AlHayat
-http://2111.space:25461/admin_184374/O8zkriFl/4740
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:AlHayat2
-http://2111.space:25461/admin_184374/O8zkriFl/4739
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Alkahera Wa Alnas 2
-http://2111.space:25461/admin_184374/O8zkriFl/4736
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:AlKAHERA_WALNAS
-http://2111.space:25461/admin_184374/O8zkriFl/4735
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:AlNahar
-http://2111.space:25461/admin_184374/O8zkriFl/4733
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:AlNahar-drama
-http://2111.space:25461/admin_184374/O8zkriFl/4732
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:B4U Aflam
-http://2111.space:25461/admin_184374/O8zkriFl/4731
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:B4U_PLUS
-http://2111.space:25461/admin_184374/O8zkriFl/4730
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Beur-tv
-http://2111.space:25461/admin_184374/O8zkriFl/4729
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:CAIRO_AFLAM
-http://2111.space:25461/admin_184374/O8zkriFl/4728
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:CATV
-http://2111.space:25461/admin_184374/O8zkriFl/4737
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:CBC
-http://2111.space:25461/admin_184374/O8zkriFl/4742
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:CBC_DRAMA
-http://2111.space:25461/admin_184374/O8zkriFl/4741
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Cima Alibaba
-http://2111.space:25461/admin_184374/O8zkriFl/4722
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Cinema
-http://2111.space:25461/admin_184374/O8zkriFl/4724
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:CNBC ARABIYA
-http://2111.space:25461/admin_184374/O8zkriFl/4719
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:CNN
-http://2111.space:25461/admin_184374/O8zkriFl/4734
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:darbaka_aflam
-http://2111.space:25461/admin_184374/O8zkriFl/4721
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:DMC_DREAMA
-http://2111.space:25461/admin_184374/O8zkriFl/4754
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:DMC_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4753
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Dmc_Sports
-http://2111.space:25461/admin_184374/O8zkriFl/4727
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:DREAM
-http://2111.space:25461/admin_184374/O8zkriFl/4720
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:dream 2
-http://2111.space:25461/admin_184374/O8zkriFl/4723
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Mazzika
-http://2111.space:25461/admin_184374/O8zkriFl/4717
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Mekameleen
-http://2111.space:25461/admin_184374/O8zkriFl/4716
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Melody Hits
-http://2111.space:25461/admin_184374/O8zkriFl/4715
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Melody_CINEMA
-http://2111.space:25461/admin_184374/O8zkriFl/4712
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:MELODY_CLASSIC
-http://2111.space:25461/admin_184374/O8zkriFl/4711
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Moga_Comedy
-http://2111.space:25461/admin_184374/O8zkriFl/4710
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Nile Life
-http://2111.space:25461/admin_184374/O8zkriFl/4752
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Nile_Cinema
-http://2111.space:25461/admin_184374/O8zkriFl/4751
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Nile_Comedy
-http://2111.space:25461/admin_184374/O8zkriFl/4750
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:NILE_Drama
-http://2111.space:25461/admin_184374/O8zkriFl/4749
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Nile_Family
-http://2111.space:25461/admin_184374/O8zkriFl/4748
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Nile_News
-http://2111.space:25461/admin_184374/O8zkriFl/4747
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Nile_TV
-http://2111.space:25461/admin_184374/O8zkriFl/4746
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Nile-Sport
-http://2111.space:25461/admin_184374/O8zkriFl/4726
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:ON E HD
-http://2111.space:25461/admin_184374/O8zkriFl/4745
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:ON_DRAMA
-http://2111.space:25461/admin_184374/O8zkriFl/4744
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:ON_SPORT
-http://2111.space:25461/admin_184374/O8zkriFl/4725
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:ON_TV
-http://2111.space:25461/admin_184374/O8zkriFl/4743
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Panorama Food
-http://2111.space:25461/admin_184374/O8zkriFl/4709
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:panorama_film
-http://2111.space:25461/admin_184374/O8zkriFl/4708
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Panorama-Drama1
-http://2111.space:25461/admin_184374/O8zkriFl/4707
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Panorama-Drama2
-http://2111.space:25461/admin_184374/O8zkriFl/4706
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Rotana_Classic
-http://2111.space:25461/admin_184374/O8zkriFl/4705
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:ROTANA_CLIP
-http://2111.space:25461/admin_184374/O8zkriFl/4704
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Rotana_drama
-http://2111.space:25461/admin_184374/O8zkriFl/4703
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Rotana_Khalijia
-http://2111.space:25461/admin_184374/O8zkriFl/4702
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:ROTANA_MASRIA
-http://2111.space:25461/admin_184374/O8zkriFl/4701
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:rotana_music
-http://2111.space:25461/admin_184374/O8zkriFl/4700
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Rotana-Aflem
-http://2111.space:25461/admin_184374/O8zkriFl/4699
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:rotana-cinema
-http://2111.space:25461/admin_184374/O8zkriFl/4698
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Sada Drama
-http://2111.space:25461/admin_184374/O8zkriFl/4697
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Sada ElBalad Drama
-http://2111.space:25461/admin_184374/O8zkriFl/4718
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Sudan-SPORT
-http://2111.space:25461/admin_184374/O8zkriFl/4696
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:TEN
-http://2111.space:25461/admin_184374/O8zkriFl/4695
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:ZEE_ALWAN
-http://2111.space:25461/admin_184374/O8zkriFl/4694
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NILE:Zee-Aflam
-http://2111.space:25461/admin_184374/O8zkriFl/4693
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:ALYAWM
-http://2111.space:25461/admin_184374/O8zkriFl/4663
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Animal Planet HD
-http://2111.space:25461/admin_184374/O8zkriFl/4662
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:ART AFLAM 1
-http://2111.space:25461/admin_184374/O8zkriFl/4650
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:ART AFLAM 2
-http://2111.space:25461/admin_184374/O8zkriFl/4649
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:ART CINEMA
-http://2111.space:25461/admin_184374/O8zkriFl/4648
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:ART Hekayat 1
-http://2111.space:25461/admin_184374/O8zkriFl/4647
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:ART Hekayat 2
-http://2111.space:25461/admin_184374/O8zkriFl/4646
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:ART_AFLAM 1
-http://2111.space:25461/admin_184374/O8zkriFl/4692
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:ART_AFLAM 2
-http://2111.space:25461/admin_184374/O8zkriFl/4691
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:ART_CINEMA
-http://2111.space:25461/admin_184374/O8zkriFl/4690
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:ART_Hekayat 1
-http://2111.space:25461/admin_184374/O8zkriFl/4689
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:ART_Hekayat 2
-http://2111.space:25461/admin_184374/O8zkriFl/4688
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:B4U Aflam
-http://2111.space:25461/admin_184374/O8zkriFl/4661
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:BEIN MOVIES 1 HD
-http://2111.space:25461/admin_184374/O8zkriFl/4653
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:BEIN MOVIES 2 HD
-http://2111.space:25461/admin_184374/O8zkriFl/4652
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:BEIN MOVIES 3 HD
-http://2111.space:25461/admin_184374/O8zkriFl/4651
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",VIP:BEIN MOVIES 4 HD
-http://2111.space:25461/admin_184374/O8zkriFl/4738
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Box OFFICE 1
-http://2111.space:25461/admin_184374/O8zkriFl/4681
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:BOX OFFICE 2
-http://2111.space:25461/admin_184374/O8zkriFl/4680
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:BOX OFFICE 3
-http://2111.space:25461/admin_184374/O8zkriFl/4679
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:CINEMA 1
-http://2111.space:25461/admin_184374/O8zkriFl/4673
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:CINEMA 2
-http://2111.space:25461/admin_184374/O8zkriFl/4672
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Comedy Central HD
-http://2111.space:25461/admin_184374/O8zkriFl/4659
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Discovery Family HD
-http://2111.space:25461/admin_184374/O8zkriFl/4657
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Discovery IDX HD
-http://2111.space:25461/admin_184374/O8zkriFl/4658
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Disney Channel HD
-http://2111.space:25461/admin_184374/O8zkriFl/4656
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Disney Junior
-http://2111.space:25461/admin_184374/O8zkriFl/4655
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Disney_XD
-http://2111.space:25461/admin_184374/O8zkriFl/4654
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:First HBO HD
-http://2111.space:25461/admin_184374/O8zkriFl/4682
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:MOVIES
-http://2111.space:25461/admin_184374/O8zkriFl/4687
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:MOVIES ACTION
-http://2111.space:25461/admin_184374/O8zkriFl/4686
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Movies Comedy 2 H
-http://2111.space:25461/admin_184374/O8zkriFl/4676
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Movies Comedy HD
-http://2111.space:25461/admin_184374/O8zkriFl/4675
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:MOVIES FESTIVAL HD
-http://2111.space:25461/admin_184374/O8zkriFl/4677
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:MOVIES FIRST
-http://2111.space:25461/admin_184374/O8zkriFl/4685
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Movies First HD 2h
-http://2111.space:25461/admin_184374/O8zkriFl/4684
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:MOVIES KIDS
-http://2111.space:25461/admin_184374/O8zkriFl/4674
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Movies Premiere 2
-http://2111.space:25461/admin_184374/O8zkriFl/4678
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Movies Thriller HD
-http://2111.space:25461/admin_184374/O8zkriFl/4683
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:MUSALSALAT HD
-http://2111.space:25461/admin_184374/O8zkriFl/4671
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Star Movie HD
-http://2111.space:25461/admin_184374/O8zkriFl/4670
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Star World HD
-http://2111.space:25461/admin_184374/O8zkriFl/4669
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:WWE
-http://2111.space:25461/admin_184374/O8zkriFl/4668
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Ya Hala Al Oula 2
-http://2111.space:25461/admin_184374/O8zkriFl/4667
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Ya hala Cinema HD
-http://2111.space:25461/admin_184374/O8zkriFl/4664
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Ya Hala HD
-http://2111.space:25461/admin_184374/O8zkriFl/4666
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",vip:Ya Hala Oula HD
-http://2111.space:25461/admin_184374/O8zkriFl/4665
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ESLAM:AHEL AL QURAN
-http://2111.space:25461/admin_184374/O8zkriFl/4764
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ESLAM:Al_majd_Al_hadeeth
-http://2111.space:25461/admin_184374/O8zkriFl/4763
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ESLAM:Al_majd_Scientific
-http://2111.space:25461/admin_184374/O8zkriFl/4762
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ESLAM:Al_Rahma
-http://2111.space:25461/admin_184374/O8zkriFl/4761
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ESLAM:Alfajr
-http://2111.space:25461/admin_184374/O8zkriFl/4760
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Eslam:AlMajd_Quran
-http://2111.space:25461/admin_184374/O8zkriFl/4759
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ESLAM:AlNas
-http://2111.space:25461/admin_184374/O8zkriFl/4758
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ESLAM:ALResala-HD
-http://2111.space:25461/admin_184374/O8zkriFl/4757
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ESLAM:IQRAA
-http://2111.space:25461/admin_184374/O8zkriFl/4756
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ESLAM:resala-eslam
-http://2111.space:25461/admin_184374/O8zkriFl/4755
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",LEBANON:Al-Janoubia
-http://2111.space:25461/admin_184374/O8zkriFl/4784
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",LEBANON:ALJADEED
-http://2111.space:25461/admin_184374/O8zkriFl/4783
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",LEBANON:ALMANAR
-http://2111.space:25461/admin_184374/O8zkriFl/4782
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",LEBANON:Noor_Sat
-http://2111.space:25461/admin_184374/O8zkriFl/4781
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",LEBANON:OTV
-http://2111.space:25461/admin_184374/O8zkriFl/4780
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MAR:2M_MARoc
-http://2111.space:25461/admin_184374/O8zkriFl/4779
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MAR:AflamTV.7.Maroc
-http://2111.space:25461/admin_184374/O8zkriFl/4778
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MAR:Al_Aoula_ALayoune HD
-http://2111.space:25461/admin_184374/O8zkriFl/4777
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MAR:Al_Oula_HD
-http://2111.space:25461/admin_184374/O8zkriFl/4776
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MAR:ALMAGHRIBIA HD
-http://2111.space:25461/admin_184374/O8zkriFl/4775
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MAR:ARrabiaa HD
-http://2111.space:25461/admin_184374/O8zkriFl/4774
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MAR:MAROC_AFLAM2
-http://2111.space:25461/admin_184374/O8zkriFl/4773
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Moroco 1 Alaoula
-http://2111.space:25461/admin_184374/O8zkriFl/4772
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Moroco 2m Monde
-http://2111.space:25461/admin_184374/O8zkriFl/4771
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Moroco 3 Arriadia
-http://2111.space:25461/admin_184374/O8zkriFl/4770
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Moroco 4 Arrabiaa
-http://2111.space:25461/admin_184374/O8zkriFl/4769
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Moroco 6 Assadissa
-http://2111.space:25461/admin_184374/O8zkriFl/4768
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Moroco 8 Tamazight
-http://2111.space:25461/admin_184374/O8zkriFl/4767
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Moroco Almaghribia
-http://2111.space:25461/admin_184374/O8zkriFl/4766
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Moroco Medi 1TV
-http://2111.space:25461/admin_184374/O8zkriFl/4765
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NEWS:Al MANAR TV
-http://2111.space:25461/admin_184374/O8zkriFl/4794
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NEWS:AlArabiya
-http://2111.space:25461/admin_184374/O8zkriFl/4793
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NEWS:alhadath
-http://2111.space:25461/admin_184374/O8zkriFl/4792
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NEWS:Alhiwar
-http://2111.space:25461/admin_184374/O8zkriFl/4791
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NEWS:AlJazeera
-http://2111.space:25461/admin_184374/O8zkriFl/4790
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NEWS:Aljazeera mubasher
-http://2111.space:25461/admin_184374/O8zkriFl/4789
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NEWS:AlJazeera_Documentary
-http://2111.space:25461/admin_184374/O8zkriFl/4788
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NEWS:ANN
-http://2111.space:25461/admin_184374/O8zkriFl/4787
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NEWS:ARAB
-http://2111.space:25461/admin_184374/O8zkriFl/4786
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NEWS:watan tv
-http://2111.space:25461/admin_184374/O8zkriFl/4785
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan Alamanal
-http://2111.space:25461/admin_184374/O8zkriFl/4802
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan Ashoroqq
-http://2111.space:25461/admin_184374/O8zkriFl/4801
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan Blue Nile
-http://2111.space:25461/admin_184374/O8zkriFl/4800
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan Dabanga
-http://2111.space:25461/admin_184374/O8zkriFl/4799
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan Drama
-http://2111.space:25461/admin_184374/O8zkriFl/4798
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan Jazeera Green
-http://2111.space:25461/admin_184374/O8zkriFl/4797
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan TV
-http://2111.space:25461/admin_184374/O8zkriFl/4796
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan TV (Somalia)
-http://2111.space:25461/admin_184374/O8zkriFl/4795
-
-
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_1HD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/176.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_1HD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/188.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_2SD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/898.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_2SD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1939.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_2HD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/177.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_2HD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/189.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_3SD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/899.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_3SD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1940.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_3HD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/178.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_3HD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/190.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_4SD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/900.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_4SD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1941.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_4HD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/179.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_4HD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/191.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_5SD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/901.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_5SD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1942.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_5HD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/180.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_5HD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/192.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_6SD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/902.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_6SD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1943.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_6HD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/181.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_6HD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/193.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_7SD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/903.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_7SD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1944.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_7HD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/182.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_7HD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/194.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_8SD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/904.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_8SD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1945.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_8HD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/183.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_8HD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/195.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_9SD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/905.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_9SD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1946.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_9HD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/184.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_9HD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/196.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_10SD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/906.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_10SD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1951.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_10HD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/185.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_10HD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/197.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_Sports_11HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/4137.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_Sports_12HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/4136.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_Sports_13HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/4135.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_Sports_14HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/4134.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_Sports_15HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/4133.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_Sports_16HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/4132.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_Sports_17HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/4131.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_NBA
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/10035.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_MAX1SD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/907.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_MAX1SD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1947.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_MAX1HD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/895.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_MAX1HD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/859.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_MAX2SD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/908.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_MAX2SD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1948.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_MAX2HD_S1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/896.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_MAX2HD_S2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/860.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_MAX3SD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/10240.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_MAX3HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/10237.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_MAX4SD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/10239.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_Bein_SP_MAX4HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/10238.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_1_H265
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/5443.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_2_H265
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/5442.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_3_H265
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/5441.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_4_H265
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/5440.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_5_H265
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/5439.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_6_H265
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/5438.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_7_H265
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/5437.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_8_H265
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/5436.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_9_H265
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/5435.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_10_H265
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/5434.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_MAX1_H265
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/5433.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_BeIN_SPORTS_MAX2_H265
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/5432.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_ON_Sport_HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/51.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_DMC_Sport
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/61.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_Nile_Sport
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/93.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_Dubai_Sports
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/172.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_Sama_Dubai
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/170.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_KSA_Sport_1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/10036.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_ALKASS_SPORT_1_HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/562.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_ALKASS_SPORT_2_HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/563.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_ALKASS_SPORT_3_HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/564.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_ALKASS_SPORT_4_HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/565.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BN_ALKASS_SPORT_5_HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/566.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN_Sports_1_HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1894.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN_Sports_2_HD
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/1893.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_Ad_Sport_1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/111.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_Ad_Sport_2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/112.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_Ad_Sport_3
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/856.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_Ad_Sport_4
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/855.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_Ad_Sport_5
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/854.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_Ad_Sport_6
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/4592.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MyHD_Wow_Sports
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/10272.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MyHD_Fight_Box
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/4714.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_MBC_PRO_SPORT_1
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/835.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_MBC_PRO_SPORT_2
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/834.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_MBC_PRO_SPORT_3
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/833.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AR_MBC_PRO_SPORT_4
+http://s1.xtra-sat.net:8000/live/Med_Med/58119734/4460.m3u8
 
 
 
