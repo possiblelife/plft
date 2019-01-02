@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,29/12/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,02/01/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -71,8 +71,6 @@ http://81.21.47.74/hls/live.m3u8
 http://www.fireshow.xyz/sigmam.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus"  tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus 
 http://www.alphacyprus.com.cy/page/live|agentnodown$$start=http://l$$end=        }],$$replace=',$$replacewith=$$add=
-#EXTINF:-1 group-title="Cyprus" tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus
-http://www.alphacyprus.com.cy/page/live|webnoagent$$start=url: 'http://$$end=',\n        }]$$replace=url: '$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus
 https://www.ant1.com.cy/web-tv-live/|webnoagent$$start=href=\"https://l$$end=\" data-in$$replace=href=\"$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy"  tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus (use External Player)
@@ -169,8 +167,8 @@ https://www.youtube.com/watch?v=K2x130LKwDU
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA (Youtube)
 https://www.youtube.com/watch?v=oJbm78ZoMj4
-#EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI Youtube
-https://www.youtube.com/watch?v=RiGOlbtAbrc
+#EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI Youtube LIVE
+http://www.skai.gr/player/tvlive?-A=5&-V=livestreaming|agentnodown$$start="contentUrl" href="$$end="></span><l$$replace="contentUrl" href="$$replacewith=https://www.youtube.com/watch?v=$$add=
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (use External Player)
 http://www.anacon.org/app/chans/gr/skai.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI
@@ -297,8 +295,7 @@ http://live.streams.ovh:1935/NGradio/NGradio_360p/playlist.m3u8
 rtmp://live.streams.ovh/cannali/cannali
 #EXTINF:-1 group-title="Greece" tvg-logo="http://4.bp.blogspot.com/-o5PO61prqLw/TseaskPFynI/AAAAAAAAA84/9bLKY-CQeIg/s1600/energy-mediaset-canal-masculino-tv.PNG"  ,Energy 
 rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
-#EXTINF:-1 group-title="Greece" tvg-logo="https://bit.ly/madworldico" ,MAD WORLD
-http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
+
 
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   PAIDIKA   ============
@@ -5939,59 +5936,16 @@ http://pina7.ddns.net:8000/aplicacao/scp4ever/3.ch
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png" ,TVI
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4055.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP3.png" ,RTP 3
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4038.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" ,CMTV
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4011.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png" ,GLOBO
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4024.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png" ,SIC MULHER
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3983.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png" ,PORTO CANAL
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4035.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png" ,SIC CARAS
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4043.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" ,SIC RADICAL
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4046.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" ,RTP MEMORIA
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3994.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png" ,24 KITCHEN HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3998.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png" ,CANAL Q
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4007.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" ,SPORT TV 1 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4047.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" ,SPORT TV 3 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3995.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" ,SPORT TV 4
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3986.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" ,SPORT TV 5
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3987.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,BTV HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3975.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" ,SPORTING TV
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3988.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png" ,A BOLA TV
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3999.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" ,MOTORSPORT.TV
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4030.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" ,PANDA BIGGS
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3974.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png" ,TVCINE 4 HD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3996.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVROCKS.png" ,MTV ROCKS
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/6005.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png" ,DISCOVERY SHOWCASE
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3992.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png" ,HISTORIA
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4026.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBOPREMIUM.png" ,GLOBO PREMIUM
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4025.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png" ,TV RECORD
-http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4058.m3u8
-
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" ,SPORT TV 1 
+http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/7.ch
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2 
+http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/8.ch
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" ,SPORT TV 3 HD 
+http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/9.ch
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" ,ELEVEN SPORTS 1 
+http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/1.ch
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER4"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,Benfica TV
+http://5.189.170.58:6969/SPORTUGAL/SPORTUGAL/2.ch
 
 
 
@@ -6010,42 +5964,6 @@ http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4058.m3u8
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4055.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png",SPORT TV+
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3984.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png",SIC MULHER
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3983.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png",SIC CARAS
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4043.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3 HD
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3995.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png",BTV HD
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3975.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png",SPORTING TV
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3988.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ABOLATV.png",A BOLA TV
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3999.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png",MOTORSPORT.TV
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4030.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TVCINE 1 HD
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3990.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png",TVCINE 2 HD
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4050.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png",TVCINE 3 HD
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4051.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png",TVCINE 4 HD
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/3996.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png",TVSeries HD
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4054.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICÇÃO
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/4057.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png",MTV BASE
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/6009.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVCLASSIC.png",MTV CLASSIC
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/6008.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVROCKS.png",MTV ROCKS
-http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/6005.m3u8
 
 
 
@@ -6063,92 +5981,6 @@ http://46.105.117.229:25570/live/enigmasmart/JdSeeV6Lbh/6005.m3u8
 
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",
-
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV +
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/947.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 1
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/71.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 1 HD
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/72.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 2
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/73.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 2 HD
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/74.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 3
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/75.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 3 HD
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/158.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 4
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/76.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 4 HD
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/77.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 5
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/78.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 5 HD
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/159.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORTING TV
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/81.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORTING TV HD
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/160.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 1
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2861.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 1 HD
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2736.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 2
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2862.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 2 HD
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2737.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 3 HD
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2738.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 4 HD
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2739.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 5 HD
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2740.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 6 HD
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2741.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",KOMBAT SPORT
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/660.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",FIGHTING NETWORK
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/1075.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",MOTORVISION
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/84.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",EUROSPORT
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/86.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",EUROSPORT 2
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/87.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV + (LOW)
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2181.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 1 (LOW)
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2180.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 2 (LOW)
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2179.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 3 (LOW)
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2178.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 4 (LOW)
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2177.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 5 (LOW)
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2176.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",BENFICA TV (LOW)
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2175.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORTING TV (LOW)
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2174.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 1 LOW
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2774.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 2 LOW
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2775.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 3 LOW
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2782.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 4 LOW
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2783.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",ELEVEN SPORTS 5 LOW
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2784.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",EUROSPORT (LOW)
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2172.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",EUROSPORT 2 (LOW)
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2171.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",KOMBAT SPORT (LOW)
-http://ruben-mota.mine.nu:9511/live/cds1L4pNC0/gzUnUkA7Ap/2169.m3u8
-
 
 
 
@@ -10639,86 +10471,6 @@ http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",
 
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sports 1 HD (AR)" ,beIN Sports 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/1.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sports 2 HD (AR)" ,beIN Sports 2 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/2.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sports 3 HD (AR)" ,beIN Sports 3 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/3.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sport 4 HD (AR)" ,beIN Sport 4 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/4.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sports 5 HD (AR)" ,beIN Sports 5 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/5.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sports 6 HD (AR)" ,beIN Sports 6 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/6.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sports 7 HD (AR)" ,beIN Sports 7 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/7.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sports 8 HD (AR)" ,beIN Sports 8 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/8.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sports 9 HD (AR)" ,beIN Sports 9 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/9.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN SPORTS 10 HD (AR)" ,BEIN SPORTS 10 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/10.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="Turkish beIN Sports 1 (TR)" ,Turkish beIN Sports 1 (TR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/11.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sports 1 HD (FR)" ,beIN Sports 1 HD (FR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/12.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sports 2 HD (FR)" ,beIN Sports 2 HD (FR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/13.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sports 3 HD (FR)" ,beIN Sports 3 HD (FR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/14.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="Sky Sport 1 HD" ,Sky Sport 1 HD
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/15.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN AD Sports 1 HD (AR)" ,OSN AD Sports 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/16.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN AD Sports 2 HD (AR)" ,OSN AD Sports 2 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/17.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN SPORT MAX 1 HD (TR)" ,BEIN SPORT MAX 1 HD (TR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/18.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN SPORT MAX 2 HD (TR)" ,BEIN SPORT MAX 2 HD (TR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/19.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="beIN Sports HD (ES)" ,beIN Sports HD (ES)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/20.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN Movies Kids HD (AR)" ,OSN Movies Kids HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/21.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN Movies HD (AR)" ,OSN Movies HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/22.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN Movies  2h (AR)" ,OSN Movies  2h (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/23.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN Movies Action HD (AR)" ,OSN Movies Action HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/24.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN MOVIES 1HD (AR)" ,BEIN MOVIES 1HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/25.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN MOVIES 2HD (AR)" ,BEIN MOVIES 2HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/26.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN MOVIES 3 HD (AR)" ,BEIN MOVIES 3 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/27.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="BEIN MOVIES 4 HD (AR)" ,BEIN MOVIES 4 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/28.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN Box Office 1 HD (AR)" ,OSN Box Office 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/29.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN BOX OFFICE 2 HD (AR)" ,OSN BOX OFFICE 2 HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/30.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="Quest Arabiya HD (AR)" ,Quest Arabiya HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/31.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN WWE HD (AR)" ,OSN WWE HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/32.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="OSN Fox Movies HD (AR)" ,OSN Fox Movies HD (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/33.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="Fox Tv HD 1080 (BG)" ,Fox Tv HD 1080 (BG)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/34.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="MBC1 (AR)" ,MBC1 (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/35.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="MBC 2 (AR)" ,MBC 2 (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/36.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="MBC 4 (AR)" ,MBC 4 (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/37.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="MBC MASR (AR)" ,MBC MASR (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/38.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="MBC Action (AR)" ,MBC Action (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/39.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5"  tvg-name="MBC MAX (AR)" ,MBC MAX (AR)
-http://www.freeiptvdaily.net:8000/live/3W0NQ0xAap/freeiptvdaily.tv/40.ts
 
 
 
@@ -11649,7 +11401,240 @@ http://91.149.172.100:80/channel?id=126&u=demo&p=demo
 
 #EXTINF:-1 group-title="Russian-SERVER3",
 
-
+#EXTINF:-1 group-title="Russian-SERVER3",1 Zahidny
+http://46.149.185.7:8000/play/ch073/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",1+1
+http://46.149.185.7:8000/play/ch002/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",112HD
+http://46.149.185.7:8000/play/ch011/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",2+2
+http://46.149.185.7:8000/play/ch013/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",3 studio
+http://46.149.185.7:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",34 TV
+http://46.149.185.7:8000/play/ch044/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",ATR
+http://46.149.185.7:8000/play/ch036/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Animal Planet
+http://46.149.185.7:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Bigudi
+http://46.149.185.7:8000/play/ch028/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Bolt
+http://46.149.185.7:8000/play/a05n/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Business
+http://46.149.185.7:8000/play/ch038/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Cartoon Network
+http://46.149.185.7:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Channel 402
+http://46.149.185.7:8000/play/ch047/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Channel 5
+http://46.149.185.7:8000/play/ch005/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Dacha
+http://46.149.185.7:8000/play/ch027/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Discovery Channel HD
+http://46.149.185.7:8000/play/ch070/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Discovery Science SD
+http://46.149.185.7:8000/play/ch062/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Discovery Showcase HD
+http://46.149.185.7:8000/play/ch080/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Drama UA
+http://46.149.185.7:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",ECO TV
+http://46.149.185.7:8000/play/ch071/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Enter Film
+http://46.149.185.7:8000/play/ch111/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Epoque
+http://46.149.185.7:8000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Espresso TV
+http://46.149.185.7:8000/play/ch024/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Eurosport 1 HD
+http://46.149.185.7:8000/play/ch097/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Eurosport 2 HD
+http://46.149.185.7:8000/play/ch096/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Extrme Sports
+http://46.149.185.7:8000/play/ch088/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",FIne Living
+http://46.149.185.7:8000/play/ch060/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Fauna
+http://46.149.185.7:8000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Football 1
+http://46.149.185.7:8000/play/ch086/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Football 2
+http://46.149.185.7:8000/play/ch087/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Fox HD
+http://46.149.185.7:8000/play/ch121/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Fox Live
+http://46.149.185.7:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Galichina
+http://46.149.185.7:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Glas
+http://46.149.185.7:8000/play/ch032/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",History HD
+http://46.149.185.7:8000/play/ch078/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Horizont TV
+http://46.149.185.7:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Hromadske
+http://46.149.185.7:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",ICTV
+http://46.149.185.7:8000/play/ch007/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",ID XTRA
+http://46.149.185.7:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Indigo
+http://46.149.185.7:8000/play/ch043/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Inter
+http://46.149.185.7:8000/play/ch003/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Jim Jam
+http://46.149.185.7:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",K1
+http://46.149.185.7:8000/play/ch025/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",K2
+http://46.149.185.7:8000/play/ch026/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",KMT
+http://46.149.185.7:8000/play/ch040/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",KMT1
+http://46.149.185.7:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",KRT
+http://46.149.185.7:8000/play/ch037/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Kiev TV
+http://46.149.185.7:8000/play/ch017/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Kultura
+http://46.149.185.7:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Kvartal TV
+http://46.149.185.7:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",LALE
+http://46.149.185.7:8000/play/ch056/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",M1
+http://46.149.185.7:8000/play/ch099/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",M2
+http://46.149.185.7:8000/play/ch100/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",MAXXI TV
+http://46.149.185.7:8000/play/ch033/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",MGM HD
+http://46.149.185.7:8000/play/a05h/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",MTV Dance
+http://46.149.185.7:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",MTV HD live
+http://46.149.185.7:8000/play/ch106/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",MTV Hits
+http://46.149.185.7:8000/play/ch109/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",MTV Rocks
+http://46.149.185.7:8000/play/a056/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Malyatko TV
+http://46.149.185.7:8000/play/ch039/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Mega
+http://46.149.185.7:8000/play/ch029/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Mezzo Live HD
+http://46.149.185.7:8000/play/ch101/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Miledy TV
+http://46.149.185.7:8000/play/ch016/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Music BOX
+http://46.149.185.7:8000/play/ch108/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",NLO TV
+http://46.149.185.7:8000/play/ch042/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",NTK
+http://46.149.185.7:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",NTN
+http://46.149.185.7:8000/play/ch023/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Nat Geo Wild HD
+http://46.149.185.7:8000/play/ch077/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Nation Geographic SD
+http://46.149.185.7:8000/play/ch068/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",National Geographic HD
+http://46.149.185.7:8000/play/ch067/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Nauka
+http://46.149.185.7:8000/play/a05j/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",News 24
+http://46.149.185.7:8000/play/ch009/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",News Network
+http://46.149.185.7:8000/play/ch030/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",News One
+http://46.149.185.7:8000/play/ch014/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Nick Jr
+http://46.149.185.7:8000/play/ch055/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Nickelodeon HD
+http://46.149.185.7:8000/play/ch085/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Novy Channel
+http://46.149.185.7:8000/play/ch008/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",OCE
+http://46.149.185.7:8000/play/ch051/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",OTV
+http://46.149.185.7:8000/play/ch098/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Pervy Delovoy
+http://46.149.185.7:8000/play/ch022/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Pixel
+http://46.149.185.7:8000/play/ch048/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Plus Plus
+http://46.149.185.7:8000/play/ch050/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Pravda Tut HD
+http://46.149.185.7:8000/play/ch081/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Pro Vse
+http://46.149.185.7:8000/play/ch084/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",RAI
+http://46.149.185.7:8000/play/ch041/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Rada
+http://46.149.185.7:8000/play/ch034/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",SET
+http://46.149.185.7:8000/play/ch112/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",STB
+http://46.149.185.7:8000/play/ch006/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Silence TV
+http://46.149.185.7:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Sonce UA
+http://46.149.185.7:8000/play/ch046/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Sony Sci-Fi
+http://46.149.185.7:8000/play/ch110/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Sony Turbo
+http://46.149.185.7:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",TET
+http://46.149.185.7:8000/play/ch004/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",TLC
+http://46.149.185.7:8000/play/ch063/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",TRK Karpaty
+http://46.149.185.7:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",TRK Ukraina
+http://46.149.185.7:8000/play/ch012/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",TV 1000 Action
+http://46.149.185.7:8000/play/ch124/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",TV 1000 Comedy HD
+http://46.149.185.7:8000/play/ch127/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",TV 1000 East
+http://46.149.185.7:8000/play/ch125/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",TV 1000 Megahit HD
+http://46.149.185.7:8000/play/ch128/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",TV 1000 Premium HD
+http://46.149.185.7:8000/play/ch129/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",TV1000 World Kino
+http://46.149.185.7:8000/play/ch102/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Televsesvit
+http://46.149.185.7:8000/play/ch082/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Terra
+http://46.149.185.7:8000/play/a05m/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Tonis HD
+http://46.149.185.7:8000/play/ch019/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Trofey
+http://46.149.185.7:8000/play/ch074/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",UA Krym
+http://46.149.185.7:8000/play/a05v/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",UA-Nationalny
+http://46.149.185.7:8000/play/ch001/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Unian TV
+http://46.149.185.7:8000/play/ch021/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",VH1 European
+http://46.149.185.7:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Viasat Explore
+http://46.149.185.7:8000/play/ch065/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Viasat Nature
+http://46.149.185.7:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Viasat Nature/History HD
+http://46.149.185.7:8000/play/ch075/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",Viasat Sport HD
+http://46.149.185.7:8000/play/ch093/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",XSport
+http://46.149.185.7:8000/play/ch092/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",ZIK
+http://46.149.185.7:8000/play/ch015/index.m3u8
+#EXTINF:-1 group-title="Russian-SERVER3",ZOOM
+http://46.149.185.7:8000/play/ch052/index.m3u8
 
 
 

@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="Update Date" tvg-logo="http://bit.ly/logoe-doctor" ,Updated
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Update Date" tvg-logo="http://bit.ly/logoe-doctor" ,21/11/18
+#EXTINF:-1 group-title="Update Date" tvg-logo="http://bit.ly/logoe-doctor" ,02/01/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 
@@ -55,7 +55,22 @@ http://80.87.208.158:80/dna-91-tv-pc.m3u8
 
 #EXTINF:-1 group-title="LIVE TV2",
 
-
+#EXTINF:-1 group-title="LIVE TV2",CENTOXCENTO TV
+http://178.162.134.176:3006/play/a00h/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Evil Angel TV
+http://178.162.134.176:3006/play/a00e/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Hustler HD
+http://178.162.134.176:3006/play/a007/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Novela Tv
+http://178.162.134.176:3006/play/a009/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",PINK O TV
+http://178.162.134.176:3006/play/a00k/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Polonia 1
+http://178.162.134.176:3006/play/a004/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Private TV HD
+http://178.162.134.176:3006/play/a00q/index.m3u8
+#EXTINF:-1 group-title="LIVE TV2",Redlight HD
+http://178.162.134.176:3006/play/a006/index.m3u8
 
 
 
