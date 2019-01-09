@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,31/10/18
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,09/01/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -33,18 +33,26 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1251.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Animal_Planet_2018.svg/1200px-Animal_Planet_2018.svg.png",ANIMAL PLANET
+http://ustv247.com/animal-planet-live/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet
 http://5.56.29.95:1234/udp/239.254.0.49
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet
 http://37.194.121.4:1234/udp/239.1.5.3:1234 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1195.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2000px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
+http://ustv247.com/national-geographic-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://media.marketwire.com/attachments/201111/35566_NatGeoLogo.jpg",NATGEO WILD (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1193.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NAT GEO WILD
+http://ustv247.com/nat-geo-wild-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1133.m3u8$http-refferer=http://localhost
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png",DISCOVERY CHANNEL
+http://ustv247.com/discovery-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
 http://5.56.29.95:1234/udp/239.254.0.56
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
@@ -58,19 +66,21 @@ http://37.194.121.4:1234/udp/239.1.5.9:1234
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg",Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.insiteeducation.co.za/blog/wp-content/uploads/2016/08/history-logo.gif",History 
-http://91.149.172.100:80/channel?id=136&u=demo&p=demo 
+http://ustv247.com/history-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://sire-assets-fox.fichub.com/assets/fox/images/misc/apple-touch-icon.png",FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",Fox Life 
-http://91.149.172.100:80/channel?id=75&u=demo&p=demo 
+http://109.248.236.41:4433/udp/238.1.1.117:1234
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",Fox Life
 http://37.194.121.4:1234/udp/239.1.3.11:1234 
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/tlc.png",TLC HD (Retry if Failed)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1030.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://pbs.twimg.com/profile_images/1114619173/TLC_logo_400x400.jpg",TLC
 http://37.194.121.4:1234/udp/239.1.3.16:1234 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.amazingfactsministries.com/wp-content/uploads/2015/11/aftv.jpg",Amazing Facts TV
-https://www.youtube.com/watch?v=VsHCePF1KHw
-#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://mybnk.org/wp-content/uploads/2014/10/London-Live.jpg",London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+https://www.youtube.com/watch?v=PU2Cdk5INmY
+#EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://mybnk.org/wp-content/uploads/2014/10/London-Live.jpg",London Live (Retry if Failed)
+httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1151.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/1f/02/8d/1f028dc9-0feb-8280-37a0-ae9eaf62dde2/mzl.whuoihua.png/1200x630bb.jpg",FLORIDA CH
 https://wowzaprod4-i.akamaihd.net/hls/live/254057/persisTarget_2443575804_tvweb1_247_480p/chunklist.m3u8
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://image.roku.com/developer_channels/prod/9005813a83e9cad6f234a15733be5427a8dae5f5c7e9755194a37a882fd5c2e0.png",HSN
@@ -80,7 +90,7 @@ https://www.youtube.com/watch?v=1pepSUbkLVI
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://images4.fanpop.com/image/photos/22500000/fashion-tv-fashion-tv-22517317-160-160.jpg",Fashion TV
 http://37.194.121.4:1234/udp/239.1.3.13:1234 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://78.media.tumblr.com/e8a19b51e0ed87dd2fc0864a77ceade2/tumblr_inline_nuhb48myFF1tzhl5u_400.gif",NASA USA
-https://www.youtube.com/watch?v=wwMDvPCGeE0
+https://www.youtube.com/watch?v=21X5lGlDOfg
 
 
 
@@ -100,10 +110,6 @@ http://wpso.com:1936/hls/kidshd.m3u8
 http://bit.ly/2rvaV7Q
 #EXTINF:0 group-title="KIDS" tvg-logo="http://www.bestkabel.zywiec.pl/uploaded/Watch-Polsat-JimJam-Live-TV-from-Poland.jpg",Jim Jam
 http://37.194.182.58:81/udp/239.1.3.2:1234
-#EXTINF:-1 group-title="KIDS"  tvg-logo="http://www.bestkabel.zywiec.pl/uploaded/Watch-Polsat-JimJam-Live-TV-from-Poland.jpg",JimJam 
-http://91.149.172.100:80/channel?id=25&u=demo&p=demo 
-#EXTINF:-1 group-title="KIDS"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/200px-Boomerang_tv_logo.png",Boomerang 
-http://91.149.172.100:80/channel?id=119&u=demo&p=demo 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/200px-Boomerang_tv_logo.png",Boomerang (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1128.m3u8$http-refferer=http://localhost
 #EXTINF:0 group-title="KIDS" tvg-logo="http://onlinetv1.ru/wp-content/uploads/2018/02/bhp.png",Cartoon Network
@@ -114,16 +120,8 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1264.m3u8$http-refferer
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1272.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/Logo_Disney_XD_Actualixado.png",Disney XD  (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1273.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="KIDS",Disney Junior (East)
-http://newyork.streamlive.to:80/mobile/hm2x644tccsp2vu/playlist.m3u8
-#EXTINF:-1 group-title="KIDS",Disney Junior (West)
-http://newyork.streamlive.to:80/mobile/z6augr7dmiycx35/playlist.m3u8
 #EXTINF:0 group-title="KIDS" tvg-logo="http://www.fotoseimagenes.net/imagenes/full/0/26/0/nickelodeon-latinoamerica-1.jpg",Nickelodeon
 http://37.194.121.4:1234/udp/239.1.3.4:1234 
-#EXTINF:-1 group-title="KIDS" tvg-logo="http://nick.mtvnimages.com/nick-assets/common/nick-logo-200x200.png",NICK 
-http://91.149.172.100:80/channel?id=87&u=demo&p=demo 
-#EXTINF:-1 group-title="KIDS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/86/c9/34/86c9345c-b67a-a4cb-d7f1-fd66bfb27d1d/AppIcon-1x_U007emarketing-85-220-0-6.png/246x0w.jpg",Nick Jr 
-http://91.149.172.100:80/channel?id=76&u=demo&p=demo 
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ff/25/54/ff2554ca-e6ca-9337-a90c-73c72d9a70ad/mzl.iddssfzk.png/246x0w.jpg",Talking TOM
 https://www.youtube.com/watch?v=66K0g6W4JU4
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.regularcapital.com/wp-content/uploads/2015/02/CartoonitoHeader.jpg",Cartoonito (Retry if Failed)
@@ -170,13 +168,13 @@ http://37.194.121.4:1234/udp/239.1.15.12:1234
 #EXTINF:0 group-title="MUSIC" tvg-logo="https://seeklogo.com/images/V/vh1-music-first-classic-logo-90C25C650E-seeklogo.com.png",VH1 Classic
 http://37.192.100.141:81/udp/239.1.8.7:1234
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://pbs.twimg.com/profile_images/1813177034/mtv-hits_400x400.gif",MTV Hits 
-http://91.149.172.100:80/channel?id=140&u=demo&p=demo 
+http://46.149.185.7:8000/play/ch109/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://images-eu.ssl-images-amazon.com/images/I/61Ph9rFdPqL._SS500.jpg",MTV Rocks 
-http://91.149.172.100:80/channel?id=134&u=demo&p=demo 
+http://46.149.185.7:8000/play/a056/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://pbs.twimg.com/profile_images/982890334324740096/Qj_5yoro_400x400.jpg",MTV Dance 
-http://91.149.172.100:80/channel?id=20&u=demo&p=demo 
+http://46.149.185.7:8000/play/a057/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="http://www.schau-hd.tv/attachments/162/mtv.png",MTV HD 
-http://91.149.172.100:80/channel?id=4&u=demo&p=demo 
+http://46.149.185.7:8000/play/ch106/index.m3u8
 #EXTINF:-1 group-title="MUSIC" ,M TV
 http://81.30.182.82:18092/hls/live.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/01/Capital-TV-NEW.png",CAPITAL TV
@@ -478,10 +476,6 @@ http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 
 #EXTINF:-1 group-title="Cinema" ,RELOAD Play
 http://bit.ly/2l0o6Os
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Paramount-Channel-logo.jpg",Paramount channel 
-http://91.149.172.100:80/channel?id=93&u=demo&p=demo 
-#EXTINF:-1 group-title="Cinema" tvg-logo="https://vignette.wikia.nocookie.net/logosfake/images/4/4a/Paramoun_Comedy_Channel_2000.png",Paramount Comedy 
-http://91.149.172.100:80/channel?id=90&u=demo&p=demo 
 #EXTINF:-1 group-title="Cinema" tvg-logo="http://www.logotypes101.com/logos/842/722FA648C176AC694B93340552CC9A97/hbocomedy.png",HBO Comedy (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/977.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://pipul.tv/wp-content/uploads/2017/05/hbo-east.png",HBO East (Retry if Failed)
@@ -492,6 +486,11 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/979.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/980.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/HBO_Zone_Logo.png",HBO Zone (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/981.m3u8$http-refferer=http://localhost
-
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Comedylogo.png/200px-Comedylogo.png",THE COMEDY CHANNEL
+http://ustv247.com/the-comedy-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="Cinema"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png",HALLMARK CHANNEL
+http://ustv247.com/hallmark-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+#EXTINF:-1 group-title="Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2000px-HBO_logo.svg.png",HBO
+http://ustv247.com/hbo-hd-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
 
 
