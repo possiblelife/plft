@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,09/01/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,11/01/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -3756,7 +3756,44 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",
 
-
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: RMC Sport 1 FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/528.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: RMC Sport 2 FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/529.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: RMC Sport 3 FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/530.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: RMC Sport 4 FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/531.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Piwi HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/521.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: NRJ HITS HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/520.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: NRJ 12 FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/519.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: RMC DECOUVERTE FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/526.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Planet  CI HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/523.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: NAT GEO Wild HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/518.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Nat Geo HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/517.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: L histoire
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/509.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: L Equipe HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/508.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: L EQUIPE 21 FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/507.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Eurosport 2 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/506.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Eurosport 1 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/505.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: EQUIPE 21 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/503.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Equidia Live HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/502.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Equidia HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/501.ts
 
 
 
@@ -4977,6 +5014,102 @@ http://cdnapi.kaltura.com/p/0/sp/0/playManifest/entryId/1_lld8saie/format/appleh
 
 
 
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1"
+
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Animal Planet HD
+http://198.255.23.18:2086/1234/1234/211
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Band Hd
+http://198.255.23.18:2086/1234/1234/205
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Canal Sony HD
+http://198.255.23.18:2086/1234/1234/195
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Combate HD
+http://198.255.23.18:2086/1234/1234/189
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Comedy Central HD
+http://198.255.23.18:2086/1234/1234/187
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Disc.Home & Health HD
+http://198.255.23.18:2086/1234/1234/183
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Discovery Channel HD
+http://198.255.23.18:2086/1234/1234/181
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Discovery Theather HD
+http://198.255.23.18:2086/1234/1234/176
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Discovery Turbo HD
+http://198.255.23.18:2086/1234/1234/175
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Espn 4K
+http://198.255.23.18:2086/1234/1234/161
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Food Network 4K
+http://198.255.23.18:2086/1234/1234/154
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Fox Premium 2 HD
+http://198.255.23.18:2086/1234/1234/147
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",FOX Premium HD
+http://198.255.23.18:2086/1234/1234/145
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Fox Sports 2 HD
+http://198.255.23.18:2086/1234/1234/143
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Fox Sports HD
+http://198.255.23.18:2086/1234/1234/141
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Globo HD
+http://198.255.23.18:2086/1234/1234/133
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Globo News HD
+http://198.255.23.18:2086/1234/1234/130
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Gloob HD
+http://198.255.23.18:2086/1234/1234/125
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Hbo 2 HD
+http://198.255.23.18:2086/1234/1234/121
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",HBO 4K
+http://198.255.23.18:2086/1234/1234/120
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",History HD
+http://198.255.23.18:2086/1234/1234/111
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Multi Show HD
+http://198.255.23.18:2086/1234/1234/96
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Nat Geo HD
+http://198.255.23.18:2086/1234/1234/93
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Nat Geo Wild HD
+http://198.255.23.18:2086/1234/1234/89
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",OFF HD
+http://198.255.23.18:2086/1234/1234/83
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Premiere 2 HD
+http://198.255.23.18:2086/1234/1234/79
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Premiere 3 HD
+http://198.255.23.18:2086/1234/1234/77
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Premiere 4 HD
+http://198.255.23.18:2086/1234/1234/75
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Premiere Clubes HD
+http://198.255.23.18:2086/1234/1234/72
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Record News
+http://198.255.23.18:2086/1234/1234/67
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Sbt HD
+http://198.255.23.18:2086/1234/1234/58
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",SporTV 2 HD
+http://198.255.23.18:2086/1234/1234/50
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",SporTV 3 4K
+http://198.255.23.18:2086/1234/1234/49
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",SporTV HD
+http://198.255.23.18:2086/1234/1234/46
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Telecine Action Hd
+http://198.255.23.18:2086/1234/1234/39
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Telecine Fun HD
+http://198.255.23.18:2086/1234/1234/35
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Telecine Premium HD
+http://198.255.23.18:2086/1234/1234/31
+#EXTINF:-1 group-title="Brazil PREMIUM-SERVER1",Telecine Touch HD
+http://198.255.23.18:2086/1234/1234/29
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="Argentina-WebTV",
@@ -5980,7 +6113,16 @@ http://62.210.124.106:8000/live/aplicacao/scp4ever/6.ts
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",
 
-
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 1
+https://vip7stream.pw/lba/123/g5/tv1pt.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 2
+https://vip7stream.pw/lba/123/g7/sport2port.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 3
+https://vip7stream.pw/lba/123/g3/pt3sport.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 4
+https://vip7stream.pw/lba/123/g4/portugalsport4.m3u8
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 5
+https://vip7stream.pw/lba/123/g9/ptsport5.m3u8
 
 
 
@@ -9138,6 +9280,94 @@ http://178.214.76.162:8061/StarWorl
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports Max 1 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/21.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports Max 2 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/22.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS MAX 1 SD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/44.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN SPORTS MAX 2 SD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/43.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 1 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/1.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 2 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/2.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 3 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/3.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 4 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/4.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 5 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/5.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 6 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/6.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 7 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/7.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 8 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/8.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 9 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/9.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 10 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/10.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Turkish beIN Sports 1 (TR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/11.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",EuroSport 1 (FR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/12.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",EuroSport 2 (FR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/13.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 1 HD (FR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/14.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 2 HD (FR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/15.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 3 HD (FR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/16.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Sky Sport 1 HD
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/17.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN AD Sports 1 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/18.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN AD Sports 2 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/19.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports HD (ES)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/20.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Movies Kids HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/23.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Movies HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/24.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Movies  2h (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/25.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Movies Action HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/26.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Movies 1HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/27.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Movies 2HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/28.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Movies 3HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/29.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Movies 4HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/30.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Box Office 1 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/31.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Box Office 2 HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/32.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Quest Arabiya HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/33.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN WWE HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/34.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Fox Movies HD (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/35.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",Rai Movie (IT)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/36.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC 1 (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/37.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC 2 (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/38.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC 4 (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/39.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC MASR (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/40.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Action (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/41.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC MAX (AR)
+http://freeiptvdaily.net:8000/live/0lO5garDjh/freeiptvdaily.tv/42.ts
 
 
 
@@ -9323,604 +9553,222 @@ http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.ts
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆Others Sports CH☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/448
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alkass5 Extra
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3530
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ajyal TV Mada stream
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/441
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Almahed
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/442
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AlSalam TV
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/447
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bethlehem TV
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/439
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Byaban Sports
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/443
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Falcon-Eye-1
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/446
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Falcon-Eye-2
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/445
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Falcon-Family
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/444
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Watar1
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/440
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alfajer
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3238
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆Others Sports CH2☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/458
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ajyal TV Mada*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/451
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Almahed*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/452
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AlSalam TV*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/457
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bethlehem TV*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/449
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Byaban Sports*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/453
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Falcon-Eye-1*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/456
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Falcon-Eye-2*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/455
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Falcon-Family*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/454
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Watar1*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/450
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆beIN HD☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/472
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Jan Beryan IPTV HD1
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3310
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Jan Beryan IPTV HD2
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3311
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEINSPORT NEWS
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3525
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEINSPORT 1MAX HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3526
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEINSPORT 2MAX HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3527
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-1 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3221
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-2 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3220
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-3 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3219
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-4 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3218
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-5 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3217
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-6 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3216
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-7 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3215
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-8 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3214
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆Bein SD☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/488
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEINSPORT 1MAX SD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3528
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEINSPORT 2MAX SD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3529
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-1 SD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3237
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-2 SD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3236
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-3 SD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3235
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-4 SD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3234
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-5 SD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3233
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-6 SD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3232
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-7 SD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3231
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR:BEINSPORTS-8 SD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3230
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆BeoutQ Sports☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3261
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beoutQ sports 1HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3517
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beoutQ sports 2HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3518
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beoutQ sports 3HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3519
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beoutQ sports 4HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3520
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beoutQ sports 5HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3521
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beoutQ sports 6HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3522
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beoutQ sports 7HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3523
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beoutQ sports 8HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3524
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆MBC☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/483
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR-MBC1
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/482
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR-MBC 2
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/481
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR-MBC3
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/480
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR-MBC4
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/479
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR-MBCDrama
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/474
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR-MBCAction
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/478
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR-MBCMax
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/473
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR-MBCMasr
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/476
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR-MBC Drama+
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/475
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR-MBC Bollywood
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/477
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆OSN☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3251
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MY-FILM-BOX-HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3495
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN-MOVIES-AC
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3493
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN-Movies-First
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3494
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN-MOVIES-HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3492
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN-Yahala-Cinem
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3491
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FOX-ACTION
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3489
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FOX-FAMILY
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3487
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN MOVIES 1 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3449
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN MOVIES 2 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3448
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN MOVIES 3 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3447
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN MOVIES 4 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3446
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein-Drama
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3488
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN Series-HD1
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3445
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN Series-HD2
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3444
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Max 1HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/563.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Max 2HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/562.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 1
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/1.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 2
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/2.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 3
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/3.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 4
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/4.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 5
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/5.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 6
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/6.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 7
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/7.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 8
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/8.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 9
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/9.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 10
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/10.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 11
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/11.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 12
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/12.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 13
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/13.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 14
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/14.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 15
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/15.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS 16
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/16.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport HD720_1
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/540.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport HD720_2
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/541.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport HD720_3
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/542.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport HD720_4
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/543.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport HD720_5
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/544.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport HD720_6
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/545.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport HD720_7
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/546.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport HD720_8
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/547.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport HD720_9
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/548.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport HD720_10
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/549.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport SD480_1
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/550.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport SD480_2
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/551.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport SD480_3
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/552.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport SD480_4
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/553.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport SD480_5
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/554.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport SD480_6
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/555.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport SD480_7
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/556.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport SD480_8
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/557.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport SD480_9
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/558.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Bein Sport SD480_10
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/559.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN SPORTS NBA
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/18.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR: BeoutQ Sport 1 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/87.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR: BeoutQ Sport 2 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/88.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR: BeoutQ Sport 3 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/89.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR: BeoutQ Sport 4 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/90.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR: BeoutQ Sport 5 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/91.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR: BeoutQ Sport 6 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/92.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AR: BeoutQ Sport 7 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/93.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Adsport1
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/66.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Adsport2
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/65.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC-1-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/31.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC-2-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/32.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC-3-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/33.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC-4-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/34.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ART-AFLAM-1
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3496
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/450.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ART-AFLAM-2
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3497
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ART-CINEMA
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3498
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Box Office 1 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3502
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Box Office 2 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3503
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Box Office 3 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3504
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Cinema 1
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3499
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Cricket
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3500
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Movies  2 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3505
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Movies Action  2 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3506
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Movies Action HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3507
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Movies First HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3508
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Movies HBO HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3509
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Movies HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3510
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Movies Thriller HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3511
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Movies World HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3512
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Series
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3513
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN WWE HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3501
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Yahala 1 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3514
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Yahala 2 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3515
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN Yahala Cinema HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3516
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆قنوات الاخبارية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/120
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alarabiya
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/119
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alarabiya Alhadath
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/118
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alaraby
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/111
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Aljazeera News
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/117
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ann
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/112
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BBC ARABIC
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/115
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Cnbc arabia
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/113
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",RT Arabic
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/116
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",RT Arabic old
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/110
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Sky news arabia
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/114
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆قنوات الاطفال☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/109
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/451.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC-Bollywood-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/39.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC-ACTION-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/35.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC-P-RAVIETY
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/38.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC-MAX-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/36.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MBC-DRAMA-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/37.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN-Yahala-Cinema
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/453.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN-MOVIES-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/452.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN-Movies-First
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/455.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OSN-MOVIES-AC
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/454.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MY-FILM-BOX-HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/456.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FOX-FAMILY-MOV
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/457.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FOX-ACTION-MOV
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/458.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Zee_Aflam
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/48.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN MOVIES 1 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/19.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN MOVIES 2 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/20.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN MOVIES 3 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/21.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN MOVIES 4 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/22.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN Series-HD1
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/23.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",BEIN Series-HD2
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/24.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Animal-Planet
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/28.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AD_Nat_Geo
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/40.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Toyor_Al_Janah
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/50.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Majid_Kids
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/51.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",CN_Arabia
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/53.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Boomerang
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/52.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Baraem-HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3490
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ajyal
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/107
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Majed kids
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/105
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Nour kids
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/101
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Sat7kids
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/103
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Semsem
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/104
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Spacetoon
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/106
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Taha
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Toyor aljanah
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/108
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆قنوات السورية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/20
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Suriya tv
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/16
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Syria 1 HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/19
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Syria Drama HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/17
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Syria EDU
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/13
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Syria news HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/18
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",HALAB TODAY
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/7
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",LANA SYRIA
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/15
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",NOOR ALSHAM HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/12
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ORIENT NEWS
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/6
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Radio Demashk
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/4
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Radio karma
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/2
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Radio Zanobya
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/3
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Sama tv
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/10
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Souryana HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/11
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ugarit
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/14
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆قنوات السورية2☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/39
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Suriya tv*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/35
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Syria 1 HD*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/38
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Syria Drama HD*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/36
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Syria EDU*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/32
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Syria news HD*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/37
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alminber*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/24
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",HALAB TODAY*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/26
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",LANA SYRIA*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/34
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",NOOR ALSHAM HD*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/31
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ORIENT NEWS*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/25
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Radio Demashk*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/23
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Radio karma*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/21
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Radio Zanobya*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/22
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Sama tv*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/29
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",SHAM FM RADIO*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/27
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",SHAM FM TV*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/28
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Souryana HD*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/30
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ugarit*
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/33
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆قنوات اللبنانية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/71
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AL MANAR
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/56
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alalam
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/57
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Aljadeed
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/61
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Future
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/63
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Future backup
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/62
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",LBC EUROPE
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/64
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",LBC HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/66
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",LDC
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/65
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",LDC HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/67
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Mayadeen
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/58
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Mtv
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/69
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MTV lebanon
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/68
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",NBN
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/59
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",New TELE LEBANON
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/70
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",OTV
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/60
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆القنوات المصرية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/141
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",CBC HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/135
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Cbc1
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/140
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Cbcdrama
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/139
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Cbcsofra
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/138
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",CBCSOFRA HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/134
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Dmc
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/137
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Dmcdrama
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/136
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Rotana aflam
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/129
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Rotana classic
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/127
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Rotana clip
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/126
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Rotana drama
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/125
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ROTANA HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/131
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Rotana music
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/130
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Rotana Khalejeh
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/128
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",SADA ELBALAD HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/133
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",WANASAH HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/132
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ZEE AFLAM HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/124
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Zee alwan
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/121
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ZEE ALWAN HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/123
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Zeeaflam
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/122
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆قنوات العراقية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/100
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Afaqtv yoytube
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/78
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AL Etejah
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/87
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AL Rasheed TV
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/86
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AL Rasheed TV backup
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/85
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alahad
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/75
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alfaloja
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/98
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alforat
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/74
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alghadeer
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/81
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alhura
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/72
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Almaaref
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/82
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alqanat
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/90
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Sumaria
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/99
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ALSHARQIA HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/94
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AlSharqiya sd
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/92
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",AlsharqiyaNews sd
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/91
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ALSUMARIA HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/95
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Altaghier
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/89
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Anb iraq
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/76
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Asia TV
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/79
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Baghdad
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/84
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Dejlah
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/88
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",DIJLAH HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/96
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Hadath Iraq TV
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/77
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",HOUNA BAGHDAD HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/97
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Imamhussain
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/80
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ishtar TV
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/73
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MUSICALRAMAS HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/93
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Samaraa
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/83
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆القنوات الاماراتية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/162
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Abudhabi
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/153
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Abudhabi drama
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/149
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Abudhabi drama HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/148
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Abudhabi emarat
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/151
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Abudhabi emarat HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/150
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Abudhabi HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/152
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alan
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/155
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Aldhafra
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/154
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alsharqa
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/145
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alsharqiya from kalba
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/144
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alwoustatv
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/142
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Dubai one HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/160
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Dubai one sd
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/159
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Dubai TV
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/161
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Dubai zaman
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/157
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Natgeo abudhabi
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/147
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Natgeo abudhabi HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/146
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Noor dubai
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/156
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Sama Dubai
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/158
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Sharqa sport
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/143
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆القنوات الاردنية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/172
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ALDAWAA alshafy
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/164
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ALordon Alyoom
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/168
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Amn
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/167
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Jordan lights
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/165
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Jordan sport
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/170
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Jordan Tv
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/171
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Kife
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/163
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Manaseer
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/166
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Roya
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/169
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆قنوات المغربية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/182
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",2M
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/181
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",2M HD
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/180
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Al aoula laayoune
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/178
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Al maghribia
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/175
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Aloula
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/179
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Arriadia
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/177
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/25.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Medi1 TV
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/162.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Al Aoula Laayoune
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/58.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Al Aoula Int'l
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/57.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",2M Maroc
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/64.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Arryadia
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/59.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Arrabiaa
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/60.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Al Maghribia
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/61.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Assadissa
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/174
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Athaqafia 4
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/176
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",tamazight tv8
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/173
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆قنوات الكويتية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/191
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",ALRAI
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/183
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ktv 2
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/189
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ktv almajlis
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/186
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ktv arabe
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/187
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ktv plus
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/185
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ktv sports plus
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/184
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ktvethraalive
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/188
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Kuwait1
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/190
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆قنوات الليبية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/196
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alnabaa
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/194
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Altanasuh
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/193
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Libya 218 tv
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/192
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Libya news
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/195
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆قنوات اليمنية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/205
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Yemen
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/204
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Almasira TV
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/199
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Belqees TV
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/202
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Hadramout
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/197
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Rushd
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/203
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Sanaa
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/201
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Shabab Yemen
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/198
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Suhail
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/200
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",▁ ▂ ▄☆قنوات السودانية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/214
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Afriqia1
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/206
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Afriqia2
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/207
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Afriqia3
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/208
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Afriqia4
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/209
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Alshorooq sudan
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/213
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Sudan tv
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/211
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Sudani24
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/212
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Tayba
-http://iptv-janberyan.com:25461/janberyan06012019/22047852/210
-
-
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/62.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Tamazight
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/63.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: RMC Sport 1 FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/528.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: RMC Sport 2 FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/529.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: RMC Sport 3 FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/530.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: RMC Sport 4 FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/531.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: Piwi HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/521.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: NRJ HITS HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/520.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: NRJ 12 FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/519.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: RMC DECOUVERTE FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/526.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: Planet  CI HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/523.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: NAT GEO Wild HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/518.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: Nat Geo HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/517.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: L histoire
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/509.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: L Equipe HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/508.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: L EQUIPE 21 FHD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/507.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: Eurosport 2 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/506.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: Eurosport 1 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/505.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: EQUIPE 21 HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/503.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: Equidia Live HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/502.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",FR: Equidia HD
+http://sensei-iptv.cf:8000/live/driss/sadik-xy/501.ts
 
 
 
@@ -11355,6 +11203,61 @@ http://smart-hdip.com:6204/sanko3/sanko3/1026
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",
+
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",beIN Sports Low 1
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/172.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",beIN Sports Low 2
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/173.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",beIN Sports Low 3
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/174.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",beIN Sports Low 4
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/175.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",beIN Sports Low 5
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/176.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",beIN Sports Low 6
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/177.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",beIN Sports Low 7
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/178.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",BEIN SPORTS 1
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/197.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",BEIN SPORTS 2
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/198.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",BEIN SPORTS 3
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/199.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",BEIN SPORTS 4
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/200.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",BEIN SPORTS 5
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/201.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",BEIN SPORTS 6
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/202.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",BEIN SPORTS 7
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/203.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",BEIN SPORTS 8
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/204.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",BEIN SPORTS 9
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/205.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER7",BEIN SPORTS 10
+http://mantechnologyiptv.ddns.net:8000/live/man.bein2019/2019632185/206.ts
 
 
 
