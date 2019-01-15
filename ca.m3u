@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1251.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Animal_Planet_2018.svg/1200px-Animal_Planet_2018.svg.png",ANIMAL PLANET
-http://ustv247.com/animal-planet-live/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+http://ustv247.com/animal-planet-live/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add= 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet
 http://5.56.29.95:1234/udp/239.254.0.49
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://wba-wpengine.netdna-ssl.com/wp-content/uploads/2017/11/Animal-Planet-logo.jpg",Animal Planet
@@ -42,17 +42,17 @@ http://37.194.121.4:1234/udp/239.1.5.3:1234
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1195.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2000px-Natgeologo.svg.png",NATIONAL GEOGRAPHIC
-http://ustv247.com/national-geographic-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+http://ustv247.com/national-geographic-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add= 
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.nationalgeographic.com/content/dam/ngdotcom/rights-exempt/misc/National-Geographic-Logo.jpg",National Geographic
 http://37.194.121.4:1234/udp/239.1.5.8:1234 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://media.marketwire.com/attachments/201111/35566_NatGeoLogo.jpg",NATGEO WILD (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1193.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png",NAT GEO WILD
-http://ustv247.com/nat-geo-wild-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+http://ustv247.com/nat-geo-wild-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add= 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery (Retry if Failed)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1133.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="https://cf-media.press.discovery.com/ugc/logos/2009/08/22/DSC_pos.png",DISCOVERY CHANNEL
-http://ustv247.com/discovery-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+http://ustv247.com/discovery-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add= 
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
 http://5.56.29.95:1234/udp/239.254.0.56
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://www.denverlibrary.org/sites/dplorg/files/discovery-channel_0.jpg",Discovery Channel
@@ -66,7 +66,7 @@ http://37.194.121.4:1234/udp/239.1.5.9:1234
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="https://corporate.discovery.com/wp-content/uploads/2016/08/Investigation-Discovery.jpg",Investigation Discovery
 http://37.194.121.4:1234/udp/239.1.2.8:1234 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.insiteeducation.co.za/blog/wp-content/uploads/2016/08/history-logo.gif",History 
-http://ustv247.com/history-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add=
+http://ustv247.com/history-channel-live-stream/|agentnodown$$start=  file: '$$end=',$$replace=  file: '$$replacewith=$$add= 
 #EXTINF:0 group-title="Documentary/Entertainment" tvg-logo="http://sire-assets-fox.fichub.com/assets/fox/images/misc/apple-touch-icon.png",FOX
 http://37.194.121.4:1234/udp/239.1.4.5:1234 
 #EXTINF:-1 group-title="Documentary/Entertainment" tvg-logo="http://www.lbn.lk/images/channel-logo/1455639791Fox_life_it.png",Fox Life 
