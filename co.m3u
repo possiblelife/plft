@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,15/01/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,17/01/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -4814,32 +4814,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/633.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER3",
 
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png" ,ANTENA 3 HD
-https://tinyurl.com/ANTENA3HD-index-m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CALLE13.png" ,CALLE 13
-https://tinyurl.com/CALLE13-index-m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" ,SYFY
-https://tinyurl.com/SYFY-index-m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png" ,BEIN SPORTS LALIGA
-https://tinyurl.com/LALIGA-index-m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSESPANHA.png" ,BEIN SPORTS
-https://tinyurl.com/y9dsqtxz
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png" ,MOVISTAR DEPORTES 1
-https://tinyurl.com/DEPORTES-index-m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png" ,MOVISTAR GOLF
-https://tinyurl.com/GOLF-index-m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png" ,LALIGA TV
-https://tinyurl.com/LIGATVBAR-index-m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" ,NATIONAL GEOGRAPHIC
-https://tinyurl.com/GEOGRAPH-index-m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISEA.png" ,ODISEA
-https://tinyurl.com/ODISEA-index-m3u8
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DECASA.png" ,DECASA
-https://tinyurl.com/DECASA-index-m3u8
-
-
-
-
 
 
 
@@ -6010,7 +5984,6 @@ https://vip7stream.pw/lba/123/g3/pt3sport.m3u8
 https://vip7stream.pw/lba/123/g4/portugalsport4.m3u8
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 5
 https://vip7stream.pw/lba/123/g9/ptsport5.m3u8
-
 
 
 
