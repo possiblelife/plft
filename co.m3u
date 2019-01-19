@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,17/01/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,19/01/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -4614,19 +4614,19 @@ https://www.youtube.com/watch?v=7sIsiHbDi_0
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,
 http://.....
 
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",#0 HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png",#0 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/650.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",24 Horas
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/643.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",40 TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/642.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",A&E
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/A&E.png",A&E
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/651.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",AMC
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png",AMC
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/652.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",AXN HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png",AXN HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/653.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",BARCA TV
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1"tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BARCATV.png",BARCA TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/641.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png",beIN LaLIga 1 (event only)
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/649.m3u8$http-refferer=http://localhost
@@ -4636,139 +4636,139 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/648.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/647.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEINSPORTSLALIGA.png",Bein Liga HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/654.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Boing
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png",Boing
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/656.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal  ESTRENOS HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARESTRENOS.png",Canal ESTRENOS HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/684.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",CANAL COCINA
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALCOCINA.png",CANAL COCINA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/657.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal De Las Estrellas
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LASESTRELLAS.png",Canal De Las Estrellas
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/637.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",CANAL DECASA
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DECASA.png",CANAL DECASA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/658.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal SERIES HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL+SERIES.png",Canal SERIES HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/659.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Caza y pesca
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CAZAYPESCA.png",Caza y pesca
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/660.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Clan Tve
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CLAN.png",Clan Tve
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/661.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",COMEDY CENTRAL HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COMEDYCENTRAL.png",COMEDY CENTRAL HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/640.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",COSMO HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/COSMO.png",COSMO HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/662.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Crimen Investigation
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMENINVESTIGACION.png",Crimen Investigation
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/635.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",DISCOVERY
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",DISCOVERY
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/694.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",DISNEY CHANNEL HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png",DISNEY CHANNEL HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/695.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",DISNEY XD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYXD.png",DISNEY XD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/697.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",DIVINITY
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DIVINITY.png",DIVINITY
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/663.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Energy
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ENERGY.png",Energy
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/646.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",FDF
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FDFESPANHA.png",FDF
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/664.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",FOX HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/698.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",GOL Tv
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GOL.png",GOL Tv
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/665.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",HOLLYWOOD HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/701.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",IBERALIA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/666.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",LA 2 HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LA2.png",LA 2 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/667.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",La Liga BAR HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LALIGATV.png",La Liga BAR HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/668.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",MEGA
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEGA.png",MEGA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/704.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",MTV ESPANA
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png",MTV ESPANA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/634.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",NEOX
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NEOX.png",NEOX
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/669.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",NICKELODEON HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png",NICKELODEON HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/670.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Nonstop People
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/639.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",NOVA
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NOVA.png",NOVA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/671.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISEA.png",ODISEA HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/672.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",PANDA
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png",PANDA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/673.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Paramount
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PARAMOUNTCHANNEL.png",Paramount
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/636.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",SYFY
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png",SYFY
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/674.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",TNT
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TNT.png",TNT
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/675.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ANTENA3ES.png",ANTENA 3 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/676.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",AXN WHITE HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png",AXN WHITE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/677.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CALLE13.png",CALLE 13 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/678.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",CANAL  ACTION HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ACTION.png",CANAL  ACTION HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/679.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal  COMEDIA HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARCOMEDIA.png",Canal  COMEDIA HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/680.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal  DCINE HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDCINE.png",Canal  DCINE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/681.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal  DEPORTES 2 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/682.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal  DEPORTES HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/683.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal  FUTBOL HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFUTBOL.png",Canal  FUTBOL HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/685.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal  GOLF HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARGOLF.png",Canal  GOLF HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/686.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal  LIGA 2 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/687.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal  LIGA HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/688.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal  SERIES XTRA HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARSERIES.png",Canal  SERIES XTRA HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/689.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal  TOROS HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png",Canal  TOROS HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/690.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",Canal  XTRA HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARXTRA.png",Canal  XTRA HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/691.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",CUATRO HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CUATRO.png",CUATRO HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/692.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",DISCOVERY CHANNEL HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",DISCOVERY CHANNEL HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/693.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",DISNEY JUNIOR
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png",DISNEY JUNIOR
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/696.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",FOX LIFE HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png",FOX LIFE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/699.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",HISTORIA
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png",HISTORIA
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/700.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",LA 1 HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LA1.png",LA 1 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/702.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",LA SEXTA HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LASEXTA.png",LA SEXTA HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/703.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",NAT GEO WILD HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png",NAT GEO WILD HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/705.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NATIONAL GEOGRAPHIC HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/706.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",NICK Jr
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICK.png",NICK Jr
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/707.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",TCM HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TCM.png",TCM HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/708.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",TELECINCO HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TELECINCO.png",TELECINCO HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/709.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",TELEDEPORTE HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEDEPORTE.png",TELEDEPORTE HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/710.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",VIAJAR HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VIAZAR.png",VIAJAR HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/711.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",MOVISTAR F1 HD
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png",MOVISTAR F1 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/630.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",MOVISTAR FORMULA 1
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARFORMULA1.png",MOVISTAR FORMULA 1
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/631.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARDEP1.png",movistar Futbol
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/632.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER1",MOVISTAR MOTOGP
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOVISTARMOTOGP.png",MOVISTAR MOTOGP
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/633.m3u8$http-refferer=http://localhost
 
 
@@ -5850,17 +5850,17 @@ http://pina7.ddns.net:8000/aplicacao/scp4ever/2.ch
 http://pina7.ddns.net:8000/aplicacao/scp4ever/3.ch
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png",TVI REALITY 
 http://pina7.ddns.net:8000/aplicacao/scp4ever/7.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",TVI FICÇÂO
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICÇÂO
 http://pina7.ddns.net:8000/aplicacao/scp4ever/6.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",TVI
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI
 http://pina7.ddns.net:8000/aplicacao/scp4ever/5.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",CMTV
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CMTV
 http://pina7.ddns.net:8000/aplicacao/scp4ever/9.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",FOX HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX HD
 http://pina7.ddns.net:8000/aplicacao/scp4ever/23.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",SIC
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" ,SIC
 http://pina7.ddns.net:8000/aplicacao/scp4ever/4.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",SIC NOTICIAS
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png",SIC NOTICIAS
 http://pina7.ddns.net:8000/aplicacao/scp4ever/8.ch
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TV CINE 1
 http://pina7.ddns.net:8000/aplicacao/scp4ever/18.ch
@@ -5911,51 +5911,51 @@ https://livebar.pw/lba/123/g9/ptsport5.m3u8
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",
 
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",AXN HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png",AXN HD
 http://62.210.124.106:8000/live/aplicacao/scp4ever/24.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",BENFICA TV 1
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,BENFICA TV 1
 http://62.210.124.106:8000/live/aplicacao/scp4ever/15.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",CMTV
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CMTV
 http://62.210.124.106:8000/live/aplicacao/scp4ever/9.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",ELEVEN SPORTS 1 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png",ELEVEN SPORTS 1 HD
 http://62.210.124.106:8000/live/aplicacao/scp4ever/16.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",ELEVEN SPORTS 2 HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png",ELEVEN SPORTS 2 HD
 http://62.210.124.106:8000/live/aplicacao/scp4ever/17.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",FOX HD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX HD
 http://62.210.124.106:8000/live/aplicacao/scp4ever/23.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",HOLLYWOOD
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD
 http://62.210.124.106:8000/live/aplicacao/scp4ever/22.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",RTP 1
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png",RTP 1
 http://62.210.124.106:8000/live/aplicacao/scp4ever/2.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",RTP 2
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png",RTP 2
 http://62.210.124.106:8000/live/aplicacao/scp4ever/3.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",SIC
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" ,SIC
 http://62.210.124.106:8000/live/aplicacao/scp4ever/4.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",SIC NOTICIAS
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png",SIC NOTICIAS
 http://62.210.124.106:8000/live/aplicacao/scp4ever/8.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",SPORT TV 1
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png",SPORT TV 1
 http://62.210.124.106:8000/live/aplicacao/scp4ever/10.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",SPORT TV 2
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2
 http://62.210.124.106:8000/live/aplicacao/scp4ever/11.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",SPORT TV 3
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3
 http://62.210.124.106:8000/live/aplicacao/scp4ever/12.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",SPORT TV 4
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4
 http://62.210.124.106:8000/live/aplicacao/scp4ever/13.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",SPORT TV 5
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png",SPORT TV 5
 http://62.210.124.106:8000/live/aplicacao/scp4ever/14.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",TV CINE 1
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TV CINE 1
 http://62.210.124.106:8000/live/aplicacao/scp4ever/18.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",TV CINE 2
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png",TV CINE 2
 http://62.210.124.106:8000/live/aplicacao/scp4ever/19.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",TV CINE 3
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png",TV CINE 3
 http://62.210.124.106:8000/live/aplicacao/scp4ever/20.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",TV CINE 4
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png",TV CINE 4
 http://62.210.124.106:8000/live/aplicacao/scp4ever/21.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",TVI
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI
 http://62.210.124.106:8000/live/aplicacao/scp4ever/5.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",TVI REALITY
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png",TVI REALITY
 http://62.210.124.106:8000/live/aplicacao/scp4ever/7.ts
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5",TVI FICÇÂO
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER5" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICÇÂO
 http://62.210.124.106:8000/live/aplicacao/scp4ever/6.ts
 
 
@@ -5974,15 +5974,15 @@ http://62.210.124.106:8000/live/aplicacao/scp4ever/6.ts
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 1
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" ,SPORT TV 1
 https://vip7stream.pw/lba/123/g5/tv1pt.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 2
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png",SPORT TV 2
 https://vip7stream.pw/lba/123/g7/sport2port.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 3
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png",SPORT TV 3
 https://vip7stream.pw/lba/123/g3/pt3sport.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 4
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png",SPORT TV 4
 https://vip7stream.pw/lba/123/g4/portugalsport4.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6",SPORT TV 5
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png",SPORT TV 5
 https://vip7stream.pw/lba/123/g9/ptsport5.m3u8
 
 
