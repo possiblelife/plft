@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,19/01/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,21/01/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -1705,27 +1705,42 @@ https://easyview.eu/watch.php?stream=dave|agentnodown$$start=https://origin$$end
 #EXTINF:-1 group-title="UK-SERVER2", 
 
 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/b/b7/Real_Lives.png/revision/latest?cb=20150615111708" ,Real Lives 
-http://92.14.111.173:8007/play/a00v
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" ,NAT GEO WILD 
-http://92.14.111.173:8007/play/a00w
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" ,NATIONAL GEOGRAPHIC 
-http://92.14.111.173:8007/play/a00x
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORY.png" ,HISTORY 
-http://92.14.111.173:8007/play/a00z
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/H2.png" ,H2 
-http://92.14.111.173:8007/play/a00y
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMEINVESTIGATION.png" ,CRIME + INVESTIGATION 
-http://92.14.111.173:8007/play/a00u
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSF1.png" ,SKY SPORTS F1 
-http://92.14.111.173:8007/play/a011
 
+#EXTINF:-1 group-title="UK-SERVER2",eir Sport 1
+http://81.171.27.106:9002/play/a00b
+#EXTINF:-1 group-title="UK-SERVER2",Kiss TV
+http://81.171.27.106:9002/play/a01n
+#EXTINF:-1 group-title="UK-SERVER2",NHK World HD
+http://81.171.27.106:9002/play/a01a
+#EXTINF:-1 group-title="UK-SERVER2",Box Upfront
+http://81.171.27.106:9002/play/a01m
+#EXTINF:-1 group-title="UK-SERVER2",Premier 1 HD
+http://81.171.27.106:9002/play/a016
+#EXTINF:-1 group-title="UK-SERVER2",Premier 2
+http://81.171.27.106:9002/play/a014
+#EXTINF:-1 group-title="UK-SERVER2",eir Sport 2 HD
+http://81.171.27.106:9002/play/a017
+#EXTINF:-1 group-title="UK-SERVER2",eir Sport 2
+http://81.171.27.106:9002/play/a00c
+#EXTINF:-1 group-title="UK-SERVER2",Magic UK
+http://81.171.27.106:9002/play/a01j
+#EXTINF:-1 group-title="UK-SERVER2",The BOX
+http://81.171.27.106:9002/play/a01k
+#EXTINF:-1 group-title="UK-SERVER2",Kerrang
+http://81.171.27.106:9002/play/a01o
+#EXTINF:-1 group-title="UK-SERVER2",RT HD
+http://81.171.27.106:9002/play/a01b
+#EXTINF:-1 group-title="UK-SERVER2",4Music
+http://81.171.27.106:9002/play/a01p
+#EXTINF:-1 group-title="UK-SERVER2",Box Hits
+http://81.171.27.106:9002/play/a01l
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CHANNEL4UK.png" ,CHANNEL 4 HD 
 http://81.171.27.106:9002/play/a00j
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/4SEVEN.png" ,4Seven 
 http://81.171.27.106:9002/play/a00k
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://www.mulliganssportsbar.co.uk/wp-content/uploads/2017/05/RacingUK-01.png" ,RACING UK 
 http://81.171.27.106:9002/play/a00g
+
 
 
 
@@ -1833,26 +1848,45 @@ http://123tv.live/watch/starz-tv/|webview zoom=200 scroll=200,200
 
 #EXTINF:-1 group-title="UK-SERVER4", 
 
-#EXTINF:-1 group-title="UK-SERVER4",4Seven
-http://81.171.27.106:9002/play/a00k
-#EXTINF:-1 group-title="UK-SERVER4",eir Sport 1
-http://81.171.27.106:9002/play/a00b
-#EXTINF:-1 group-title="UK-SERVER4",eir Sport 2 HD
-http://81.171.27.106:9002/play/a017
-#EXTINF:-1 group-title="UK-SERVER4",eir Sport 2
-http://81.171.27.106:9002/play/a00c
-#EXTINF:-1 group-title="UK-SERVER4",NHK World HD
-http://81.171.27.106:9002/play/a01a
-#EXTINF:-1 group-title="UK-SERVER4",Premier 1 HD
-http://81.171.27.106:9002/play/a016
-#EXTINF:-1 group-title="UK-SERVER4",Premier 2
-http://81.171.27.106:9002/play/a014
-#EXTINF:-1 group-title="UK-SERVER4",Channel 4 HD
-http://81.171.27.106:9002/play/a00j
-#EXTINF:-1 group-title="UK-SERVER4",RT HD
-http://81.171.27.106:9002/play/a01b
-#EXTINF:-1 group-title="UK-SERVER4",Racing UK
-http://81.171.27.106:9002/play/a00g
+#EXTINF:-1 group-title="UK-SERVER4",Disney
+http://190.13.120.115/streams/disneyph.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",DisneyXD
+http://190.13.120.115/streams/disneyxd.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",Outdoor Channel
+http://190.13.120.115/streams/outdoor.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",TBS
+http://190.13.120.115/streams/tbs.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",Baby tv
+http://190.13.120.114/streams/babytv.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",BBC America
+http://190.13.120.114/streams/bbcamerica.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",BBC Word
+http://190.13.120.114/streams/bbcworld.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",FX
+http://190.13.120.114/streams/fx.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",TNT
+http://190.13.120.114/streams/tnt.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",Biography
+http://190.13.120.113/streams/biography.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",HGTV
+http://190.13.120.113/streams/hgtv.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",History
+http://190.13.120.113/streams/history.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",BVN
+http://190.13.120.112/streams/bvn.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",DIY
+http://190.13.120.112/streams/diy.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",Food
+http://190.13.120.112/streams/food.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",NL2
+http://190.13.120.112/streams/nederland2.m3u8
+#EXTINF:-1 group-title="UK-SERVER4",NL3
+http://190.13.120.112/streams/nederland3.m3u8
+
+
+
+
+
 
 
 
@@ -1923,7 +1957,24 @@ http://185.53.163.214:5678/ipvt_012
 #EXTINF:-1 group-title="UK-SERVER6", 
 
 
-
+#EXTINF:-1 group-title="UK-SERVER6",ANIMAL PLANET
+http://80.80.160.168/live/1/live.m3u8
+#EXTINF:-1 group-title="UK-SERVER6",TLC
+http://80.80.160.168/live/2/live.m3u8
+#EXTINF:-1 group-title="UK-SERVER6",Travel Channel
+http://80.80.160.168/live/3/live.m3u8
+#EXTINF:-1 group-title="UK-SERVER6",GREEN PLANET
+http://80.80.160.168/live/4/live.m3u8
+#EXTINF:-1 group-title="UK-SERVER6",ID
+http://80.80.160.168/live/5/live.m3u8
+#EXTINF:-1 group-title="UK-SERVER6",ESPN
+http://80.80.160.168/live/6/live.m3u8
+#EXTINF:-1 group-title="UK-SERVER6",SHO HD
+http://80.80.160.168/live/7/live.m3u8
+#EXTINF:-1 group-title="UK-SERVER6",DISCOVERY HD
+http://80.80.160.168/live/8/live.m3u8
+#EXTINF:-1 group-title="UK-SERVER6",SCI HD
+http://80.80.160.168/live/9/live.m3u8
 
 
 
@@ -3204,7 +3255,574 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER2",
 
-
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RAI 1 FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7001.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 1 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/2.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RAI 2 FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7162.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 2 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/4.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RAI 3 FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7163.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 3 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RETE 4 FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7164.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rete 4 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/8.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",CANALE 5 FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7165.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 5 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/9.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",ITALIA 1 FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7166.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 1 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/11.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La7 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/12.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Tv8
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/13.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",NOVE Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7233.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nove HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/14.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Canale 21
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3485.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RSI LA 1 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/15.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RSI LA 2 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/16.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MTV ITALIA FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7170.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MTV ITALIA HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6751.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",- - - - - - CINEMA - - - - - -
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/17.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",CINEMA UNO FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6003.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Uno HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/20.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",CINEMA UNO +1 FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/22.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema + 1 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/23.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",CINEMA +24 FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/24.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema +24 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/25.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Hits Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/27.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Hits HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/28.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Family Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/286.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Family HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/30.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Family +1 Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/287.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Family +1 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/32.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Passion Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/283.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Passion HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/34.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Max Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/284.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Max HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/35.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Max +1 Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/285.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Max +1 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/37.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Cult Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/288.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Cult HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/39.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Comedy Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/289.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Comedy HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/40.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PREMIUM CINEMA FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7174.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PREMIUM CINEMA HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/200.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Classics Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/290.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cinema Classics HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/42.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PARAMOUNT CHANNEL
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/43.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",20 MEDIASET
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/4765.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SONY TV
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7142.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",- - - - - - INTRATTENIMENTO - - - - - -
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/44.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/278.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/46.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno +1 Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/279.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Uno +1 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/47.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/293.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/49.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic +1 Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/294.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Atlantic +1 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/51.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/308.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/52.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox +1
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/53.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Life Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/307.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Life HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/55.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Life +1
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/57.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Crime Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/309.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Crime HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/58.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Crime +1
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/59.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Comedy HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/61.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Comedy Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/310.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Animation Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/311.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fox Animation HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/62.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Comedy Central
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/63.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Comedy Central +1
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7175.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Lei
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/64.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Lei +1
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7176.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dove TV
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7169.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Blaze Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/317.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Blaze HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/65.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Topcrime
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/66.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Classica HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/67.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",CI Crime + Investigation Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/315.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",CI Crime + Investigation HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/68.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Cielo HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/69.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Real Time HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/70.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Real time +1
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7177.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MTV HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/301.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",AutoMoto TV
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/323.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Marcopolo
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/326.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Alice
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/327.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 4 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/71.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai 5
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/324.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Premium
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/72.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Movie
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/73.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Life Tv
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/329.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",laeffe
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/305.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",La 5
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/74.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Italia 2
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/75.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",IRIS
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/76.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Mediaset Extra
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/77.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",ALPHA TV
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7141.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",- - - - - - SPORT - - - - - -
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/79.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Mosaico Sky Sport
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/80.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 24 Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/81.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 24 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/82.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 1 Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/84.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport 1 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/85.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Arena Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/282.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sports Arena HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/87.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY SPORT FOOTBALL FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7172.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sports Football HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/89.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY SPORT GOLF FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7173.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport Golf HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/90.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SKY SPORT NBA FULL HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7171.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sports NBA HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/93.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport F1 Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/95.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport F1 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/96.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport MotoGP Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/98.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport MotoGP HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/99.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Eurosport HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/101.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Eurosport 2 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/102.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SuperTennis HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/103.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Bike Channel
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/104.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Sport +
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/105.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Milan TV
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/108.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Inter TV
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/110.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Lazio Style Channel
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/111.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",ROMA TV
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/112.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Torino Channel
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/113.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",BARÇA TV
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/114.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Real Madrid TV
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/115.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Arena 1 HD.
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3836.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Arena 2 HD.
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3837.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Arena 3 HD.
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3838.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Arena 4 HD.
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3839.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Arena 5 HD.
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3840.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Arena 6 HD.
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3841.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SportKlub Start.
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3842.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SportKlub 1 HD.
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3843.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SportKlub 2 HD.
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3844.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SportKlub 3 HD.
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/3845.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",SportItalia
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/116.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",CACCIA e pesca
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/117.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",PESCA e caccia
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/118.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Fishing tv
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/312.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Class HorseTV
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/119.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",UnireSat
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/328.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",- - - - - - CALCIO - - - - - - -
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/120.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Mosaico Sky Calcio
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/121.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport serie A Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/122.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Sport serie A HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/123.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 1 Full HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/125.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 1 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/126.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 2 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/128.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 3 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/130.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 4 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/132.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 5 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/134.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 6 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/136.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 7 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/138.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 8 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/140.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 9
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/141.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 10
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/142.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 11
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/143.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Calcio 12
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/144.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",------ DAZN TV ------
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6747.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dazn Sport Serie A Sat
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6966.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dazn Sport Serie A
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6737.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dazn Sport Serie B
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6738.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dazn Sport 3
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6739.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dazn Sport 4
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6740.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dazn Sport 5
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6741.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dazn Sport 6
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6742.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Dazn Sport 7
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6743.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",---------- Sportube Serie C Full Match ----------
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/145.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] ALBINOLEFFE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7087.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] ALBISSOLA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7088.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] ALESSANDRIA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7089.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] AREZZO
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7090.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] ARZACHENA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7091.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] BISCEGLIE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7092.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CARRARESE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7093.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CASERTANA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7094.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CATANZARO
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7095.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] CUNEO
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7096.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] FANO
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7097.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] FERALPISAL
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7098.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] FERMANA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7099.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] GIANA ERMINIO
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7100.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] GOZZANO
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7101.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] GUBBIO
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7102.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] IMOLESE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7103.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] JUVE STABIA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7104.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] JUVENTUS 23
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7105.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] LUCCHESE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7106.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] MATERA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7107.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] MONOPOLI
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7108.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] MONZA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7109.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] NOVARA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7110.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] OLBIA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7111.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PAGANESE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7112.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PIACENZA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7085.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PISA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7086.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PISTOIESE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7113.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PONTEDERA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7114.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PORDENONE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7115.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] POTENZA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7116.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PRO VERCELLI
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7117.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] PROPATRIA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7118.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RAVENNA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7119.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] REGGINA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7120.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RENATE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7121.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RENDE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7122.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RIETI
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7123.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] RIMINI
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7124.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SANBENEDETTESE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7125.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SICULA LEONZIO
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7126.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SIENA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7127.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SIRACUSA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7128.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] SUD TIROL
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7129.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] TERAMO
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7130.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] TERNANA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7131.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] TRAPANI
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7132.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] TRIESTINA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7133.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIBONESE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7134.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VICENZA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7135.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIRTUS ENTELLA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7136.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIRTUS FRANCAVILLA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7137.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIRTUS VERONA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7138.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VIS PESARO
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7139.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",[LEGAPRO] VITERBESE CASTRESE
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7140.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",- - - - - - DOCUMENTARI - - - - - -
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/157.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky Arte HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/158.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery Channel HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/159.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery Channel +1
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/160.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",NationalGeo HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/161.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery Sci HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/162.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Discovery T&L HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/163.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",History HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/164.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",History +1
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/7178.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",NatGeo Wild HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/165.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",NatGeo Wild +1
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/166.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",NatGeo People HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/167.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Gambero Rosso HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/168.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DoveTV
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/169.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Animal Planet
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/170.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Focus
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/171.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DMAX
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/172.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",- - - - - - RAGAZZI - - - - - -
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/173.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Masha e Orso Channel
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/6748.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DeAKids
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/174.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",DeAJunior
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/175.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nickelodeon
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/176.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Boomerang
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/179.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Disney Junior
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/180.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Disney Junior +1
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/320.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Disney Channel HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/181.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Disney Channel +1
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/182.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Disney Channel +2
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/183.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Disney XD HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/184.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Nick Junior
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/185.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Baby TV
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/186.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Super!
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/187.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",K2
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/188.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai Gulp
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/321.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Rai YOYO
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/189.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",CARTONITO
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/190.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Frisbee
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/322.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",BOING
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/192.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",MAN-GA
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/191.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",- - - - - - NOTIZIARI - - - - - -
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/195.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Sky TG24 HD
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/196.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",TGCOM 24
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/197.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",RAI NEWS 24
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/198.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",- - - - - - PREMIUM - - - - - -
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/199.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Energy
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/210.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Action
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/216.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Crime
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/206.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Joi
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/214.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Comedy
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/212.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Stories
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/213.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Premium Emotion
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/209.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Studio Universal
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/215.ts
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER2",Investigation Discovery
+http://jobmarc.solodec.co:80/live/marc10/xzfuX4tIIf/306.ts
 
 
 
@@ -3757,7 +4375,16 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",
 
 
-
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",EuroSport 1 (FR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/12.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",EuroSport 2 (FR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/13.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports 1 HD (FR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/14.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports 2 HD (FR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/15.ts
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports 3 HD (FR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/16.ts
 
 
 
@@ -4182,6 +4809,457 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/299.m3u8$http-refferer=
 
 
 #EXTINF:-1 group-title="Germany PREMIUM-SERVER2",
+
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : Disney Cinemagic HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19629
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : Eurosport 1 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19630
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : Fox HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19631
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : RTL Crime HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19632
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : RTL HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19633
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : RTL Passion
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19635
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : RTL2
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19636
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : Sky Atlantic HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19638
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : Sky Krimi
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19639
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : Sky Nostalgie
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19640
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : sky sport austria
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19641
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : Sport 1  HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19642
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : TNT Comedy
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19644
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE : TNT Film TCM
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19645
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: 13th Street HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19610
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: A&E HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19609
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: Animal Planet HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19608
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: AXN HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19607
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: Discovery HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19606
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: Disney Channel HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19605
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: Disney Cinemagic HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19604
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: FOX HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19603
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: History HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19602
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: MGM HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19601
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: N-TV HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19600
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: Nat Geo Wild HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19599
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: NatGeo HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19598
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: National Geographic HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19597
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: PRO 7 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19596
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: ProSieben Maxx HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19595
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: RTL 2 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19594
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: RTL HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19593
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: RTL NITRO HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19592
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: SAT.1 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19591
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: sixx HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19590
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: Sky Action HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19589
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: Sky Atlantic HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19588
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: Sky Cinema HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19587
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: Sky Hits HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19586
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: SUPER RTL HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19585
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: SyFy HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19584
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: TNT Serie HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19583
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE VIP: VOX HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19582
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany BUNDESLIGA 10 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19611
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany BUNDESLIGA 2 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19612
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany BUNDESLIGA 3 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19613
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany BUNDESLIGA 4 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19614
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany BUNDESLIGA 5 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19615
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany BUNDESLIGA 6 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19616
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany BUNDESLIGA 7 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19617
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany BUNDESLIGA 8 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19618
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany BUNDESLIGA 9 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19619
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany Sport 10 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19620
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany Sport 11 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19621
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany Sport 6 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19624
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE | Sky Germany Sport 9 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19627
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 13th Street
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19715
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 3sat
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19714
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: 3SAT HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19713
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ANIXE HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19675
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ARD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19716
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Arte
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19712
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: AXN HD Germany
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19717
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Boomerang
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19718
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Bundesliga 1
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19719
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Cartoon Network Germany
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19720
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Classica
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19721
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: DAS ERSTE HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19711
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Deluxe Music HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19722
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Discovery HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19723
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Disney Channel HD Germany
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19724
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Disney Cinemagic HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19725
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Disney Junior
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19726
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Disney XD Deutschland
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19727
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: E! Entertainement
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19647
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: E! Entertainm HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19650
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Hr-fernsehen HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19674
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: HSE24 EXTRA HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19673
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Kabel 1
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19728
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Kabel Eins
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19710
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Kika
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19729
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: MDR S-Anhalt HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19672
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: MDR Sachsen HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19671
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: MDR Th?ringen HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19670
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Mediaspar
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19669
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: MGM HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19730
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Motorvision TV
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19649
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: MTV HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19668
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: N24
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19731
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: NatGeo Wild HD Germany
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19732
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: National Geographic HD Germany
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19733
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Nickelodeon
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19734
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Orf 1
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19735
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Orf 2
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19736
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: PHOENIX
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19709
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Pro7
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19737
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Pro7 Fun HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19677
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Pro7 Maxx HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19676
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ProSieben HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19667
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ProSieben Maxx HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19666
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: QVC BEAUTY & STYLE HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19665
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: QVC PLUS HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19664
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Rbb Berlin HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19663
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: rbb Brandenburg HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19662
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RD HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19661
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19738
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL Living
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19634
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: RTL NITRO
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19739
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sat 1
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19740
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: sat 1 emotions
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19741
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sat 1 Gold
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19708
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SERVUS TV HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19707
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky 3D ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19660
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Action HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19742
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Arts HD ( EN AUDIO )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19646
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky atlantic
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19637
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY ATLANTIC HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19743
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Bundesliga 1 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19744
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 10 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19745
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY BUNDESLIGA 2 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19746
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 3 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19747
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 4 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19748
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 5 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19749
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 6 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19750
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 7 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19751
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 8 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19752
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky BUNDESLIGA 9 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19753
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema  1 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19754
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY CINEMA  24
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19755
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema Family
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19648
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19756
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Cinema Hits
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19651
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Comedy HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19757
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Disney HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19758
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky DMAX HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19759
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Emotion HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19760
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Germany Sport 3 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19628
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Germany Sport 4 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19622
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Germany Sport 5 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19623
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Germany Sport 7 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19625
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Germany Sport 8 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19626
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Hits HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19761
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 1
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19762
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 2
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19763
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 3
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19764
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 4
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19765
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 5
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19766
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SKY SELECT 6
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19767
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select 7
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19768
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Select 8
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19769
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 1 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19770
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 1 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19581
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 10 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19771
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 10 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19580
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 11 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19772
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 11 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19579
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 2 HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19773
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 2 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19578
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 3 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19774
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 3 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19577
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 4 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19775
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 4 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19576
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 5 HD  ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19776
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 5 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19575
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 6 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19777
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 6 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19574
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 7 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19778
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 7 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19573
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 8 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19779
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 8 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19572
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 9 HD ( During Games only )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19780
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport 9 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19571
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 1 HD (1080P)
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19690
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 1 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19570
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 10 HD (1080P)
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19689
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 10 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19569
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 2 HD (1080P)
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19688
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 2 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19568
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 3 HD (1080P)
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19687
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 3 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19567
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 4 HD (1080P)
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19686
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 4 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19566
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 5 HD (1080P)
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19685
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 5 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19565
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 6 HD (1080P)
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19684
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 6 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19564
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 7 HD (1080P)
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19683
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 7 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19563
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 8 HD (1080P)
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19682
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 8 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19562
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 9 HD (1080P)
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19681
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Bundesliga 9 HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19561
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport Fanzone HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19659
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport News HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19781
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Sport News HD 1080P
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19560
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky TNT Serie HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19782
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sky Universal HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19783
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPIEGEL TV Wissen HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19658
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sport 1  HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19679
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sport 1 US
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19680
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Sport Digital HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19678
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SPORT1 HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19657
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SR Fernsehen HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19656
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: SUPER RTL HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19784
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Syfy
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19643
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: tagesschau24 HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19655
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TLC HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19654
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TNT Comedy HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19653
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: TNT Serie
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19785
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: VIVA
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19706
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: VOX
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19786
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: WDR HD DE
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19705
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZDF
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19787
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZDF NEO HD
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19704
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: ZEE ONE
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19703
+#EXTINF:-1 group-title="Germany PREMIUM-SERVER2",DE: Zee One HD ( 1080P )
+http://tumencin.myvnc.com:25461/V9O702aJum/JHKg5uRZFA/19652
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -4802,7 +5880,476 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/633.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER2",
 
-
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_1
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4758
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_1_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4757
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_2
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4756
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_2_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4755
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ANTENA_3_SD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4754
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ANTENA_3_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4753
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CUATRO
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4752
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CUATRO_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4751
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELECINCO
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4750
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELECINCO_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4749
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_SEXTA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4748
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_SEXTA_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4747
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANALSUR_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4746
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANALSUR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4745
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANALSUR_2
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4744
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELENOVELAS
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4743
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ETB
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4742
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANAL_ORBE21
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4741
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANAL_ANDALUCIA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4740
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:A3SERIES_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4739
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DIVINITY
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4738
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FDF
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4737
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NEOX
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4736
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NOVA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4735
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEMAD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4734
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEMAD_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4733
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TEN
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4732
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANAL_COCINA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4870
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DMAX
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4731
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DKISS
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4730
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ENERGY
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4729
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:IBERALIA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4728
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CLASICA_TV
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4727
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ARAGON_TV
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4726
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CASTILLA_LA_MANCHA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4725
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CLAN_TVE
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4724
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CLAN_TVE_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4723
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TV3_Cat
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8511
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TVM
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4722
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ANDORRA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4721
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:7RM_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4720
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:POPULAR_TV
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4719
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BOM
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4718
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TRECE
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4717
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MURCIA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4716
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:24_HORAS
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4715
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CUBAVISION
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4714
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:3/24
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4713
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX_NEWS
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4861
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:RTVCE
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4712
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELE_ASTURIAS
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4711
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANAL_EXTREMADURA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4710
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BETIS_TV
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4709
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",=======CINE=======
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4806
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:#0
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4804
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:#0_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4805
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:#0+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8447
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_COMEDIA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4803
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_COMEDIA_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4802
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_COMEDIA+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8427
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_DRAMA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4801
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_DRAMA_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4800
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_DRAMA+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8426
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.CINEDOC&ROLL
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4796
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.CINEDOC&ROLL_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4797
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.CINEDOC&ROLL+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8425
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SERIESMANIA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4799
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SERIESMANIA_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4798
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SERIESMANIA+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8424
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_ESTRENOS
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4795
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_ESTRENOS_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4794
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_ESTRENOS+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8423
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_ACCION
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4793
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_ACCION_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4792
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_ACCION+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8422
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_SERIES
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4790
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_SERIES_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4791
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_SERIES+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8421
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_CINE_N
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4789
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_CINE_N+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8420
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:HOLLYWOOD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4788
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:HOLLYWOOD_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4787
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:HOLLYWOOD+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8441
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:XTRM
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4780
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AMC
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4771
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AMC_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4770
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AMC+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8446
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4775
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4774
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8445
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN_WHITE
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4773
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN_WHITE_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4772
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN_WHITE+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8444
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CALLE_13
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4778
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CALLE_13_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4777
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CALLE_13+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8443
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4763
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4762
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8442
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX_LIFE
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4765
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX_LIFE_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4764
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SYFY_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4767
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SYFY+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8439
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TCM
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4786
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TCM_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4785
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TCM+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8438
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SUNDANCE
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4776
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SUNDANCE+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8440
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TNT_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4784
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TNT+2H
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8437
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:PARAMOUNT_CHANNEL
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4768
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANAL_DE_LAS_ESTRELLAS
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4779
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:COMEDY_CENTRAL
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4769
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:COSMO_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4761
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DARK
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4782
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DE_PELICULA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4781
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MEGA_SD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4766
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SOMOS
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4783
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",=======DEPORTE=======
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4859
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_LBR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4835
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8475
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4836
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_LIGATVBAR_LBR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4838
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_LIGATVBAR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8474
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_LIGATVBAR_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4839
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_LIGA123
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4823
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LCAMPEONES_LBR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4847
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LCAMPEONES
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8473
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LCAMPEONES_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4848
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VAMOS_LBR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/5598
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VAMOS
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8489
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VAMOS_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/5599
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_DEPORTES_LBR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4812
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_DEPORTES_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4811
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_F1
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4852
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_F1_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4851
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_GOLF
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4810
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_GOLF_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4815
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_MOTO_GP_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4853
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELEDEPORTE
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4850
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.ESPORTS
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4816
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:EUROSPORT_1
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4819
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:EUROSPORT_1_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4818
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:EUROSPORT_2
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4817
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:GOL_TV
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4856
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BARCA_TV
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4809
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:REAL_MADRID_TV
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4808
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:REAL_MADRID_TV_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4807
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SEVILLA_FC
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4857
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TDP_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4849
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TOROS
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4873
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TOROS_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4872
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",=======SOLO_PARTIDO=======
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4858
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_PARTIZADO_LBR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4855
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_PARTIZADO
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8472
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_PARTIDAZO_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4854
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_LIGA_TVBAR_1
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4837
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_1_LBR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8463
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_1
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8477
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_1_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4846
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_2_LBR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4845
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_2
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8476
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_2_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4844
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_3_LBR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4843
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_3
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8490
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_4
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4842
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_5
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4841
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_6
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8465
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_7
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8464
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_8
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4840
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MULTI_FUTBOL_2
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4824
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_1
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4834
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_2
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4833
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_3
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4832
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_5
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4831
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_6
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4830
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_7
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4829
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LALIGA_123_TV_1
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4822
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LALIGA_123_TV_2
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4821
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LALIGA_123_TV_3
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4820
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MULTI_DEPORTE_1
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4828
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MULTI_DEPORTE_2
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4827
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MULTI_DEPORTE_3
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4826
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MULTI_DEPORTE_4
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4825
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",======DOCUMENTO=======
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4877
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NATIONAL_GEOGRAPHIC
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4866
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NAT_GEO_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4865
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NATIONAL_GEO_WILD_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4864
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISCOVERY
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4867
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CRIMEN INVES
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4869
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BLAZE
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4868
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANAL_DECASA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4862
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CAZAVISION
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4874
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CAZA_Y_PESCA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4876
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CAZA_Y_PESCA_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4875
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:HISTORIA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4863
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ODISEA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4860
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VIAJAR_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4871
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",=======NINO=======
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4887
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_DISNEY
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4886
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.NAVIDAD_DISNEY
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8512
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISNEY_CHANNEL
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4880
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISNEY_CHANNEL_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4879
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISNEY_JUNIOR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4878
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISNEY_XD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8513
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NICKELODEON_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4885
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NICK_JUNIOR
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4884
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BABY_TV
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4883
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BOING
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4882
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:PANDA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4881
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",======MUSICA======
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4894
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MTV_ESPAÑA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4893
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SOL_MUSICA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4888
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VIRGIN_TV
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4891
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CLASSICA
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4890
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:RITMOSON
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4889
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELEHIT
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4892
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VH1
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8495
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VH1_CLASSIC
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8494
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",======LATINOS======
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4899
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:COLOMBIA_CANAL_CAPITAL_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4897
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:COLOMBIA_RCN_HD
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4898
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:COLOMBIA_TELEENVIGADO
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4896
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:COLOMBIA_TVCOTUI
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4895
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",=======ALQUILER=======
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4910
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_1
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4909
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_2
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4908
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_3
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4907
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_4
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4906
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_5
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4905
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_6
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4904
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_7
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4903
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_8
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4902
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_9
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4901
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_10
+http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4900
 
 
 
@@ -7282,38 +8829,53 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/S
 
 #EXTINF:-1 group-title="China-SERVER2"
 
-#EXTINF:-1 group-title="China-SERVER2",CCTV-2
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607546_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-1HD
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106500611_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-4
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541167_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-3HD
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558316_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-5+HD
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106500622_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-5HD
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558317_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-7
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607547_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-6HD
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558318_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-9
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607548_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-8HD
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106558319_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-11
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541170_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-10
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607549_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-13
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106500629_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-12
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607616_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-15
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106541263_800.m3u8
-#EXTINF:-1 group-title="China-SERVER2",CCTV-14
-http://ott1.ysbn.cn:8088/live/YSGD_YSGD2016010106607553_800.m3u8
+#EXTINF:-1 group-title="China-SERVER2",YUNNAN
+http://103.242.13.90:5555/udp/239.4.1.92:10000
+#EXTINF:-1 group-title="China-SERVER2",SanSha
+http://103.242.13.90:5555/udp/239.4.1.94:10000
+#EXTINF:-1 group-title="China-SERVER2",HubeiTV
+http://103.242.13.90:5555/udp/239.4.1.4:10000
+#EXTINF:-1 group-title="China-SERVER2",JSWS
+http://103.242.13.90:5555/udp/239.4.1.1:10000
+#EXTINF:-1 group-title="China-SERVER2",FJTV
+http://103.242.13.90:5555/udp/239.4.1.7:10000
+#EXTINF:-1 group-title="China-SERVER2",sichuan
+http://103.242.13.90:5555/udp/239.4.1.27:10000
+#EXTINF:-1 group-title="China-SERVER2",Tianjin TV
+http://103.242.13.90:5555/udp/239.4.1.25:10000
+
+#EXTINF:-1 group-title="China-SERVER2",CCTV 1
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 3
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 4
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 5
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 6
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 7
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 8
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 9
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 10
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 11
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 12
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 13
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 14
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 group-title="China-SERVER2",CCTV 15
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 group-title="China-SERVER2",LY TV
+http://ivi.bupt.edu.cn/hls/lytv.m3u8
 
 
 
@@ -7719,34 +9281,152 @@ http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8
 #EXTINF:-1 group-title="India-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" ,==India==
 http://.........
 
-#EXTINF:0 group-title="India-SERVER1",TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI 3
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI 4
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI4)/Stream(02)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI JOGJA
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI JAWA TENGAH
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI JAWA TIMUR
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI JAWA BARAT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI DKI JAKARTA
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Kalteng
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalteng)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Papua
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Bengkulu
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI DKI Jakarta
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI ACEH
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI SUMATERA UTARA
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Sulsel
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Sulteng
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Sulut
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI DKI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI BALI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI MEDAN SUMUT
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI SUMATERA SELATAN
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI SUMATERA BARAT
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI RIAU
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
-#EXTINF:0 group-title="India-SERVER1",TVRI BANGKA BELITUNG
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI BUDAYA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI ACEH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI SUMATERA UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumutmedan)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI SUMATERA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumbarpadang)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI SUMATERA SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISumsel)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI RIAU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIRiau)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI JAMBI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJambi)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI BANGKA BELITUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBabel)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI BENGKULU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBengkulu)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI LAMPUNG
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRILampung)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI JAWA TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatengsemarang)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI JAWA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIJatimsurabaya)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI YOGYAKARTA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIYogyakarta)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI BALI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIBali)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI NUSA TENGGARA BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINtbmataram)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI NUSA TENGGARA TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINttkupang)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI KALIMANTAN BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalbar)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI KALIMANTAN TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalteng)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI KALIMANTAN TIMUR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKaltimsamarinda)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI KALIMANTAN SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIKalselbanjarmsn)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI SULAWESI SELATAN
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulselmakasar)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI SULAWESI BARAT
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulbarmajene)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI SULAWESI TENGGARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultra)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI SULAWESI TENGAH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISultengpalu)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI SULAWESI UTARA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRISulutmanado)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI GORONTALO
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI MALUKU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIMalukuambon)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI PAPUA
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIPapua)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Aceh 360p
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Aceh 180p
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Bali 360p
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Bali 180p
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbali)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Bangka Belitung 360p
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Bangka Belitung 180p
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Bengkulu 360p
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Bengkulu 180p
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbengkulu)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Budaya 180p
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Gorontalo
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Gorontalo 360p
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Gorontalo 180p
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIGorontalo)/Stream(01)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Kupang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInttkupang)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Jogja
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIyogyakarta)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Semarang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Surabaya
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Bandung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Medan
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Padang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Pekan Baru
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Jambi
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Palembang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Lampung
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Makassar
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI NTT Kupang
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInttkupang)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI NTB Mataram
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIntbmataram)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI Maluku Ambon
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRImalukuambon)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,TVRI KaltimSamarinda
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,Indonesian: TVRI ACEH
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIAceh)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,Indonesian: TVRI BABEL
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIbabel)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,Indonesian: TVRI RIAU
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIriau)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,Indonesian: TVRI SUMBAR
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(03)/index.m3u8
+#EXTINF:-1 group-title="India-SERVER1" ,Indonesian: TVRI SUMSEL
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(03)/index.m3u8
 
 
 
@@ -9140,7 +10820,76 @@ http://178.214.76.162:8061/StarWorl
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports Max 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/21.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports Max 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/22.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports MAX 1 FHD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/23.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN Sports MAX 2 FHD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/24.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/1.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/2.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 3 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/3.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 4 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/4.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 5 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/5.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 6 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/6.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 7 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/7.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 8 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/8.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 9 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/9.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 10 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/10.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN AD Sports 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/18.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN AD Sports 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/19.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports HD (ES)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/20.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Movies Kids HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/25.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Movies HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/26.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Movies  2h (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/27.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Movies Action HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/28.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Movies 1HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/29.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Movies 2HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/30.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Movies 3HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/31.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Movies 4HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/32.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Box Office 1 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/33.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Box Office 2 HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/34.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN WWE HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/36.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Fox Movies HD (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/37.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC 1 (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/39.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC 2 (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/40.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC 4 (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/41.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC MASR (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/42.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Action (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/43.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC MAX (AR)
+http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/44.ts
 
 
 
