@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,21/01/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,23/01/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -1704,10 +1704,6 @@ https://easyview.eu/watch.php?stream=dave|agentnodown$$start=https://origin$$end
 
 #EXTINF:-1 group-title="UK-SERVER2", 
 
-
-
-#EXTINF:-1 group-title="UK-SERVER2",eir Sport 1
-http://81.171.27.106:9002/play/a00b
 #EXTINF:-1 group-title="UK-SERVER2",Kiss TV
 http://81.171.27.106:9002/play/a01n
 #EXTINF:-1 group-title="UK-SERVER2",NHK World HD
@@ -1718,10 +1714,12 @@ http://81.171.27.106:9002/play/a01m
 http://81.171.27.106:9002/play/a016
 #EXTINF:-1 group-title="UK-SERVER2",Premier 2
 http://81.171.27.106:9002/play/a014
-#EXTINF:-1 group-title="UK-SERVER2",eir Sport 2 HD
-http://81.171.27.106:9002/play/a017
+#EXTINF:-1 group-title="UK-SERVER2",eir Sport 1
+http://81.171.27.106:9002/play/a00b
 #EXTINF:-1 group-title="UK-SERVER2",eir Sport 2
 http://81.171.27.106:9002/play/a00c
+#EXTINF:-1 group-title="UK-SERVER2",eir Sport 2 HD
+http://81.171.27.106:9002/play/a01
 #EXTINF:-1 group-title="UK-SERVER2",Magic UK
 http://81.171.27.106:9002/play/a01j
 #EXTINF:-1 group-title="UK-SERVER2",The BOX
@@ -4376,15 +4374,15 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",EuroSport 1 (FR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/12.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/12.ts
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",EuroSport 2 (FR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/13.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/13.ts
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports 1 HD (FR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/14.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/14.ts
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports 2 HD (FR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/15.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/15.ts
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports 3 HD (FR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/16.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/16.ts
 
 
 
@@ -5880,476 +5878,731 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/633.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_1
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4758
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_1_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4757
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_2
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4756
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_2_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4755
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ANTENA_3_SD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4754
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ANTENA_3_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4753
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CUATRO
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4752
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CUATRO_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4751
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELECINCO
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4750
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELECINCO_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4749
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_SEXTA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4748
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_SEXTA_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4747
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANALSUR_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4746
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANALSUR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4745
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANALSUR_2
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4744
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELENOVELAS
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4743
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ETB
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4742
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANAL_ORBE21
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4741
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANAL_ANDALUCIA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4740
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:A3SERIES_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4739
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DIVINITY
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4738
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FDF
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4737
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NEOX
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4736
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NOVA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4735
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEMAD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4734
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEMAD_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4733
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TEN
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4732
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANAL_COCINA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4870
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DMAX
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4731
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DKISS
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4730
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ENERGY
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4729
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:IBERALIA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4728
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CLASICA_TV
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4727
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ARAGON_TV
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4726
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CASTILLA_LA_MANCHA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4725
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CLAN_TVE
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4724
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CLAN_TVE_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4723
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TV3_Cat
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8511
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TVM
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4722
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ANDORRA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4721
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:7RM_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4720
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:POPULAR_TV
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4719
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BOM
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4718
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TRECE
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4717
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MURCIA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4716
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:24_HORAS
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4715
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CUBAVISION
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4714
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:3/24
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4713
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX_NEWS
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4861
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:RTVCE
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4712
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELE_ASTURIAS
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4711
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANAL_EXTREMADURA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4710
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BETIS_TV
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4709
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",=======CINE=======
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4806
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:#0
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4804
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:#0_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4805
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:#0+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8447
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_COMEDIA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4803
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_COMEDIA_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4802
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_COMEDIA+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8427
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_DRAMA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4801
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_DRAMA_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4800
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_DRAMA+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8426
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.CINEDOC&ROLL
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4796
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.CINEDOC&ROLL_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4797
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.CINEDOC&ROLL+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8425
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SERIESMANIA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4799
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SERIESMANIA_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4798
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SERIESMANIA+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8424
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_ESTRENOS
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4795
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_ESTRENOS_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4794
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_ESTRENOS+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8423
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_ACCION
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4793
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_ACCION_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4792
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_ACCION+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8422
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_SERIES
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4790
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_SERIES_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4791
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_SERIES+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8421
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_CINE_N
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4789
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_CINE_N+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8420
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:HOLLYWOOD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4788
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:HOLLYWOOD_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4787
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:HOLLYWOOD+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8441
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:XTRM
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4780
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AMC
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4771
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AMC_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4770
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AMC+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8446
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4775
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4774
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8445
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN_WHITE
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4773
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN_WHITE_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4772
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN_WHITE+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8444
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CALLE_13
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4778
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CALLE_13_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4777
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CALLE_13+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8443
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4763
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4762
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8442
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX_LIFE
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4765
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX_LIFE_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4764
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SYFY_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4767
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SYFY+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8439
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TCM
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4786
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TCM_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4785
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TCM+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8438
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SUNDANCE
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4776
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SUNDANCE+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8440
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TNT_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4784
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TNT+2H
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8437
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:PARAMOUNT_CHANNEL
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4768
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANAL_DE_LAS_ESTRELLAS
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4779
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:COMEDY_CENTRAL
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4769
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:COSMO_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4761
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",********** TDT **********
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9182
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:24 HORAS
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1042
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA 1 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9036
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA 1
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/110
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA 1 HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9158
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA 1 H264 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13563
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA 1 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/489
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA 2 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9037
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA 2
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/109
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA 2 H264 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13564
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",La 2 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7540
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ANTENA 3 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9065
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ANTENA 3
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/111
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ANTENA 3 HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9159
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ANTENA 3 H264 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13565
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ANTENA 3 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1209
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CUATRO PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9066
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CUATRO
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/88
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CUATRO HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9160
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA CUATRO H264 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13569
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA CUATRO FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/497
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TELECINCO PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9034
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TELECINCO
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/496
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TELECINCO HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9161
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TELECINCO H264 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13570
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TELECINCO FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/79
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA SEXTA PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9067
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA SEXTA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/81
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA SEXTA HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9162
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA SEXTA  H264 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13572
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA SEXTA  FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1016
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",***** CINE *****
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9183
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR #0 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9084
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR  0#
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR 0# HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/6814
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR 0# H264 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13573
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR 0# FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1172
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR ESTRENOS PARA MOVILE
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9079
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR ESTRENOS
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/17
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR ESTRENOS HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8740
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR ESTRENOS FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/482
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR ACCION PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9074
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR  ACCION
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/21
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR ACCION HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8741
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR ACCION FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1180
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR COMEDIA PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9047
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR COMEDIA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/22
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR COMEDIA HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9152
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR COMEDIA FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1181
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DRAMA PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9103
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DRAMA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/14
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DRAMA HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9174
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DRAMA FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1182
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DCINE  Ñ PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13463
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DCINE  Ñ
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/48
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR MOVISTAR CINEDOC&ROLL PARA MOVIL
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9040
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR CINEDOC&ROLL
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR CINEDOC&ROLL HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9176
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR CINEDOC&ROLL FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1184
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",HOLLYWOOD PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9083
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",HOLLYWOOD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/23
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",HOLLYWOOD HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9168
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",HOLLYWOOD FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1195
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TCM PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9035
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TCM
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/45
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TCM HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9173
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TCM FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/652
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",SUNDANCE PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13464
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",SUNDANCE
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1305
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",SUNDANCE HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9190
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",SUNDANCE FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8735
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DARK PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9099
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DARK
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4782
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DE_PELICULA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4781
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MEGA_SD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4766
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/628
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",XTREM PAR MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13466
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",XTREM SD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13465
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",XTREM HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9175
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",XTRM FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1191
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",SOMOS PARA MOVIL
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13467
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SOMOS
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4783
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",=======DEPORTE=======
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4859
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_LBR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4835
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8475
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4836
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_LIGATVBAR_LBR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4838
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_LIGATVBAR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8474
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_LIGATVBAR_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4839
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_LIGA123
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4823
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LCAMPEONES_LBR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4847
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LCAMPEONES
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8473
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LCAMPEONES_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4848
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VAMOS_LBR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/5598
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VAMOS
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8489
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VAMOS_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/5599
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_DEPORTES_LBR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4812
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_DEPORTES_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4811
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_F1
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4852
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_F1_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4851
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_GOLF
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4810
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_GOLF_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4815
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_MOTO_GP_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4853
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELEDEPORTE
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4850
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.ESPORTS
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4816
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:EUROSPORT_1
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4819
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:EUROSPORT_1_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4818
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:EUROSPORT_2
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4817
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:GOL_TV
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4856
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BARCA_TV
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4809
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:REAL_MADRID_TV
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4808
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:REAL_MADRID_TV_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4807
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SEVILLA_FC
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4857
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TDP_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4849
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TOROS
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4873
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TOROS_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4872
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",=======SOLO_PARTIDO=======
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4858
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_PARTIZADO_LBR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4855
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_PARTIZADO
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8472
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_PARTIDAZO_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4854
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LA_LIGA_TVBAR_1
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4837
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_1_LBR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8463
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_1
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8477
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_1_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4846
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_2_LBR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4845
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_2
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8476
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_2_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4844
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_3_LBR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4843
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_3
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8490
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_4
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4842
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_5
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4841
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_6
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8465
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_7
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8464
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.LIGA_DE_CAMPEONES_8
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4840
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MULTI_FUTBOL_2
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4824
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_1
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4834
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_2
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4833
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_3
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4832
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_5
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4831
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_6
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4830
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN_LA_LIGA_7
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4829
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LALIGA_123_TV_1
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4822
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LALIGA_123_TV_2
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4821
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LALIGA_123_TV_3
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4820
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MULTI_DEPORTE_1
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4828
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MULTI_DEPORTE_2
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4827
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MULTI_DEPORTE_3
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4826
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MULTI_DEPORTE_4
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4825
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",======DOCUMENTO=======
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4877
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NATIONAL_GEOGRAPHIC
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4866
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NAT_GEO_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4865
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NATIONAL_GEO_WILD_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4864
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISCOVERY
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4867
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CRIMEN INVES
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4869
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BLAZE
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4868
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CANAL_DECASA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4862
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CAZAVISION
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4874
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CAZA_Y_PESCA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4876
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CAZA_Y_PESCA_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4875
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7876
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",PARAMOUNT CHANNEL PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13468
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",PARAMOUNT CHANNEL
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/86
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TAQUILLA 1 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13469
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TAQUILLA 1
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8726
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TAQUILLA2 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13470
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TAQUILLA 2
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8727
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TAQUILLA 3 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13471
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TAQUILLA 3
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8728
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TAQUILLA 4 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13472
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TAQUILLA 4
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8730
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TAQUILLA 5 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13473
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TAQUILLA 5
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8731
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TAQUILLA 6 PARA MOVIL
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13474
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TAQUILLA 6
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8733
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",********** Series *********
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7245
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTR SERIES PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9077
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR SERIES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/32
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR SERIES HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9178
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR SERIES FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1185
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR SERIESMANIA PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9076
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR SERIESMANIA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/33
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR SERIESMANIA HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9177
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR SERIESMANIA FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1183
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CALLE 13 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9110
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CALLE 13
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/24
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CALLE 13 HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9169
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CALLE 13 FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1210
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",FOX PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9069
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",FOX
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/28
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",FOX HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9165
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",FOX FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1186
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",FOX LIFE PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9081
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",FOX LIFE
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/20
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",FOX LIVE HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9166
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:FOX LIFE FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1187
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",AXN PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9068
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/18
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",AXN HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9163
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",AXN FULL HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1189
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",AXN WAHIT PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9080
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:AXN  WHITE
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/19
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",AXN WAHITE HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9164
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",AXN  WHITE FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1190
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",AMC PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9070
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",AMC
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/29
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",AMC FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1188
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TNT PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9082
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TNT
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/30
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TNT HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9167
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TNT FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1194
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",SYFY PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9105
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",SYFY
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/15
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",SYFY HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9170
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",SYFY FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/638
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",COSMOS
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/629
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",COSMOS HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9171
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",COSMOPOLITAN  FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/2
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",COMEDY CENTRAL PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9057
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",COMEDY  CENTRAL
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/26
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",COMEDY CENTRAL HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9172
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",COMEDY CENTRAL FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/5502
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MTV PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9096
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MTV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",FDF
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/46
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DKISS PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9095
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DKISS
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1192
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",A3SERIES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/82
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",***** ESTILO DE VIDA *****
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9184
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MEGA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/43
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ENERGY PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9094
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ENERGY
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/72
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DIVINITY PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9108
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DIVINITY
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/80
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CI PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9051
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CI
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/40
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DECASA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/449
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DECASA HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9704
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DECASA FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9703
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",COCINA PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9114
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CANAL COCINA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/117
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CANAL COCINA HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9191
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CANAL COCINA FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8734
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BE MAD PARA MOVIL
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9101
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BE MAD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9100
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BE MAD HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9192
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BE MAD FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/546
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR ESPORTS
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/2910
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NEOX ES PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9098
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NEOX
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/41
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NOVA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/42
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",***** INFANTIL *****
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9185
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DISNEY PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9090
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DISNEY
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/2774
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISNEY XD PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9048
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DISNEY  XD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/44
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DISNEY JR
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISNEY CHANNEL PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9042
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DISNEY CHANNEL
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/6
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DISNEY CHANNEL HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9179
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DISNEY CHANNEL FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/661
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CLAN
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/4
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CLAN HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9180
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CLAN FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7874
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BOING PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9054
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES: BOING
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/36
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CANAL PANDA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/55
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BABY  TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/5
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NICKELOODEON PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9113
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NICKELODEON
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/70
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NICKELODEON HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9181
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NICKELODEON FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/627
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NICK JR
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/481
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",***** DOCUMENTALES *****
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9186
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:HISTORIA PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9091
 #EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:HISTORIA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4863
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ODISEA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4860
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VIAJAR_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4871
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",=======NINO=======
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4887
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR_DISNEY
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4886
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:M.NAVIDAD_DISNEY
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8512
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISNEY_CHANNEL
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4880
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISNEY_CHANNEL_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4879
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISNEY_JUNIOR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4878
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISNEY_XD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8513
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NICKELODEON_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4885
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NICK_JUNIOR
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4884
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BABY_TV
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4883
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BOING
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4882
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:PANDA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4881
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",======MUSICA======
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4894
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MTV_ESPAÑA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4893
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:SOL_MUSICA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4888
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VIRGIN_TV
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4891
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CLASSICA
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4890
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:RITMOSON
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4889
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELEHIT
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4892
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VH1
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8495
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:VH1_CLASSIC
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/8494
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",======LATINOS======
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4899
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:COLOMBIA_CANAL_CAPITAL_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4897
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:COLOMBIA_RCN_HD
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4898
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:COLOMBIA_TELEENVIGADO
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4896
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:COLOMBIA_TVCOTUI
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4895
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",=======ALQUILER=======
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4910
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_1
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4909
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_2
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4908
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_3
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4907
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_4
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4906
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_5
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4905
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_6
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4904
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_7
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4903
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_8
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4902
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_9
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4901
-#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Alquiler_10
-http://ch.novilka.net:8000/fgsek5kc/jaqyss7y/4900
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/52
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",HISTORIA HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9193
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",HISTORIA FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7873
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISCOVERY CHANNEL PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9102
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DISCOVERY  CHANNEL
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ODISEA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/31
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ODISEA PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9106
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NAT GEO PARA MOVILE
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9093
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NATIONAL GEOGRAPHIC
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/37
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NATIONAL GEOGRAPHIC HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9194
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NATIONAL GEOGRAPHIC FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/6694
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:NAT GEO WILD PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9104
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NATIONAL GEOGRAFIC WILD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/34
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NATIONAL GEOGRAFIC WILD HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9195
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",NATIONAL GEOGRAFIC WILD FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/651
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:DMAX PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9107
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",DMAX
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1171
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TEN PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9041
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TEN
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1014
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BLAZE PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9109
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BLAZE
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7539
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Viajar
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/56
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",VIAJAR HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9196
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",VIAJAR FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/632
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:CAZA Y PESC PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9111
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CAZA  Y PESCA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/11
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CAZA Y PESCA HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9197
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CAZA Y PESCA FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/499
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Iberalia
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1108
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",***** DEPORTES *****
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/179
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR VAMOS PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9050
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR #VAMOS
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/39
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR VAMOS HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8736
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR VAMOS FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1173
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR PARTIDAZO PARA MOVILES ( SOLO EVENTOS )
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9049
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR PARTIDAZOS ( SOLO EVENTOS )
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/118
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:Partidazo HD ( SOLO EVENTOS )
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/6695
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR PARTIDAZOS FULLHD ( SOLO EVENTOS )
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/504
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGA TV PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9055
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGATV SD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7204
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGA TV HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8738
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGATV H264 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13566
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGATV FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1003
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA LIGATV BAR 1
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1306
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGA123 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9045
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGA 123TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9043
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LIGA 123 HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9044
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LIGA 123 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/990
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LIGA 123 MULTI 1
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9086
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LIGA 123 MULTI 2
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9087
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGA 123 MULTI 3
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9088
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN LALIGA PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9056
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN LALIGA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/50
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN LALIGA HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8739
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN LALIGA H264 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13568
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN LALIGA FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1174
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN LALIGA 1
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/245
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN LALIGA 1 FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/5500
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN  LALIGA 2
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/246
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN LALIGA 2 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/5501
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES: BEIN  LALIGA 3
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/247
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN  LALIGA 4
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/248
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN LALIGA 5
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/249
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN LALIGA 6
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/250
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:BEIN LALIGA 7
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/251
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BEIN LALIGA 8
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1309
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LIGA DE CAMPEONES PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9115
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGA CAMPEONES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/49
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGA CAMPEONES HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/6817
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LIGA DE CAMPEONES FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1179
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LIGA DE CAMPEONES 1 HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/5498
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LIGA DE CAMPEONES 1 España
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/252
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LIGA CAMPEONES 2 FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/5499
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGA DE CAMPEONES 2
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/253
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGA DE CAMPEONES 3  España
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/254
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGA DE CAMPEONES4  España
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/255
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LIGA DE CAMPEONES 5  España
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/256
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LIGA DE CAMPEONES 6  España
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/257
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LIGA DE CAMPEONES 7
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/258
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:LIGA DE CAMPEONES 8 ESPAÑA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1303
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DEPORTE UNO PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9052
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR  DEPORTE
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/77
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DEPORTE HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/487
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DEPORTE 1 FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1177
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MULTIDEPORTE
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/2911
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DEPORTE 1
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/262
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DEPORTE 2
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/263
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DEPORTE 3
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/264
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR DEPORTE 4
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/265
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MULTIDEPORTE 5
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/266
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MULTIDEPORTE 6
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/267
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MULTIFUTBOL  1
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/260
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MULTI FUTBOL  2
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/261
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:EUROSPORT PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9112
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",EUROSPORT  ES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/83
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",EUROSPORT HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9198
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",EUROSPORT FULL HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/936
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",EUROSPORT 2 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9071
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Eurosport  2
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/47
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR FORMULA 1 PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9073
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR  F1
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/53
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR F1 HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1050
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR F1 FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/630
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:MOVISTAR GOLF PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9092
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR  GOLF
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/16
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR GOLF HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9200
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR GOLF H264 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13567
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR GOLF FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1176
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BARCATV PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9038
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",BARCA TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/25
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:REAL MADRID TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/545
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:GOLTV PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9089
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",GOL TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/76
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELEDEPORTE PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9097
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELEDEPORTE
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/451
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELEDEPORTE FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7878
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR TORO PARA MOVILES
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9046
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR  TOROS
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/35
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR TOROS HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9199
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR TOROS H264 FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13571
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MOVISTAR TOROS FULLHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/582
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:ESPORT 3
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7879
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TV 13
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/2771
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",HIT TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7882
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",8Tv
+http://streaming.8tv.cat/8TV/8aldia-directe/playlist.m3u8
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ANDALUCIA TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1041
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ARAGON TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1045
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",SOL Music
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1193
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MEZZO LIVE
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1111
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",MEZZO LIVE FULL HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/5497
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",***** AUTONÓMICOS *****
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9188
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:13 TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7870
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:7RM FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7877
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CANAL SUR
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9702
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CANAL SUR FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7869
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CMM HD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7871
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ETB 1
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7867
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:EXTREMADURA TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7881
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LA OTRA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7868
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",INTERECONOMIA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7872
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:TELEMADRID FHD
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/7866
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CANAL ORBE21
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/1311
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",FOX NEWS
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8246
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",ES:PLAYBOY PARA MOVIL
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/9116
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",324
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13492
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",324 Exclusiu
+https://ccma-tva-es-cellnex-live-hls.secure.footprint.net/es/ngrp:oca2_web/master.m3u8
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TV3
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13491
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",TV3 Càmeres
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13495
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",33
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13496
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",LAS PALMAS
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13475
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",101TV Málaga
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13476
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Canal 45 TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13477
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Lebrija TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13478
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Teleonuba
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13479
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CanalCosta
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13480
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",InterAlmería TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13481
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",PTV Málaga
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13482
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Más TV Huelva
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13483
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Canal Doñana
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13484
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Cadena Elite
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13485
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Onda Mezquita TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13486
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Condavisión
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13487
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Alternativa TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13488
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",Bon Dia TV
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/13493
+#EXTINF:-1 group-title="Spain PREMIUM-SERVER2",CLASSICA
+http://applive.online:25461/KX88ubV3C1/tVvNWdW8Un/8245
+
+
+
+
+
+
+
+
+
 
 
 
@@ -10821,75 +11074,75 @@ http://178.214.76.162:8061/StarWorl
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports Max 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/21.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/21.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports Max 2 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/22.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/22.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports MAX 1 FHD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/23.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/23.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",BEIN Sports MAX 2 FHD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/24.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/24.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/1.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/1.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 2 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/2.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/2.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 3 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/3.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/3.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 4 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/4.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/4.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 5 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/5.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/5.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 6 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/6.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/6.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 7 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/7.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/7.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 8 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/8.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/8.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 9 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/9.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/9.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports 10 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/10.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/10.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN AD Sports 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/18.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/18.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN AD Sports 2 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/19.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/19.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Sports HD (ES)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/20.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/20.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Movies Kids HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/25.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/25.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Movies HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/26.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/26.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Movies  2h (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/27.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/27.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Movies Action HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/28.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/28.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Movies 1HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/29.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/29.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Movies 2HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/30.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/30.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Movies 3HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/31.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/31.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",beIN Movies 4HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/32.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/32.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Box Office 1 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/33.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/33.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Box Office 2 HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/34.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/34.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN WWE HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/36.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/36.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",OSN Fox Movies HD (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/37.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/37.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC 1 (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/39.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/39.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC 2 (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/40.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/40.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC 4 (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/41.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/41.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC MASR (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/42.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/42.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC Action (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/43.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/43.ts
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",MBC MAX (AR)
-http://www.freeiptvdaily.net:8000/live/yoJ9C0AS5K/freeiptvdaily.tv/44.ts
+http://www.freeiptvdaily.net:8000/live/i3RChDeWB6/freeiptvdaily.tv/44.ts
 
 
 
@@ -11071,6 +11324,484 @@ http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.ts
 
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",
+
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="▁ ▂ ▄☆Others Sports CH☆▄ ▂ ▁"  ,▁ ▂ ▄☆Others Sports CH☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/448
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Ajyal TV Mada*"  ,Ajyal TV Mada*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/451
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Almahed*"  ,Almahed*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/452
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AlSalam TV*"  ,AlSalam TV*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/457
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Bethlehem TV*"  ,Bethlehem TV*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/449
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Byaban Sports*"  ,Byaban Sports*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/453
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Falcon-Eye-1*"  ,Falcon-Eye-1*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/456
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Falcon-Eye-2*"  ,Falcon-Eye-2*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/455
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Falcon-Family*"  ,Falcon-Family*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/454
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Watar1*"  ,Watar1*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/450
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="▁ ▂ ▄☆beIN HD☆▄ ▂ ▁"  ,▁ ▂ ▄☆beIN HD☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/472
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Jan Beryan IPTV HD1"  ,Jan Beryan IPTV HD1
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3325
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Jan Beryan IPTV HD2"  ,Jan Beryan IPTV HD2
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3326
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="BeinMax1"  ,BeinMax1
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3321
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="BeinMax2"  ,BeinMax2
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3322
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="BeinMax1**"  ,BeinMax1**
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3323
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="BeinMax2**"  ,BeinMax2**
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3324
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-1 HD"  ,AR:BEINSPORTS-1 HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3221
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-2 HD"  ,AR:BEINSPORTS-2 HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3220
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-3 HD"  ,AR:BEINSPORTS-3 HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3219
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-4 HD"  ,AR:BEINSPORTS-4 HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3218
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-5 HD"  ,AR:BEINSPORTS-5 HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3217
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-6 HD"  ,AR:BEINSPORTS-6 HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3216
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-7 HD"  ,AR:BEINSPORTS-7 HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3215
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-8 HD"  ,AR:BEINSPORTS-8 HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3214
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="▁ ▂ ▄☆Bein SD☆▄ ▂ ▁"  ,▁ ▂ ▄☆Bein SD☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/488
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-1 SD"  ,AR:BEINSPORTS-1 SD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3237
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-2 SD"  ,AR:BEINSPORTS-2 SD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3236
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-3 SD"  ,AR:BEINSPORTS-3 SD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3235
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-4 SD"  ,AR:BEINSPORTS-4 SD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3234
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-5 SD"  ,AR:BEINSPORTS-5 SD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3233
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-6 SD"  ,AR:BEINSPORTS-6 SD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3232
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-7 SD"  ,AR:BEINSPORTS-7 SD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3231
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR:BEINSPORTS-8 SD"  ,AR:BEINSPORTS-8 SD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3230
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="▁ ▂ ▄☆BeoutQ Sports☆▄ ▂ ▁" ,▁ ▂ ▄☆BeoutQ Sports☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3261
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="beoutQ sports 1HD" ,beoutQ sports 1HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3256
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="beoutQ sports 2HD" ,beoutQ sports 2HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3257
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="beoutQ sports 3HD" ,beoutQ sports 3HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3258
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="beoutQ sports 4HD" ,beoutQ sports 4HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3259
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="beoutQ sports 5HD" ,beoutQ sports 5HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3260
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="▁ ▂ ▄☆MBC☆▄ ▂ ▁"  ,▁ ▂ ▄☆MBC☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/483
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR-MBC1"  ,AR-MBC1
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/482
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR-MBC 2"  ,AR-MBC 2
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/481
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR-MBC3"  ,AR-MBC3
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/480
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR-MBC4"  ,AR-MBC4
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/479
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR-MBCDrama"  ,AR-MBCDrama
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/474
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR-MBCAction"  ,AR-MBCAction
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/478
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR-MBCMax"  ,AR-MBCMax
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/473
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="B4u Aflam"  ,B4u Aflam
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/476
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="MBC DRAMA+"  ,MBC DRAMA+
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/475
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AR-MBC Bollywood"  ,AR-MBC Bollywood
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/477
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="▁ ▂ ▄☆OSN☆▄ ▂ ▁"  ,▁ ▂ ▄☆OSN☆▄ ▂ ▁
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3251
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AD_Nat_Geo"  ,AD_Nat_Geo
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3315
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="ART-AFLAM-1"  ,ART-AFLAM-1
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3314
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="ART-AFLAM-2"  ,ART-AFLAM-2
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3313
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="ART-CINEMA"  ,ART-CINEMA
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3312
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="OSN-MOVIES-AC"  ,OSN-MOVIES-AC
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3318
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="OSN-Movies-First"  ,OSN-Movies-First
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3317
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="OSN-MOVIES-HD"  ,OSN-MOVIES-HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3320
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="OSN-Movies-Kids"  ,OSN-Movies-Kids
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3311
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="OSN-Yahala-Cinem"  ,OSN-Yahala-Cinem
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3319
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="OSN-YHALA-HD"  ,OSN-YHALA-HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3316
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,قنوات الاخبارية
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/120
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alarabiya"  ,Alarabiya
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/119
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alarabiya Alhadath"  ,Alarabiya Alhadath
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/118
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alaraby"  ,Alaraby
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/111
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Aljazeera News"  ,Aljazeera News
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/117
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Ann"  ,Ann
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/112
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="BBC ARABIC"  ,BBC ARABIC
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/115
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Cnbc arabia"  ,Cnbc arabia
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/113
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="RT Arabic"  ,RT Arabic
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/116
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="RT Arabic old"  ,RT Arabic old
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/110
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Sky news arabia"  ,Sky news arabia
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/114
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,قنوات الاطفال
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/109
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Ajyal"  ,Ajyal
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/107
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Nour kids"  ,Nour kids
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/101
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Sat7kids"  ,Sat7kids
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/103
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Spacetoon"  ,Spacetoon
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/106
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Toyor aljanah"  ,Toyor aljanah
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/108
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,Syria قنوات السورية
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/3310
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Suriya tv*"  ,Suriya tv*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/35
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Syria 1 HD*"  ,Syria 1 HD*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/38
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Syria Drama HD*"  ,Syria Drama HD*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/36
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Syria EDU*"  ,Syria EDU*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/32
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Syria news HD*"  ,Syria news HD*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/37
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alminber*"  ,Alminber*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/24
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="HALAB TODAY*"  ,HALAB TODAY*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/26
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="LANA SYRIA*"  ,LANA SYRIA*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/34
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="NOOR ALSHAM HD*"  ,NOOR ALSHAM HD*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/31
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="ORIENT NEWS*"  ,ORIENT NEWS*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/25
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Radio Demashk*"  ,Radio Demashk*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/23
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Radio karma*"  ,Radio karma*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/21
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Radio Zanobya*"  ,Radio Zanobya*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/22
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Sama tv*"  ,Sama tv*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/29
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="SHAM FM RADIO*"  ,SHAM FM RADIO*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/27
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="SHAM FM TV*"  ,SHAM FM TV*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/28
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Souryana HD*"  ,Souryana HD*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/30
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Ugarit*"  ,Ugarit*
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/33
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,LEBANON قنوات اللبنانية
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/71
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AL MANAR"  ,AL MANAR
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/56
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alalam"  ,Alalam
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/57
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Aljadeed"  ,Aljadeed
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/61
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Future"  ,Future
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/63
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Future backup"  ,Future backup
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/62
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="LBC HD"  ,LBC HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/66
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="LDC HD"  ,LDC HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/67
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Mayadeen"  ,Mayadeen
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/58
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Mtv"  ,Mtv
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/69
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="MTV lebanon"  ,MTV lebanon
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/68
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="NBN"  ,NBN
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/59
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="New TELE LEBANON"  ,New TELE LEBANON
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/70
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="OTV"  ,OTV
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/60
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,EGYPT القنوات المصرية
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/141
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="CBC HD"  ,CBC HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/135
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Cbc1"  ,Cbc1
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/140
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Cbcdrama"  ,Cbcdrama
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/139
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Cbcsofra"  ,Cbcsofra
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/138
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="CBCSOFRA HD"  ,CBCSOFRA HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/134
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Dmc"  ,Dmc
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/137
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Dmcdrama"  ,Dmcdrama
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/136
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Rotana aflam"  ,Rotana aflam
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/129
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Rotana classic"  ,Rotana classic
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/127
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Rotana clip"  ,Rotana clip
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/126
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Rotana drama"  ,Rotana drama
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/125
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="ROTANA HD"  ,ROTANA HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/131
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Rotana music"  ,Rotana music
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/130
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Rotana Khalejeh"  ,Rotana Khalejeh
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/128
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="SADA ELBALAD HD"  ,SADA ELBALAD HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/133
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="WANASAH HD"  ,WANASAH HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/132
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="ZEE AFLAM HD"  ,ZEE AFLAM HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/124
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Zee alwan"  ,Zee alwan
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/121
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="ZEE ALWAN HD"  ,ZEE ALWAN HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/123
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Zeeaflam"  ,Zeeaflam
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/122
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,IRAQ قنوات العراقية
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/100
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Afaqtv yoytube"  ,Afaqtv yoytube
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/78
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AL Etejah"  ,AL Etejah
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/87
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AL Rasheed TV"  ,AL Rasheed TV
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/86
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AL Rasheed TV backup"  ,AL Rasheed TV backup
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/85
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alahad"  ,Alahad
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/75
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alfaloja"  ,Alfaloja
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/98
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alforat"  ,Alforat
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/74
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alghadeer"  ,Alghadeer
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/81
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alhura"  ,Alhura
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/72
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Almaaref"  ,Almaaref
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/82
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alqanat"  ,Alqanat
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/90
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Sumaria"  ,Sumaria
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/99
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="ALSHARQIA HD"  ,ALSHARQIA HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/94
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AlSharqiya sd"  ,AlSharqiya sd
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/92
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="AlsharqiyaNews sd"  ,AlsharqiyaNews sd
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/91
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="ALSUMARIA HD"  ,ALSUMARIA HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/95
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Altaghier"  ,Altaghier
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/89
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Anb iraq"  ,Anb iraq
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/76
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Asia TV"  ,Asia TV
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/79
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Baghdad"  ,Baghdad
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/84
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Dejlah"  ,Dejlah
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/88
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="DIJLAH HD"  ,DIJLAH HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/96
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Hadath Iraq TV"  ,Hadath Iraq TV
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/77
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="HOUNA BAGHDAD HD"  ,HOUNA BAGHDAD HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/97
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Imamhussain"  ,Imamhussain
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/80
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Ishtar TV"  ,Ishtar TV
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/73
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="MUSICALRAMAS HD"  ,MUSICALRAMAS HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/93
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Samaraa"  ,Samaraa
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/83
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,UAE القنوات الاماراتية
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/162
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Abudhabi"  ,Abudhabi
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/153
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Abudhabi drama"  ,Abudhabi drama
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/149
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Abudhabi drama HD"  ,Abudhabi drama HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/148
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Abudhabi emarat"  ,Abudhabi emarat
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/151
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Abudhabi emarat HD"  ,Abudhabi emarat HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/150
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Abudhabi HD"  ,Abudhabi HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/152
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alan"  ,Alan
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/155
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Aldhafra"  ,Aldhafra
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/154
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alsharqa"  ,Alsharqa
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/145
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alsharqiya from kalba"  ,Alsharqiya from kalba
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/144
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alwoustatv"  ,Alwoustatv
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/142
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Dubai one HD"  ,Dubai one HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/160
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Dubai one sd"  ,Dubai one sd
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/159
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Dubai TV"  ,Dubai TV
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/161
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Dubai zaman"  ,Dubai zaman
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/157
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Natgeo abudhabi"  ,Natgeo abudhabi
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/147
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Natgeo abudhabi HD"  ,Natgeo abudhabi HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/146
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Noor dubai"  ,Noor dubai
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/156
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Sama Dubai"  ,Sama Dubai
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/158
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Sharqa sport"  ,Sharqa sport
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/143
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,Jordan
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/172
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="ALDAWAA alshafy" ,ALDAWAA alshafy
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/164
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="ALordon Alyoom" ,ALordon Alyoom
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/168
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Amn" ,Amn
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/167
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Jordan lights" ,Jordan lights
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/165
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Jordan sport" ,Jordan sport
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/170
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Jordan Tv" ,Jordan Tv
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/171
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Kife" ,Kife
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/163
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Manaseer" ,Manaseer
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/166
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Roya" ,Roya
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/169
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,MOROCCO
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/182
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="2M HD" ,M HD
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/180
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Al aoula laayoune"  ,Al aoula laayoune
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/178
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Al maghribia"  ,Al maghribia
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/175
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Aloula"  ,Aloula
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/179
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Arriadia"  ,Arriadia
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/177
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Assadissa"  ,Assadissa
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/174
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Athaqafia 4"  ,Athaqafia 4
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/176
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="tamazight tv8"  ,tamazight tv8
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/173
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,قنوات الكويتية
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/191
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="ALRAI"  ,ALRAI
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/183
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Ktv 2"  ,Ktv 2
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/189
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Ktv almajlis"  ,Ktv almajlis
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/186
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Ktv arabe"  ,Ktv arabe
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/187
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Ktv plus"  ,Ktv plus
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/185
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Ktv sports plus"  ,Ktv sports plus
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/184
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Ktvethraalive"  ,Ktvethraalive
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/188
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Kuwait1"  ,Kuwait1
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/190
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,قنوات الليبية
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/196
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alnabaa" ,Alnabaa
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/194
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Altanasuh" ,Altanasuh
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/193
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Libya 218 tv" ,Libya 218 tv
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/192
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Libya news" ,Libya news
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/195
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,قنوات اليمنية
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/205
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Yemen"  ,Yemen
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/204
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Almasira TV"  ,Almasira TV
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/199
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Belqees TV"  ,Belqees TV
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/202
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Hadramout"  ,Hadramout
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/197
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Rushd"  ,Rushd
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/203
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Sanaa"  ,Sanaa
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/201
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Shabab Yemen"  ,Shabab Yemen
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/198
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Suhail"  ,Suhail
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/200
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" ,قنوات السودانية
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/214
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Afriqia1"  ,Afriqia1
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/206
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Afriqia2"  ,Afriqia2
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/207
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Afriqia3"  ,Afriqia3
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/208
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Afriqia4"  ,Afriqia4
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/209
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Alshorooq sudan"  ,Alshorooq sudan
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/213
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Sudan tv"  ,Sudan tv
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/211
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Sudani24"  ,Sudani24
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/212
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5" tvg-name="Tayba"  ,Tayba
+http://iptv-janberyan.com:25461/janberyan22012019/220500588/210
+
+
+
+
+
+
+
+
+
 
 
 
