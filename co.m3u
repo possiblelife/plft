@@ -173,10 +173,8 @@ https://epb.ert.gr/events/_definst_/ertplay4-gr/playlist.m3u8
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/index_800_av-p.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA (Youtube)
 https://www.youtube.com/watch?v=oJbm78ZoMj4
-#EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (Youtube)
-https://www.youtube.com/watch?v=Xx7jPupDN2g
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI Youtube LIVE
-http://www.skaitv.gr/live|agentnodown$$start="contentUrl" href="$$end="></span><l$$replace="contentUrl" href="$$replacewith=https://www.youtube.com/watch?v=$$add=
+http://www.skaitv.gr/live|webnoagent$$start=https://www.youtube.com/embed/$$end=?controls$$replace=https://www.youtube.com/embed/$$replacewith=https://www.youtube.com/watch?v=$$add=
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (use External Player)
 http://www.anacon.org/app/chans/gr/skai.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI
