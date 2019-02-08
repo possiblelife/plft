@@ -3429,7 +3429,34 @@ httphost://$http-raw=http://unblocked.lol/beinsports3france$http-refferer=https:
 
 #EXTINF:-1 group-title="France-SERVER3",
 
-
+#EXTINF:-1 group-title="France-SERVER3",BEIN MAX 8
+http://89.39.104.115:8000/bilo445/bilo445112conections/8004
+#EXTINF:-1 group-title="France-SERVER3",BEIN SPORTS 1 HD
+http://89.39.104.115:8000/bilo445/bilo445112conections/5951
+#EXTINF:-1 group-title="France-SERVER3",BEIN SPORTS 2
+http://89.39.104.115:8000/bilo445/bilo445112conections/666
+#EXTINF:-1 group-title="France-SERVER3",BEIN SPORTS 2 HD
+http://89.39.104.115:8000/bilo445/bilo445112conections/5952
+#EXTINF:-1 group-title="France-SERVER3",BEIN SPORTS 3 HD
+http://89.39.104.115:8000/bilo445/bilo445112conections/5953
+#EXTINF:-1 group-title="France-SERVER3",BEINSPORT MAX 6
+http://89.39.104.115:8000/bilo445/bilo445112conections/7632
+#EXTINF:-1 group-title="France-SERVER3",BEINSPORT MAX 7
+http://89.39.104.115:8000/bilo445/bilo445112conections/7633
+#EXTINF:-1 group-title="France-SERVER3",CANAL  CINEMA HD
+http://89.39.104.115:8000/bilo445/bilo445112conections/4220
+#EXTINF:-1 group-title="France-SERVER3",CANAL DÉCALÉ HD
+http://89.39.104.115:8000/bilo445/bilo445112conections/4501
+#EXTINF:-1 group-title="France-SERVER3",CANAL FAMILY HD
+http://89.39.104.115:8000/bilo445/bilo445112conections/4499
+#EXTINF:-1 group-title="France-SERVER3",CANAL HD
+http://89.39.104.115:8000/bilo445/bilo445112conections/4498
+#EXTINF:-1 group-title="France-SERVER3",CANAL SERIES HD
+http://89.39.104.115:8000/bilo445/bilo445112conections/4500
+#EXTINF:-1 group-title="France-SERVER3",CINE  FRISSON low
+http://89.39.104.115:8000/bilo445/bilo445112conections/4229
+#EXTINF:-1 group-title="France-SERVER3",CINE CLASSIC
+http://89.39.104.115:8000/bilo445/bilo445112conections/1349
 
 
 
@@ -3776,567 +3803,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",
-
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",###### -- |FR| CANALSAT FRANCE  |FR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22436
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TF1
-http://xpro.one-iptv.com:25443/client/client123/15121
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TF1 HD
-http://xpro.one-iptv.com:25443/client/client123/9211
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| M6
-http://xpro.one-iptv.com:25443/client/client123/15154
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| M6 HD
-http://xpro.one-iptv.com:25443/client/client123/9260
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France 2
-http://xpro.one-iptv.com:25443/client/client123/15226
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France 2 HD
-http://xpro.one-iptv.com:25443/client/client123/9277
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France 3
-http://xpro.one-iptv.com:25443/client/client123/15169
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France 3 HD
-http://xpro.one-iptv.com:25443/client/client123/9276
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France 4
-http://xpro.one-iptv.com:25443/client/client123/15168
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France 4  HD
-http://xpro.one-iptv.com:25443/client/client123/9274
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France 5
-http://xpro.one-iptv.com:25443/client/client123/15167
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France 5 HD
-http://xpro.one-iptv.com:25443/client/client123/9273
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France O
-http://xpro.one-iptv.com:25443/client/client123/15165
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France O  HD
-http://xpro.one-iptv.com:25443/client/client123/9272
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PARIS PREMIERE
-http://xpro.one-iptv.com:25443/client/client123/15137
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PARIS PREMIERE HD
-http://xpro.one-iptv.com:25443/client/client123/9238
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TV BREIZH
-http://xpro.one-iptv.com:25443/client/client123/15116
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TV BREIZH HD
-http://xpro.one-iptv.com:25443/client/client123/9206
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| 6ter
-http://xpro.one-iptv.com:25443/client/client123/15216
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| 6TER HD
-http://xpro.one-iptv.com:25443/client/client123/9364
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Arte
-http://xpro.one-iptv.com:25443/client/client123/15212
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ARTE HD
-http://xpro.one-iptv.com:25443/client/client123/9354
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",###### -- |FR|  DIVERTISSEMENT FRANCE  |FR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22438
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| SERIE CLUB +
-http://xpro.one-iptv.com:25443/client/client123/9226
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| 13EME RUE
-http://xpro.one-iptv.com:25443/client/client123/15217
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| 13 EME RUE HD
-http://xpro.one-iptv.com:25443/client/client123/9365
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Syfy
-http://xpro.one-iptv.com:25443/client/client123/15123
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Syfy HD
-http://xpro.one-iptv.com:25443/client/client123/9214
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Teva Full HD +
-http://xpro.one-iptv.com:25443/client/client123/9212
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| COMEDIE
-http://xpro.one-iptv.com:25443/client/client123/15183
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| COMEDIE Plus HD
-http://xpro.one-iptv.com:25443/client/client123/9297
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| E! HD
-http://xpro.one-iptv.com:25443/client/client123/15175
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| E! Entertainment HD
-http://xpro.one-iptv.com:25443/client/client123/9285
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| VIVOLTA
-http://xpro.one-iptv.com:25443/client/client123/15113
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NRJ12
-http://xpro.one-iptv.com:25443/client/client123/15142
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR|  NRJ12 HD
-http://xpro.one-iptv.com:25443/client/client123/9366
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ELLE GIRL
-http://xpro.one-iptv.com:25443/client/client123/15174
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ELLE GIRL HD
-http://xpro.one-iptv.com:25443/client/client123/9284
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Cherie 25
-http://xpro.one-iptv.com:25443/client/client123/15188
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CHERIE 25 HD
-http://xpro.one-iptv.com:25443/client/client123/9313
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| HD1 HD
-http://xpro.one-iptv.com:25443/client/client123/9268
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| AB1 HD
-http://xpro.one-iptv.com:25443/client/client123/15233
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| AB3
-http://xpro.one-iptv.com:25443/client/client123/15215
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| AB3 HD
-http://xpro.one-iptv.com:25443/client/client123/9357
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| C8
-http://xpro.one-iptv.com:25443/client/client123/15232
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| C8 HD
-http://xpro.one-iptv.com:25443/client/client123/9293
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CSTAR
-http://xpro.one-iptv.com:25443/client/client123/15182
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Rtl9
-http://xpro.one-iptv.com:25443/client/client123/15130
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RTL9 HD
-http://xpro.one-iptv.com:25443/client/client123/9374
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Numero 23
-http://xpro.one-iptv.com:25443/client/client123/15141
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NUMERO 23 HD
-http://xpro.one-iptv.com:25443/client/client123/9248
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| nt1
-http://xpro.one-iptv.com:25443/client/client123/15224
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NT1 HD
-http://xpro.one-iptv.com:25443/client/client123/9196
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| W9
-http://xpro.one-iptv.com:25443/client/client123/15111
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| W9 HD
-http://xpro.one-iptv.com:25443/client/client123/9372
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Bet etoile HD
-http://xpro.one-iptv.com:25443/client/client123/30814
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Bet Etoile FullHD
-http://xpro.one-iptv.com:25443/client/client123/30813
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| My Cuisine FullHD
-http://xpro.one-iptv.com:25443/client/client123/30818
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",###### -- |FR| CINEMA FRANCE  |FR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22435
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL HD
-http://xpro.one-iptv.com:25443/client/client123/9324
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Canal cinema
-http://xpro.one-iptv.com:25443/client/client123/15195
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Canal Cinema HD
-http://xpro.one-iptv.com:25443/client/client123/9332
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL DECALE
-http://xpro.one-iptv.com:25443/client/client123/15194
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Canal Decale HD
-http://xpro.one-iptv.com:25443/client/client123/9331
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Canal family
-http://xpro.one-iptv.com:25443/client/client123/15193
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Canal Family HD
-http://xpro.one-iptv.com:25443/client/client123/9330
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL SERIE
-http://xpro.one-iptv.com:25443/client/client123/15192
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Canal Series HD
-http://xpro.one-iptv.com:25443/client/client123/9328
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OCS CHOC
-http://xpro.one-iptv.com:25443/client/client123/15140
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OCS CHOC HD
-http://xpro.one-iptv.com:25443/client/client123/9247
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OCS CITY
-http://xpro.one-iptv.com:25443/client/client123/15223
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OCS CITY HD
-http://xpro.one-iptv.com:25443/client/client123/9246
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OCS GEANTS
-http://xpro.one-iptv.com:25443/client/client123/15139
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OCS GEANT HD
-http://xpro.one-iptv.com:25443/client/client123/9245
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OCS MAX
-http://xpro.one-iptv.com:25443/client/client123/15222
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OCS MAX HD
-http://xpro.one-iptv.com:25443/client/client123/9244
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL PLAY 1
-http://xpro.one-iptv.com:25443/client/client123/9322
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL PLAY 2
-http://xpro.one-iptv.com:25443/client/client123/9321
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL PLAY 3
-http://xpro.one-iptv.com:25443/client/client123/9320
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL PLAY 4
-http://xpro.one-iptv.com:25443/client/client123/9319
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL PLAY 5
-http://xpro.one-iptv.com:25443/client/client123/9318
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL PLAY 6
-http://xpro.one-iptv.com:25443/client/client123/9317
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL PLAY 7
-http://xpro.one-iptv.com:25443/client/client123/9316
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE CLASSIC
-http://xpro.one-iptv.com:25443/client/client123/15187
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE CLASSIC HD
-http://xpro.one-iptv.com:25443/client/client123/9311
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE EMOTION
-http://xpro.one-iptv.com:25443/client/client123/15186
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE EMOTION HD
-http://xpro.one-iptv.com:25443/client/client123/9309
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Cine Famiz HD
-http://xpro.one-iptv.com:25443/client/client123/9307
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE FRISSON +
-http://xpro.one-iptv.com:25443/client/client123/15185
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE FRISSON HD
-http://xpro.one-iptv.com:25443/client/client123/9304
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE FX
-http://xpro.one-iptv.com:25443/client/client123/9302
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE POLAR HD
-http://xpro.one-iptv.com:25443/client/client123/9301
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| cine premier
-http://xpro.one-iptv.com:25443/client/client123/15230
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE PREMIER HD
-http://xpro.one-iptv.com:25443/client/client123/9300
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ACTION
-http://xpro.one-iptv.com:25443/client/client123/15214
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ACTION HD
-http://xpro.one-iptv.com:25443/client/client123/9356
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| tmc
-http://xpro.one-iptv.com:25443/client/client123/15119
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TMC HD
-http://xpro.one-iptv.com:25443/client/client123/9194
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Paramount Channel
-http://xpro.one-iptv.com:25443/client/client123/15138
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Fr BET Full HD ++
-http://xpro.one-iptv.com:25443/client/client123/30708
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PARAMOUNT CHANNEL HD
-http://xpro.one-iptv.com:25443/client/client123/9240
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",###### -- |FR| ORANGE FRANCE  |FR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22431
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE CINE 1
-http://xpro.one-iptv.com:25443/client/client123/15247
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE CINE 2 +
-http://xpro.one-iptv.com:25443/client/client123/15246
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE CINE 3
-http://xpro.one-iptv.com:25443/client/client123/15245
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE CINE 4
-http://xpro.one-iptv.com:25443/client/client123/15244
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE CINE 5
-http://xpro.one-iptv.com:25443/client/client123/15243
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE CINE 6
-http://xpro.one-iptv.com:25443/client/client123/15242
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE CINE 7
-http://xpro.one-iptv.com:25443/client/client123/15241
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE CINE 8
-http://xpro.one-iptv.com:25443/client/client123/15240
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE CINE Action HD
-http://xpro.one-iptv.com:25443/client/client123/15239
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE CINE Aventure
-http://xpro.one-iptv.com:25443/client/client123/15238
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE CINE Aventure HD
-http://xpro.one-iptv.com:25443/client/client123/15237
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Orange Cine horreur HD
-http://xpro.one-iptv.com:25443/client/client123/9242
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE COMMENT C'EST FAIT
-http://xpro.one-iptv.com:25443/client/client123/15236
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE Documentaire
-http://xpro.one-iptv.com:25443/client/client123/15235
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ORANGE ENQUETE EXCLUSIVE
-http://xpro.one-iptv.com:25443/client/client123/15234
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Orange enquete exclusive HD
-http://xpro.one-iptv.com:25443/client/client123/9241
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| A LA CARTE 1
-http://xpro.one-iptv.com:25443/client/client123/9201
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| A LA CARTE 3
-http://xpro.one-iptv.com:25443/client/client123/9200
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| A LA CARTE 4
-http://xpro.one-iptv.com:25443/client/client123/9199
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| A LA CARTE 5
-http://xpro.one-iptv.com:25443/client/client123/9203
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| A LA CARTE 6
-http://xpro.one-iptv.com:25443/client/client123/9202
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| A LA CARTE 7
-http://xpro.one-iptv.com:25443/client/client123/9362
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| A LA CARTE 8
-http://xpro.one-iptv.com:25443/client/client123/9361
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| A LA CARTE 9
-http://xpro.one-iptv.com:25443/client/client123/9360
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| A LA CARTE 10
-http://xpro.one-iptv.com:25443/client/client123/9363
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",###### -- |FR| SPORT FRANCE  |FR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22430
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports 1
-http://xpro.one-iptv.com:25443/client/client123/15204
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORT 1 HD
-http://xpro.one-iptv.com:25443/client/client123/9340
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORT 1 HD (BACKUP)
-http://xpro.one-iptv.com:25443/client/client123/9345
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports 2
-http://xpro.one-iptv.com:25443/client/client123/15203
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORT 2 HD
-http://xpro.one-iptv.com:25443/client/client123/9339
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORT 2 HD (BACKUP)
-http://xpro.one-iptv.com:25443/client/client123/9344
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports 3
-http://xpro.one-iptv.com:25443/client/client123/15202
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR|  BEIN SPORT 3 HD
-http://xpro.one-iptv.com:25443/client/client123/9341
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORT 3 HD +
-http://xpro.one-iptv.com:25443/client/client123/9343
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 4
-http://xpro.one-iptv.com:25443/client/client123/15210
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 5
-http://xpro.one-iptv.com:25443/client/client123/15209
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 6
-http://xpro.one-iptv.com:25443/client/client123/15208
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 7
-http://xpro.one-iptv.com:25443/client/client123/15207
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 8 FHD
-http://xpro.one-iptv.com:25443/client/client123/15206
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 9 FHD
-http://xpro.one-iptv.com:25443/client/client123/15205
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 10 FHD
-http://xpro.one-iptv.com:25443/client/client123/15211
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC Sport 1
-http://xpro.one-iptv.com:25443/client/client123/15127
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC Sport 1 HD
-http://xpro.one-iptv.com:25443/client/client123/9218
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC Sport 2
-http://xpro.one-iptv.com:25443/client/client123/15126
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC Sport 2 HD
-http://xpro.one-iptv.com:25443/client/client123/9217
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC Sport 3
-http://xpro.one-iptv.com:25443/client/client123/15125
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC Sport 3 HD
-http://xpro.one-iptv.com:25443/client/client123/9216
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC SPORT 5
-http://xpro.one-iptv.com:25443/client/client123/15124
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC Sport 5 HD
-http://xpro.one-iptv.com:25443/client/client123/9215
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BFM SPORT
-http://xpro.one-iptv.com:25443/client/client123/9337
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL SPORT HD
-http://xpro.one-iptv.com:25443/client/client123/15191
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Eurosport
-http://xpro.one-iptv.com:25443/client/client123/15172
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EUROSPORT1
-http://xpro.one-iptv.com:25443/client/client123/9281
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Eurosport 2 FR
-http://xpro.one-iptv.com:25443/client/client123/9280
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EUROSPORT2
-http://xpro.one-iptv.com:25443/client/client123/9279
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EXTREME SPORTS
-http://xpro.one-iptv.com:25443/client/client123/15227
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| INFOSPORT
-http://xpro.one-iptv.com:25443/client/client123/15156
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| INFOSPORT HD
-http://xpro.one-iptv.com:25443/client/client123/9265
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MOTORSPORT TV
-http://xpro.one-iptv.com:25443/client/client123/15147
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| L EQUIPE 21
-http://xpro.one-iptv.com:25443/client/client123/15155
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| L'EQUIPE 21 HD
-http://xpro.one-iptv.com:25443/client/client123/9264
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OLTV HD
-http://xpro.one-iptv.com:25443/client/client123/9243
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OMTV HD
-http://xpro.one-iptv.com:25443/client/client123/30599
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| AB Moteur HD
-http://xpro.one-iptv.com:25443/client/client123/9359
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EQUIDIA LIFE
-http://xpro.one-iptv.com:25443/client/client123/15228
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EQUIDIA LIFE HD
-http://xpro.one-iptv.com:25443/client/client123/9283
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Equidia Live
-http://xpro.one-iptv.com:25443/client/client123/15173
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EQUIDIA LIVE HD
-http://xpro.one-iptv.com:25443/client/client123/9282
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GOLF  HD
-http://xpro.one-iptv.com:25443/client/client123/9270
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GOLF HD
-http://xpro.one-iptv.com:25443/client/client123/15161
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GOLF CHANNEL
-http://xpro.one-iptv.com:25443/client/client123/15162
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GOLF  CHANNEL HD
-http://xpro.one-iptv.com:25443/client/client123/9378
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Golf+ FHD
-http://xpro.one-iptv.com:25443/client/client123/43446
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Golf+ HD
-http://xpro.one-iptv.com:25443/client/client123/43445
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",###### -- |FR|  ENFANTS FRANCE  |FR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22437
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISNEY CHANNEL
-http://xpro.one-iptv.com:25443/client/client123/15178
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISNEY CHANNEL HD
-http://xpro.one-iptv.com:25443/client/client123/9290
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Disney Junior +
-http://xpro.one-iptv.com:25443/client/client123/15177
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR|  DISNEY JUNIOR HD
-http://xpro.one-iptv.com:25443/client/client123/9369
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISNEY JUNIOR HD
-http://xpro.one-iptv.com:25443/client/client123/9287
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISNEY CINEMA
-http://xpro.one-iptv.com:25443/client/client123/15229
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISNEY CINEMA HD
-http://xpro.one-iptv.com:25443/client/client123/9288
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISNEY XD
-http://xpro.one-iptv.com:25443/client/client123/15176
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISNEY XD HD
-http://xpro.one-iptv.com:25443/client/client123/9286
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NICKELODEON
-http://xpro.one-iptv.com:25443/client/client123/15143
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NICKELODEON HD
-http://xpro.one-iptv.com:25443/client/client123/9251
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Nick Jr
-http://xpro.one-iptv.com:25443/client/client123/9252
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NICKELODEON JUNIOR
-http://xpro.one-iptv.com:25443/client/client123/15225
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NICKELODEON JUNIOR HD
-http://xpro.one-iptv.com:25443/client/client123/9250
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TELETOON HD
-http://xpro.one-iptv.com:25443/client/client123/9373
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PIWI
-http://xpro.one-iptv.com:25443/client/client123/15136
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PIWI HD
-http://xpro.one-iptv.com:25443/client/client123/9237
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Zouzous
-http://xpro.one-iptv.com:25443/client/client123/15109
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Zouzou TV
-http://xpro.one-iptv.com:25443/client/client123/9204
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Canal J
-http://xpro.one-iptv.com:25443/client/client123/15231
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL J HD
-http://xpro.one-iptv.com:25443/client/client123/9323
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Tiji
-http://xpro.one-iptv.com:25443/client/client123/15120
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TIJI HD
-http://xpro.one-iptv.com:25443/client/client123/9209
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Boomerang
-http://xpro.one-iptv.com:25443/client/client123/15198
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BOOMERANG HD
-http://xpro.one-iptv.com:25443/client/client123/9334
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Boing
-http://xpro.one-iptv.com:25443/client/client123/15199
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BOING HD
-http://xpro.one-iptv.com:25443/client/client123/9335
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Cartoon Network HD
-http://xpro.one-iptv.com:25443/client/client123/9315
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CARTOON NETWORK
-http://xpro.one-iptv.com:25443/client/client123/15190
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR|  CARTOON NETWORK  HD
-http://xpro.one-iptv.com:25443/client/client123/9371
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GameOne
-http://xpro.one-iptv.com:25443/client/client123/15163
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GAME ONE HD
-http://xpro.one-iptv.com:25443/client/client123/9271
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Gulli
-http://xpro.one-iptv.com:25443/client/client123/15160
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GULLI HD
-http://xpro.one-iptv.com:25443/client/client123/9269
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MANGAS
-http://xpro.one-iptv.com:25443/client/client123/15152
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MANGAS HD
-http://xpro.one-iptv.com:25443/client/client123/9257
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| J ONE Full HD +
-http://xpro.one-iptv.com:25443/client/client123/30600
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",###### -- |FR| CULTURE FRANCE  |FR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22434
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PLANETE
-http://xpro.one-iptv.com:25443/client/client123/15135
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PLANETE  HD
-http://xpro.one-iptv.com:25443/client/client123/9236
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PLANETE A&E
-http://xpro.one-iptv.com:25443/client/client123/15134
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PLANETE A&E HD
-http://xpro.one-iptv.com:25443/client/client123/9235
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Planete ci
-http://xpro.one-iptv.com:25443/client/client123/15133
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PLANETE CI HD
-http://xpro.one-iptv.com:25443/client/client123/9234
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISCOVERY
-http://xpro.one-iptv.com:25443/client/client123/15180
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISCOVERY HD
-http://xpro.one-iptv.com:25443/client/client123/9292
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISCOVERY FAMILY HD
-http://xpro.one-iptv.com:25443/client/client123/30662
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Discovery Science
-http://xpro.one-iptv.com:25443/client/client123/15179
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISCOVERY SCIENCE HD
-http://xpro.one-iptv.com:25443/client/client123/9291
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NATIONAL GEOGRAPHIC
-http://xpro.one-iptv.com:25443/client/client123/15144
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR|  NATIONAL GEOGRAPHIC HD
-http://xpro.one-iptv.com:25443/client/client123/9368
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NAT GEO WILD
-http://xpro.one-iptv.com:25443/client/client123/15145
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR|  Nat Geo Wild  HD
-http://xpro.one-iptv.com:25443/client/client123/9367
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NATIONAL GEO WILD HD
-http://xpro.one-iptv.com:25443/client/client123/9254
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Science et Vie
-http://xpro.one-iptv.com:25443/client/client123/15129
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| SCIENCES & VIE
-http://xpro.one-iptv.com:25443/client/client123/9228
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| SCIENCE ET VIE HD
-http://xpro.one-iptv.com:25443/client/client123/9229
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Animaux
-http://xpro.one-iptv.com:25443/client/client123/15213
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ANIMAUX HD
-http://xpro.one-iptv.com:25443/client/client123/9355
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| USHUAIA TV
-http://xpro.one-iptv.com:25443/client/client123/15115
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| USHUAIA  HD
-http://xpro.one-iptv.com:25443/client/client123/9205
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC Decouverte
-http://xpro.one-iptv.com:25443/client/client123/15131
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC DECOUVERTE HD
-http://xpro.one-iptv.com:25443/client/client123/9233
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| VOYAGE
-http://xpro.one-iptv.com:25443/client/client123/15112
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| VOYAGE HD
-http://xpro.one-iptv.com:25443/client/client123/9191
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TREK
-http://xpro.one-iptv.com:25443/client/client123/15117
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TREK HD
-http://xpro.one-iptv.com:25443/client/client123/9193
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Chasse et Peche HD
-http://xpro.one-iptv.com:25443/client/client123/15189
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Chasse et Peche
-http://xpro.one-iptv.com:25443/client/client123/9314
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| SEASON
-http://xpro.one-iptv.com:25443/client/client123/15128
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Seasons HD
-http://xpro.one-iptv.com:25443/client/client123/9227
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CRIME DISTRICT HD
-http://xpro.one-iptv.com:25443/client/client123/9296
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| HISTOIRE
-http://xpro.one-iptv.com:25443/client/client123/15158
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| toute l'histoire
-http://xpro.one-iptv.com:25443/client/client123/15118
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TOUTE L HISTOIRE
-http://xpro.one-iptv.com:25443/client/client123/9208
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",###### -- |FR| NEWS FRANCE  |FR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22432
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EURONEWS
-http://xpro.one-iptv.com:25443/client/client123/9376
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE 24
-http://xpro.one-iptv.com:25443/client/client123/9197
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France24
-http://xpro.one-iptv.com:25443/client/client123/15164
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| bfm
-http://xpro.one-iptv.com:25443/client/client123/15201
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BFM TV HD
-http://xpro.one-iptv.com:25443/client/client123/9336
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BFM Business
-http://xpro.one-iptv.com:25443/client/client123/15200
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BFM BUSINESS HD
-http://xpro.one-iptv.com:25443/client/client123/9338
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| LCI
-http://xpro.one-iptv.com:25443/client/client123/9261
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France INFO
-http://xpro.one-iptv.com:25443/client/client123/15166
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| C News
-http://xpro.one-iptv.com:25443/client/client123/15197
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TV5 MONDE
-http://xpro.one-iptv.com:25443/client/client123/9192
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCEE INFO HD
-http://xpro.one-iptv.com:25443/client/client123/43444
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",###### -- |FR| MUSIC FRANCE  |FR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22433
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| M6 MUSIC HD
-http://xpro.one-iptv.com:25443/client/client123/15153
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TRACE URBAN
-http://xpro.one-iptv.com:25443/client/client123/15218
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TRACE URBAN HD
-http://xpro.one-iptv.com:25443/client/client123/9207
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MTV
-http://xpro.one-iptv.com:25443/client/client123/15146
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MCM
-http://xpro.one-iptv.com:25443/client/client123/15151
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MCM HD
-http://xpro.one-iptv.com:25443/client/client123/9256
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MCM TOP
-http://xpro.one-iptv.com:25443/client/client123/15150
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MCM TOP HD
-http://xpro.one-iptv.com:25443/client/client123/9255
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RFM TV
-http://xpro.one-iptv.com:25443/client/client123/15132
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NRJ Hits FULL HD
-http://xpro.one-iptv.com:25443/client/client123/9249
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MEZZO
-http://xpro.one-iptv.com:25443/client/client123/15149
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MEZZO LIVE
-http://xpro.one-iptv.com:25443/client/client123/15148
 
 
 
@@ -6140,7 +5606,366 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?time=1472170398067
 
 #EXTINF:-1 group-title="Latino-SERVER1",
 
-
+#EXTINF:-1 group-title="Latino-SERVER1",A&E
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30530
+#EXTINF:-1 group-title="Latino-SERVER1",A3 SERIES
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30529
+#EXTINF:-1 group-title="Latino-SERVER1",ADN40
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30579
+#EXTINF:-1 group-title="Latino-SERVER1",AFORE AZTECA
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30503
+#EXTINF:-1 group-title="Latino-SERVER1",ALJAZZERA
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30558
+#EXTINF:-1 group-title="Latino-SERVER1",AMC
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30436
+#EXTINF:-1 group-title="Latino-SERVER1",AMC_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30441
+#EXTINF:-1 group-title="Latino-SERVER1",ANIMAL PLANET
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30496
+#EXTINF:-1 group-title="Latino-SERVER1",ANTENA 3
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30543
+#EXTINF:-1 group-title="Latino-SERVER1",AXN
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30528
+#EXTINF:-1 group-title="Latino-SERVER1",AZTECA 1
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30564
+#EXTINF:-1 group-title="Latino-SERVER1",AZTECA 7
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30538
+#EXTINF:-1 group-title="Latino-SERVER1",AZTECA CINEMA
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30446
+#EXTINF:-1 group-title="Latino-SERVER1",AZTECA CLICK
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30588
+#EXTINF:-1 group-title="Latino-SERVER1",AZTECA CORAZON
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30491
+#EXTINF:-1 group-title="Latino-SERVER1",AZTECA MUNDO
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30479
+#EXTINF:-1 group-title="Latino-SERVER1",AZTECA UNO_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30590
+#EXTINF:-1 group-title="Latino-SERVER1",AZTECA_UNO
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30536
+#EXTINF:-1 group-title="Latino-SERVER1",BABY TV
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30545
+#EXTINF:-1 group-title="Latino-SERVER1",BANDAMAX
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30412
+#EXTINF:-1 group-title="Latino-SERVER1",BBC WORLD NEWS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30560
+#EXTINF:-1 group-title="Latino-SERVER1",BLOOMBERG
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30561
+#EXTINF:-1 group-title="Latino-SERVER1",BLOOMBERG.
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30519
+#EXTINF:-1 group-title="Latino-SERVER1",BOOMERANG
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30470
+#EXTINF:-1 group-title="Latino-SERVER1",CADEND TV
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30575
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL 11
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30583
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL 2 MX
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30523
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL 26
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30526
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL 4
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30501
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL 5
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30586
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL 7
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30585
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL 8
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30509
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL DE LAS ESTRELLAS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30539
+#EXTINF:-1 group-title="Latino-SERVER1",Canal del congreso
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30504
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL JUDICIAL
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30548
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL109
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30584
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL1873
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30563
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL1935
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30555
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL1938
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30554
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL1952
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30550
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL1989
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30544
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL2130
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30527
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL2316
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30507
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL2355
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30502
+#EXTINF:-1 group-title="Latino-SERVER1",STUDIO UNIVERSAL
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30485
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL470
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30439
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL7
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30556
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL_7
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30559
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL_7 -1
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30557
+#EXTINF:-1 group-title="Latino-SERVER1",CANAL_7 -2
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30551
+#EXTINF:-1 group-title="Latino-SERVER1",CARTOON NETWORK
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30472
+#EXTINF:-1 group-title="Latino-SERVER1",CINECANAL_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30445
+#EXTINF:-1 group-title="Latino-SERVER1",CINEMAX
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30438
+#EXTINF:-1 group-title="Latino-SERVER1",CNN ESP_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30565
+#EXTINF:-1 group-title="Latino-SERVER1",CNN INT
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30567
+#EXTINF:-1 group-title="Latino-SERVER1",CNN_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30566
+#EXTINF:-1 group-title="Latino-SERVER1",COMEDY CENTRAL
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30518
+#EXTINF:-1 group-title="Latino-SERVER1",COMEDY CENTRAL_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30466
+#EXTINF:-1 group-title="Latino-SERVER1",DE PELICULA
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30442
+#EXTINF:-1 group-title="Latino-SERVER1",DE PELICULA_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30467
+#EXTINF:-1 group-title="Latino-SERVER1",DISCOVERY CHANNEL
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30461
+#EXTINF:-1 group-title="Latino-SERVER1",DISCOVERY CIVILIZATION
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30455
+#EXTINF:-1 group-title="Latino-SERVER1",DISCOVERY HH
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30459
+#EXTINF:-1 group-title="Latino-SERVER1",DISCOVERY ID
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30498
+#EXTINF:-1 group-title="Latino-SERVER1",DISCOVERY KIDS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30497
+#EXTINF:-1 group-title="Latino-SERVER1",DISCOVERY SCI
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30456
+#EXTINF:-1 group-title="Latino-SERVER1",DISCOVERY TH
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30465
+#EXTINF:-1 group-title="Latino-SERVER1",DISCOVERY TURBO.
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30495
+#EXTINF:-1 group-title="Latino-SERVER1",DISCOVERY WORLD
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30462
+#EXTINF:-1 group-title="Latino-SERVER1",DISCOVERY WORLD_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30410
+#EXTINF:-1 group-title="Latino-SERVER1",DISNEY CHANNEL
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30476
+#EXTINF:-1 group-title="Latino-SERVER1",DISNEY JR
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30478
+#EXTINF:-1 group-title="Latino-SERVER1",DISNEY XD
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30471
+#EXTINF:-1 group-title="Latino-SERVER1",DISTRITO COMEDIA
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30482
+#EXTINF:-1 group-title="Latino-SERVER1",DW
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30421
+#EXTINF:-1 group-title="Latino-SERVER1",E TV
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30578
+#EXTINF:-1 group-title="Latino-SERVER1",E!
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30489
+#EXTINF:-1 group-title="Latino-SERVER1",ESPN
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30425
+#EXTINF:-1 group-title="Latino-SERVER1",ESPN 2
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30424
+#EXTINF:-1 group-title="Latino-SERVER1",ESPN 3
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30429
+#EXTINF:-1 group-title="Latino-SERVER1",ESPN NETWORK
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30514
+#EXTINF:-1 group-title="Latino-SERVER1",ESPN PLUS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30431
+#EXTINF:-1 group-title="Latino-SERVER1",ESPN U
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30513
+#EXTINF:-1 group-title="Latino-SERVER1",Europa Europa
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30581
+#EXTINF:-1 group-title="Latino-SERVER1",FILM & ART
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30580
+#EXTINF:-1 group-title="Latino-SERVER1",FOOD NETWORK
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30525
+#EXTINF:-1 group-title="Latino-SERVER1",FORMULA TV
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30577
+#EXTINF:-1 group-title="Latino-SERVER1",FOX
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30542
+#EXTINF:-1 group-title="Latino-SERVER1",FOX ACTION
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30450
+#EXTINF:-1 group-title="Latino-SERVER1",FOX CH
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30490
+#EXTINF:-1 group-title="Latino-SERVER1",FOX CINEMA
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30448
+#EXTINF:-1 group-title="Latino-SERVER1",FOX CLASSICS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30447
+#EXTINF:-1 group-title="Latino-SERVER1",FOX MOVIE
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30449
+#EXTINF:-1 group-title="Latino-SERVER1",FOX NEWS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30562
+#EXTINF:-1 group-title="Latino-SERVER1",FOX SERIES
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30451
+#EXTINF:-1 group-title="Latino-SERVER1",FOX SPORT1
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30428
+#EXTINF:-1 group-title="Latino-SERVER1",FOX SPORT2
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30427
+#EXTINF:-1 group-title="Latino-SERVER1",FOX SPORT2_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30409
+#EXTINF:-1 group-title="Latino-SERVER1",FOX SPORTS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30574
+#EXTINF:-1 group-title="Latino-SERVER1",FOX SPORTS 2
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30572
+#EXTINF:-1 group-title="Latino-SERVER1",FOX SPORTS 3
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30569
+#EXTINF:-1 group-title="Latino-SERVER1",FOX LIFE
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30483
+#EXTINF:-1 group-title="Latino-SERVER1",FX
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30531
+#EXTINF:-1 group-title="Latino-SERVER1",GALA TV
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30537
+#EXTINF:-1 group-title="Latino-SERVER1",GLITZ
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30484
+#EXTINF:-1 group-title="Latino-SERVER1",GOLDEN
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30582
+#EXTINF:-1 group-title="Latino-SERVER1",GOLDEN EDG
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30437
+#EXTINF:-1 group-title="Latino-SERVER1",GOLDEN PLUS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30443
+#EXTINF:-1 group-title="Latino-SERVER1",GOLF CH
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30568
+#EXTINF:-1 group-title="Latino-SERVER1",HISTORY
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30464
+#EXTINF:-1 group-title="Latino-SERVER1",HLN
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30547
+#EXTINF:-1 group-title="Latino-SERVER1",HOLA TV
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30516
+#EXTINF:-1 group-title="Latino-SERVER1",i CLASSIC
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30414
+#EXTINF:-1 group-title="Latino-SERVER1",IMAGEN TV
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30511
+#EXTINF:-1 group-title="Latino-SERVER1",IMAGEN TV.
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30492
+#EXTINF:-1 group-title="Latino-SERVER1",INGENION TV
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30452
+#EXTINF:-1 group-title="Latino-SERVER1",ISAT_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30433
+#EXTINF:-1 group-title="Latino-SERVER1",ITV
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30532
+#EXTINF:-1 group-title="Latino-SERVER1",LAS ESTRELLAS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30589
+#EXTINF:-1 group-title="Latino-SERVER1",LAS ESTRELLAS -2
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30430
+#EXTINF:-1 group-title="Latino-SERVER1",LAS ESTRELLAS._
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30571
+#EXTINF:-1 group-title="Latino-SERVER1",LAS ESTRELLA_.
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30434
+#EXTINF:-1 group-title="Latino-SERVER1",LIFETIME
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30457
+#EXTINF:-1 group-title="Latino-SERVER1",MAS CHIC
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30515
+#EXTINF:-1 group-title="Latino-SERVER1",MTV LIVE
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30419
+#EXTINF:-1 group-title="Latino-SERVER1",MTV NEWS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30416
+#EXTINF:-1 group-title="Latino-SERVER1",MTV_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30415
+#EXTINF:-1 group-title="Latino-SERVER1",MULTIMEDIOS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30510
+#EXTINF:-1 group-title="Latino-SERVER1",MULTIMEDIOS P.
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30576
+#EXTINF:-1 group-title="Latino-SERVER1",NAT GEO KIDS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30500
+#EXTINF:-1 group-title="Latino-SERVER1",NAT GEO WILD
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30463
+#EXTINF:-1 group-title="Latino-SERVER1",NATGEO
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30458
+#EXTINF:-1 group-title="Latino-SERVER1",NICK
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30474
+#EXTINF:-1 group-title="Latino-SERVER1",NICK 2
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30524
+#EXTINF:-1 group-title="Latino-SERVER1",NICK JR
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30477
+#EXTINF:-1 group-title="Latino-SERVER1",NICKTOONS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30475
+#EXTINF:-1 group-title="Latino-SERVER1",NICK_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30473
+#EXTINF:-1 group-title="Latino-SERVER1",NTN24
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30553
+#EXTINF:-1 group-title="Latino-SERVER1",OCHO TV
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30534
+#EXTINF:-1 group-title="Latino-SERVER1",PARAMOUNT
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30573
+#EXTINF:-1 group-title="Latino-SERVER1",PX SPORTS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30426
+#EXTINF:-1 group-title="Latino-SERVER1",Q PLUS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30512
+#EXTINF:-1 group-title="Latino-SERVER1",RMS_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30413
+#EXTINF:-1 group-title="Latino-SERVER1",FXM
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30533
+#EXTINF:-1 group-title="Latino-SERVER1",SENDERO
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30506
+#EXTINF:-1 group-title="Latino-SERVER1",SHE
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30546
+#EXTINF:-1 group-title="Latino-SERVER1",SONY
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30541
+#EXTINF:-1 group-title="Latino-SERVER1",SPACE
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30440
+#EXTINF:-1 group-title="Latino-SERVER1",SPACE_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30435
+#EXTINF:-1 group-title="Latino-SERVER1",STAR TVE
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30499
+#EXTINF:-1 group-title="Latino-SERVER1",SUNDANCE
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30420
+#EXTINF:-1 group-title="Latino-SERVER1",SYFY
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30488
+#EXTINF:-1 group-title="Latino-SERVER1",TBS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30481
+#EXTINF:-1 group-title="Latino-SERVER1",TCM
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30432
+#EXTINF:-1 group-title="Latino-SERVER1",TELEHIT
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30418
+#EXTINF:-1 group-title="Latino-SERVER1",TELENOVELAS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30480
+#EXTINF:-1 group-title="Latino-SERVER1",TELEVISA
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30508
+#EXTINF:-1 group-title="Latino-SERVER1",TELEVISA.
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30549
+#EXTINF:-1 group-title="Latino-SERVER1",TIIN
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30469
+#EXTINF:-1 group-title="Latino-SERVER1",TLC
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30494
+#EXTINF:-1 group-title="Latino-SERVER1",TLC.
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30454
+#EXTINF:-1 group-title="Latino-SERVER1",TLR
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30552
+#EXTINF:-1 group-title="Latino-SERVER1",TNT
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30444
+#EXTINF:-1 group-title="Latino-SERVER1",TNT SERIES
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30486
+#EXTINF:-1 group-title="Latino-SERVER1",TOONCAST
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30468
+#EXTINF:-1 group-title="Latino-SERVER1",TP AZTECA_UNO
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30570
+#EXTINF:-1 group-title="Latino-SERVER1",TRU TV
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30522
+#EXTINF:-1 group-title="Latino-SERVER1",TV MAS
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30505
+#EXTINF:-1 group-title="Latino-SERVER1",TV UNAME
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30587
+#EXTINF:-1 group-title="Latino-SERVER1",TV5 FRANCIA
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30493
+#EXTINF:-1 group-title="Latino-SERVER1",TVCD
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30520
+#EXTINF:-1 group-title="Latino-SERVER1",TVE
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30422
+#EXTINF:-1 group-title="Latino-SERVER1",TVO
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30521
+#EXTINF:-1 group-title="Latino-SERVER1",UNICABLE
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30517
+#EXTINF:-1 group-title="Latino-SERVER1",UNIVERSAL
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30535
+#EXTINF:-1 group-title="Latino-SERVER1",VH1 CLASSIC
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30417
+#EXTINF:-1 group-title="Latino-SERVER1",VH1_
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30411
+#EXTINF:-1 group-title="Latino-SERVER1",VTV
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30423
+#EXTINF:-1 group-title="Latino-SERVER1",WARNER CH
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30540
+#EXTINF:-1 group-title="Latino-SERVER1",WOBI
+http://wohuogai.com:58000/7665tjgcrtruFUUKJHJGHDRY56/5434566rhfGSTDFYGu576tyghj/30453
 
 
 
@@ -11576,165 +11401,6 @@ http://www.sansat.net:25461/029935610678/029935610678/25811
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_TUNISIE_NAT1_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/57.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_TUNISIE_NAT2_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/58.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Elhiwar_Ettounsi
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/91.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ATTESSIA_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/56.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ZITOUNA
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/60.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Dzair_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/93.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Aouala
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/55.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_2M_MAROC
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/44.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_medi1afrique
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/95.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Libya_Hadash
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/79.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Libya_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/81.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Libya_One
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/78.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Libya218
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/77.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Libya_24
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/80.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_MBC_1
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/61.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_MBC_2
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/65.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_MBC_4
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/62.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_MTV_lebenon
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/103.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ROTANA_KHALIJIA_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/125.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_BAHRAIN_SPORTS
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/140.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_BAHRAIN_QURAN
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/139.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_BAHRAIN_INTERNATIONAL
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/138.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_TOYOR_ALJANAH
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/126.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_BAHRAIN_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/137.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Al_Jazeera_Documentaire
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/46.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Al_Arabiya
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/38.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Al_Hadath
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/40.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_FRANCE_24_AR
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/20.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Sky_News_Arabic
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/45.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_BBC_Arabic
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/28.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ALAAN_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/19.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_RUSSIA ALYAOUM_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/88.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_hiwar_news
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/67.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Alalam_news
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/97.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_ALIKHBARIYA_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/3.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Space_Toon
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/75.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Majed_Kids
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/76.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Iqraa
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/68.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Makkah_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/89.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_SONNA_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/5.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_QURAN_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/4.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_THAKAFIYA_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/6.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DUBAI_ONE_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/15.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ABUDHABI_Emirat
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/70.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_AD_Drama
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/69.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_CBC_Drama
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/42.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Nahar_Drama_Egypt
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/72.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Palestine
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/101.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ALMAYADEEN_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/87.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_TRT_Arabiya
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/73.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Nahar_TV_Egypt
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/71.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Jordon_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/74.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ALCHARQIYA
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/98.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Al_Manar_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/54.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ALRAI_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/50.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Syrian_Drama
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/29.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAMA_SYRIA
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/36.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SHARQIYA_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/37.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ON_E
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/43.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_Qatar_TV_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/27.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_ABU_DHABI_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/53.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_2_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/1.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_1_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/2.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAMA_DUBAI_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/12.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_NOUR_DUBAI
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/16.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_FUTURE_TV
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/17.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DW_AR
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/22.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DUBAI_ZAMAN
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/11.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DUBAI_TV_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/10.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SHARJAH_SPORTS
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/39.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_SAUDI_RIYADHIYA_1_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/9.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DUBAI_RACING_1_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/13.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DUBAI_RACING_2_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/14.ts
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",|AR|_DUBAI_SPORTS_3_HD
-http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.ts
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -11745,1468 +11411,6 @@ http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.ts
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| SPORT BEIN ARABIC   |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22460
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",*#*> SPORT BEIN ARABIA <*#*
-http://xpro.one-iptv.com:25443/client/client123/9166
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS HD +
-http://xpro.one-iptv.com:25443/client/client123/9156
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sport 1SD
-http://xpro.one-iptv.com:25443/client/client123/32015
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 1 HD
-http://xpro.one-iptv.com:25443/client/client123/9131
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 1 HD |Backup|
-http://xpro.one-iptv.com:25443/client/client123/9133
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 1 FHD HEVC
-http://xpro.one-iptv.com:25443/client/client123/28265
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sport 2SD
-http://xpro.one-iptv.com:25443/client/client123/32014
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 2 HD
-http://xpro.one-iptv.com:25443/client/client123/9134
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 2 HD |Backup|
-http://xpro.one-iptv.com:25443/client/client123/9135
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 2 FHD HEVC
-http://xpro.one-iptv.com:25443/client/client123/28266
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sport 3SD
-http://xpro.one-iptv.com:25443/client/client123/32013
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 3 HD
-http://xpro.one-iptv.com:25443/client/client123/9136
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 3 HD |Backup|
-http://xpro.one-iptv.com:25443/client/client123/9137
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 3 FHD HEVC
-http://xpro.one-iptv.com:25443/client/client123/28267
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sport 4SD
-http://xpro.one-iptv.com:25443/client/client123/32012
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 4 HD
-http://xpro.one-iptv.com:25443/client/client123/9138
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 4 HD |Backup|
-http://xpro.one-iptv.com:25443/client/client123/9139
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 4 FHD HEVC
-http://xpro.one-iptv.com:25443/client/client123/28268
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sport 5SD
-http://xpro.one-iptv.com:25443/client/client123/32011
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 5 HD
-http://xpro.one-iptv.com:25443/client/client123/9140
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 5 HD |Backup|
-http://xpro.one-iptv.com:25443/client/client123/9141
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 5 FHD HEVC
-http://xpro.one-iptv.com:25443/client/client123/28269
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sport 6SD
-http://xpro.one-iptv.com:25443/client/client123/32010
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 6 HD
-http://xpro.one-iptv.com:25443/client/client123/9142
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 6 HD |Backup|
-http://xpro.one-iptv.com:25443/client/client123/9143
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 6 FHD HEVC
-http://xpro.one-iptv.com:25443/client/client123/28270
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sport 7SD
-http://xpro.one-iptv.com:25443/client/client123/32009
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 7 HD
-http://xpro.one-iptv.com:25443/client/client123/9144
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 7 HD |Backup|
-http://xpro.one-iptv.com:25443/client/client123/9145
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 7 FHD HEVC
-http://xpro.one-iptv.com:25443/client/client123/28271
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sport 8SD
-http://xpro.one-iptv.com:25443/client/client123/32008
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 8 HD
-http://xpro.one-iptv.com:25443/client/client123/9146
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 8 HD |Backup|
-http://xpro.one-iptv.com:25443/client/client123/9147
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 8 FHD HEVC
-http://xpro.one-iptv.com:25443/client/client123/39224
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sport 9SD
-http://xpro.one-iptv.com:25443/client/client123/32007
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 9 HD
-http://xpro.one-iptv.com:25443/client/client123/9148
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 9 HD |Backup|
-http://xpro.one-iptv.com:25443/client/client123/9149
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 9 FHD HEVC
-http://xpro.one-iptv.com:25443/client/client123/39225
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Sport 10SD
-http://xpro.one-iptv.com:25443/client/client123/32006
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 10 HD
-http://xpro.one-iptv.com:25443/client/client123/9150
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 10 HD |Backup|
-http://xpro.one-iptv.com:25443/client/client123/9151
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 10 FHD HEVC
-http://xpro.one-iptv.com:25443/client/client123/39226
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 11 HD (english)
-http://xpro.one-iptv.com:25443/client/client123/9153
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 12 HD (english)
-http://xpro.one-iptv.com:25443/client/client123/9154
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS 13 HD (english)
-http://xpro.one-iptv.com:25443/client/client123/9155
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",*#*> BEIN Entertainment  - Movies - Kids - Culture  <*#*
-http://xpro.one-iptv.com:25443/client/client123/9183
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD AMC HD
-http://xpro.one-iptv.com:25443/client/client123/32746
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Animal Planet HD
-http://xpro.one-iptv.com:25443/client/client123/32745
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD BabyTV HD
-http://xpro.one-iptv.com:25443/client/client123/32744
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Baraem HD
-http://xpro.one-iptv.com:25443/client/client123/32743
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Disney Channel HD
-http://xpro.one-iptv.com:25443/client/client123/32742
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Dmax HD
-http://xpro.one-iptv.com:25443/client/client123/32741
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Drama HD
-http://xpro.one-iptv.com:25443/client/client123/32740
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD DREAMWORKS HD
-http://xpro.one-iptv.com:25443/client/client123/32739
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD FATAFEAT HD
-http://xpro.one-iptv.com:25443/client/client123/32738
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Food Network HD
-http://xpro.one-iptv.com:25443/client/client123/32737
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD FOX HD
-http://xpro.one-iptv.com:25443/client/client123/32736
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Fox Movies Action HD
-http://xpro.one-iptv.com:25443/client/client123/32735
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Fox Movies Familly HD
-http://xpro.one-iptv.com:25443/client/client123/32734
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Fox Movies HD
-http://xpro.one-iptv.com:25443/client/client123/32733
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD FXHD HD
-http://xpro.one-iptv.com:25443/client/client123/32732
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Gourmet HD
-http://xpro.one-iptv.com:25443/client/client123/32731
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Jeem HD
-http://xpro.one-iptv.com:25443/client/client123/32730
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD MOVIES 1HD
-http://xpro.one-iptv.com:25443/client/client123/32759
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD MOVIES 2HD
-http://xpro.one-iptv.com:25443/client/client123/32758
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD MOVIES 3HD
-http://xpro.one-iptv.com:25443/client/client123/32757
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD MOVIES 4HD
-http://xpro.one-iptv.com:25443/client/client123/32756
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD NAT GEO PEOPLE HD
-http://xpro.one-iptv.com:25443/client/client123/32755
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Nat Geo Wild
-http://xpro.one-iptv.com:25443/client/client123/32754
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Outdoor HD
-http://xpro.one-iptv.com:25443/client/client123/32749
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD SERIE 1HD
-http://xpro.one-iptv.com:25443/client/client123/32748
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD SERIE 2HD
-http://xpro.one-iptv.com:25443/client/client123/32747
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Star Movies HD
-http://xpro.one-iptv.com:25443/client/client123/32753
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Star World HD
-http://xpro.one-iptv.com:25443/client/client123/32752
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD TMC HD
-http://xpro.one-iptv.com:25443/client/client123/32751
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",beinHD Travel Channel HD
-http://xpro.one-iptv.com:25443/client/client123/32750
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",- |AR| AD SPORT 1 +
-http://xpro.one-iptv.com:25443/client/client123/22481
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| AD Sports 1 HD +
-http://xpro.one-iptv.com:25443/client/client123/9189
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| AD Sports 2 HD
-http://xpro.one-iptv.com:25443/client/client123/9188
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| AD Sports 3 HD
-http://xpro.one-iptv.com:25443/client/client123/9187
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| AD Sports 4 HD
-http://xpro.one-iptv.com:25443/client/client123/9186
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| AD Sports 5 HD
-http://xpro.one-iptv.com:25443/client/client123/9185
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| AD Sports 6 HD
-http://xpro.one-iptv.com:25443/client/client123/9184
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| OSN ARABIA |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22461
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| ALSAFWA
-http://xpro.one-iptv.com:25443/client/client123/39281
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| ALYOUM HD
-http://xpro.one-iptv.com:25443/client/client123/39280
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| ANIMAL PLANET HD
-http://xpro.one-iptv.com:25443/client/client123/39249
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| BBC FIRST HD
-http://xpro.one-iptv.com:25443/client/client123/39232
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| BOXOFFICE 1 HD
-http://xpro.one-iptv.com:25443/client/client123/39252
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| BOXOFFICE 2 HD
-http://xpro.one-iptv.com:25443/client/client123/39251
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| BOXOFFICE 3 HD
-http://xpro.one-iptv.com:25443/client/client123/39250
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| CINEMA 1 HD
-http://xpro.one-iptv.com:25443/client/client123/39275
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| CINEMA 2 HD
-http://xpro.one-iptv.com:25443/client/client123/39274
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| COMEDY CENTRAL HD
-http://xpro.one-iptv.com:25443/client/client123/39255
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| DISCOVERY CHANNEL HD
-http://xpro.one-iptv.com:25443/client/client123/39248
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| DISCOVERY FAMILY HD
-http://xpro.one-iptv.com:25443/client/client123/39246
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| DISCOVERY IDX HD
-http://xpro.one-iptv.com:25443/client/client123/39245
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| DISCOVERY SCIENCE HD
-http://xpro.one-iptv.com:25443/client/client123/39247
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| FIRST HBO HD
-http://xpro.one-iptv.com:25443/client/client123/39259
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| H2 HD
-http://xpro.one-iptv.com:25443/client/client123/39241
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| HISTORY HD
-http://xpro.one-iptv.com:25443/client/client123/39242
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOUSALSALAT 2 HD
-http://xpro.one-iptv.com:25443/client/client123/39272
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOUSALSALAT HD
-http://xpro.one-iptv.com:25443/client/client123/39273
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOVIES 2 HD
-http://xpro.one-iptv.com:25443/client/client123/39270
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOVIES ACTION 2 HD
-http://xpro.one-iptv.com:25443/client/client123/39268
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOVIES ACTION HD
-http://xpro.one-iptv.com:25443/client/client123/39269
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOVIES COMEDY HD
-http://xpro.one-iptv.com:25443/client/client123/39267
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOVIES FAMILY HD
-http://xpro.one-iptv.com:25443/client/client123/39266
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOVIES FESTIVAL HD
-http://xpro.one-iptv.com:25443/client/client123/39265
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOVIES FIRST 2H HD
-http://xpro.one-iptv.com:25443/client/client123/39261
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOVIES FIRST HD
-http://xpro.one-iptv.com:25443/client/client123/39262
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOVIES HD
-http://xpro.one-iptv.com:25443/client/client123/39271
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOVIES KIDS HD
-http://xpro.one-iptv.com:25443/client/client123/39260
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOVIES THRILLER 2 HD
-http://xpro.one-iptv.com:25443/client/client123/39263
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| MOVIES THRILLER HD
-http://xpro.one-iptv.com:25443/client/client123/39264
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| NAT GEO PEOPLE HD
-http://xpro.one-iptv.com:25443/client/client123/39244
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| NAT GEO WILD HD
-http://xpro.one-iptv.com:25443/client/client123/39243
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| PARAMOUNT HD
-http://xpro.one-iptv.com:25443/client/client123/39231
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| SERIES COMEDY HD
-http://xpro.one-iptv.com:25443/client/client123/39256
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| SERIES FIRST HD
-http://xpro.one-iptv.com:25443/client/client123/39257
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| SERIES HD
-http://xpro.one-iptv.com:25443/client/client123/39258
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| SPORTS 1 HD
-http://xpro.one-iptv.com:25443/client/client123/39240
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| SPORTS 2 HD
-http://xpro.one-iptv.com:25443/client/client123/39239
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| SPORTS 3 HD
-http://xpro.one-iptv.com:25443/client/client123/39238
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| SPORTS 4 HD
-http://xpro.one-iptv.com:25443/client/client123/39237
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| SPORTS 5 HD
-http://xpro.one-iptv.com:25443/client/client123/39236
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| SPORTS CRICKET HD
-http://xpro.one-iptv.com:25443/client/client123/39235
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| STAR MOVIES HD
-http://xpro.one-iptv.com:25443/client/client123/39254
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| STAR WORLD HD
-http://xpro.one-iptv.com:25443/client/client123/39253
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| SUNDANCE HD
-http://xpro.one-iptv.com:25443/client/client123/39230
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| SYFY HD
-http://xpro.one-iptv.com:25443/client/client123/39229
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| TEN CRICKET HD
-http://xpro.one-iptv.com:25443/client/client123/39234
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| TLC HD
-http://xpro.one-iptv.com:25443/client/client123/39228
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| TRAVEL HD
-http://xpro.one-iptv.com:25443/client/client123/39227
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| WWE NETWORK HD
-http://xpro.one-iptv.com:25443/client/client123/39233
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| YAHALA AL AOUALA 2 HD
-http://xpro.one-iptv.com:25443/client/client123/39277
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| YAHALA AL AOUALA HD
-http://xpro.one-iptv.com:25443/client/client123/39278
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| YAHALA CINEMA HD
-http://xpro.one-iptv.com:25443/client/client123/39276
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN| YAHALA HD
-http://xpro.one-iptv.com:25443/client/client123/39279
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN AL Youm HD
-http://xpro.one-iptv.com:25443/client/client123/15540
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN ALSAFWA HD
-http://xpro.one-iptv.com:25443/client/client123/15539
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Animal Planet
-http://xpro.one-iptv.com:25443/client/client123/15538
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN BBC First
-http://xpro.one-iptv.com:25443/client/client123/15537
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN BOX Office 01
-http://xpro.one-iptv.com:25443/client/client123/15536
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN BOX Office 02
-http://xpro.one-iptv.com:25443/client/client123/15535
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN BOX Office 03
-http://xpro.one-iptv.com:25443/client/client123/15534
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN CINEMA 1
-http://xpro.one-iptv.com:25443/client/client123/15533
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN CINEMA 2
-http://xpro.one-iptv.com:25443/client/client123/15532
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Comedy Central
-http://xpro.one-iptv.com:25443/client/client123/15531
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Discovery Science
-http://xpro.one-iptv.com:25443/client/client123/15530
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Disney Channel
-http://xpro.one-iptv.com:25443/client/client123/15529
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN E!
-http://xpro.one-iptv.com:25443/client/client123/15528
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Fann
-http://xpro.one-iptv.com:25443/client/client123/15527
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Fashion
-http://xpro.one-iptv.com:25443/client/client123/15526
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Fight Network HD
-http://xpro.one-iptv.com:25443/client/client123/15525
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN FINE LIVING
-http://xpro.one-iptv.com:25443/client/client123/15524
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN FIRST COMEDY 2
-http://xpro.one-iptv.com:25443/client/client123/15523
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN First COMEDY HD
-http://xpro.one-iptv.com:25443/client/client123/15522
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN First HD
-http://xpro.one-iptv.com:25443/client/client123/15521
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN First HOME OF HBO
-http://xpro.one-iptv.com:25443/client/client123/15520
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Food Network
-http://xpro.one-iptv.com:25443/client/client123/15519
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Fuel
-http://xpro.one-iptv.com:25443/client/client123/15518
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN History 1
-http://xpro.one-iptv.com:25443/client/client123/15517
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN IDX
-http://xpro.one-iptv.com:25443/client/client123/15516
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN MOUSALSALAT
-http://xpro.one-iptv.com:25443/client/client123/15513
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Movie Comedy
-http://xpro.one-iptv.com:25443/client/client123/15512
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Movie Comedy 2
-http://xpro.one-iptv.com:25443/client/client123/15511
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Movie Family
-http://xpro.one-iptv.com:25443/client/client123/15510
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Movie First 1
-http://xpro.one-iptv.com:25443/client/client123/15509
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Movie First 2
-http://xpro.one-iptv.com:25443/client/client123/15508
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Movies  2 HD
-http://xpro.one-iptv.com:25443/client/client123/15507
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Movies Action
-http://xpro.one-iptv.com:25443/client/client123/15506
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Movies Action 2
-http://xpro.one-iptv.com:25443/client/client123/15505
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Movies Drama
-http://xpro.one-iptv.com:25443/client/client123/15504
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN MOVIES FESTIVAL
-http://xpro.one-iptv.com:25443/client/client123/15503
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Movies HD
-http://xpro.one-iptv.com:25443/client/client123/15502
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Movies Premiere
-http://xpro.one-iptv.com:25443/client/client123/15500
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN MOVIES PREMIERE 2
-http://xpro.one-iptv.com:25443/client/client123/15499
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Nat Geo People HD
-http://xpro.one-iptv.com:25443/client/client123/15498
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Nat Geo Wild HD
-http://xpro.one-iptv.com:25443/client/client123/15497
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN ON DEMAND Extra1 HD
-http://xpro.one-iptv.com:25443/client/client123/15496
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN ON Demand Extra2 HD
-http://xpro.one-iptv.com:25443/client/client123/15495
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN ON Demande HD
-http://xpro.one-iptv.com:25443/client/client123/15494
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Outdoor
-http://xpro.one-iptv.com:25443/client/client123/15493
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Series Comedy 1
-http://xpro.one-iptv.com:25443/client/client123/15492
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Series First 1
-http://xpro.one-iptv.com:25443/client/client123/15491
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Series First 2
-http://xpro.one-iptv.com:25443/client/client123/15490
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN series HD
-http://xpro.one-iptv.com:25443/client/client123/15489
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Sport  1 Action HD
-http://xpro.one-iptv.com:25443/client/client123/15488
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Sport  2 Action HD
-http://xpro.one-iptv.com:25443/client/client123/15487
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN SPORTS 3 HD
-http://xpro.one-iptv.com:25443/client/client123/15486
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN SPORTS 4 HD
-http://xpro.one-iptv.com:25443/client/client123/15485
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN STAR Movies HD
-http://xpro.one-iptv.com:25443/client/client123/15484
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN STAR WORLD
-http://xpro.one-iptv.com:25443/client/client123/15483
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN SYFY
-http://xpro.one-iptv.com:25443/client/client123/15482
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Ten Cricket
-http://xpro.one-iptv.com:25443/client/client123/15481
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN TLC
-http://xpro.one-iptv.com:25443/client/client123/15480
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN WWE Network
-http://xpro.one-iptv.com:25443/client/client123/15479
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Yahala
-http://xpro.one-iptv.com:25443/client/client123/15478
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Yahala Al Oula
-http://xpro.one-iptv.com:25443/client/client123/15477
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN YAHALA CINEMA
-http://xpro.one-iptv.com:25443/client/client123/15476
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN  Ya Hala! SHABAB HD
-http://xpro.one-iptv.com:25443/client/client123/15635
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Action
-http://xpro.one-iptv.com:25443/client/client123/15702
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Action 2
-http://xpro.one-iptv.com:25443/client/client123/15701
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Al Safwa
-http://xpro.one-iptv.com:25443/client/client123/15700
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN AL Yawm
-http://xpro.one-iptv.com:25443/client/client123/15699
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Al Youm
-http://xpro.one-iptv.com:25443/client/client123/15698
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN AL Youm HD
-http://xpro.one-iptv.com:25443/client/client123/15697
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Alkass Sport 1
-http://xpro.one-iptv.com:25443/client/client123/15696
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Alkass Sport 2
-http://xpro.one-iptv.com:25443/client/client123/15695
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Alkass Sport 3
-http://xpro.one-iptv.com:25443/client/client123/15694
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Alkass Sport 4
-http://xpro.one-iptv.com:25443/client/client123/15693
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Alkass Sport 5
-http://xpro.one-iptv.com:25443/client/client123/15692
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Animal Planet
-http://xpro.one-iptv.com:25443/client/client123/15691
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Art Aflam 2
-http://xpro.one-iptv.com:25443/client/client123/15690
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Art Hekayat 1
-http://xpro.one-iptv.com:25443/client/client123/15689
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN B4U Aflam
-http://xpro.one-iptv.com:25443/client/client123/15688
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN B4U Plus
-http://xpro.one-iptv.com:25443/client/client123/15687
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN BBC FIRST HD
-http://xpro.one-iptv.com:25443/client/client123/15686
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Box Office 1
-http://xpro.one-iptv.com:25443/client/client123/15685
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Box OFFICE 3-HD
-http://xpro.one-iptv.com:25443/client/client123/15622
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN BOXOFFICE 2
-http://xpro.one-iptv.com:25443/client/client123/15684
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Cinema 1
-http://xpro.one-iptv.com:25443/client/client123/15683
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN CRICKET HD
-http://xpro.one-iptv.com:25443/client/client123/15681
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN CRICKET HD**
-http://xpro.one-iptv.com:25443/client/client123/15680
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN DISCOVERY FAMILY HD
-http://xpro.one-iptv.com:25443/client/client123/15679
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Discovery I.D
-http://xpro.one-iptv.com:25443/client/client123/15678
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Discovery Science
-http://xpro.one-iptv.com:25443/client/client123/15677
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Disney Channel HD
-http://xpro.one-iptv.com:25443/client/client123/15676
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Disney Junior
-http://xpro.one-iptv.com:25443/client/client123/15634
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN E!
-http://xpro.one-iptv.com:25443/client/client123/15675
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Fann
-http://xpro.one-iptv.com:25443/client/client123/15674
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Fatafeat
-http://xpro.one-iptv.com:25443/client/client123/15673
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Fine Living HD
-http://xpro.one-iptv.com:25443/client/client123/15672
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN First
-http://xpro.one-iptv.com:25443/client/client123/15671
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN First Comedy
-http://xpro.one-iptv.com:25443/client/client123/15670
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN First HBO
-http://xpro.one-iptv.com:25443/client/client123/15669
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN ITV Choice
-http://xpro.one-iptv.com:25443/client/client123/15633
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Mousalsalat
-http://xpro.one-iptv.com:25443/client/client123/15664
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN MOVIE COMEDY HD
-http://xpro.one-iptv.com:25443/client/client123/15632
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Movies 2 HD
-http://xpro.one-iptv.com:25443/client/client123/15663
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Movies Action  2 HD
-http://xpro.one-iptv.com:25443/client/client123/15662
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN MOVIES ACTION HD
-http://xpro.one-iptv.com:25443/client/client123/15631
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Movies Drama
-http://xpro.one-iptv.com:25443/client/client123/15630
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Movies Festival
-http://xpro.one-iptv.com:25443/client/client123/15661
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Movies HD
-http://xpro.one-iptv.com:25443/client/client123/15660
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Movies Premiere 2
-http://xpro.one-iptv.com:25443/client/client123/15658
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Movies Premiere 2HD
-http://xpro.one-iptv.com:25443/client/client123/15657
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN MOVIES PREMIERE HD
-http://xpro.one-iptv.com:25443/client/client123/15629
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN MTV LIVE HD
-http://xpro.one-iptv.com:25443/client/client123/15656
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Nat Geo HD
-http://xpro.one-iptv.com:25443/client/client123/15655
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Nat Geo People HD
-http://xpro.one-iptv.com:25443/client/client123/15654
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Nat Geo Wild
-http://xpro.one-iptv.com:25443/client/client123/15653
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Nickelodeon HD
-http://xpro.one-iptv.com:25443/client/client123/15651
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN ON DEMAND 1 HD
-http://xpro.one-iptv.com:25443/client/client123/15650
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN ON DEMAND 2 HD
-http://xpro.one-iptv.com:25443/client/client123/15649
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN ON DEMAND 3 HD
-http://xpro.one-iptv.com:25443/client/client123/15648
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN On Demand Extra 1
-http://xpro.one-iptv.com:25443/client/client123/15647
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN ON DEMAND EXTRA 3 HD
-http://xpro.one-iptv.com:25443/client/client123/15646
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN OSN SPORT FIGHTNETWORK
-http://xpro.one-iptv.com:25443/client/client123/15645
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN OSN Yahala Drama HD
-http://xpro.one-iptv.com:25443/client/client123/15644
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Outdoor
-http://xpro.one-iptv.com:25443/client/client123/15628
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Sports 1 HD
-http://xpro.one-iptv.com:25443/client/client123/15627
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Sports 2 HD
-http://xpro.one-iptv.com:25443/client/client123/15626
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Sports 3 HD
-http://xpro.one-iptv.com:25443/client/client123/15625
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Sports 4 HD
-http://xpro.one-iptv.com:25443/client/client123/15624
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Star Movies HD
-http://xpro.one-iptv.com:25443/client/client123/15643
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Star World HD
-http://xpro.one-iptv.com:25443/client/client123/15642
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN SyFy HD
-http://xpro.one-iptv.com:25443/client/client123/15641
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN TLC HD
-http://xpro.one-iptv.com:25443/client/client123/15640
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN TRACE URBAN
-http://xpro.one-iptv.com:25443/client/client123/15639
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Travel Channel HD
-http://xpro.one-iptv.com:25443/client/client123/15638
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN WWE
-http://xpro.one-iptv.com:25443/client/client123/15637
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Yahala Cinema
-http://xpro.one-iptv.com:25443/client/client123/15636
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN YAHALA HD
-http://xpro.one-iptv.com:25443/client/client123/15623
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN BBC First
-http://xpro.one-iptv.com:25443/client/client123/15620
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN CNN
-http://xpro.one-iptv.com:25443/client/client123/15619
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Discovery Family HD
-http://xpro.one-iptv.com:25443/client/client123/15618
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Discovery HD
-http://xpro.one-iptv.com:25443/client/client123/15617
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Discovery ID HD
-http://xpro.one-iptv.com:25443/client/client123/15616
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Discovery Science HD
-http://xpro.one-iptv.com:25443/client/client123/15615
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Disney Channel HD
-http://xpro.one-iptv.com:25443/client/client123/15614
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Disney HD
-http://xpro.one-iptv.com:25443/client/client123/15613
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Disney Junior
-http://xpro.one-iptv.com:25443/client/client123/15612
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Disney XD
-http://xpro.one-iptv.com:25443/client/client123/15611
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN DOCU BOX HD
-http://xpro.one-iptv.com:25443/client/client123/15610
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN FAST AND FUN BOX HD
-http://xpro.one-iptv.com:25443/client/client123/15609
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN HISTORY 2
-http://xpro.one-iptv.com:25443/client/client123/15607
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Movies 2 HD
-http://xpro.one-iptv.com:25443/client/client123/15606
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Movies Action 2
-http://xpro.one-iptv.com:25443/client/client123/15605
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Movies Action HD
-http://xpro.one-iptv.com:25443/client/client123/15604
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Movies Comedy HD
-http://xpro.one-iptv.com:25443/client/client123/15603
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN MOVIES DRAMA 2
-http://xpro.one-iptv.com:25443/client/client123/15602
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Movies Drama HD
-http://xpro.one-iptv.com:25443/client/client123/15601
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Movies Family HD
-http://xpro.one-iptv.com:25443/client/client123/15600
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Movies Festival HD
-http://xpro.one-iptv.com:25443/client/client123/15599
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Movies HD
-http://xpro.one-iptv.com:25443/client/client123/15598
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Movies Prem 2
-http://xpro.one-iptv.com:25443/client/client123/15596
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Movies Priemer HD
-http://xpro.one-iptv.com:25443/client/client123/15595
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN National Geo HD
-http://xpro.one-iptv.com:25443/client/client123/15594
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN National Geo People HD
-http://xpro.one-iptv.com:25443/client/client123/15593
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN National Geo Wild HD
-http://xpro.one-iptv.com:25443/client/client123/15592
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Ten Cricket
-http://xpro.one-iptv.com:25443/client/client123/15590
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Travel Channel HD
-http://xpro.one-iptv.com:25443/client/client123/15589
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN YAHALA HD 2
-http://xpro.one-iptv.com:25443/client/client123/15588
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP OSN CRICKET HD
-http://xpro.one-iptv.com:25443/client/client123/15621
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP OSN: MTV LIVE HD ( 1080P )
-http://xpro.one-iptv.com:25443/client/client123/15587
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Abu Dhabi Sports 1 HD
-http://xpro.one-iptv.com:25443/client/client123/15586
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Abu Dhabi Sports 2 HD
-http://xpro.one-iptv.com:25443/client/client123/15585
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Abu Dhabi Sports 3 HD
-http://xpro.one-iptv.com:25443/client/client123/15584
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Abu Dhabi Sports 4 HD
-http://xpro.one-iptv.com:25443/client/client123/15583
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Abu Dhabi Sports 5 HD
-http://xpro.one-iptv.com:25443/client/client123/15582
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Abu Dhabi Sports 6 HD
-http://xpro.one-iptv.com:25443/client/client123/15581
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Al Safwa
-http://xpro.one-iptv.com:25443/client/client123/15580
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Al Yawm
-http://xpro.one-iptv.com:25443/client/client123/15579
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Animal Planet HD
-http://xpro.one-iptv.com:25443/client/client123/15578
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Cinema 1
-http://xpro.one-iptv.com:25443/client/client123/15577
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Cinema 2
-http://xpro.one-iptv.com:25443/client/client123/15576
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Comedy Central HD
-http://xpro.one-iptv.com:25443/client/client123/15575
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Disney Junior
-http://xpro.one-iptv.com:25443/client/client123/15574
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Fann
-http://xpro.one-iptv.com:25443/client/client123/15573
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Fatafeat
-http://xpro.one-iptv.com:25443/client/client123/15572
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Fight Network
-http://xpro.one-iptv.com:25443/client/client123/15571
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN First
-http://xpro.one-iptv.com:25443/client/client123/15570
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN First 2
-http://xpro.one-iptv.com:25443/client/client123/15569
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN First Comedy
-http://xpro.one-iptv.com:25443/client/client123/15568
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN First Comedy 2
-http://xpro.one-iptv.com:25443/client/client123/15567
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN First Home Of HBO
-http://xpro.one-iptv.com:25443/client/client123/15566
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Fox Movies HD
-http://xpro.one-iptv.com:25443/client/client123/15565
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN FX HD
-http://xpro.one-iptv.com:25443/client/client123/15564
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Jim Jam
-http://xpro.one-iptv.com:25443/client/client123/15563
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN MTV Live HD
-http://xpro.one-iptv.com:25443/client/client123/15562
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN MusalSat
-http://xpro.one-iptv.com:25443/client/client123/15560
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Music Now
-http://xpro.one-iptv.com:25443/client/client123/15559
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Nickelodeon HD
-http://xpro.one-iptv.com:25443/client/client123/15558
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Sports 1
-http://xpro.one-iptv.com:25443/client/client123/15557
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Sports 2
-http://xpro.one-iptv.com:25443/client/client123/15556
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Sports 3
-http://xpro.one-iptv.com:25443/client/client123/15555
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Sports 4
-http://xpro.one-iptv.com:25443/client/client123/15554
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Sports Cricket HD
-http://xpro.one-iptv.com:25443/client/client123/15553
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN starZ
-http://xpro.one-iptv.com:25443/client/client123/15552
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN starZ comedy
-http://xpro.one-iptv.com:25443/client/client123/15551
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN starZ edge
-http://xpro.one-iptv.com:25443/client/client123/15550
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN starZ family
-http://xpro.one-iptv.com:25443/client/client123/15549
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN SYFY HD
-http://xpro.one-iptv.com:25443/client/client123/15548
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN WWE HD
-http://xpro.one-iptv.com:25443/client/client123/15547
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Ya Hala
-http://xpro.one-iptv.com:25443/client/client123/15546
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Ya Hala 2
-http://xpro.one-iptv.com:25443/client/client123/15545
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Ya Hala Cinema
-http://xpro.one-iptv.com:25443/client/client123/15544
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Ya Hala Drama
-http://xpro.one-iptv.com:25443/client/client123/15543
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Ya Hala Shabab
-http://xpro.one-iptv.com:25443/client/client123/15542
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN yas sport
-http://xpro.one-iptv.com:25443/client/client123/15541
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| SeeVii Al Aoula HD
-http://xpro.one-iptv.com:25443/client/client123/15711
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| SeeVii Beelink HD
-http://xpro.one-iptv.com:25443/client/client123/15710
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| SeeVii Drama HD
-http://xpro.one-iptv.com:25443/client/client123/15709
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| SeeVii Shamiya HD
-http://xpro.one-iptv.com:25443/client/client123/15708
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP SeeVii Aloula HD
-http://xpro.one-iptv.com:25443/client/client123/15707
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP SeeVii Beelink HD
-http://xpro.one-iptv.com:25443/client/client123/15706
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP SeeVii Drama HD
-http://xpro.one-iptv.com:25443/client/client123/15705
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP SeeVii Shamiya HD
-http://xpro.one-iptv.com:25443/client/client123/15704
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Al KASS 1 HD
-http://xpro.one-iptv.com:25443/client/client123/30558
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Al KASS 2 HD
-http://xpro.one-iptv.com:25443/client/client123/30557
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Al KASS 5 HD
-http://xpro.one-iptv.com:25443/client/client123/30556
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| AL_Youm_HD
-http://xpro.one-iptv.com:25443/client/client123/30594
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| ALSAFWA_HD
-http://xpro.one-iptv.com:25443/client/client123/30593
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Animal Planet HD
-http://xpro.one-iptv.com:25443/client/client123/30566
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| BOX_Office_01
-http://xpro.one-iptv.com:25443/client/client123/30575
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| BOX_Office_02
-http://xpro.one-iptv.com:25443/client/client123/30574
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| BOX_Office_03
-http://xpro.one-iptv.com:25443/client/client123/30573
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| CINEMA_1
-http://xpro.one-iptv.com:25443/client/client123/30598
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| CINEMA_2
-http://xpro.one-iptv.com:25443/client/client123/30597
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Discovery Life HD
-http://xpro.one-iptv.com:25443/client/client123/30565
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Discovery Sc HD
-http://xpro.one-iptv.com:25443/client/client123/30564
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Fann
-http://xpro.one-iptv.com:25443/client/client123/30592
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| FINE_LIVING
-http://xpro.one-iptv.com:25443/client/client123/30567
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Fox Action Movies HD
-http://xpro.one-iptv.com:25443/client/client123/30572
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Fox Family Movies HD
-http://xpro.one-iptv.com:25443/client/client123/30571
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| FOX HD
-http://xpro.one-iptv.com:25443/client/client123/30570
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| FX HD
-http://xpro.one-iptv.com:25443/client/client123/30569
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Movie_Comedy
-http://xpro.one-iptv.com:25443/client/client123/30586
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Movies
-http://xpro.one-iptv.com:25443/client/client123/30591
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Movies_2
-http://xpro.one-iptv.com:25443/client/client123/30590
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Movies_Action
-http://xpro.one-iptv.com:25443/client/client123/30588
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Movies_Action_ 2
-http://xpro.one-iptv.com:25443/client/client123/30587
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Movies_Comedy
-http://xpro.one-iptv.com:25443/client/client123/30582
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Movies_Drama
-http://xpro.one-iptv.com:25443/client/client123/30589
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Movies_Family
-http://xpro.one-iptv.com:25443/client/client123/30583
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| MOVIES_FESTIVAL
-http://xpro.one-iptv.com:25443/client/client123/30577
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Movies_First
-http://xpro.one-iptv.com:25443/client/client123/30581
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Movies_Kids
-http://xpro.one-iptv.com:25443/client/client123/30580
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Movies_Premiere
-http://xpro.one-iptv.com:25443/client/client123/30585
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Movies_Premiere_2
-http://xpro.one-iptv.com:25443/client/client123/30584
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Serie_First
-http://xpro.one-iptv.com:25443/client/client123/30576
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Sports 1 HD
-http://xpro.one-iptv.com:25443/client/client123/30563
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Sports 2 HD
-http://xpro.one-iptv.com:25443/client/client123/30562
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Sports 3 HD
-http://xpro.one-iptv.com:25443/client/client123/30561
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Sports 4 HD
-http://xpro.one-iptv.com:25443/client/client123/30560
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Star_Movies
-http://xpro.one-iptv.com:25443/client/client123/30579
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Star_World
-http://xpro.one-iptv.com:25443/client/client123/30578
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| TFC
-http://xpro.one-iptv.com:25443/client/client123/30568
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| WWE
-http://xpro.one-iptv.com:25443/client/client123/30559
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| Yahala_Al_Oula
-http://xpro.one-iptv.com:25443/client/client123/30596
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|OSN*| YAHALA_CINEMA
-http://xpro.one-iptv.com:25443/client/client123/30595
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| ARABIC MBC |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22469
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC 1
-http://xpro.one-iptv.com:25443/client/client123/15742
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC 1 HD+
-http://xpro.one-iptv.com:25443/client/client123/15888
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC 1 HD backup
-http://xpro.one-iptv.com:25443/client/client123/15887
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC 2
-http://xpro.one-iptv.com:25443/client/client123/15741
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC 2 HD
-http://xpro.one-iptv.com:25443/client/client123/15886
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC 3
-http://xpro.one-iptv.com:25443/client/client123/15740
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC 3 HD
-http://xpro.one-iptv.com:25443/client/client123/15885
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC 4
-http://xpro.one-iptv.com:25443/client/client123/15739
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC 4 HD
-http://xpro.one-iptv.com:25443/client/client123/15884
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Action
-http://xpro.one-iptv.com:25443/client/client123/15737
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Action HD
-http://xpro.one-iptv.com:25443/client/client123/15883
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC BOLLYWOOD
-http://xpro.one-iptv.com:25443/client/client123/15882
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Drama
-http://xpro.one-iptv.com:25443/client/client123/15736
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Drama HD
-http://xpro.one-iptv.com:25443/client/client123/15881
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN MBC Drama  HD
-http://xpro.one-iptv.com:25443/client/client123/15514
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Dramar
-http://xpro.one-iptv.com:25443/client/client123/15880
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Masr
-http://xpro.one-iptv.com:25443/client/client123/15735
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Mbc Masr 2
-http://xpro.one-iptv.com:25443/client/client123/15734
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Max
-http://xpro.one-iptv.com:25443/client/client123/15738
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Max HD
-http://xpro.one-iptv.com:25443/client/client123/15879
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Plus Drama HD(backup1)
-http://xpro.one-iptv.com:25443/client/client123/15878
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Pro Sports 1HD
-http://xpro.one-iptv.com:25443/client/client123/15830
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Pro Sports 2HD
-http://xpro.one-iptv.com:25443/client/client123/15829
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Pro Sports 3HD
-http://xpro.one-iptv.com:25443/client/client123/15828
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC PRO SPORTS 4
-http://xpro.one-iptv.com:25443/client/client123/15877
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC Variety HD
-http://xpro.one-iptv.com:25443/client/client123/15876
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MBC1
-http://xpro.one-iptv.com:25443/client/client123/15827
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN MBC Drama
-http://xpro.one-iptv.com:25443/client/client123/15666
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN MBC Plus Drama
-http://xpro.one-iptv.com:25443/client/client123/15665
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|MBC2
-http://xpro.one-iptv.com:25443/client/client123/15777
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|MBC DRAMA
-http://xpro.one-iptv.com:25443/client/client123/15778
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| ARABIC ART |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22477
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Art Aflam 1
-http://xpro.one-iptv.com:25443/client/client123/15728
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* ART Aflam 1
-http://xpro.one-iptv.com:25443/client/client123/16078
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Art Aflam 2
-http://xpro.one-iptv.com:25443/client/client123/15727
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* ART Aflam 2
-http://xpro.one-iptv.com:25443/client/client123/16077
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Art Cinema
-http://xpro.one-iptv.com:25443/client/client123/15726
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* ART Cinema
-http://xpro.one-iptv.com:25443/client/client123/16076
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* ART Hekayat
-http://xpro.one-iptv.com:25443/client/client123/16075
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Art Hekayat
-http://xpro.one-iptv.com:25443/client/client123/15725
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ART HEKAYAT 1
-http://xpro.one-iptv.com:25443/client/client123/15943
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Art Hekayat 2
-http://xpro.one-iptv.com:25443/client/client123/15724
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* ART Hekayat 2
-http://xpro.one-iptv.com:25443/client/client123/16074
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| ARABIC ROTANA |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22466
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Rotana Aflam HD
-http://xpro.one-iptv.com:25443/client/client123/15821
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Rotana Cinema
-http://xpro.one-iptv.com:25443/client/client123/15733
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Rotana Cinema HD
-http://xpro.one-iptv.com:25443/client/client123/15820
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Rotana Classic
-http://xpro.one-iptv.com:25443/client/client123/15732
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Rotana Classic HD
-http://xpro.one-iptv.com:25443/client/client123/15819
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Rotana Clip
-http://xpro.one-iptv.com:25443/client/client123/15731
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ROTANA KHALIJIAH
-http://xpro.one-iptv.com:25443/client/client123/15847
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Rotana Khalijiah HD
-http://xpro.one-iptv.com:25443/client/client123/15818
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Rotana Masria
-http://xpro.one-iptv.com:25443/client/client123/15846
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Rotana Masriah HD
-http://xpro.one-iptv.com:25443/client/client123/15817
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Rotana Masriya
-http://xpro.one-iptv.com:25443/client/client123/15730
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Rotana Music
-http://xpro.one-iptv.com:25443/client/client123/15729
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Rotana Music HD
-http://xpro.one-iptv.com:25443/client/client123/15816
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| ARABIC ATFAL |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22476
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BARAEM Bein
-http://xpro.one-iptv.com:25443/client/client123/15938
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Bein Baraem
-http://xpro.one-iptv.com:25443/client/client123/9180
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Bein Baraem HD
-http://xpro.one-iptv.com:25443/client/client123/16239
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Kid baraem
-http://xpro.one-iptv.com:25443/client/client123/16192
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Cartoon Network
-http://xpro.one-iptv.com:25443/client/client123/15933
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TOYOR AL JANAH
-http://xpro.one-iptv.com:25443/client/client123/15789
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TOYOR ALJANNAH
-http://xpro.one-iptv.com:25443/client/client123/15774
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Toyor Baby
-http://xpro.one-iptv.com:25443/client/client123/15788
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TOYOR Iraq
-http://xpro.one-iptv.com:25443/client/client123/15787
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR KID TOYOR ALJANNA
-http://xpro.one-iptv.com:25443/client/client123/16190
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Karameesh
-http://xpro.one-iptv.com:25443/client/client123/15907
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TAHA
-http://xpro.one-iptv.com:25443/client/client123/15794
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR TAHA
-http://xpro.one-iptv.com:25443/client/client123/16104
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Space Toon
-http://xpro.one-iptv.com:25443/client/client123/15801
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Movies Kids HD
-http://xpro.one-iptv.com:25443/client/client123/15501
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Movies Kids
-http://xpro.one-iptv.com:25443/client/client123/15659
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Movies Kids HD
-http://xpro.one-iptv.com:25443/client/client123/15597
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Noursat KIDS
-http://xpro.one-iptv.com:25443/client/client123/16150
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| : OSN Kid zone
-http://xpro.one-iptv.com:25443/client/client123/15515
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR KID Semsem
-http://xpro.one-iptv.com:25443/client/client123/16191
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| ARABIC NEWS |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22468
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Al Jazeera English
-http://xpro.one-iptv.com:25443/client/client123/15975
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Al Jazeera Mubasher
-http://xpro.one-iptv.com:25443/client/client123/15974
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Al Jazeera
-http://xpro.one-iptv.com:25443/client/client123/16270
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Al Jazeera Docum +
-http://xpro.one-iptv.com:25443/client/client123/16269
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Al Jazeera Mubasher +
-http://xpro.one-iptv.com:25443/client/client123/16268
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Al arabia Alhadath
-http://xpro.one-iptv.com:25443/client/client123/15835
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Al Arabia Al Hadath
-http://xpro.one-iptv.com:25443/client/client123/16280
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR AL ARABIA NEWS
-http://xpro.one-iptv.com:25443/client/client123/16279
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Sky News Arabia
-http://xpro.one-iptv.com:25443/client/client123/16116
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Al Iraqia News
-http://xpro.one-iptv.com:25443/client/client123/15977
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Al Sharqiya News
-http://xpro.one-iptv.com:25443/client/client123/15956
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BEIN SPORTS NEWS HD
-http://xpro.one-iptv.com:25443/client/client123/9152
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| DzairNews
-http://xpro.one-iptv.com:25443/client/client123/15919
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Echorouk News
-http://xpro.one-iptv.com:25443/client/client123/15917
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Libya News
-http://xpro.one-iptv.com:25443/client/client123/15895
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Numidia News TV
-http://xpro.one-iptv.com:25443/client/client123/15856
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN  SKY NEWS
-http://xpro.one-iptv.com:25443/client/client123/15703
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN Fox News HD
-http://xpro.one-iptv.com:25443/client/client123/15668
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN NEWS
-http://xpro.one-iptv.com:25443/client/client123/15652
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Sky News Arabic
-http://xpro.one-iptv.com:25443/client/client123/15803
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Syria News
-http://xpro.one-iptv.com:25443/client/client123/15797
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN Fox News
-http://xpro.one-iptv.com:25443/client/client123/15608
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP : OSN NEWS HD
-http://xpro.one-iptv.com:25443/client/client123/15591
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* ALG Echourouk news
-http://xpro.one-iptv.com:25443/client/client123/16306
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR ANN News
-http://xpro.one-iptv.com:25443/client/client123/16244
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR BEIN NEWS
-http://xpro.one-iptv.com:25443/client/client123/16232
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Extra News
-http://xpro.one-iptv.com:25443/client/client123/16204
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR IRAQ NEWS
-http://xpro.one-iptv.com:25443/client/client123/16197
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Palestine News
-http://xpro.one-iptv.com:25443/client/client123/16142
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN CNBC ARABIA
-http://xpro.one-iptv.com:25443/client/client123/15682
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR DW TV ARABIA
-http://xpro.one-iptv.com:25443/client/client123/16206
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR BBC Arabic
-http://xpro.one-iptv.com:25443/client/client123/16241
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Alrai
-http://xpro.one-iptv.com:25443/client/client123/16247
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TRT Arabic
-http://xpro.one-iptv.com:25443/client/client123/15786
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR TRT
-http://xpro.one-iptv.com:25443/client/client123/16099
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Al sharqiya
-http://xpro.one-iptv.com:25443/client/client123/15957
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| France 24 AR
-http://xpro.one-iptv.com:25443/client/client123/15911
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| OSN France 24
-http://xpro.one-iptv.com:25443/client/client123/15667
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| ARABIC ALMAJD |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22478
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|Almajd_Kids
-http://xpro.one-iptv.com:25443/client/client123/15781
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| ARABIC ISLAMIC |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22473
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| iqraatv
-http://xpro.one-iptv.com:25443/client/client123/15832
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Iqraa
-http://xpro.one-iptv.com:25443/client/client123/16198
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR MECCA TV
-http://xpro.one-iptv.com:25443/client/client123/16173
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Alrahma
-http://xpro.one-iptv.com:25443/client/client123/16248
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Safa
-http://xpro.one-iptv.com:25443/client/client123/16130
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| sunnatv
-http://xpro.one-iptv.com:25443/client/client123/15853
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Saoudi SUNNAH
-http://xpro.one-iptv.com:25443/client/client123/16125
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Alresalah
-http://xpro.one-iptv.com:25443/client/client123/16246
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Alnas
-http://xpro.one-iptv.com:25443/client/client123/16249
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| qurantv
-http://xpro.one-iptv.com:25443/client/client123/15848
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Ahl Al Quran
-http://xpro.one-iptv.com:25443/client/client123/16285
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Alfath Quran
-http://xpro.one-iptv.com:25443/client/client123/16252
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Saudi Quran TV
-http://xpro.one-iptv.com:25443/client/client123/16122
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| saudi1 tv
-http://xpro.one-iptv.com:25443/client/client123/15843
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| saudi2 tv
-http://xpro.one-iptv.com:25443/client/client123/15842
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Al Quds
-http://xpro.one-iptv.com:25443/client/client123/15962
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Alfath TV
-http://xpro.one-iptv.com:25443/client/client123/16251
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Azhari
-http://xpro.one-iptv.com:25443/client/client123/15940
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Azhari
-http://xpro.one-iptv.com:25443/client/client123/16242
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Ain Othaimeen
-http://xpro.one-iptv.com:25443/client/client123/16284
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR 7BESHA
-http://xpro.one-iptv.com:25443/client/client123/16293
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Al Ma Aly
-http://xpro.one-iptv.com:25443/client/client123/16266
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR WESAL
-http://xpro.one-iptv.com:25443/client/client123/16093
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR SHARQIA KARBALA
-http://xpro.one-iptv.com:25443/client/client123/16118
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR ASSALAM
-http://xpro.one-iptv.com:25443/client/client123/16243
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Makka tv
-http://xpro.one-iptv.com:25443/client/client123/16176
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Makkah Live
-http://xpro.one-iptv.com:25443/client/client123/16175
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Madina Live
-http://xpro.one-iptv.com:25443/client/client123/16177
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Al Ons
-http://xpro.one-iptv.com:25443/client/client123/15963
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| ARABIC MAROC |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22470
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MA Al AOULA +
-http://xpro.one-iptv.com:25443/client/client123/15772
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MA 2M TV
-http://xpro.one-iptv.com:25443/client/client123/15773
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| 2m Maroc
-http://xpro.one-iptv.com:25443/client/client123/15997
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MA AFLAM TV
-http://xpro.one-iptv.com:25443/client/client123/15766
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MA Al Maghribia
-http://xpro.one-iptv.com:25443/client/client123/15771
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MA Arrabia
-http://xpro.one-iptv.com:25443/client/client123/15770
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MA assadissa
-http://xpro.one-iptv.com:25443/client/client123/15768
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MA medi1 TV
-http://xpro.one-iptv.com:25443/client/client123/15765
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MA Tamazight
-http://xpro.one-iptv.com:25443/client/client123/15767
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MA TELE MAROC
-http://xpro.one-iptv.com:25443/client/client123/15764
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| MA arriadia
-http://xpro.one-iptv.com:25443/client/client123/15769
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Al Magharibia Two
-http://xpro.one-iptv.com:25443/client/client123/15970
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Al Magharibia1
-http://xpro.one-iptv.com:25443/client/client123/15969
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Almaghribia
-http://xpro.one-iptv.com:25443/client/client123/15949
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* MAR AL MAGHARIBIA
-http://xpro.one-iptv.com:25443/client/client123/16072
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* MAR AL MAGHARIBIA TWO
-http://xpro.one-iptv.com:25443/client/client123/16071
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|MA*| Al Magharibia 2
-http://xpro.one-iptv.com:25443/client/client123/30517
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|MA*| Al Maghribia
-http://xpro.one-iptv.com:25443/client/client123/30518
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Al Aoula
-http://xpro.one-iptv.com:25443/client/client123/15989
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Al-Oula
-http://xpro.one-iptv.com:25443/client/client123/15952
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* MAR AL OULA
-http://xpro.one-iptv.com:25443/client/client123/16070
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: CANAL ATLAS
-http://xpro.one-iptv.com:25443/client/client123/30801
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: Numidia TV
-http://xpro.one-iptv.com:25443/client/client123/30803
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: Chada TV
-http://xpro.one-iptv.com:25443/client/client123/30802
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: GM Aflam
-http://xpro.one-iptv.com:25443/client/client123/30800
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: GM Afro Hit
-http://xpro.one-iptv.com:25443/client/client123/30793
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: GM Chaabi
-http://xpro.one-iptv.com:25443/client/client123/30792
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: GM CINEMA
-http://xpro.one-iptv.com:25443/client/client123/30799
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: GM Comedia
-http://xpro.one-iptv.com:25443/client/client123/30798
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: GM Documentaire
-http://xpro.one-iptv.com:25443/client/client123/30797
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: GM Drama
-http://xpro.one-iptv.com:25443/client/client123/30796
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: GM katakit
-http://xpro.one-iptv.com:25443/client/client123/30795
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: GM Music tv
-http://xpro.one-iptv.com:25443/client/client123/30791
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: GM Rap Arab
-http://xpro.one-iptv.com:25443/client/client123/30790
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",MAR: GM Tamazight
-http://xpro.one-iptv.com:25443/client/client123/30794
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| ARABIC ALGERIE |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22479
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",Ar:Algeria-Alhadef
-http://xpro.one-iptv.com:25443/client/client123/40953
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ALG  A3
-http://xpro.one-iptv.com:25443/client/client123/15763
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ALG  Algerie 1
-http://xpro.one-iptv.com:25443/client/client123/15762
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ALG  Beur TV
-http://xpro.one-iptv.com:25443/client/client123/15761
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ALG  Djazairia
-http://xpro.one-iptv.com:25443/client/client123/15760
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ALG  Dzaier TV
-http://xpro.one-iptv.com:25443/client/client123/15759
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ALG  Echourook Beena
-http://xpro.one-iptv.com:25443/client/client123/15758
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ALG  Echourrouk
-http://xpro.one-iptv.com:25443/client/client123/15757
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ALG  Echourrouk News
-http://xpro.one-iptv.com:25443/client/client123/15756
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ALG  Ennahar
-http://xpro.one-iptv.com:25443/client/client123/15755
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ALG  Kbc Algerie
-http://xpro.one-iptv.com:25443/client/client123/15754
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| ALG  Samira TV
-http://xpro.one-iptv.com:25443/client/client123/15753
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| A3 Algerie
-http://xpro.one-iptv.com:25443/client/client123/30543
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| ALGERIE TV
-http://xpro.one-iptv.com:25443/client/client123/30542
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Bahia TV
-http://xpro.one-iptv.com:25443/client/client123/30539
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Beur TV
-http://xpro.one-iptv.com:25443/client/client123/30526
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Canal Algerie
-http://xpro.one-iptv.com:25443/client/client123/30544
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| CNA
-http://xpro.one-iptv.com:25443/client/client123/30525
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Dzair 24
-http://xpro.one-iptv.com:25443/client/client123/30530
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Dzair Jannah
-http://xpro.one-iptv.com:25443/client/client123/30529
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Dzair News
-http://xpro.one-iptv.com:25443/client/client123/30528
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Dzair tv
-http://xpro.one-iptv.com:25443/client/client123/30527
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Echorouk Benna
-http://xpro.one-iptv.com:25443/client/client123/30533
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Echorouk News HD
-http://xpro.one-iptv.com:25443/client/client123/30532
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Echourouk
-http://xpro.one-iptv.com:25443/client/client123/30534
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| El Bilad
-http://xpro.one-iptv.com:25443/client/client123/30538
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| EL DJAZAIRIA
-http://xpro.one-iptv.com:25443/client/client123/30531
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| El Heddaf
-http://xpro.one-iptv.com:25443/client/client123/30535
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Ennahar Algerie
-http://xpro.one-iptv.com:25443/client/client123/30536
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| ENTV Algerie
-http://xpro.one-iptv.com:25443/client/client123/30537
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Kbc Algeria
-http://xpro.one-iptv.com:25443/client/client123/30540
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|ALG*| Numidia TV
-http://xpro.one-iptv.com:25443/client/client123/30541
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| ARABIC TUNISIE |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22464
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN*| Tunisia_Nat_1
-http://xpro.one-iptv.com:25443/client/client123/30555
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN*| Tunisia_Nat_2
-http://xpro.one-iptv.com:25443/client/client123/30554
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TN Al Insen
-http://xpro.one-iptv.com:25443/client/client123/15746
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TN ATTESSIA
-http://xpro.one-iptv.com:25443/client/client123/15744
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TN Nessma tv
-http://xpro.one-iptv.com:25443/client/client123/15749
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TN Hannibal TV
-http://xpro.one-iptv.com:25443/client/client123/15750
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN| TELVZA TV HD
-http://xpro.one-iptv.com:25443/client/client123/40884
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN*| Aljanoubia
-http://xpro.one-iptv.com:25443/client/client123/30550
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN*| El_Hiwar_Ettounsi_TV
-http://xpro.one-iptv.com:25443/client/client123/30552
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TN Elhiwar ettounsi
-http://xpro.one-iptv.com:25443/client/client123/15743
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN*| M_TUNISIA
-http://xpro.one-iptv.com:25443/client/client123/30548
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TNN Tunisia
-http://xpro.one-iptv.com:25443/client/client123/15790
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TN ALMUSTAKILLAH
-http://xpro.one-iptv.com:25443/client/client123/15745
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TN Zaytoona
-http://xpro.one-iptv.com:25443/client/client123/15747
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TN Tounesna TV
-http://xpro.one-iptv.com:25443/client/client123/15748
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN*| Zaytouna TV
-http://xpro.one-iptv.com:25443/client/client123/30547
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN| ELHIWAR ETTOUNSI HD
-http://xpro.one-iptv.com:25443/client/client123/40883
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN*| Nessma_TV
-http://xpro.one-iptv.com:25443/client/client123/30553
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN*| Hannibal
-http://xpro.one-iptv.com:25443/client/client123/30551
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TN Watanya 1
-http://xpro.one-iptv.com:25443/client/client123/15752
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| TN Watanya 2
-http://xpro.one-iptv.com:25443/client/client123/15751
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN*| Al_Nas
-http://xpro.one-iptv.com:25443/client/client123/30545
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN*| Attesia_TV
-http://xpro.one-iptv.com:25443/client/client123/30549
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|TN*| TNN
-http://xpro.one-iptv.com:25443/client/client123/30546
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",###### -- |AR| ARABIC EGYPTE |AR| -- ######
-http://xpro.one-iptv.com:25443/client/client123/22475
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| NILE CINEMA
-http://xpro.one-iptv.com:25443/client/client123/15824
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| NILE COMEDY
-http://xpro.one-iptv.com:25443/client/client123/15866
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Nile Culture
-http://xpro.one-iptv.com:25443/client/client123/15865
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Nile Drama
-http://xpro.one-iptv.com:25443/client/client123/15864
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Nile Life
-http://xpro.one-iptv.com:25443/client/client123/15863
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| NILE NEWS
-http://xpro.one-iptv.com:25443/client/client123/15862
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Nile Sport
-http://xpro.one-iptv.com:25443/client/client123/15861
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Nile tv
-http://xpro.one-iptv.com:25443/client/client123/15860
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| NileFamily
-http://xpro.one-iptv.com:25443/client/client123/15859
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| BLUE NILE
-http://xpro.one-iptv.com:25443/client/client123/15934
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|Panorama-Comedy
-http://xpro.one-iptv.com:25443/client/client123/15776
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|Panorama-Film
-http://xpro.one-iptv.com:25443/client/client123/15775
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Cbc
-http://xpro.one-iptv.com:25443/client/client123/15723
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Cbc Drama
-http://xpro.one-iptv.com:25443/client/client123/15722
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| Cbc Extra
-http://xpro.one-iptv.com:25443/client/client123/15721
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| CBC Sofra
-http://xpro.one-iptv.com:25443/client/client123/15932
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| VIP: OSN Musalsalat
-http://xpro.one-iptv.com:25443/client/client123/15561
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| dmc DRAMA HD
-http://xpro.one-iptv.com:25443/client/client123/15930
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| dmc HD
-http://xpro.one-iptv.com:25443/client/client123/15929
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR| DMC Sports
-http://xpro.one-iptv.com:25443/client/client123/15928
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Dream
-http://xpro.one-iptv.com:25443/client/client123/16216
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Blue Nile
-http://xpro.one-iptv.com:25443/client/client123/16223
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT NILE CINEMA
-http://xpro.one-iptv.com:25443/client/client123/16012
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT Nile Comedy
-http://xpro.one-iptv.com:25443/client/client123/16011
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT Nile Drama
-http://xpro.one-iptv.com:25443/client/client123/16010
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT Nile family
-http://xpro.one-iptv.com:25443/client/client123/16009
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT Nile Life
-http://xpro.one-iptv.com:25443/client/client123/16008
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT NILE SPORT
-http://xpro.one-iptv.com:25443/client/client123/16007
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Panorama Comedy
-http://xpro.one-iptv.com:25443/client/client123/16138
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Panorama Drama
-http://xpro.one-iptv.com:25443/client/client123/16137
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Panorama Drama 2
-http://xpro.one-iptv.com:25443/client/client123/16136
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Panorama Film
-http://xpro.one-iptv.com:25443/client/client123/16135
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Panorama Food
-http://xpro.one-iptv.com:25443/client/client123/16134
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT CBC
-http://xpro.one-iptv.com:25443/client/client123/16035
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT CBC 2
-http://xpro.one-iptv.com:25443/client/client123/16034
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT CBC Drama
-http://xpro.one-iptv.com:25443/client/client123/16033
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT CBC EXTRA
-http://xpro.one-iptv.com:25443/client/client123/16032
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR ON Live
-http://xpro.one-iptv.com:25443/client/client123/16145
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR On TV
-http://xpro.one-iptv.com:25443/client/client123/16144
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR dmc
-http://xpro.one-iptv.com:25443/client/client123/16221
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR dmc drama
-http://xpro.one-iptv.com:25443/client/client123/16220
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR dmc masraheyat
-http://xpro.one-iptv.com:25443/client/client123/16219
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR dmc news
-http://xpro.one-iptv.com:25443/client/client123/16218
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR dmc sports
-http://xpro.one-iptv.com:25443/client/client123/16217
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Al Hayat
-http://xpro.one-iptv.com:25443/client/client123/16274
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Al Hayat 2
-http://xpro.one-iptv.com:25443/client/client123/16273
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* AR Uber Cima
-http://xpro.one-iptv.com:25443/client/client123/16097
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT AL MAJD
-http://xpro.one-iptv.com:25443/client/client123/16040
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT AL MAJD EDUCATIONAL
-http://xpro.one-iptv.com:25443/client/client123/16039
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT AL MAJD HADITH
-http://xpro.one-iptv.com:25443/client/client123/16038
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT AL MAJD KIDS
-http://xpro.one-iptv.com:25443/client/client123/16037
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT AL MAJD QURAN
-http://xpro.one-iptv.com:25443/client/client123/16036
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC 1
-http://xpro.one-iptv.com:25443/client/client123/16031
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC 1 HD
-http://xpro.one-iptv.com:25443/client/client123/16030
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC 2
-http://xpro.one-iptv.com:25443/client/client123/16029
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC 2 HD
-http://xpro.one-iptv.com:25443/client/client123/16028
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC 3
-http://xpro.one-iptv.com:25443/client/client123/16027
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC 3 HD
-http://xpro.one-iptv.com:25443/client/client123/16026
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC 4
-http://xpro.one-iptv.com:25443/client/client123/16025
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC 4 HD
-http://xpro.one-iptv.com:25443/client/client123/16024
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC Action
-http://xpro.one-iptv.com:25443/client/client123/16023
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC Action HD
-http://xpro.one-iptv.com:25443/client/client123/16022
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC BOLLYWOOD
-http://xpro.one-iptv.com:25443/client/client123/16021
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC Drama HD
-http://xpro.one-iptv.com:25443/client/client123/16020
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC MASR 1
-http://xpro.one-iptv.com:25443/client/client123/16019
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC MASR 2
-http://xpro.one-iptv.com:25443/client/client123/16018
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC Max HD
-http://xpro.one-iptv.com:25443/client/client123/16017
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC Pro Sport 01
-http://xpro.one-iptv.com:25443/client/client123/16016
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC Pro Sport 02
-http://xpro.one-iptv.com:25443/client/client123/16015
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC Pro Sport 03
-http://xpro.one-iptv.com:25443/client/client123/16014
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT MBC Pro Sport 04
-http://xpro.one-iptv.com:25443/client/client123/16013
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT Rotana Aflam
-http://xpro.one-iptv.com:25443/client/client123/16006
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT Rotana Cinema
-http://xpro.one-iptv.com:25443/client/client123/16005
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT Rotana Classic
-http://xpro.one-iptv.com:25443/client/client123/16004
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT Rotana Clip
-http://xpro.one-iptv.com:25443/client/client123/16003
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT Rotana Khaliji
-http://xpro.one-iptv.com:25443/client/client123/16002
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT Rotana Masriya
-http://xpro.one-iptv.com:25443/client/client123/16001
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT ROTANA MUSIC
-http://xpro.one-iptv.com:25443/client/client123/16000
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER5",|AR|* EGT Sofra
-http://xpro.one-iptv.com:25443/client/client123/15999
-
-
-
-
-
-
 
 
 
@@ -13216,18 +11420,6 @@ http://xpro.one-iptv.com:25443/client/client123/15999
 
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
