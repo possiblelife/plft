@@ -96,7 +96,7 @@ http://master.cystreams.com:25461/live/greek/asshole/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV (use External Player)
 http://www.lakatamia.tv/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
-https://www.youtube.com/watch?v=FsTKqUqSQPY
+https://www.youtube.com/watch?v=A3Caxqnh1mY
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS
 http://gr.euronews.com/live|webnoagent$$start=https://euronews-$$end=playlist.m3u8$$replace=$$replacewith=$$add=playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cyta.com.cy/mp/informational/images/channels/cbctvmall.gif" ,TV Mall
@@ -198,7 +198,7 @@ http://master.cystreams.com:25461/live/greek/asshole/43.ts
 #EXTINF:-1 group-title="Greece" tvg-id="vouli.gr" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
-https://www.youtube.com/watch?v=FsTKqUqSQPY
+https://www.youtube.com/watch?v=A3Caxqnh1mY
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS
 http://gr.euronews.com/live|webnoagent$$start=https://euronews-$$end=playlist.m3u8$$replace=$$replacewith=$$add=playlist.m3u8
 
