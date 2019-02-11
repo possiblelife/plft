@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,06/02/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,06/02/19?
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -1632,47 +1632,47 @@ https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
 http://.........
 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=bbc-1|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-1|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2 (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=bbc-two|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-two|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4 (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=bbc-four|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-four|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc   (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=cbbc|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=cbbc|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies  (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=cbeebies|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=cbeebies|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=bbc-one-wales|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-one-wales|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland  (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=bbc-one-scotland|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-one-scotland|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=bbc-parliament|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-parliament|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=bbc-news|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-news|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba(RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=bbc-alba|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-alba|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=itv|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=itv|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2 (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=itv2|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=itv2|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3 (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=itv3|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=itv3|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4 (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=itv4|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=itv4|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV(RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=citv|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=citv|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be. (RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=itvbe|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=itvbe|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="http://123tv.live/wp-content/uploads/2018/08/More4-269x151.png",More 4(RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=more4|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=more4|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg",Really(RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=really|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=really|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png",Channel 4(RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=channel4|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=channel4|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://i.imgur.com/JwXwTpkm.png",Dave(RETRY IF FAILED)
-https://easyview.eu/watch.php?stream=dave|agentnodown$$start=https://origin$$end=hls.a$$replace=');$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=dave|agentnodown$$start=https://paris$$end=hls.a$$replace=');$$replacewith=$$add= 
 
 
 
