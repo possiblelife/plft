@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,15/02/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,15/02/19 !
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -155,6 +155,10 @@ https://www.youtube.com/watch?v=ELB7cKTx5ig
 https://www.youtube.com/watch?v=MRDeOhioF3g
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
 http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-logo="https://webtv.ert.gr/wp-content/uploads/2019/02/ERTSports-logoPage1.png",ERT SPORTS HD
+https://www.youtube.com/watch?v=MP8Htwny-T4
+#EXTINF:-1 group-title="Greece" tvg-logo="https://webtv.ert.gr/wp-content/uploads/2019/02/ERTSports-logoPage1.png",ERT SPORTS WORLDWIDE
+https://www.youtube.com/watch?v=M0InlvUsshM
 #EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg" ,ERT Play WebTV (Youtube)
 https://www.youtube.com/watch?v=dupGV_GjnOQ
 #EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg" ,ERT Play Worldwide (Youtube)
