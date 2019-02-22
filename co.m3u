@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,20/02/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,22/02/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -5945,52 +5945,59 @@ http://62.28.213.14:9981/stream/channelid/1402355728
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER3",
 
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" ,SPORT TV 1 
-http://pina7.ddns.net:8000/aplicacao/scp4ever/10.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" ,SPORT TV 2 
-http://pina7.ddns.net:8000/aplicacao/scp4ever/11.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" ,SPORT TV 3 
-http://pina7.ddns.net:8000/aplicacao/scp4ever/12.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" ,SPORT TV 4 
-http://pina7.ddns.net:8000/aplicacao/scp4ever/13.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" ,SPORT TV 5 
-http://pina7.ddns.net:8000/aplicacao/scp4ever/14.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,BENFICA TV 
-http://pina7.ddns.net:8000/aplicacao/scp4ever/15.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" ,ELEVEN SPORTS 1 
-http://pina7.ddns.net:8000/aplicacao/scp4ever/16.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" ,ELEVEN SPORTS 2 
-http://pina7.ddns.net:8000/aplicacao/scp4ever/17.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png" ,RTP 1 
-http://pina7.ddns.net:8000/aplicacao/scp4ever/2.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png" ,RTP 2 
-http://pina7.ddns.net:8000/aplicacao/scp4ever/3.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png",TVI REALITY 
-http://pina7.ddns.net:8000/aplicacao/scp4ever/7.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png",TVI FICÇÂO
-http://pina7.ddns.net:8000/aplicacao/scp4ever/6.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI.png",TVI
-http://pina7.ddns.net:8000/aplicacao/scp4ever/5.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png",CMTV
-http://pina7.ddns.net:8000/aplicacao/scp4ever/9.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX HD
-http://pina7.ddns.net:8000/aplicacao/scp4ever/23.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SIC.png" ,SIC
-http://pina7.ddns.net:8000/aplicacao/scp4ever/4.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png",SIC NOTICIAS
-http://pina7.ddns.net:8000/aplicacao/scp4ever/8.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3"  tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png",TV CINE 1
-http://pina7.ddns.net:8000/aplicacao/scp4ever/18.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png" ,TV CINE 2
-http://pina7.ddns.net:8000/aplicacao/scp4ever/19.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png" ,TV CINE 3
-http://pina7.ddns.net:8000/aplicacao/scp4ever/20.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png" ,TV CINE 4
-http://pina7.ddns.net:8000/aplicacao/scp4ever/21.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png",HOLLYWOOD
-http://pina7.ddns.net:8000/aplicacao/scp4ever/22.ch
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png",AXN
-http://pina7.ddns.net:8000/aplicacao/scp4ever/23.ch
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVI24.png" ,TVI24
+http://85.244.70.140:7000/play/a02v
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png" ,SIC MULHER
+http://85.244.70.140:7000/play/a00y
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" ,SPORT TV 1
+http://85.244.70.140:7000/play/a035
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" ,SPORT TV 2
+http://85.244.70.140:7000/play/a02t
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" ,SPORT TV 3
+http://85.244.70.140:7000/play/a02w
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" ,SPORT TV 4
+http://85.244.70.140:7000/play/a02y
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT.png" ,EUROSPORT
+http://85.244.70.140:7000/play/a02z
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORTNEWS.png" ,EUROSPORT NEWS
+http://85.244.70.140:7000/play/a010
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORVISIONTV.png" ,MOTORVISION TV
+http://85.244.70.140:7000/play/a00t
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" ,DISNEY JUNIOR
+http://85.244.70.140:7000/play/a015
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" ,PANDA BIGGS
+http://85.244.70.140:7000/play/a013
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" ,NICKELODEON
+http://85.244.70.140:7000/play/a00o
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png" ,AMC HD
+http://85.244.70.140:7000/play/a037
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIREALITY.png" ,TVI REALITY
+http://85.244.70.140:7000/play/a00x
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/VH1EUROPE.png" ,VH1 EUROPE
+http://85.244.70.140:7000/play/a012
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSHOWCASE.png" ,DISCOVERY SHOWCASE
+http://85.244.70.140:7000/play/a00n
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/A&E.png" ,A&E
+http://85.244.70.140:7000/play/a011
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TLC.png" ,TLC
+http://85.244.70.140:7000/play/a00z
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BBCENTERT.png" ,BBC ENTERTAINMENT
+http://85.244.70.140:7000/play/a00u
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOROSTV.png" ,TOROS TV
+http://85.244.70.140:7000/play/a014
+#EXTINF:-1 group-title="Portugal PREMIUM-SERVER3" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACAEPESCA.png" ,CACA & PESCA
+http://85.244.70.140:7000/play/a00p
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -6068,249 +6075,6 @@ http://lcmn.serveftp.net:8000/live/carr/carr/202.m3u8
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICN.png" ,SIC NOTICIAS HD 
 http://lcmn.serveftp.net:8000/live/carr/carr/194.m3u8
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" ,CMTV 
-http://lcmn.serveftp.net:8000/live/carr/carr/192.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CMTV.png" ,CMTV HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/191.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+.png" ,SPORT TV+ 
-http://lcmn.serveftp.net:8000/live/carr/carr/161.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV+HD.png" ,SPORT TV+ HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/158.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBO.png" ,GLOBO 
-http://lcmn.serveftp.net:8000/live/carr/carr/17.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICMULHER.png" ,SIC MULHER HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/181.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png" ,PORTO CANAL 
-http://lcmn.serveftp.net:8000/live/carr/carr/130.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PORTOCANAL.png" ,PORTO CANAL HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/129.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png" ,SIC CARAS 
-http://lcmn.serveftp.net:8000/live/carr/carr/172.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICCARAS.png" ,SIC CARAS HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/171.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICRADICAL.png" ,SIC RADICAL HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/179.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/24KITCHEN.png" ,24 KITCHEN HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/30.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALQ.png" ,CANAL Q 
-http://lcmn.serveftp.net:8000/live/carr/carr/178.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" ,SPORT TV 1 
-http://lcmn.serveftp.net:8000/live/carr/carr/156.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" ,SPORT TV 1 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/468.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png" ,SPORT TV 1 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/469.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2.png" ,SPORT TV 2 
-http://lcmn.serveftp.net:8000/live/carr/carr/152.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" ,SPORT TV 2 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/150.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" ,SPORT TV 3 
-http://lcmn.serveftp.net:8000/live/carr/carr/148.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png" ,SPORT TV 3 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/146.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" ,SPORT TV 4 
-http://lcmn.serveftp.net:8000/live/carr/carr/144.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4HD.png" ,SPORT TV 4 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/143.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4HD.png" ,SPORT TV 4 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/142.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5.png" ,SPORT TV 5 
-http://lcmn.serveftp.net:8000/live/carr/carr/140.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5HD.png" ,SPORT TV 5 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/139.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV5HD.png" ,SPORT TV 5 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/138.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTTVNBA.png" ,SPORT TV NBA 
-http://lcmn.serveftp.net:8000/live/carr/carr/13293.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,BTV 
-http://lcmn.serveftp.net:8000/live/carr/carr/471.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,BTV HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/470.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BENFICATV.png" ,BTV FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/134.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" ,SPORTING TV 
-http://lcmn.serveftp.net:8000/live/carr/carr/133.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPORTINGTV.png" ,SPORTING TV HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/131.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" ,ELEVEN SPORTS 1 
-http://lcmn.serveftp.net:8000/live/carr/carr/113.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" ,ELEVEN SPORTS 1 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/112.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS1.png" ,ELEVEN SPORTS 1 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/111.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" ,ELEVEN SPORTS 2 
-http://lcmn.serveftp.net:8000/live/carr/carr/110.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" ,ELEVEN SPORTS 2 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/109.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS2.png" ,ELEVEN SPORTS 2 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/108.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png" ,ELEVEN SPORTS 3 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/107.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS3.png" ,ELEVEN SPORTS 3 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/106.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS4.png" ,ELEVEN SPORTS 4 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/105.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS4.png" ,ELEVEN SPORTS 4 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/104.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS5.png" ,ELEVEN SPORTS 5 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/103.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS5.png" ,ELEVEN SPORTS 5 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/102.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS6.png" ,ELEVEN SPORTS 6 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/101.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ELEVENSPORTS6.png" ,ELEVEN SPORTS 6 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/100.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORTHD.png" ,EUROSPORT HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/124.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/EUROSPORT2.png" ,EUROSPORT 2 
-http://lcmn.serveftp.net:8000/live/carr/carr/123.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTVHD.png" ,FUEL TV HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/116.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/KOMBATSPORT.png" ,KOMBAT SPORT 
-http://lcmn.serveftp.net:8000/live/carr/carr/120.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MOTORSPORTTV.png" ,MOTORSPORT.TV 
-http://lcmn.serveftp.net:8000/live/carr/carr/7163.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYCHANNEL.png" ,DISNEY CHANNEL 
-http://lcmn.serveftp.net:8000/live/carr/carr/45.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png" ,CARTOON NETWORK 
-http://lcmn.serveftp.net:8000/live/carr/carr/46.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALPANDA.png" ,PANDA 
-http://lcmn.serveftp.net:8000/live/carr/carr/47.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/JIMJAM.png" ,JIMJAM 
-http://lcmn.serveftp.net:8000/live/carr/carr/43.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKJR.png" ,NICK JR 
-http://lcmn.serveftp.net:8000/live/carr/carr/40.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BABYTV.png" ,BABY TV 
-http://lcmn.serveftp.net:8000/live/carr/carr/49.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1.png" ,TVCINE 1 
-http://lcmn.serveftp.net:8000/live/carr/carr/90.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1HD.png" ,TVCINE 1 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/89.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC1HD.png" ,TVCINE 1 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/88.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2.png" ,TVCINE 2 
-http://lcmn.serveftp.net:8000/live/carr/carr/87.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2HD.png" ,TVCINE 2 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/86.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC2HD.png" ,TVCINE 2 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/85.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3.png" ,TVCINE 3 
-http://lcmn.serveftp.net:8000/live/carr/carr/84.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3HD.png" ,TVCINE 3 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/83.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC3HD.png" ,TVCINE 3 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/82.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4.png" ,TVCINE 4 
-http://lcmn.serveftp.net:8000/live/carr/carr/81.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4HD.png" ,TVCINE 4 HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/80.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVC4HD.png" ,TVCINE 4 FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/79.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIES.png" ,TVSeries 
-http://lcmn.serveftp.net:8000/live/carr/carr/54.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIESHD.png" ,TVSeries HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/53.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVSERIESHD.png" ,TVSeries FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/52.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png" ,HOLLYWOOD 
-http://lcmn.serveftp.net:8000/live/carr/carr/93.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALHOLLYWOOD.png" ,HOLLYWOOD FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/91.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEMUNDO.png" ,CINEMUNDO 
-http://lcmn.serveftp.net:8000/live/carr/carr/96.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CINEMUNDO.png" ,CINEMUNDO HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/97.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png" ,FOX MOVIES 
-http://lcmn.serveftp.net:8000/live/carr/carr/95.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXMOVIES.png" ,FOX MOVIES HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/94.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" ,FOX 
-http://lcmn.serveftp.net:8000/live/carr/carr/69.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" ,FOX HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/68.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png" ,FOX FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/67.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png" ,AXN 
-http://lcmn.serveftp.net:8000/live/carr/carr/78.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png" ,AXN HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/77.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXN.png" ,AXN FHD 
-http://lcmn.serveftp.net:8000/live/carr/carr/76.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" ,FOX LIFE 
-http://lcmn.serveftp.net:8000/live/carr/carr/60.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png" ,FOX LIFE HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/59.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png" ,FOX CRIME 
-http://lcmn.serveftp.net:8000/live/carr/carr/63.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png" ,FOX CRIME HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/62.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png" ,FOX COMEDY 
-http://lcmn.serveftp.net:8000/live/carr/carr/66.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png" ,FOX COMEDY HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/65.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png" ,AXN WHITE 
-http://lcmn.serveftp.net:8000/live/carr/carr/72.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNWHITE.png" ,AXN WHITE HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/71.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png" ,AXN BLACK 
-http://lcmn.serveftp.net:8000/live/carr/carr/74.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AXNBLACK.png" ,AXN BLACK HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/75.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" ,SYFY 
-http://lcmn.serveftp.net:8000/live/carr/carr/57.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SYFY.png" ,SYFY HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/56.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AMC.png" ,AMC 
-http://lcmn.serveftp.net:8000/live/carr/carr/99.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TVIFICCAO.png" ,TVI FICÇÃO 
-http://lcmn.serveftp.net:8000/live/carr/carr/183.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" ,MTV PORTUGAL 
-http://lcmn.serveftp.net:8000/live/carr/carr/3.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVBASE.png" ,MTV BASE 
-http://lcmn.serveftp.net:8000/live/carr/carr/662.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTVCLASSIC.png" ,MTV CLASSIC 
-http://lcmn.serveftp.net:8000/live/carr/carr/7175.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MTV.png" ,MTV MUSIC 
-http://lcmn.serveftp.net:8000/live/carr/carr/7171.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/AFROMUSIC.png" ,AFRO MUSIC 
-http://lcmn.serveftp.net:8000/live/carr/carr/7.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png" ,DISCOVERY 
-http://lcmn.serveftp.net:8000/live/carr/carr/39.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png" ,NATIONAL GEOGRAPHIC 
-http://lcmn.serveftp.net:8000/live/carr/carr/37.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png" ,NATIONAL GEOGRAPHIC WILD 
-http://lcmn.serveftp.net:8000/live/carr/carr/36.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/HISTORIA.png" ,HISTORIA 
-http://lcmn.serveftp.net:8000/live/carr/carr/35.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ODISSEIA.png" ,ODISSEIA 
-http://lcmn.serveftp.net:8000/live/carr/carr/25.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CRIMEINVESTIGATION.png" ,CRIME & INVESTIGATION 
-http://lcmn.serveftp.net:8000/live/carr/carr/51.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BLAZETV.png" ,BLAZE 
-http://lcmn.serveftp.net:8000/live/carr/carr/13289.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/E!.png" ,E! ENTERTAINMENT HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/176.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TRAVELCHANNEL.png" ,TRAVEL CHANNEL 
-http://lcmn.serveftp.net:8000/live/carr/carr/26.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOOD.png" ,FOOD NETWORK HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/29.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FINELIVING.png" ,FINE LIVING NETWORK 
-http://lcmn.serveftp.net:8000/live/carr/carr/13284.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBONOW.png" ,GLOBO NOW 
-http://lcmn.serveftp.net:8000/live/carr/carr/13283.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GLOBOPREMIUM.png" ,GLOBO PREMIUM 
-http://lcmn.serveftp.net:8000/live/carr/carr/20.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png" ,TV RECORD 
-http://lcmn.serveftp.net:8000/live/carr/carr/19.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RECORDTV.png" ,TV RECORD HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/18.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FIGHTNET.png" ,FIGHT NETWORK HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/118.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FUELTVHD.png" ,FUEL TV HD 
-http://lcmn.serveftp.net:8000/live/carr/carr/116.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CBSREALITY.png" ,CBS REALITY 
-http://lcmn.serveftp.net:8000/live/carr/carr/173.m3u8
-#EXTINF:-1 group-title="Portugal PREMIUM-SERVER6" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MCSLIFESTYLE.png" ,MCS LIFESTYLE 
-http://lcmn.serveftp.net:8000/live/carr/carr/27.m3u8
 
 
 
@@ -9568,1111 +9332,1111 @@ http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?id=bahrain_tv
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AlfajertvHD1
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3357
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3357
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AlfajertvHD3
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3358
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3358
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AlfajertvHD4
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3359
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3359
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AlfajertvHD5
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3360
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3360
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Aso-Sport
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3327
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3327
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Sport1
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3330
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3330
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Sport2
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3331
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3331
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Sport3
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3361
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3361
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Astera-Sport
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3332
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3332
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ajyal TV Mada*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/451
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/451
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Almahed*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/452
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/452
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AlSalam TV*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/457
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/457
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bethlehem TV*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/449
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/449
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Byaban Sports*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/453
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/453
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Falcon-Eye-1*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/456
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/456
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Falcon-Eye-2*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/455
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/455
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Falcon-Family*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/454
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/454
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Watar1*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/450
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/450
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ON SPORT
 http://185.27.116.54:1935/livestream/sno/chunklist_w1177349334.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AD-Sport-HD1
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3364
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3364
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AD-Sport-HD2
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3365
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3365
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AD-Sport-HD3
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3366
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3366
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AD-Sport-HD4
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3367
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3367
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆beIN HD☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/472
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/472
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-1 HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3221
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3221
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein 1
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3349
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3349
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein -1
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3342
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3342
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein 1*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3341
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3341
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein 1**
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3340
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3340
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-2 HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3220
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3220
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-3 HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3219
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3219
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-4 HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3218
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3218
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-5 HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3217
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3217
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-6 HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3216
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3216
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-7 HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3215
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3215
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-8 HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3214
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3214
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein 2
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3348
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3348
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein 3
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3347
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3347
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein 4
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3346
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3346
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein 5
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3345
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3345
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein 6
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3344
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3344
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein 7
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3343
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3343
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆Bein SD☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/488
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/488
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-1 SD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3237
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3237
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-2 SD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3236
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3236
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-3 SD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3235
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3235
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-4 SD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3234
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3234
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-5 SD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3233
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3233
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-6 SD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3232
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3232
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-7 SD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3231
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3231
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR:BEINSPORTS-8 SD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3230
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3230
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆MBC☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/483
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/483
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR-MBC1
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/482
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/482
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR-MBC 2
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/481
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/481
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR-MBC3
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/480
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/480
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR-MBC4
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/479
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/479
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR-MBCDrama
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/474
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/474
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR-MBCAction
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/478
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/478
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR-MBCMax
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/473
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/473
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",B4u Aflam
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/476
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/476
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC DRAMA+
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/475
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/475
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR-MBC Bollywood
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/477
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/477
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆OSN☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3251
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3251
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN Musalsalat
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3362
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3362
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Cartoon Network
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3363
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3363
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MY-FILM-BOX-HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3329
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3329
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",My-Cinema-HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3373
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3373
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Star-Movies-HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3372
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3372
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Star-World-HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3374
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3374
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AD_Nat_Geo
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3315
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3315
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ART-AFLAM-1
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3314
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3314
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ART-AFLAM-2
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3313
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3313
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ART-CINEMA
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3312
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3312
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN-MOVIES-AC
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3318
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3318
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN-Movies-First
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3317
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3317
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN-MOVIES-HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3320
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3320
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN-Movies-Kids
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3311
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3311
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN-Yahala-Cinem
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3319
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3319
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OSN-YHALA-HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3316
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3316
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Drama
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3353
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3353
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bein Series
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3354
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3354
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",TEST
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3355
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3355
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆قنوات الاخبارية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/120
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/120
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alarabiya
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/119
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/119
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alarabiya Alhadath
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/118
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/118
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alaraby
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/111
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/111
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Aljazeera News
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/117
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/117
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ann
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/112
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/112
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",BBC ARABIC
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/115
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/115
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Cnbc arabia
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/113
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/113
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",RT Arabic
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/116
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/116
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",RT Arabic old
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/110
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/110
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Sky news arabia
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/114
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/114
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆قنوات الاطفال☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/109
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/109
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ajyal
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/107
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/107
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Nour kids
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/101
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/101
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Sat7kids
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/103
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/103
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Spacetoon
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/106
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/106
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Toyor aljanah
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/108
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/108
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆قنوات السورية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/3310
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/3310
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Suriya tv*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/35
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/35
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Syria 1 HD*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/38
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/38
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Syria Drama HD*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/36
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/36
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Syria EDU*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/32
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/32
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Syria news HD*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/37
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/37
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alminber*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/24
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/24
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",HALAB TODAY*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/26
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/26
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",LANA SYRIA*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/34
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/34
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",NOOR ALSHAM HD*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/31
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/31
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ORIENT NEWS*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/25
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/25
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Radio Demashk*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/23
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/23
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Radio karma*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/21
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/21
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Radio Zanobya*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/22
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/22
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Sama tv*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/29
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/29
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",SHAM FM RADIO*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/27
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/27
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",SHAM FM TV*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/28
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/28
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Souryana HD*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/30
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/30
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ugarit*
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/33
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/33
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆قنوات اللبنانية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/71
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/71
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AL MANAR
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/56
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/56
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alalam
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/57
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/57
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Aljadeed
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/61
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/61
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Future
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/63
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/63
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Future backup
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/62
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/62
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",LBC HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/66
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/66
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",LDC HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/67
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/67
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Mayadeen
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/58
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/58
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Mtv
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/69
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/69
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MTV lebanon
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/68
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/68
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",NBN
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/59
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/59
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",New TELE LEBANON
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/70
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/70
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",OTV
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/60
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/60
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆القنوات المصرية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/141
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/141
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",CBC HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/135
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/135
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Cbc1
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/140
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/140
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Cbcdrama
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/139
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/139
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Cbcsofra
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/138
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/138
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",CBCSOFRA HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/134
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/134
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Dmc
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/137
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/137
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Dmcdrama
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/136
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/136
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Rotana aflam
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/129
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/129
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Rotana classic
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/127
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/127
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Rotana clip
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/126
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/126
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Rotana drama
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/125
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/125
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ROTANA HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/131
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/131
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Rotana music
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/130
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/130
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Rotana Khalejeh
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/128
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/128
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",SADA ELBALAD HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/133
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/133
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",WANASAH HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/132
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/132
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ZEE AFLAM HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/124
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/124
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Zee alwan
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/121
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/121
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ZEE ALWAN HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/123
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/123
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Zeeaflam
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/122
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/122
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆قنوات العراقية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/100
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/100
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Afaqtv yoytube
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/78
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/78
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AL Etejah
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/87
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/87
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AL Rasheed TV
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/86
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/86
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AL Rasheed TV backup
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/85
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/85
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alahad
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/75
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/75
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alfaloja
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/98
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/98
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alforat
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/74
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/74
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alghadeer
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/81
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/81
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alhura
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/72
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/72
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Almaaref
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/82
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/82
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alqanat
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/90
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/90
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Sumaria
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/99
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/99
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ALSHARQIA HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/94
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/94
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AlSharqiya sd
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/92
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/92
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AlsharqiyaNews sd
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/91
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/91
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ALSUMARIA HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/95
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/95
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Altaghier
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/89
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/89
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Anb iraq
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/76
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/76
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Asia TV
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/79
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/79
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Baghdad
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/84
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/84
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Dejlah
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/88
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/88
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DIJLAH HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/96
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/96
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Hadath Iraq TV
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/77
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/77
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",HOUNA BAGHDAD HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/97
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/97
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Imamhussain
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/80
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/80
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ishtar TV
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/73
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/73
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MUSICALRAMAS HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/93
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/93
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Samaraa
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/83
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/83
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆القنوات الاماراتية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/162
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/162
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Abudhabi
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/153
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/153
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Abudhabi drama
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/149
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/149
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Abudhabi drama HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/148
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/148
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Abudhabi emarat
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/151
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/151
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Abudhabi emarat HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/150
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/150
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Abudhabi HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/152
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/152
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alan
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/155
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/155
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Aldhafra
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/154
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/154
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alsharqa
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/145
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/145
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alsharqiya from kalba
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/144
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/144
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alwoustatv
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/142
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/142
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Dubai one HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/160
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/160
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Dubai one sd
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/159
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/159
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Dubai TV
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/161
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/161
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Dubai zaman
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/157
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/157
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Natgeo abudhabi
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/147
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/147
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Natgeo abudhabi HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/146
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/146
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Noor dubai
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/156
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/156
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Sama Dubai
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/158
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/158
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Sharqa sport
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/143
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/143
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆القنوات الاردنية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/172
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/172
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ALDAWAA alshafy
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/164
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/164
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ALordon Alyoom
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/168
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/168
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Amn
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/167
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/167
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Jordan lights
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/165
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/165
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Jordan sport
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/170
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/170
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Jordan Tv
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/171
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/171
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Kife
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/163
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/163
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Manaseer
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/166
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/166
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Roya
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/169
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/169
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆قنوات المغربية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/182
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/182
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",2M HD
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/180
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/180
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al aoula laayoune
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/178
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/178
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Al maghribia
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/175
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/175
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Aloula
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/179
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/179
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Arriadia
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/177
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/177
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Assadissa
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/174
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/174
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Athaqafia 4
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/176
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/176
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",tamazight tv8
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/173
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/173
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆قنوات الكويتية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/191
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/191
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ALRAI
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/183
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/183
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ktv 2
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/189
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/189
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ktv almajlis
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/186
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/186
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ktv arabe
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/187
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/187
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ktv plus
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/185
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/185
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ktv sports plus
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/184
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/184
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ktvethraalive
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/188
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/188
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Kuwait1
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/190
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/190
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆قنوات الليبية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/196
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/196
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alnabaa
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/194
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/194
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Altanasuh
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/193
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/193
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Libya 218 tv
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/192
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/192
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Libya news
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/195
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/195
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆قنوات اليمنية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/205
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/205
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Yemen
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/204
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/204
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Almasira TV
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/199
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/199
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Belqees TV
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/202
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/202
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Hadramout
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/197
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/197
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Rushd
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/203
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/203
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Sanaa
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/201
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/201
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Shabab Yemen
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/198
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/198
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Suhail
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/200
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/200
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆قنوات السودانية☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/214
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/214
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Afriqia1
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/206
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/206
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Afriqia2
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/207
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/207
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Afriqia3
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/208
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/208
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Afriqia4
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/209
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/209
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Alshorooq sudan
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/213
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/213
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Sudan tv
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/211
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/211
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Sudani24
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/212
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/212
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Tayba
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/210
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/210
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁ ▂ ▄☆Movies&Series☆▄ ▂ ▁
-http://iptv-janberyan.com:25461/janberyan1922019/4667767889/787
+http://iptv-janberyan.com:25461/janberyan2222019/0025410577/787
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:10000-Saints
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1113.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1113.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:101-Dalmatians-II
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1225.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1225.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:365 Yom Saada
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1358.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1358.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:7amati Bit7ebeni
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1226.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1226.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:A-Monster-In-Paris
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1223.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1223.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Abda Motaa
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1279.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1279.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Adocumentary Film About Dubai
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1319.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1319.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Dubai Airport 1
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1318.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1318.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Dubai Airport 10
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1310.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1310.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Dubai Airport 2
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1317.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1317.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Dubai Airport 4
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1316.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1316.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Dubai Airport 5
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1315.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1315.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Dubai Airport 6
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1314.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1314.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Dubai Airport 7
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1313.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1313.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Dubai Airport 8
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1312.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1312.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Dubai Airport 9
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1311.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1311.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Dubai Metro 1
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1309.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1309.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Dubai Moving Burj
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1308.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1308.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Electronic Warfare
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1307.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1307.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Engineering Burj Al Arab Dubai
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1290.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1290.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Engineering Giant Gas Tanker
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1306.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1306.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Engineering Japanese Bullet Train
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1305.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1305.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Excavators And Diamond Mines
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1304.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1304.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Factories Chevrolet Camaro
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1303.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1303.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Factories IKEA
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1302.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1302.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Factories Lamborghini
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1301.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1301.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Factories Porsche Panamera
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1300.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1300.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Factories Toyota Camry
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1299.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1299.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Geo 1
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1322.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1322.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Google World
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1298.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1298.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Hiroshima The Following Day
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1297.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1297.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat How To Make Money
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1296.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1296.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Industry Bugatti Veyron Superstar
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1295.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1295.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Islands Of Dubai Industrial
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1294.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1294.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Look For Google
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1293.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1293.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Mega Breakdown Car Chargers
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1292.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1292.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Mustafa Kemal Ataturk
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1291.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1291.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Paris City
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1289.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1289.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat Structures Of Giant Trains Future
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1288.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1288.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat The Dubai Mall
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1287.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1287.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat The Highest Towers In The World Burj Khalifa
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1286.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1286.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat The Life Story Of Steve Jobs
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1285.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1285.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat The Longest Bridge In The World
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1284.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1284.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD Nat The President S Plane USA
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1283.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1283.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:AD-Nat-geo-make-enerjy-by-machine
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1260.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1260.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Aezbet Adam
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1345.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1345.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ahasees
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1349.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1349.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ahwak
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1099.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1099.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Air
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1110.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1110.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Al Nabatshy
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1222.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1222.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Al-anaisa-mammy
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1271.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1271.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Al-kharuj-min-Al-kahira-1
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1224.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1224.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Al-markeb
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1247.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1247.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Al-masafer
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1246.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1246.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Al-mawatin-bars
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1276.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1276.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Al-Qt
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1248.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1248.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Al-Shata-ele-fat
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1245.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1245.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Al-snafir
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1275.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1275.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Al-Watar
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1278.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1278.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ala Gothaty
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1378.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1378.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Alanisaa Mammy
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1376.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1376.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Aljazera 2
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1221.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1221.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Aljazera-2
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1214.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1214.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Almaslaha
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1375.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1375.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Aloha
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1147.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1147.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Amn Dowlt
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1360.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1360.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ana Badea Ya Wadia
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1359.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1359.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Aris Min Geha Amneya
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1338.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1338.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Asad Wo 4 Cats
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1340.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1340.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Asef-3la-el-ez3aj
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1192.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1192.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ask Sana Bener
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1140.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1140.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Asmaa
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1357.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1357.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Asrar Aaeleya
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1244.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1244.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Assal Eswed
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1355.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1355.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Assal-Eswed
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1220.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1220.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Assassins Tale
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1112.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1112.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Assassins-Tale
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1111.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1111.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Asterix-and-the-Vikings
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1187.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1187.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Asterix-the-Gaul
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1186.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1186.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Awesome Asian Bad Guys
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1134.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1134.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ayal Harefa
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1086.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1086.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Aziz S Dream
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1381.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1381.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Bad Building
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1143.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1143.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Bambi-2
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1219.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1219.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Banat Elaam
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1371.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1371.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Barbie In The Pink Shoes
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1133.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1133.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Barbie-and-the-Diamond-Castle
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1185.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1185.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Bebo We Basher
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1362.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1362.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Bee-Movie
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1184.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1184.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Bentein Men Masr
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1352.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1352.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Big-Hero
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1183.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1183.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Black February
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1380.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1380.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Bolt
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1218.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1218.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Bon Swary
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1350.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1350.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Boxtrolls
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1132.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1132.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Brave
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1182.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1182.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:C W C O M
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1131.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1131.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Cairo Time
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1097.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1097.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Camera Trap
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1109.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1109.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Carrier
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1259.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1259.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Cars
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1217.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1217.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Cars-2
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1181.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1181.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Cash Flow
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1216.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1216.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Catching Fatih
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1108.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1108.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:cumheriyet-Ambaba
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1243.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1243.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Despicable-Me
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1180.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1180.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Dinosaur
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1179.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1179.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Donia Maqloba
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1087.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1087.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Donkey-Xote
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1215.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1215.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Dragon Hunters
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1130.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1130.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Earth Vs Everything
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1126.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1126.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:El Ott
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1096.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1096.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:El Ragol El Ghamed Beslamto
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1354.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1354.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:El-7arami-W-El-3abet
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1270.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1270.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:El-Gezira-Island
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1213.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1213.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Eldonia Ma2looba
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1212.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1212.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:ElGhorba
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1211.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1211.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Elprincessa
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1242.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1242.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Epic
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1129.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1129.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:EUC
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1368.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1368.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ezaaet Hob
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1361.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1361.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:factory-girl
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1241.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1241.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Fantastic Four
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1149.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1149.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:fantastic-four
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1148.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1148.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Fasel Wa Naood
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1366.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1366.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Fast And Furious
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1332.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1332.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Feast
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1178.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1178.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Finding-nemo
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1128.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1128.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:First Response
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1107.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1107.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Flushed-Away
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1177.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1177.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Fokak Menny
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1356.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1356.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ga3alatni-Mogreman
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1191.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1191.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Gahim Fel Hend
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1095.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1095.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Game Over
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1377.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1377.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Garfields-FunFest
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1176.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1176.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:get Money By Cars
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1258.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1258.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ghesh ElZawgeya
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1369.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1369.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:gwazet- Maryy
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1269.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1269.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Hafla-muntasaf-al-lil
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1240.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1240.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Halawet Roo7
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1239.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1239.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Harm-street
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1238.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1238.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Hasal Kheer
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1373.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1373.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Hassal Lena Elro3b
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1210.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1210.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Hatoli Ragel
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1268.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1268.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Haz Said
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1281.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1281.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Haz West El Balad
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1209.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1209.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:HD TWA 800 AD Geographic
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1257.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1257.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Hepta: The Last Lecture
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1092.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1092.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Home
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1208.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1208.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:How To Train Your Dragon
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1127.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1127.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Husband Factor
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1138.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1138.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Husband-Factor
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1137.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1137.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Hwa-fe-kida
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1237.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1237.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:iBrahim EL Abyad
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1347.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1347.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ice-Age-1
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1207.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1207.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ice-Age-2
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1206.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1206.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ice-Age-3
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1205.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1205.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ice-Age-4
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1333.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1333.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ice-Age-5
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1125.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1125.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:inside-the-game
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1236.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1236.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:iphone 6 Plus
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1256.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1256.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Iron-Man-Hulk-Heroes-United
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1175.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1175.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:japon-speed-train
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1255.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1255.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Jeraan Al-Sa3d
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1204.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1204.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:kabtin-masr
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1203.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1203.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Kan Refeeji
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1235.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1235.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Karam King
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1234.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1234.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Keda-Reda
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1190.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1190.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Khareg Ala Elqanon
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1341.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1341.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Kharej Al Khedma
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1088.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1088.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Klam-jarayad
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1233.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1233.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:know Your Dream Home
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1254.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1254.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:La Taragoa Wala Esteslam
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1348.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1348.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:La-muakhaza
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1267.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1267.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Lamh Albaser
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1282.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1282.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Lembi 8 Giga
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1374.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1374.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:london Is Polis
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1253.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1253.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Love Is Like You
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1139.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1139.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Mad Max Fury Road
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1103.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1103.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Madagascar Europes Most Wanted
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1334.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1334.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Mafish Fayda
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1343.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1343.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Mamnoua Fi Lailat AlDokhlah
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1336.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1336.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Maya-The-Bee-Movie
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1174.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1174.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Megamind
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1173.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1173.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Men Dahr Ragel
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1091.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1091.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Mob-Of-Women
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1202.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1202.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Mohma-fe-film-kadim
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1232.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1232.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Mohtram Ila Robaa
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1351.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1351.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Monster-House
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1124.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1124.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Monsters
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1172.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1172.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:MONSTERS-INC
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1122.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1122.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Monsters-University
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1123.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1123.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:MR And Mrs Owais
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1266.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1266.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Mr-Peabody-and-Sherman
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1274.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1274.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Nashet-Harket
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1201.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1201.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Nazareyet-Amity
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1200.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1200.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Niko The Way To The Stars
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1171.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1171.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Nine
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1170.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1170.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Now Add Honey
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1105.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1105.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Omar
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1199.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1199.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Omar Salma 3
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1372.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1372.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:one-saadey
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1277.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1277.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ot W Far
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1090.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1090.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Papa Habbibi
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1370.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1370.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Plane Tragedy
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1252.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1252.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Planes
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1169.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1169.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Pleasure Island
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1106.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1106.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Prisoners
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1383.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1383.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Qot-W-Far
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1265.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1265.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Ratatouille
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1168.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1168.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Redeemer
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1145.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1145.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Rejata
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1101.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1101.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Rio-2
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1121.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1121.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Road-To-Kabul
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1198.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1198.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Saa-we-nassaf
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1231.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1231.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Saboba
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1328.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1328.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Saeid- Kilaket
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1264.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1264.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Safari
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1229.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1229.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Salim Abu Akhta
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1263.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1263.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Sami Oxide Elcarbon
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1363.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1363.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Samir Abu Elnile 1
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1321.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1321.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Samir Abu Elnile 2
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1320.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1320.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:SammY-Adventure-2
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1167.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1167.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Sarkhet Namla
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1367.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1367.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Sea Shadow
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1323.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1323.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Selena
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1346.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1346.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Shad Ajzaa
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1089.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1089.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Shark-and-Tale
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1273.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1273.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:sima-ali-baba
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1197.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1197.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Sinbad
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1166.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1166.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Sleeping-Beauty
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1196.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1196.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Snake In The Eagle Is Shadow
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1141.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1141.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Sofia-The-First-The-Floating-Palace
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1165.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1165.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Sone3a Fe Masr
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1262.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1262.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Sons Of Rizk
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1093.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1093.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Space-Chimps
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1164.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1164.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Sponge Bob Bikini Bottom Adventures
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1120.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1120.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:steven Hoking And Future Since
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1251.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1251.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Surfs-up
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1163.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1163.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Tad-The-Lost-Explorer
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1162.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1162.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Taloreantia
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1119.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1119.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Tangled Ever After
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1335.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1335.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Tanker
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1250.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1250.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Tannora-Maxi
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1194.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1194.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Tarzan
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1161.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1161.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Tatah
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1325.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1325.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Tek Tek Boom
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1365.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1365.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Telk Al Ayam
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1327.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1327.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Terminator Genisys
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1142.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1142.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Teta-Alf-Marra
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1193.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1193.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The Avengers
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1100.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1100.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The D-Train
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1104.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1104.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The Fourth Generation
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1098.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1098.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The Intern
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1280.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1280.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The Lake On Clinton Road
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1136.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1136.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The Martian
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1135.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1135.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The Pirates In An Adventure With Scientists
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1117.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1117.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The Revenant
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1146.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1146.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The Transporter
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1331.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1331.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The Transporter 2
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1330.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1330.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The Transporter 3
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1329.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1329.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The-Blue-Elephant
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1230.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1230.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The-bride-he-bought
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1150.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1150.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The-croods
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1118.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1118.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The-Incredibles
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1160.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1160.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The-Lorax
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1159.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1159.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The-Reef
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1116.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1116.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The-Rescuers
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1195.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1195.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The-Runner
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1144.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1144.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The-Smurfs-1
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1158.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1158.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The-Smurfs-2
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1157.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1157.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:The-Ugly-Ducklin-And-Me
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1156.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1156.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Those Who Fear Are Dead
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1094.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1094.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Timon-and-Bomba
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1272.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1272.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Timor We Shafika
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1342.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1342.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Tinker-Bell-and-the-Legend-of-the-Never-Beast
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1155.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1155.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Tita Rahiba
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1324.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1324.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:TMNT
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1154.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1154.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:TMNT-1
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1115.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1115.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Tom And Jimmy
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1326.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1326.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Treasure Planet
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1114.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1114.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Turbo
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1153.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1153.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Up
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1152.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1152.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Viet Full Discovery Capital Gate In Abu Dhabi National Geographic Documentary
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1249.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1249.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:WALL-E
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1151.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1151.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Welad ElAm
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1344.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1344.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Welad ElBalad
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1353.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1353.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:welad Rizk
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1102.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1102.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:West Beirut
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1228.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1228.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:When Time Becomes A Woman
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1379.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1379.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:World-War-III
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1227.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1227.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:X Large
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1364.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1364.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:ya-ana-ya-hwa
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1261.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1261.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:ZaKi Chan
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1339.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1339.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Zamzam Water
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1337.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1337.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Zarf-Tare-2
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1189.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1189.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Ar:Zeki-Chan
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1188.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1188.m3u8
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Mabrouk
-http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1382.m3u8
+http://iptv-janberyan.com:25461/movie/janberyan2222019/0025410577/1382.m3u8
 
 
 
@@ -10723,56 +10487,6 @@ http://iptv-janberyan.com:25461/movie/janberyan1922019/4667767889/1382.m3u8
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 1
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD1.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 2
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD2.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 3
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD3.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 4
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD4.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 5
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD5.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 6
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD6.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 7
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD7.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 8
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD8.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 9
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD9.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 10
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD10.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 11
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD11.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 12
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD12.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 13
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD13.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 14
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD14.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 15
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD15.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 16
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD16.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS 17
-http://95.170.215.120/hls/m3u8/Bein-Sport-HD17.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",BEIN SPORTS NBA
-http://95.170.215.120/hls/m3u8/Bein-Sport-NBA.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AD-Sport-HD4
-http://95.170.215.120/hls/m3u8/AD-Sport-HD4.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",AD-Sport-HD3
-http://95.170.215.118/hls/m3u8/AD-Sport-HD3.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tivibu-sport-1
-http://95.170.215.120/hls/m3u8/Tivibu-sport-1.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tivibu-sport-2
-http://95.170.215.120/hls/m3u8/Tivibu-sport-2.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tivibu-sport-3
-http://95.170.215.120/hls/m3u8/Tivibu-sport-3.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Tivibu-sport-4
-http://95.170.215.120/hls/m3u8/Tivibu-sport-4.m3u8|user-agent=Lavf/56.15.102
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER4",Aso-Sport
-http://95.170.215.118/hls/m3u8/Aso-Sport.m3u8|user-agent=Lavf/56.15.102
 
 
 
@@ -10870,26 +10584,6 @@ http://live1.livetvindia.co.in:8000/live/ios2/freeapp2/2153.ts|user-agent=sports
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6" tvg-name="Beoutq Sport" tvg-logo="https://gameapks.com/wp-content/uploads/418588_featured.png" ,Beoutq Sport 1
-http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21199
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6" tvg-name="Beoutq Sport" tvg-logo="https://gameapks.com/wp-content/uploads/418588_featured.png" ,Beoutq Sport 2
-http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21198
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6" tvg-name="Beoutq Sport" tvg-logo="https://gameapks.com/wp-content/uploads/418588_featured.png" ,Beoutq Sport 3
-http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21197
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6" tvg-name="Beoutq Sport" tvg-logo="https://gameapks.com/wp-content/uploads/418588_featured.png" ,Beoutq Sport 4
-http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21196
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6" tvg-name="Beoutq Sport" tvg-logo="https://gameapks.com/wp-content/uploads/418588_featured.png" ,Beoutq Sport 5
-http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21195
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6" tvg-name="Beoutq Sport" tvg-logo="https://gameapks.com/wp-content/uploads/418588_featured.png" ,Beoutq Sport 6
-http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21194
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6" tvg-name="Beoutq Sport" tvg-logo="https://gameapks.com/wp-content/uploads/418588_featured.png" ,Beoutq Sport 7
-http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21193
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6" tvg-name="Beoutq Sport" tvg-logo="https://gameapks.com/wp-content/uploads/418588_featured.png" ,Beoutq Sport 8
-http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21192
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6" tvg-name="Beoutq Sport" tvg-logo="https://gameapks.com/wp-content/uploads/418588_featured.png" ,Beoutq Sport 9
-http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21191
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6" tvg-name="Beoutq Sport" tvg-logo="https://gameapks.com/wp-content/uploads/418588_featured.png" ,Beoutq Sport 10
-http://190.2.148.6:8005/beout_fluss/EbI80zK7lJ/21190
 
 
 
