@@ -900,7 +900,92 @@ http://123tv.live/watch/wwe-network/|webview zoom=200 scroll=200,200
 
 #EXTINF:-1 group-title="USA-SERVER3",
 
-
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/AE.png" ,A&E Networks
+http://ustvgo.net/ae-networks-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/abc-269x151.jpg" ,ABC
+http://ustvgo.net/abc-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/AMC-1.png" ,AMC
+http://ustvgo.net/amc-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/animal-planet.png" ,Animal Planet
+http://ustvgo.net/animal-planet-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/BBC.jpg" ,BBC America
+http://ustvgo.net/bbc-america-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/bravo-269x151.png" ,Bravo Channel
+http://ustvgo.net/bravo-channel-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/cartoon-network.jpg" ,Cartoon Network
+http://ustvgo.net/cartoon-network-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/cnbc-1.jpg" ,CNBC
+http://ustvgo.net/cnbc-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/CNN-1.png" ,CNN
+http://ustvgo.net/cnn-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/comedy-central-269x151.png" ,Comedy Central
+http://ustvgo.net/comedy-central-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Discovery.png" ,Discovery Channel
+http://ustvgo.net/discovery-channel-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/disney-269x151.png" ,Disney Channel
+http://ustvgo.net/disney-channel-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/food-network-269x151.png" ,Food Network
+http://ustvgo.net/food-network-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/FOX-1.png" ,FOX HD
+http://ustvgo.net/fox-hd-live-streaming/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/foxbusiness.jpg" ,Fox Business
+http://ustvgo.net/fox-business-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/foxnews.jpg" ,Fox News
+http://ustvgo.net/fox-news-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/freeform-269x151.png" ,Freeform Channel
+http://ustvgo.net/freeform-channel-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/fx-269x151.png" ,FX Channel
+http://ustvgo.net/fx-channel-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/golf-269x151.png" ,Golf Channel
+http://ustvgo.net/golf-channel-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" ,Hallmark Channel
+http://ustvgo.net/hallmark-channel-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/HMM_logo_black-700x245.jpg" ,Hallmark Movies & Mysteries
+http://ustvgo.net/hallmark-movies-mysteries-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/HGTV-269x151.png" ,HGTV
+http://ustvgo.net/hgtv-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/History.png" ,History Channel
+http://ustvgo.net/history-channel-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/id-269x151.jpg" ,Investigation Discovery
+http://ustvgo.net/investigation-discovery-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Lifetime-269x151.png" ,Lifetime Channel
+http://ustvgo.net/lifetime-channel-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/msnbc_logo-269x151.jpg" ,MSNBC
+http://ustvgo.net/msnbc-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/National-Geographic-269x151.png" ,National Geographic
+http://ustvgo.net/national-geographic-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/NatGeoWild.jpeg" ,Nat Geo Wild
+http://ustvgo.net/nat-geo-wild-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/nbc-logo.jpg" ,NBC
+http://ustvgo.net/nbc-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/nbcsn-269x151.jpg" ,NBC Sports
+http://ustvgo.net/nbc-sports-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Nickelodeon_2009.png" ,Nickelodeon
+http://ustvgo.net/nickelodeon-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/nfln-logo-dark.png" ,NFL Network
+http://ustvgo.net/nfl-network-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/PBS.jpg" ,PBS
+http://ustvgo.net/pbs-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/StarZ-269x151.png" ,Starz Channel
+http://ustvgo.net/starz-channel-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/syfy-269x151.png" ,Syfy
+http://ustvgo.net/syfy-channel-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/tbs-269x151.png" ,TBS Channel
+http://ustvgo.net/tbs-channel-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/TennisChannel.whiteBg.png" ,Tennis Channel
+http://ustvgo.net/tennis-channel-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/cw-269x151.png" ,The CW
+http://ustvgo.net/the-cw-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/Weather-Channel-269x151.png" ,The Weather Channel
+http://ustvgo.net/the-weather-channel-live-streaming-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/tlc-269x151.png" ,TLC
+http://ustvgo.net/tlc-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Travel-269x151.png" ,Travel Channel
+http://ustvgo.net/travel-channel-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/TVLand-269x151.png" ,TV Land
+http://ustvgo.net/tv-land-live-free/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/USA-Network-269x151.png" ,USA Network
+http://ustvgo.net/usa-network-live/|agentnodown$$start=file: 'http$$end=',$$replace=file: '$$replacewith=$$add= 
 
 
 
