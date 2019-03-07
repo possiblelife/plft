@@ -708,6 +708,202 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 
 
+#EXTINF:-1 group-title="USA-SERVER1",
+
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E
+http://e1.123tv-uk.host/live/ae/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC  
+http://e1.123tv-uk.host/live/abc/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="https://vignette.wikia.nocookie.net/garfield/images/5/5d/ABC_Family_logo.png/revision/latest?cb=20151120142242",ABC FAMILY
+http://e1.123tv-uk.host/live/freeform-abc-family/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/adultswim-269x151.png" ,Adult Swim 
+http://e1.123tv-uk.host/live/adult-swim/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC 
+http://e1.123tv-uk.host/live/amc/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/animal-planet-269x151.png" ,Animal Planet 
+http://e1.123tv-uk.host/live/animal-planet/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bet-269x151.png" ,Bet
+http://e1.123tv-uk.host/live/bet/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bloomberg-269x151.jpg" ,Bloomberg
+http://e1.123tv-uk.host/live/bloomberg-usa/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/bravo-269x151.png" ,Bravo 
+http://e1.123tv-uk.host/live/bravo/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cspan-269x151.png" ,C-Span 
+http://e1.123tv-uk.host/live/c-span/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cspan2-269x145.png" ,C-Span 2
+http://e1.123tv-uk.host/live/c-span2-book-tv/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cspan3-269x147.png" ,C-Span 3 
+http://e1.123tv-uk.host/live/c-span3-american-history-tv/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/CMC-269x151.jpg" ,California Music Channel - CMC
+http://e1.123tv-uk.host/live/california-music-channel-cmc-tv/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cartoon-network-269x151.png" ,Cartoon Network
+http://e1.123tv-uk.host/live/cartoon-network/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" ,CBN News 
+http://e1.123tv-uk.host/live/cbn-news/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS
+http://e1.123tv-uk.host/live/cbs/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbsn-269x151.jpg" ,CBS News 
+http://e1.123tv-uk.host/live/cbs-news-cbsn/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cnn-269x151.jpg" ,CNN 
+http://e1.123tv-uk.host/live/cnn/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/comedy-central-269x151.png" ,Comedy Central
+http://e1.123tv-uk.host/live/comedy-central/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Discovery-269x151.png" ,Discovery Channel 
+http://e1.123tv-uk.host/live/discovery-channel/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",DISCOVERY SCIENCE
+http://e1.123tv-uk.host/live/science-channel/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/disney-269x151.png" ,Disney Channel 
+http://e1.123tv-uk.host/live/disney-channel/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/e-267x151.png" ,E! 
+http://e1.123tv-uk.host/live/e-network/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN
+http://e1.123tv-uk.host/live/espn/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News 
+http://e1.123tv-uk.host/live/espn-news/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/espnu-269x151.png" ,ESPN U 
+http://e1.123tv-uk.host/live/espn-u-espnu/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2
+http://e1.123tv-uk.host/live/espn2/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/ftv-269x151.png" ,Fashion TV
+http://e1.123tv-uk.host/live/fashiontv-global/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",FASION TV MIDNIGHT SECRETS
+http://e1.123tv-uk.host/live/ftv-midnight-secrets/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/food-network-269x151.png" ,Food Network 
+http://e1.123tv-uk.host/live/food-network/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox13-269x151.png" ,FOX 13 Tampa Bay (WTVT)
+http://e1.123tv-uk.host/live/fox-13-tampa-bay-wtvt/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox5dc-269x151.png" ,FOX 5 DC (WTTG)
+http://e1.123tv-uk.host/live/fox-5-dc-wttg/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox5-269x151.png" ,FOX 5 New York (WNYW) 
+http://e1.123tv-uk.host/live/fox-5-new-york-wnyw/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox8-269x151.png" ,FOX 8 New Orleans (WVUE) 
+http://e1.123tv-uk.host/live/fox-8-new-orleans-wvue/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox9-269x151.png" ,FOX 9 Minneapolis (KMSP)
+http://e1.123tv-uk.host/live/fox-9-minneapolis-kmsp/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fbn-269x151.jpg" ,FOX Business
+http://e1.123tv-uk.host/live/fox-business/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-269x151.png" ,FOX Network 
+http://e1.123tv-uk.host/live/fox-network/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" ,FOX NEWS HD
+http://e1.123tv-uk.host/live/fox-news-hd/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" ,FOX NEWS LD
+http://e1.123tv-uk.host/live/fox-news-ld/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" ,FOX NEWS SD
+http://e1.123tv-uk.host/live/fox-news-sd/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fox-news-269x151.jpg" ,FOX NEWS Talk - FOX NEWS Radio 
+http://e1.123tv-uk.host/live/fox-news-talk-fox-news-radio/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fs1-269x151.png" ,FOX Sports 1
+http://e1.123tv-uk.host/live/fox-sports-1-fs1/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fs2-269x151.png" ,FOX Sports 2
+http://e1.123tv-uk.host/live/fox-sports-2-fs2/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/free-speech-269x151.png" ,Free Speech TV
+http://e1.123tv-uk.host/live/free-speech-tv/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/freeform-269x151.png" ,Freeform (ABC Family) 
+http://e1.123tv-uk.host/live/freeform-abc-family/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/fx-269x151.png" ,FX Live 
+http://e1.123tv-uk.host/live/fx-live/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/golf-269x151.png" ,Golf Channel
+http://e1.123tv-uk.host/live/golf-channel/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/hbo-269x151.png" ,HBO 
+http://e1.123tv-uk.host/live/hbo/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/HGTV-269x151.png" ,HGTV 
+http://e1.123tv-uk.host/live/hgtv/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/History-269x151.png" ,History Channel
+http://e1.123tv-uk.host/live/history-channel/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/InfoWars-269x151.png" ,InfoWars
+http://e1.123tv-uk.host/live/infowars/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery
+http://e1.123tv-uk.host/live/investigation-discovery/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime
+http://e1.123tv-uk.host/live/lifetime-tv/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/09/espnlhn-269x151.png" ,Longhorn Network (ESPNLHN)
+http://e1.123tv-uk.host/live/longhorn-network-espnlhn/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" ,MSNBC 
+http://e1.123tv-uk.host/live/msnbc/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/mtv-269x151.png" ,MTV 
+http://e1.123tv-uk.host/live/mtv/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" ,NASA TV
+http://e1.123tv-uk.host/live/nasa-tv/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic
+http://e1.123tv-uk.host/live/national-geographic/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV 
+http://e1.123tv-uk.host/live/nba-tv/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nbc-269x151.png" ,NBC News
+http://e1.123tv-uk.host/live/nbc/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN)
+http://e1.123tv-uk.host/live/nbc-sport-network-nbcsn/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Newsmax-259x151.jpg" ,Newsmax TV
+http://e1.123tv-uk.host/live/newsmax-tv/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nfl-269x151.png" ,NFL Network 
+http://e1.123tv-uk.host/live/nfl-network/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/nfl-now-269x151.png" ,NFL Now
+http://e1.123tv-uk.host/live/nfl-now/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Oxygen-269x151.png" ,Oxygen
+http://e1.123tv-uk.host/live/oxygen/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/spike-269x151.png" ,Spike Paramount Network
+http://e1.123tv-uk.host/live/paramount-network-spike/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/rt-usa-269x151.png" ,RT USA 
+http://e1.123tv-uk.host/live/rt-usa/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Showtime-269x151.png" ,Showtime 
+http://e1.123tv-uk.host/live/showtime/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/StarZ-269x151.png" ,Starz
+http://e1.123tv-uk.host/live/starz/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/syfy-269x151.png" ,Syfy 
+http://e1.123tv-uk.host/live/syfy/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/tbs-269x151.png" ,TBS 
+http://e1.123tv-uk.host/live/tbs/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Country-Network-269x151.png" ,The Country Network
+http://e1.123tv-uk.host/live/the-country-network/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cw-269x151.png" ,The CW
+http://e1.123tv-uk.host/live/the-cw/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Weather-Channel-269x151.png" ,The Weather Channel
+http://e1.123tv-uk.host/live/the-weather-channel/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC
+http://e1.123tv-uk.host/live/tlc/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT
+http://e1.123tv-uk.host/live/tnt/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/Travel-269x151.png" ,Travel Channel 
+http://e1.123tv-uk.host/live/travel-channel/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/TruTV-269x151.png" ,TruTV 
+http://e1.123tv-uk.host/live/trutv/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/TVLand-269x151.png" ,TV Land
+http://e1.123tv-uk.host/live/tvland/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/USA-Network-269x151.png" ,USA Network
+http://e1.123tv-uk.host/live/usa-network/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/vh1-269x151.png" ,VH1 
+http://e1.123tv-uk.host/live/vh1/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/VOA-269x151.png" ,Voice of America (VOA)
+http://e1.123tv-uk.host/live/voice-of-america-voa/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/WeatherNation-269x148.png" ,WeatherNation TV
+http://e1.123tv-uk.host/live/weathernation-tv/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK
+http://e1.123tv-uk.host/live/wwe-network/chunks.m3u8|Referer=http://123tvgo.com/watch/ae/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="USA-SERVER2", 
 
 #EXTINF:-1 group-title="USA-SERVER2" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E (Double click for fullscreen)
