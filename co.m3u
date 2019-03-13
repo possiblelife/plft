@@ -1904,29 +1904,29 @@ http://190.13.120.112/streams/nederland3.m3u8
 
 #EXTINF:-1 group-title="UK-SERVER5", 
 
-#EXTINF:-1 group-title="UK-SERVER5" ,BBC Alba X
-http://185.53.163.214:5678/ipvt_008
-#EXTINF:-1 group-title="UK-SERVER5" ,BBC GB
-http://185.53.163.214:5678/ipvt_009
-#EXTINF:-1 group-title="UK-SERVER5" ,BBC News
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1
 http://185.53.163.214:5678/ipvt_006
-#EXTINF:-1 group-title="UK-SERVER5" ,BBC News
-http://185.53.163.214:5678/ipvt_010
-#EXTINF:-1 group-title="UK-SERVER5" ,BBC Two
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2
 http://185.53.163.214:5678/ipvt_007
-#EXTINF:-1 group-title="UK-SERVER5" ,ITV1
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg" ,BBC Alba
+http://185.53.163.214:5678/ipvt_008
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="https://easyview.eu/img/bbc_news.jpg" ,BBC News
+http://185.53.163.214:5678/ipvt_010
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc
+http://185.53.163.214:5678/ipvt_009
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV1
 http://185.53.163.214:5678/ipvt_001
-#EXTINF:-1 group-title="UK-SERVER5" ,ITV2
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV2
 http://185.53.163.214:5678/ipvt_002
-#EXTINF:-1 group-title="UK-SERVER5" ,ITV3
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV3
 http://185.53.163.214:5678/ipvt_003
-#EXTINF:-1 group-title="UK-SERVER5" ,ITV4
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV4
 http://185.53.163.214:5678/ipvt_004
-#EXTINF:-1 group-title="UK-SERVER5" ,ITVBe
+#EXTINF:-1 group-title="UK-SERVER5" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg" ,ITV Be
 http://185.53.163.214:5678/ipvt_005
 #EXTINF:-1 group-title="UK-SERVER5" ,STV
 http://185.53.163.214:5678/ipvt_011
-#EXTINF:-1 group-title="UK-SERVER5" ,UTV
+#EXTINF:-1 group-title="UK-SERVER5"  tvg-logo="https://www.nijobs.com/Logos/UTV-6700.gif" ,UTV
 http://185.53.163.214:5678/ipvt_012
 
 
