@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,15/03/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,18/03/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -3808,289 +3808,406 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",TF1
-http://123orca.com:25461/live/sami22/123456/5520.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",TF1 Series Films
-http://123orca.com:25461/live/sami22/123456/5502.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",TFX
-http://123orca.com:25461/live/sami22/123456/5510.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",M6
-http://123orca.com:25461/live/sami22/123456/5519.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",6TER
-http://123orca.com:25461/live/sami22/123456/5503.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",W9
-http://123orca.com:25461/live/sami22/123456/5512.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",C8
-http://123orca.com:25461/live/sami22/123456/5504.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE 2
-http://123orca.com:25461/live/sami22/123456/5518.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE 3
-http://123orca.com:25461/live/sami22/123456/5517.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE 4
-http://123orca.com:25461/live/sami22/123456/5516.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE 5
-http://123orca.com:25461/live/sami22/123456/5515.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE O
-http://123orca.com:25461/live/sami22/123456/5514.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FRANCE INFO
-http://123orca.com:25461/live/sami22/123456/5513.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Euronews
-http://123orca.com:25461/live/sami22/123456/3324.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",TV5 MONDE
-http://123orca.com:25461/live/sami22/123456/3325.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL NEWS
-http://123orca.com:25461/live/sami22/123456/5431.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",LCP
-http://123orca.com:25461/live/sami22/123456/3373.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",LCI
-http://123orca.com:25461/live/sami22/123456/9432.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Arte
-http://123orca.com:25461/live/sami22/123456/5507.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",BFM TV
-http://123orca.com:25461/live/sami22/123456/5432.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",BFM Business
-http://123orca.com:25461/live/sami22/123456/5433.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Paris Premiere
-http://123orca.com:25461/live/sami22/123456/3320.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",13ème RUE
-http://123orca.com:25461/live/sami22/123456/5479.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",RMC Story
-http://123orca.com:25461/live/sami22/123456/5508.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",TV Breizh
-http://123orca.com:25461/live/sami22/123456/5419.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Comédie
-http://123orca.com:25461/live/sami22/123456/5430.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Elle Girl
-http://123orca.com:25461/live/sami22/123456/5428.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Série Club
-http://123orca.com:25461/live/sami22/123456/5482.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Syfy
-http://123orca.com:25461/live/sami22/123456/3316.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Teva
-http://123orca.com:25461/live/sami22/123456/6282.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Chérie 25
-http://123orca.com:25461/live/sami22/123456/5505.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",TMC
-http://123orca.com:25461/live/sami22/123456/5511.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",TCM Cinéma
-http://123orca.com:25461/live/sami22/123456/5477.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Paramount Channel
-http://123orca.com:25461/live/sami22/123456/5484.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Action
-http://123orca.com:25461/live/sami22/123456/5481.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal+
-http://123orca.com:25461/live/sami22/123456/12071.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal+ Cinéma
-http://123orca.com:25461/live/sami22/123456/12073.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal+ Séries
-http://123orca.com:25461/live/sami22/123456/12066.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal+ Décalé
-http://123orca.com:25461/live/sami22/123456/5495.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal+ Family
-http://123orca.com:25461/live/sami22/123456/5494.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Ciné+ Frisson
-http://123orca.com:25461/live/sami22/123456/5487.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Ciné+ Emotion
-http://123orca.com:25461/live/sami22/123456/5489.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Ciné+ Classic
-http://123orca.com:25461/live/sami22/123456/5491.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Ciné+ Premier
-http://123orca.com:25461/live/sami22/123456/5492.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Ciné+ Famiz
-http://123orca.com:25461/live/sami22/123456/5488.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Cine Club
-http://123orca.com:25461/live/sami22/123456/8590.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",ORCA ACTION
-http://123orca.com:25461/live/sami22/123456/14626.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",ORCA ACTION 2.
-http://123orca.com:25461/live/sami22/123456/17144.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",ORCA HORROR
-http://123orca.com:25461/live/sami22/123456/15471.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS City
-http://123orca.com:25461/live/sami22/123456/3347.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS MAX
-http://123orca.com:25461/live/sami22/123456/3348.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS CHOC
-http://123orca.com:25461/live/sami22/123456/3346.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS Geants
-http://123orca.com:25461/live/sami22/123456/3345.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",SFR Action
-http://123orca.com:25461/live/sami22/123456/8705.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",SFR_Horror
-http://123orca.com:25461/live/sami22/123456/8708.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",SFR Comedy
-http://123orca.com:25461/live/sami22/123456/8706.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",SFR SCI-FI
-http://123orca.com:25461/live/sami22/123456/8707.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",altice STUDIO
-http://123orca.com:25461/live/sami22/123456/9470.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Sundance TV
-http://123orca.com:25461/live/sami22/123456/8712.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",RTL9
-http://123orca.com:25461/live/sami22/123456/5478.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",AB1
-http://123orca.com:25461/live/sami22/123456/5480.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",RMC Découverte
-http://123orca.com:25461/live/sami22/123456/5501.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Chasse et Peche
-http://123orca.com:25461/live/sami22/123456/3333.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Ushuaïa
-http://123orca.com:25461/live/sami22/123456/5457.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Animaux
-http://123orca.com:25461/live/sami22/123456/5455.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Seasons
-http://123orca.com:25461/live/sami22/123456/5456.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",My Cuisine
-http://123orca.com:25461/live/sami22/123456/9389.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Voyage
-http://123orca.com:25461/live/sami22/123456/5450.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",TREK
-http://123orca.com:25461/live/sami22/123456/5420.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",E!
-http://123orca.com:25461/live/sami22/123456/3274.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Planète+
-http://123orca.com:25461/live/sami22/123456/5462.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Planète+ CI
-http://123orca.com:25461/live/sami22/123456/5460.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Planète+ A&E
-http://123orca.com:25461/live/sami22/123456/5461.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Science & Vie
-http://123orca.com:25461/live/sami22/123456/5454.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Crime District
-http://123orca.com:25461/live/sami22/123456/9415.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Histoire
-http://123orca.com:25461/live/sami22/123456/5453.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Toute.l'histoire
-http://123orca.com:25461/live/sami22/123456/3330.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Discovery
-http://123orca.com:25461/live/sami22/123456/5452.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Discovery Science
-http://123orca.com:25461/live/sami22/123456/5451.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Discovery Investigation
-http://123orca.com:25461/live/sami22/123456/3303.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",NatGeo Wild
-http://123orca.com:25461/live/sami22/123456/5459.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",National Geographic
-http://123orca.com:25461/live/sami22/123456/5458.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Weo
-http://123orca.com:25461/live/sami22/123456/3315.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal+ Sport
-http://123orca.com:25461/live/sami22/123456/12072.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",RMC Sport 1
-http://123orca.com:25461/live/sami22/123456/12069.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",RMC Sport 2
-http://123orca.com:25461/live/sami22/123456/5472.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",RMC Sport 3
-http://123orca.com:25461/live/sami22/123456/5471.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",RMC Sport 4
-http://123orca.com:25461/live/sami22/123456/5470.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Bein Sport HD 1
-http://123orca.com:25461/live/sami22/123456/12070.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Bein Sport HD 2
-http://123orca.com:25461/live/sami22/123456/12074.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Bein Sport HD 3
-http://123orca.com:25461/live/sami22/123456/12065.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports max 4 HD
-http://123orca.com:25461/live/sami22/123456/3285.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports max 5 HD
-http://123orca.com:25461/live/sami22/123456/3284.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports max 6 HD
-http://123orca.com:25461/live/sami22/123456/3286.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports max 7 HD
-http://123orca.com:25461/live/sami22/123456/3283.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports max 8 HD
-http://123orca.com:25461/live/sami22/123456/3282.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports max 9 HD
-http://123orca.com:25461/live/sami22/123456/11454.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN Sports max 10 HD
-http://123orca.com:25461/live/sami22/123456/11455.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Infosport
-http://123orca.com:25461/live/sami22/123456/5466.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Foot 24
-http://123orca.com:25461/live/sami22/123456/3278.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Eurosport 1
-http://123orca.com:25461/live/sami22/123456/3277.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Eurosport 2
-http://123orca.com:25461/live/sami22/123456/3276.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Equidia Live
-http://123orca.com:25461/live/sami22/123456/5467.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",L'équipe 21
-http://123orca.com:25461/live/sami22/123456/5465.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",AB Moteurs
-http://123orca.com:25461/live/sami22/123456/3335.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Golf
-http://123orca.com:25461/live/sami22/123456/5464.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",Trace Urban
-http://123orca.com:25461/live/sami22/123456/5421.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",M6 MUSIC
-http://123orca.com:25461/live/sami22/123456/3290.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",CSTAR
-http://123orca.com:25461/live/sami22/123456/5506.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",NRJ12
-http://123orca.com:25461/live/sami22/123456/5509.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",MCM
-http://123orca.com:25461/live/sami22/123456/5427.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",MCM  TOP
-http://123orca.com:25461/live/sami22/123456/5426.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",MEZZO LIVE.
-http://123orca.com:25461/live/sami22/123456/5425.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",MTV FRANCE.
-http://123orca.com:25461/live/sami22/123456/5424.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",A LA CARTE 1
-http://123orca.com:25461/live/sami22/123456/3273.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",A LA CARTE 2
-http://123orca.com:25461/live/sami22/123456/3272.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",A LA CARTE 3
-http://123orca.com:25461/live/sami22/123456/3271.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",A LA CARTE 4
-http://123orca.com:25461/live/sami22/123456/3270.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",A LA CARTE 5
-http://123orca.com:25461/live/sami22/123456/3269.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",A LA CARTE 6
-http://123orca.com:25461/live/sami22/123456/3268.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",A LA CARTE 7
-http://123orca.com:25461/live/sami22/123456/3267.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",ORCA KIDS
-http://123orca.com:25461/live/sami22/123456/14682.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Tiji
-http://123orca.com:25461/live/sami22/123456/5444.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Piwi
-http://123orca.com:25461/live/sami22/123456/5443.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Gulli
-http://123orca.com:25461/live/sami22/123456/5439.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Mangas
-http://123orca.com:25461/live/sami22/123456/5438.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Canal J
-http://123orca.com:25461/live/sami22/123456/5448.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: TéléTOON
-http://123orca.com:25461/live/sami22/123456/5445.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Boomerang
-http://123orca.com:25461/live/sami22/123456/5446.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Disney Junior
-http://123orca.com:25461/live/sami22/123456/5435.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Disney. Channel
-http://123orca.com:25461/live/sami22/123456/5437.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Disney Cinema
-http://123orca.com:25461/live/sami22/123456/5436.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Disney XD
-http://123orca.com:25461/live/sami22/123456/5434.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Cartoon Network'
-http://123orca.com:25461/live/sami22/123456/5449.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:Toonami HD
-http://123orca.com:25461/live/sami22/123456/7433.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: BOING
-http://123orca.com:25461/live/sami22/123456/5447.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Nickelodeon'
-http://123orca.com:25461/live/sami22/123456/5442.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Nickelodeon Junior
-http://123orca.com:25461/live/sami22/123456/5441.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Nickelodeon 4teen
-http://123orca.com:25461/live/sami22/123456/9486.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Zouzous Tv
-http://123orca.com:25461/live/sami22/123456/7985.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Game One
-http://123orca.com:25461/live/sami22/123456/5440.m3u8
-
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: TF1 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/11339.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TF1 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/429.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Tf1 SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1925.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TF1 FULL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1406.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: TF1 HD (1080P)
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/9591.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France 2 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/427.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France 3 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/426.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL+ HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/926.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: CANAL+ HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/11389.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL+  FULL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/925.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL+  4K
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/18986.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: CANAL+  HD (1080P)
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1538.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR : CANAL+ SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/13556.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France 5 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/424.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| M6 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1924.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ARTE HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/9003.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| C8 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/416.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| W9 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/409.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TMC HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1421.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NT1 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/410.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR|  NRJ12 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/418.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France 4  HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/425.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BFM TV HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1390.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| C News
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1386.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CSTAR
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8971.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GULLI HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/362.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France O  HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/9011.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| HD1 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/417.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| L'EQUIPE 21 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/191.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| 6TER HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/423.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NUMERO 23 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8965.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC DECOUVERTE HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1371.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CHERIE 25 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8982.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| LCI
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8847.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| France INFO
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1387.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RTL9 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8968.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PARIS PREMIERE HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/9008.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Teva HD+
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1422.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TV BREIZH HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1550.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TV5 MONDE
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8844.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| AB1 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8978.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| AB3 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8975.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Syfy HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8996.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| 13 EME RUE HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/422.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| SERIE CLUB
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/9000.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| COMEDIE SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8994.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Canal Cinema HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/923.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Canal  Decale HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/920.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Canal Family HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/918.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Canal Series HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/914.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE PREMIER HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/337.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE FRISSON HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/345.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE EMOTION HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/351.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Cine Famiz HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8932.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE CLASSIC HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/355.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE FX
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/342.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE POLAR HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8926.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE CLUB HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8935.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ACTION HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/333.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OCS MAX HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/306.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OCS GEANT HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/309.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OCS CHOC HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/315.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OCS CITY HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/312.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TCM CINEMA HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/11316.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PARAMOUNT CHANNEL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8917.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| E! Entertainment HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8991.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Clique TV
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/21709.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",###### -- |FR| BEIN SPORTS  |FR| -- ######
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/909.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEINSPORT 1 FR FULL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1419.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEINSPORT 2 FR FULL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1417.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEINSPORT 3 FR FULL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1415.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: BeIN SPORTS 1 HD (1080P)
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/4528.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: BeIN SPORTS 2 HD (1080P)
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/9606.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: BeIN SPORTS 3 HD (1080P)
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/9605.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORT 1 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/303.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORT 2 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/299.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR|  BEINSPORT 3  HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/295.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: beIN SPORTS1 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/4529.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: beIN SPORT 2HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/11343.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: beIN SPORTS 3HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/11342.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports 1 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/304.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR: Bein Sports 1 SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/4530.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports 2 SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/300.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports 3 SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/296.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 4
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/292.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 5
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/291.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 6
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/290.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 7
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/289.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 8
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/288.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 9
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/287.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BeIN Sports MAX 10
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/286.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC 1 Full HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20642.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC 1 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20643.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC 1 SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20644.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC 2 FULL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20639.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC 2 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20640.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC 2 SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20641.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC 3 FULL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20636.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC 3 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20637.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC 3 SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20638.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC 4 FULL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20633.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC 4 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20634.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC 4 SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20635.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC NEWS
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20632.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT 1 Full HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20668.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT 1 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20669.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT 1 SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20670.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT 2 FULL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20665.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT 2 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20666.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT 2 SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20667.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT 3 FULL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20662.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT 3 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20663.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT 3 SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20664.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT 4 FULL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20659.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT 4 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20660.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT 4 SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20661.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMCSPORT NEWS
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/20658.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Canal  Sport HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8913.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EUROSPORT1
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8911.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EUROSPORT2
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/196.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GOLF  HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1410.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GOLF  CHANNEL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1409.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OLTV HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1873.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OMTV HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1872.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| INFOSPORT HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/194.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| AB Moteur HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8901.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MOTORSPORT TV
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8905.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR|  DISNEY JUNIOR HD+
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/404.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Disney Junior SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8887.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISNEY XD HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/397.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISNEY CINEMA HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/400.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISNEY CHANNEL HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/407.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NICKELODEON HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/394.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NICKELODEON JUNIOR HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8878.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR|  CARTOON NETWORK  HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8863.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TELETOON HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8877.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL J HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/381.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GAME ONE HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/365.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BOING HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/372.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BOOMERANG HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/375.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| J ONE HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8855.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PIWI HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/386.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TIJI HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/378.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MANGAS HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/359.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Zouzou TV
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8873.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",###### -- |FR| CULTURE FRANCE  |FR| -- ######
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1384.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CRIME DISTRICT HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1368.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISCOVERY HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1379.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISCOVERY SCIENCE HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1378.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Discovery Science SD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8834.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PLANETE CI HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1381.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PLANETE  HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1383.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PLANETE A&E HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1382.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR|  Nat Geo Wild  HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1376.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR|  NATIONAL GEOGRAPHIC HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1377.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ANIMAUX HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1373.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Chasse et Peche
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1369.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| Seasons HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8812.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| USHUAIA  HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1372.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| HISTOIRE
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1367.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| VOYAGE HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1370.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| SCIENCE ET VIE HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1374.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",###### -- |FR| MUSIC FRANCE  |FR| -- ######
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1366.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| M6 MUSIC HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1365.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MCM HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1362.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MCM TOP
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8801.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TRACE URBAN HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/2043.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MEZZO
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8797.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MTV
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/2042.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NRJ Hits
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1361.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE 24
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1391.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BFM BUSINESS HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8849.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EURONEWS
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1392.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE| La Une Belgium
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8749.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE| La Deux Belgium
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8747.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE| La Trois Belgium
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8748.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE| Voo Sport 1
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1703.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE*| Voo Sport 2
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1704.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE| Cinema 1
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8742.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE| Cinema 2
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8743.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE*| VTM HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8764.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE| RTL TVI Belgium
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8753.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE*| RTL TVI FR-BE
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8772.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",BE: RTL TVI
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1981.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",BE: RTL TVI Belgium
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1560.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE : Club RTL Belgium
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8744.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE| Plug RTL Belgium
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8751.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE*| CLUB RTL FR-BE
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8783.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE*| PLUG RTL FR-BE
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8775.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|BE| PLUG RTL
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8750.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",BE: Club RTL Belgium
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1984.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",BE: PLUG RTL
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1982.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",BE: Plug RTL Belgium
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/11711.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",SW: RTS 1 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1557.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",SW: RTS 2 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/1556.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|SW| RTS Deux Local
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8699.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",|SW| RTS Un Local
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/8719.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",SW: Teleclub Sport 1 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/11571.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",SW: Teleclub Sport 2 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/11569.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",SW: Teleclub Sport 3 HD
+http://proiptvfr.wissdz.com:8081/live/123456789/123456789/11567.m3u8
 
 
 
@@ -6721,60 +6838,6 @@ http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/YES/tu1_1.m3u8?time=1472170398067
 
 #EXTINF:-1 group-title="Latino-SERVER1",
 
-#EXTINF:-1 group-title="Latino-SERVER1",UNIMAS NY
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/3816
-#EXTINF:-1 group-title="Latino-SERVER1",TELEMUNDO HD ( ORLANDO )
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/3937
-#EXTINF:-1 group-title="Latino-SERVER1",TELEMUNDO 47
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/1445
-#EXTINF:-1 group-title="Latino-SERVER1",TELEMUNDO HD PR
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/2185
-#EXTINF:-1 group-title="Latino-SERVER1",TELEMUNDO INTER
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/7398
-#EXTINF:-1 group-title="Latino-SERVER1",TELEMUNDO WEST
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/7404
-#EXTINF:-1 group-title="Latino-SERVER1",TELEMUNDO HD ( TEXAS )
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/7357
-#EXTINF:-1 group-title="Latino-SERVER1",UNIVISION TEXAS
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/7358
-#EXTINF:-1 group-title="Latino-SERVER1",UNIVISION 41 HD ( NY )
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/1446
-#EXTINF:-1 group-title="Latino-SERVER1",UNIVISION HD ( MIAMI )
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/3935
-#EXTINF:-1 group-title="Latino-SERVER1",UNIVISION HD PR
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/2188
-#EXTINF:-1 group-title="Latino-SERVER1",UNIVISION DEPORTES HD*
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/2806
-#EXTINF:-1 group-title="Latino-SERVER1",WAPA  PR.
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/2182
-#EXTINF:-1 group-title="Latino-SERVER1",WAPA2 HD PR
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/2187
-#EXTINF:-1 group-title="Latino-SERVER1",Unimas San Francisco
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/3939
-#EXTINF:-1 group-title="Latino-SERVER1",MEGA TV HD ( MIAMI )
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/2584
-#EXTINF:-1 group-title="Latino-SERVER1",NBC UNIVERSO
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/3338
-#EXTINF:-1 group-title="Latino-SERVER1",IMAGEN TV HD
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/4954
-#EXTINF:-1 group-title="Latino-SERVER1",CNN LATINO HD
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/6004
-#EXTINF:-1 group-title="Latino-SERVER1",ESTRELLA TV
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/3341
-#EXTINF:-1 group-title="Latino-SERVER1",ESTRELLA TV.
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/2596
-#EXTINF:-1 group-title="Latino-SERVER1",AZTECA TX
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/7420
-#EXTINF:-1 group-title="Latino-SERVER1",ESTRALLATV  TX
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/7356
-#EXTINF:-1 group-title="Latino-SERVER1",TELEXITOS  TX
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/7421
-#EXTINF:-1 group-title="Latino-SERVER1",US: GALAVISION HD
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/6227
-#EXTINF:-1 group-title="Latino-SERVER1",ONDIRECTV
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/7405
-#EXTINF:-1 group-title="Latino-SERVER1",TELEMUNDO MIA
-http://extremo.dyndns.ws:25461/ROKUMASLT/YYUUEHUSDU5754987638756dgusnuy75dhd34/8963
 
 
 
@@ -13282,7 +13345,270 @@ http://31.220.1.190:8080/live/WuYC3qhd9/65udrOt48Y/121143.m3u8
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC 1 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/14.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC 2 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/12.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC 3 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/11.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC 4 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/10.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC Action HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/5.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC Bollywood HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/8.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC Drama HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/6.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC IRAQ
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/13.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC Max HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/7.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC plus Drama
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/9.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC Variety HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/4.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MY Cinema
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/3.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| FilmBox HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/2.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| FilmBox Arthouse
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/1.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",•●★----| PLatinium Channels |---★●•
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/216.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium|  Yahala Oula HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/179.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Alyum HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/215.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Animal planet HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/214.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| BBC Fisrt HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/213.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Cinema1
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/212.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Cinema2
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/211.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Discovery HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/210.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Discovery Science HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/209.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Disney HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/208.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Disney Junior HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/207.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| First Movies 2 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/206.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| First Movies HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/205.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Fix Foxi HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/204.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Gulli Arabie HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/203.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| History HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/202.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Kids Zone  HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/201.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Living HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/200.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies  2h
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/199.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies Action HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/198.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies Action HD 2h
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/197.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies Comedy HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/196.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/195.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies Thriller 2h HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/194.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies Thriller HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/193.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Musalsalat HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/192.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Music Now
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/191.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Nat Geo People HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/189.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Nat Geo Wild HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/188.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| National Geographic HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/187.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Planet Earth HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/186.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Series Comedy HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/185.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Sport 2 Action HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/183.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Sport1 Action HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/184.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Star Movies HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/182.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Star World HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/181.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| SYFY HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/180.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Yahala HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/178.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| My Cinema HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/190.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ALFAJER 1 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/286.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ALFAJER 2 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/285.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ALFAJER 3 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/284.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ALFAJER 4 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/283.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ALFAJER 5 HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/282.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ART Aflam 1
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/264.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ART Aflam 2
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/263.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ART Cinema
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/262.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ART Hekayat
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/261.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ART Hekayat 2
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/260.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Drama HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/281.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Fatafeat
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/280.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Gourmet HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/279.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Movies HD 1
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/278.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Movies HD 2
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/277.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Movies HD 3
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/276.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Movies HD 4
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/275.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Series HD 1
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/274.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Fox Action Movies
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/272.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Fox Crime HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/271.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Fox Family Movies
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/270.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Fox Life HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/269.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Fox Rewayat HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/268.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| FX HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/267.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Nat Geo People
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/259.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Nat Geo Wild
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/266.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| National Geographic
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/265.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",•●★----| Yahasat Channels |---★●•
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/386.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| BENZ
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/385.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| CM 1
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/384.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| CM 2
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/383.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| GM Comedia
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/381.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| GM Movies
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/380.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| GM Muzicana
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/379.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| HALA BOLLYWOOD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/378.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| HALA DRAMA
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/377.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| HALA MIX
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/376.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| HALA MOVIES
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/375.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| HALA SERIES
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/374.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| HALA TURK
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/373.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| M Chaabi
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/372.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| M Music
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/371.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Aflam
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/370.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Anime
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/369.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Bollywood
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/368.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Cartoon
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/367.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T CLASSIC
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/366.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Korean
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/365.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Movies
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/364.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Series
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/362.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Sport
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/361.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",•●★----| News Channels |---★●•
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/414.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Al Ahd
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/397.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Al Arabiya
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/406.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| AL Hurra Iraq
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/399.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Al Jazeera
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/405.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Al Jazeera Mubasher
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/404.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Al Mawsleya
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/393.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| AL MAYADEEN TV
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/396.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Al-Arabiya Alhadath
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/407.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| ALARABY TV
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/388.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| AlHadath
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/398.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| ALNABAA HD
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/391.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| ALSHARQIYA NEWS
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/394.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| BBC Arabic
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/412.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| BBCW
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/389.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| CNBC ARABIYA
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/409.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| CNN
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/411.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| DW-TV ARABIA
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/387.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Echorouk News
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/392.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| EuroNews
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/410.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| France 24
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/403.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| France 24 Eng
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/402.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Iraqia News
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/400.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Nile News
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/401.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Russia Today
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/408.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| SAUDI ALEKHBARIA
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/395.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Sky News Arabia
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/413.m3u8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| TRT ELARABIYE
+http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/390.m3u8
 
 
 
@@ -13805,926 +14131,6 @@ http://62.210.141.179:8000/live/ibrahim/123456/1393.m3u8
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Tunisia NAT 1
-http://123orca.com:25461/live/sami22/123456/2752.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Tunisia NAT 2
-http://123orca.com:25461/live/sami22/123456/2751.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Elhiwar ettounsi TV
-http://123orca.com:25461/live/sami22/123456/2750.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Hannibal
-http://123orca.com:25461/live/sami22/123456/2747.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nessma
-http://123orca.com:25461/live/sami22/123456/2748.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Telvza TV
-http://123orca.com:25461/live/sami22/123456/2746.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Attessia TV
-http://123orca.com:25461/live/sami22/123456/2749.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sahel tv
-http://123orca.com:25461/live/sami22/123456/9084.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Carthage TV
-http://123orca.com:25461/live/sami22/123456/4375.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Tunisna
-http://123orca.com:25461/live/sami22/123456/2744.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",M Tunisia
-http://123orca.com:25461/live/sami22/123456/2743.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Insen TV
-http://123orca.com:25461/live/sami22/123456/2740.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Janoubia Tv
-http://123orca.com:25461/live/sami22/123456/2745.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Mustakillah
-http://123orca.com:25461/live/sami22/123456/2742.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Zitouna TV
-http://123orca.com:25461/live/sami22/123456/2741.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",S7T Movies HD
-http://123orca.com:25461/live/sami22/123456/8616.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",S7T Aflam HD
-http://123orca.com:25461/live/sami22/123456/2802.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",S7T Series
-http://123orca.com:25461/live/sami22/123456/9783.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",S7T Bollywood
-http://123orca.com:25461/live/sami22/123456/8593.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",S7T Documentaire
-http://123orca.com:25461/live/sami22/123456/2779.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",S7T Culture
-http://123orca.com:25461/live/sami22/123456/8609.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",S7T Anime
-http://123orca.com:25461/live/sami22/123456/2804.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",S7T Korean
-http://123orca.com:25461/live/sami22/123456/8614.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",S7T Hits HD
-http://123orca.com:25461/live/sami22/123456/8613.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",S7T Music HD
-http://123orca.com:25461/live/sami22/123456/9359.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------TN TNT--------
-http://123orca.com:25461/live/sami22/123456/5736.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Tunisia Nat 1 TNT
-http://123orca.com:25461/live/sami22/123456/5724.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Tunisia Nat 2 TNT
-http://123orca.com:25461/live/sami22/123456/5725.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Elhiwar Ettounsi TNT
-http://123orca.com:25461/live/sami22/123456/5726.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nessma TNT
-http://123orca.com:25461/live/sami22/123456/5728.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Hannibal TNT
-http://123orca.com:25461/live/sami22/123456/5729.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Attessia TNT
-http://123orca.com:25461/live/sami22/123456/5727.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Telvza TNT
-http://123orca.com:25461/live/sami22/123456/5733.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Janoubia TNT
-http://123orca.com:25461/live/sami22/123456/5730.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",M Tunisia TNT
-http://123orca.com:25461/live/sami22/123456/5734.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Tunisna TNT
-http://123orca.com:25461/live/sami22/123456/5731.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Insen TNT
-http://123orca.com:25461/live/sami22/123456/5735.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Zitouna TNT
-http://123orca.com:25461/live/sami22/123456/5732.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------ALGERIE--------
-http://123orca.com:25461/live/sami22/123456/2782.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Algeria tv
-http://123orca.com:25461/live/sami22/123456/2781.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Algerie 3
-http://123orca.com:25461/live/sami22/123456/8619.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Algerie 4
-http://123orca.com:25461/live/sami22/123456/8612.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Algerie 5
-http://123orca.com:25461/live/sami22/123456/8608.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Echorouk TV
-http://123orca.com:25461/live/sami22/123456/2775.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Echorouk News
-http://123orca.com:25461/live/sami22/123456/2774.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bahia TV
-http://123orca.com:25461/live/sami22/123456/8599.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dzair News
-http://123orca.com:25461/live/sami22/123456/2768.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",El Bilad TV
-http://123orca.com:25461/live/sami22/123456/2765.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",El Djazairia TV
-http://123orca.com:25461/live/sami22/123456/2766.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Ennahar TV DZ
-http://123orca.com:25461/live/sami22/123456/2771.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ENTV Algerie
-http://123orca.com:25461/live/sami22/123456/2780.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Berbere TV
-http://123orca.com:25461/live/sami22/123456/2759.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Berbere Music
-http://123orca.com:25461/live/sami22/123456/9253.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Berbere Jeunesse
-http://123orca.com:25461/live/sami22/123456/8605.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",El Fadjr TV DZ
-http://123orca.com:25461/live/sami22/123456/2763.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------MAROC--------
-http://123orca.com:25461/live/sami22/123456/2793.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",2M Maroc
-http://123orca.com:25461/live/sami22/123456/2791.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Medi1 TV HD
-http://123orca.com:25461/live/sami22/123456/2785.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Aoula Inter
-http://123orca.com:25461/live/sami22/123456/2792.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Maghribia
-http://123orca.com:25461/live/sami22/123456/9316.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Magharibia News
-http://123orca.com:25461/live/sami22/123456/2758.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Magharibia Two
-http://123orca.com:25461/live/sami22/123456/2757.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Maroc Tamazight
-http://123orca.com:25461/live/sami22/123456/2786.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Arrabiaa
-http://123orca.com:25461/live/sami22/123456/2789.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Assadissa
-http://123orca.com:25461/live/sami22/123456/2787.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Aflam7
-http://123orca.com:25461/live/sami22/123456/7977.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",CHADA
-http://123orca.com:25461/live/sami22/123456/4405.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Beur TV
-http://123orca.com:25461/live/sami22/123456/2764.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Arryadia Live HD
-http://123orca.com:25461/live/sami22/123456/2790.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",GM Movies HD
-http://123orca.com:25461/live/sami22/123456/8620.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",GM Alwan
-http://123orca.com:25461/live/sami22/123456/8611.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",GM Comedia TV
-http://123orca.com:25461/live/sami22/123456/8597.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",GM Muzicana
-http://123orca.com:25461/live/sami22/123456/8606.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",GM Chaabi TV
-http://123orca.com:25461/live/sami22/123456/8601.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",GM Music TV
-http://123orca.com:25461/live/sami22/123456/8602.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",GM OFIVE
-http://123orca.com:25461/live/sami22/123456/9254.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",GM Bizim TV
-http://123orca.com:25461/live/sami22/123456/8617.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------NEWS--------
-http://123orca.com:25461/live/sami22/123456/3015.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Jazeera
-http://123orca.com:25461/live/sami22/123456/2812.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Arabiya
-http://123orca.com:25461/live/sami22/123456/2811.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Arabiya Al Hadath
-http://123orca.com:25461/live/sami22/123456/2810.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sky News Arabia HD
-http://123orca.com:25461/live/sami22/123456/2809.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Mayadeen Tv
-http://123orca.com:25461/live/sami22/123456/2877.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Sharq tv
-http://123orca.com:25461/live/sami22/123456/6502.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Alam
-http://123orca.com:25461/live/sami22/123456/8734.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",RT Arab
-http://123orca.com:25461/live/sami22/123456/4342.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",DW Arabic TV
-http://123orca.com:25461/live/sami22/123456/2798.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BBC Arabic
-http://123orca.com:25461/live/sami22/123456/3078.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Euro news
-http://123orca.com:25461/live/sami22/123456/2800.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Alhurra
-http://123orca.com:25461/live/sami22/123456/3038.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Cnbc Arabia
-http://123orca.com:25461/live/sami22/123456/4274.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",TRT Arabic
-http://123orca.com:25461/live/sami22/123456/2796.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Ekhbariya
-http://123orca.com:25461/live/sami22/123456/4233.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Ekhbariya Al Soriya
-http://123orca.com:25461/live/sami22/123456/2801.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Sharqiya News HD
-http://123orca.com:25461/live/sami22/123456/2795.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Jazeera English
-http://123orca.com:25461/live/sami22/123456/2805.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Jazeera Mubasher
-http://123orca.com:25461/live/sami22/123456/2807.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------LIBYAN--------
-http://123orca.com:25461/live/sami22/123456/2829.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Aljamahiriya TV
-http://123orca.com:25461/live/sami22/123456/9287.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Libya Alhadath TV
-http://123orca.com:25461/live/sami22/123456/9251.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Libya Future
-http://123orca.com:25461/live/sami22/123456/9268.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Libya el watan
-http://123orca.com:25461/live/sami22/123456/2827.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Libya Al Ahrar TV
-http://123orca.com:25461/live/sami22/123456/2828.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Libya TV
-http://123orca.com:25461/live/sami22/123456/4312.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Libya's Channel
-http://123orca.com:25461/live/sami22/123456/4418.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Libya 24
-http://123orca.com:25461/live/sami22/123456/4417.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------DOCUMENTAIRE--------
-http://123orca.com:25461/live/sami22/123456/2835.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nat Geo Abu Dhabi
-http://123orca.com:25461/live/sami22/123456/2834.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Jazeera Documentary
-http://123orca.com:25461/live/sami22/123456/2832.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Quest Arabiya
-http://123orca.com:25461/live/sami22/123456/2833.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------CUISINE--------
-http://123orca.com:25461/live/sami22/123456/8581.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Fatafeat
-http://123orca.com:25461/live/sami22/123456/2928.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN Gourmet HD
-http://123orca.com:25461/live/sami22/123456/5199.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Panorama Food
-http://123orca.com:25461/live/sami22/123456/2901.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Samira TV.
-http://123orca.com:25461/live/sami22/123456/8582.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",CBC BENNA
-http://123orca.com:25461/live/sami22/123456/9372.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",CBC Sofra
-http://123orca.com:25461/live/sami22/123456/2926.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------FILM&SERIES--------
-http://123orca.com:25461/live/sami22/123456/3001.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MBC
-http://123orca.com:25461/live/sami22/123456/2999.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MBC 2
-http://123orca.com:25461/live/sami22/123456/2998.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MBC 4
-http://123orca.com:25461/live/sami22/123456/2996.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MBC MAX
-http://123orca.com:25461/live/sami22/123456/2994.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MBC Action
-http://123orca.com:25461/live/sami22/123456/2992.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MBC Bollywood
-http://123orca.com:25461/live/sami22/123456/2985.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MBC Drama
-http://123orca.com:25461/live/sami22/123456/2990.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MBC Masr
-http://123orca.com:25461/live/sami22/123456/2987.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MBC Masr2
-http://123orca.com:25461/live/sami22/123456/2986.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Amman TV
-http://123orca.com:25461/live/sami22/123456/5334.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN Drama
-http://123orca.com:25461/live/sami22/123456/6537.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN Movies Premiere HD2
-http://123orca.com:25461/live/sami22/123456/2965.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN Movies Action 2 HD
-http://123orca.com:25461/live/sami22/123456/2964.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN Movies Drama HD3
-http://123orca.com:25461/live/sami22/123456/2963.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN Movies Family HD4
-http://123orca.com:25461/live/sami22/123456/2962.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeIN Series HD 1
-http://123orca.com:25461/live/sami22/123456/2959.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeIN Series HD 2
-http://123orca.com:25461/live/sami22/123456/6529.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN AMC
-http://123orca.com:25461/live/sami22/123456/8797.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN Fox Movies
-http://123orca.com:25461/live/sami22/123456/8795.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",B4U Aflam
-http://123orca.com:25461/live/sami22/123456/9349.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",B4U Plus.
-http://123orca.com:25461/live/sami22/123456/7446.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Zee Aflam
-http://123orca.com:25461/live/sami22/123456/2863.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Zee Alwan
-http://123orca.com:25461/live/sami22/123456/2862.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Belody Aflam
-http://123orca.com:25461/live/sami22/123456/4266.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Abu Dhabi TV HD
-http://123orca.com:25461/live/sami22/123456/2871.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Emarat TV HD
-http://123orca.com:25461/live/sami22/123456/2869.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AD Drama
-http://123orca.com:25461/live/sami22/123456/2870.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dubai Tv
-http://123orca.com:25461/live/sami22/123456/2868.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dubai One
-http://123orca.com:25461/live/sami22/123456/2867.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sama Dubai
-http://123orca.com:25461/live/sami22/123456/2865.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dubai Zaman
-http://123orca.com:25461/live/sami22/123456/2866.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Noor Dubai
-http://123orca.com:25461/live/sami22/123456/2841.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Aflam
-http://123orca.com:25461/live/sami22/123456/2981.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Aflam HD
-http://123orca.com:25461/live/sami22/123456/8267.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Cinema EGY
-http://123orca.com:25461/live/sami22/123456/2983.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Cinema KSA
-http://123orca.com:25461/live/sami22/123456/2982.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Cinema HD
-http://123orca.com:25461/live/sami22/123456/2984.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Classic
-http://123orca.com:25461/live/sami22/123456/2971.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Classic HD
-http://123orca.com:25461/live/sami22/123456/2972.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Masriya
-http://123orca.com:25461/live/sami22/123456/2979.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Masria HD
-http://123orca.com:25461/live/sami22/123456/2980.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ART Aflam 1
-http://123orca.com:25461/live/sami22/123456/2970.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ART Aflam 2
-http://123orca.com:25461/live/sami22/123456/2969.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ART Cinema
-http://123orca.com:25461/live/sami22/123456/2968.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Hekayat 1
-http://123orca.com:25461/live/sami22/123456/3114.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Hekayat 2
-http://123orca.com:25461/live/sami22/123456/2966.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Cima
-http://123orca.com:25461/live/sami22/123456/2953.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",CIMA TUBE
-http://123orca.com:25461/live/sami22/123456/2942.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",CINEMA 1
-http://123orca.com:25461/live/sami22/123456/2944.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",CINEMA 2
-http://123orca.com:25461/live/sami22/123456/2943.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",CINEMA PRO
-http://123orca.com:25461/live/sami22/123456/2951.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",CIMA ALI BABA
-http://123orca.com:25461/live/sami22/123456/2952.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",CINEMA TUBE
-http://123orca.com:25461/live/sami22/123456/2940.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",LCD Aflam
-http://123orca.com:25461/live/sami22/123456/6385.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Apple Hekayat
-http://123orca.com:25461/live/sami22/123456/2949.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Apple Moslsalat
-http://123orca.com:25461/live/sami22/123456/2948.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Apple Film
-http://123orca.com:25461/live/sami22/123456/2947.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Apple Cinema
-http://123orca.com:25461/live/sami22/123456/2946.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Apple Today
-http://123orca.com:25461/live/sami22/123456/2945.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",I CINEMA
-http://123orca.com:25461/live/sami22/123456/2933.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",STAR CINEMA1
-http://123orca.com:25461/live/sami22/123456/2958.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",STAR CINEMA2
-http://123orca.com:25461/live/sami22/123456/2957.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",TOKTOK CIMA
-http://123orca.com:25461/live/sami22/123456/2954.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Panorama Film
-http://123orca.com:25461/live/sami22/123456/2956.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Panorama Cinema
-http://123orca.com:25461/live/sami22/123456/2902.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Panorama Drama2
-http://123orca.com:25461/live/sami22/123456/2903.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Panorama Drama
-http://123orca.com:25461/live/sami22/123456/2904.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Panorama Yom
-http://123orca.com:25461/live/sami22/123456/4336.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Sa3a Comedy
-http://123orca.com:25461/live/sami22/123456/4422.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",CBC
-http://123orca.com:25461/live/sami22/123456/2927.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",CBC eXtra
-http://123orca.com:25461/live/sami22/123456/2925.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",CBC Drama
-http://123orca.com:25461/live/sami22/123456/4270.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ON Live HD
-http://123orca.com:25461/live/sami22/123456/4427.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ON Drama
-http://123orca.com:25461/live/sami22/123456/2914.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ON E HD
-http://123orca.com:25461/live/sami22/123456/2915.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",DMC HD
-http://123orca.com:25461/live/sami22/123456/2912.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",DMC Drama
-http://123orca.com:25461/live/sami22/123456/2911.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",M Cinema TV
-http://123orca.com:25461/live/sami22/123456/4314.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",M Classic
-http://123orca.com:25461/live/sami22/123456/2843.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Imagine Movies
-http://123orca.com:25461/live/sami22/123456/2931.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Cairo Drama
-http://123orca.com:25461/live/sami22/123456/2921.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Cairo cinema
-http://123orca.com:25461/live/sami22/123456/2922.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Shasha Cinema
-http://123orca.com:25461/live/sami22/123456/2950.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Toktok Aflam
-http://123orca.com:25461/live/sami22/123456/2955.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Masrawia Aflam
-http://123orca.com:25461/live/sami22/123456/2930.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Mosalsalat Tube
-http://123orca.com:25461/live/sami22/123456/2842.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Family Drama
-http://123orca.com:25461/live/sami22/123456/9278.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Maspero Zaman
-http://123orca.com:25461/live/sami22/123456/9223.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dream 1
-http://123orca.com:25461/live/sami22/123456/2906.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dream 2
-http://123orca.com:25461/live/sami22/123456/2905.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nile Cinema
-http://123orca.com:25461/live/sami22/123456/2897.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nile Comedy
-http://123orca.com:25461/live/sami22/123456/2895.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nile Drama
-http://123orca.com:25461/live/sami22/123456/2896.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nile Culture
-http://123orca.com:25461/live/sami22/123456/2898.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nile Family
-http://123orca.com:25461/live/sami22/123456/2899.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nile Life
-http://123orca.com:25461/live/sami22/123456/4327.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nile News
-http://123orca.com:25461/live/sami22/123456/4328.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Mekameleen TV
-http://123orca.com:25461/live/sami22/123456/7732.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Hayat
-http://123orca.com:25461/live/sami22/123456/2891.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Hayat 2
-http://123orca.com:25461/live/sami22/123456/2890.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Alhayat Muslsalat
-http://123orca.com:25461/live/sami22/123456/2889.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Althanya
-http://123orca.com:25461/live/sami22/123456/2907.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Nahar Drama
-http://123orca.com:25461/live/sami22/123456/2918.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",SCARE TV
-http://123orca.com:25461/live/sami22/123456/9292.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sharo5an Hindi
-http://123orca.com:25461/live/sami22/123456/9224.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Alostora TV
-http://123orca.com:25461/live/sami22/123456/9249.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Oula Masr
-http://123orca.com:25461/live/sami22/123456/2908.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AL masriya
-http://123orca.com:25461/live/sami22/123456/4385.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Mehwar TV
-http://123orca.com:25461/live/sami22/123456/2876.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MASR ALHAYAH
-http://123orca.com:25461/live/sami22/123456/2888.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Kahera Wal Nas
-http://123orca.com:25461/live/sami22/123456/2917.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Kahera Wal Nas 2
-http://123orca.com:25461/live/sami22/123456/2916.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sada El Balad
-http://123orca.com:25461/live/sami22/123456/2893.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sada El Balad Drama
-http://123orca.com:25461/live/sami22/123456/2892.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Syria Drama
-http://123orca.com:25461/live/sami22/123456/2852.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Syrian Satellite Tv
-http://123orca.com:25461/live/sami22/123456/9281.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",LBC
-http://123orca.com:25461/live/sami22/123456/2885.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Future
-http://123orca.com:25461/live/sami22/123456/2883.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NBN
-http://123orca.com:25461/live/sami22/123456/2880.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",LDC
-http://123orca.com:25461/live/sami22/123456/2881.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Lebanon
-http://123orca.com:25461/live/sami22/123456/2884.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AL Manar
-http://123orca.com:25461/live/sami22/123456/2878.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OTV Lebanon
-http://123orca.com:25461/live/sami22/123456/2882.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Heya TV
-http://123orca.com:25461/live/sami22/123456/4290.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Jadeed TV
-http://123orca.com:25461/live/sami22/123456/2879.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MTV Lebanon
-http://123orca.com:25461/live/sami22/123456/4424.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Mtv Lebanon 2
-http://123orca.com:25461/live/sami22/123456/5337.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Mtv Lebanon 3
-http://123orca.com:25461/live/sami22/123456/5338.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Ten
-http://123orca.com:25461/live/sami22/123456/2909.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NOUR TV
-http://123orca.com:25461/live/sami22/123456/2872.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",NOUR EL SHAM
-http://123orca.com:25461/live/sami22/123456/3053.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nour El Keddisin
-http://123orca.com:25461/live/sami22/123456/2875.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nour Mariam
-http://123orca.com:25461/live/sami22/123456/3026.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nour Music 2
-http://123orca.com:25461/live/sami22/123456/2873.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nour elkuds
-http://123orca.com:25461/live/sami22/123456/4258.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Noor Jordan
-http://123orca.com:25461/live/sami22/123456/4330.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nour Kids
-http://123orca.com:25461/live/sami22/123456/3027.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AlRai
-http://123orca.com:25461/live/sami22/123456/4401.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Aan TV
-http://123orca.com:25461/live/sami22/123456/9342.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",KTV CH1 HD
-http://123orca.com:25461/live/sami22/123456/2858.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",KTV CH2 HD
-http://123orca.com:25461/live/sami22/123456/2856.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",KTV AL ARABI HD
-http://123orca.com:25461/live/sami22/123456/2859.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",KTV ETHRAA HD
-http://123orca.com:25461/live/sami22/123456/2855.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",KTV S.Plus HD
-http://123orca.com:25461/live/sami22/123456/2854.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan.TV
-http://123orca.com:25461/live/sami22/123456/3049.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan Drama
-http://123orca.com:25461/live/sami22/123456/9324.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan Monwaat
-http://123orca.com:25461/live/sami22/123456/9339.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan Music
-http://123orca.com:25461/live/sami22/123456/9322.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudania 24 HD
-http://123orca.com:25461/live/sami22/123456/9334.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Sudan Sport
-http://123orca.com:25461/live/sami22/123456/9330.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Qatar TV
-http://123orca.com:25461/live/sami22/123456/2839.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------DIVERS--------
-http://123orca.com:25461/live/sami22/123456/3088.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Rasheed
-http://123orca.com:25461/live/sami22/123456/4389.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Hiwar TV
-http://123orca.com:25461/live/sami22/123456/9296.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Jordan HD
-http://123orca.com:25461/live/sami22/123456/3122.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Ajman TV
-http://123orca.com:25461/live/sami22/123456/4222.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Palestine Today
-http://123orca.com:25461/live/sami22/123456/3052.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Palestine live
-http://123orca.com:25461/live/sami22/123456/3082.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Ghad Al Mushreq
-http://123orca.com:25461/live/sami22/123456/2851.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Nahar One
-http://123orca.com:25461/live/sami22/123456/4242.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ALhayah ALaan
-http://123orca.com:25461/live/sami22/123456/3040.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Iraqi EDU
-http://123orca.com:25461/live/sami22/123456/2844.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Iraqia TV
-http://123orca.com:25461/live/sami22/123456/4296.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AL Hurra Iraq
-http://123orca.com:25461/live/sami22/123456/4383.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Baghdad TV
-http://123orca.com:25461/live/sami22/123456/4264.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Hona Baghdad
-http://123orca.com:25461/live/sami22/123456/2850.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Fallujah TV
-http://123orca.com:25461/live/sami22/123456/4381.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Mawsleya
-http://123orca.com:25461/live/sami22/123456/4386.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Rafiden
-http://123orca.com:25461/live/sami22/123456/4388.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Sumaria TV
-http://123orca.com:25461/live/sami22/123456/4390.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AL Anbar
-http://123orca.com:25461/live/sami22/123456/4391.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Karbala TV
-http://123orca.com:25461/live/sami22/123456/4411.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Yemen Sama
-http://123orca.com:25461/live/sami22/123456/3081.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Neelain Sport
-http://123orca.com:25461/live/sami22/123456/9325.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Orient
-http://123orca.com:25461/live/sami22/123456/3062.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",A1 Jordan
-http://123orca.com:25461/live/sami22/123456/3060.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Ghadeer
-http://123orca.com:25461/live/sami22/123456/9233.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Alforat TV
-http://123orca.com:25461/live/sami22/123456/9288.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",An Najah Nbc
-http://123orca.com:25461/live/sami22/123456/9225.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Yemen Today
-http://123orca.com:25461/live/sami22/123456/9280.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Zweina Baladna
-http://123orca.com:25461/live/sami22/123456/9310.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Shabab TV
-http://123orca.com:25461/live/sami22/123456/4435.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Tanasoh TV
-http://123orca.com:25461/live/sami22/123456/4363.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Naeem TV
-http://123orca.com:25461/live/sami22/123456/3046.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Alitejah TV
-http://123orca.com:25461/live/sami22/123456/3036.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Minbar TV
-http://123orca.com:25461/live/sami22/123456/3033.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Rayyan SD
-http://123orca.com:25461/live/sami22/123456/3031.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Jordan Sport
-http://123orca.com:25461/live/sami22/123456/3020.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Afak
-http://123orca.com:25461/live/sami22/123456/4376.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AL Anwar
-http://123orca.com:25461/live/sami22/123456/4225.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Maaref
-http://123orca.com:25461/live/sami22/123456/4238.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------MUSIC--------
-http://123orca.com:25461/live/sami22/123456/3099.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Clip
-http://123orca.com:25461/live/sami22/123456/2977.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Khalijiah
-http://123orca.com:25461/live/sami22/123456/2973.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Music HD
-http://123orca.com:25461/live/sami22/123456/2976.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Music
-http://123orca.com:25461/live/sami22/123456/2975.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Rotana Khaliji HD
-http://123orca.com:25461/live/sami22/123456/2974.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Aghani Aghani TV
-http://123orca.com:25461/live/sami22/123456/3093.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Mazzika
-http://123orca.com:25461/live/sami22/123456/3096.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Afrah TV
-http://123orca.com:25461/live/sami22/123456/3059.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Hawacom
-http://123orca.com:25461/live/sami22/123456/3023.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Mazazik Tv
-http://123orca.com:25461/live/sami22/123456/4320.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Music Alhanen
-http://123orca.com:25461/live/sami22/123456/3092.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",FUNoon
-http://123orca.com:25461/live/sami22/123456/9231.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",TATT7
-http://123orca.com:25461/live/sami22/123456/9210.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",WANASAH
-http://123orca.com:25461/live/sami22/123456/2861.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------ISLAMIC--------
-http://123orca.com:25461/live/sami22/123456/3120.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Majd 2
-http://123orca.com:25461/live/sami22/123456/3118.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Majd 1
-http://123orca.com:25461/live/sami22/123456/3119.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Majd Hadith
-http://123orca.com:25461/live/sami22/123456/4392.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AL NADA TV
-http://123orca.com:25461/live/sami22/123456/4394.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AlAfasy
-http://123orca.com:25461/live/sami22/123456/3110.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",alnas
-http://123orca.com:25461/live/sami22/123456/7950.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Iqraa
-http://123orca.com:25461/live/sami22/123456/3117.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Makkah TV
-http://123orca.com:25461/live/sami22/123456/9232.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Saudi 1
-http://123orca.com:25461/live/sami22/123456/3116.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Saudi 2
-http://123orca.com:25461/live/sami22/123456/3115.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Saudi Ch Quran
-http://123orca.com:25461/live/sami22/123456/4351.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Saudi Ch Sunnah
-http://123orca.com:25461/live/sami22/123456/4352.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Rahma
-http://123orca.com:25461/live/sami22/123456/3109.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Resala
-http://123orca.com:25461/live/sami22/123456/3105.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Azhari
-http://123orca.com:25461/live/sami22/123456/3085.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Alhayat We Alnas
-http://123orca.com:25461/live/sami22/123456/3039.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Erth Al Nabawi
-http://123orca.com:25461/live/sami22/123456/9085.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Tayba TV
-http://123orca.com:25461/live/sami22/123456/9383.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al kawthar
-http://123orca.com:25461/live/sami22/123456/3104.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Anis TV
-http://123orca.com:25461/live/sami22/123456/4224.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Quran Tv
-http://123orca.com:25461/live/sami22/123456/3019.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Malakoot Sat
-http://123orca.com:25461/live/sami22/123456/4240.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Al Quds TV
-http://123orca.com:25461/live/sami22/123456/4246.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Citruss TV
-http://123orca.com:25461/live/sami22/123456/4217.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Ahel Al Quran
-http://123orca.com:25461/live/sami22/123456/4341.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------SPORT--------
-http://123orca.com:25461/live/sami22/123456/3147.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Alkass One HD
-http://123orca.com:25461/live/sami22/123456/3146.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Alkass Two HD
-http://123orca.com:25461/live/sami22/123456/3145.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Alkass Extra One HD
-http://123orca.com:25461/live/sami22/123456/3143.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Alkass Five HD
-http://123orca.com:25461/live/sami22/123456/3142.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",ON Sport
-http://123orca.com:25461/live/sami22/123456/2913.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AD Sport1
-http://123orca.com:25461/live/sami22/123456/3137.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AD Sport2
-http://123orca.com:25461/live/sami22/123456/3135.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",AD Sport3
-http://123orca.com:25461/live/sami22/123456/3134.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",YAS Sports HD
-http://123orca.com:25461/live/sami22/123456/4443.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dubai Sport 1
-http://123orca.com:25461/live/sami22/123456/3129.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dubai Sports 2
-http://123orca.com:25461/live/sami22/123456/6383.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dubai Sports 3
-http://123orca.com:25461/live/sami22/123456/3128.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dubai Racing 1
-http://123orca.com:25461/live/sami22/123456/9059.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dubai Racing 2
-http://123orca.com:25461/live/sami22/123456/6384.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dubai Racing 3
-http://123orca.com:25461/live/sami22/123456/3126.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dawri Plus 1
-http://123orca.com:25461/live/sami22/123456/3141.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dawri Plus 2
-http://123orca.com:25461/live/sami22/123456/3140.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dawri Plus 3
-http://123orca.com:25461/live/sami22/123456/3139.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Dawri Plus 4
-http://123orca.com:25461/live/sami22/123456/3138.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",DMC Sports
-http://123orca.com:25461/live/sami22/123456/2910.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",KTV Sport HD
-http://123orca.com:25461/live/sami22/123456/3123.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------beIN SPORTS--------
-http://123orca.com:25461/live/sami22/123456/3168.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS NEWS HD
-http://123orca.com:25461/live/sami22/123456/3150.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD1
-http://123orca.com:25461/live/sami22/123456/12075.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD2
-http://123orca.com:25461/live/sami22/123456/12076.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD3
-http://123orca.com:25461/live/sami22/123456/3165.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD4
-http://123orca.com:25461/live/sami22/123456/3164.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD5
-http://123orca.com:25461/live/sami22/123456/3163.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD6
-http://123orca.com:25461/live/sami22/123456/3162.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD7
-http://123orca.com:25461/live/sami22/123456/3161.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD8
-http://123orca.com:25461/live/sami22/123456/3160.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD9
-http://123orca.com:25461/live/sami22/123456/3159.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD10
-http://123orca.com:25461/live/sami22/123456/3158.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD11
-http://123orca.com:25461/live/sami22/123456/3157.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN SPORTS HD12
-http://123orca.com:25461/live/sami22/123456/3156.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeIN SPORTS SD1
-http://123orca.com:25461/live/sami22/123456/12068.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeIN SPORTS SD2
-http://123orca.com:25461/live/sami22/123456/12067.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeIN SPORTS SD3
-http://123orca.com:25461/live/sami22/123456/11876.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeIN SPORTS SD4
-http://123orca.com:25461/live/sami22/123456/11875.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeIN SPORTS SD5
-http://123orca.com:25461/live/sami22/123456/11874.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeIN SPORTS SD6
-http://123orca.com:25461/live/sami22/123456/11873.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",BeIN SPORTS SD7
-http://123orca.com:25461/live/sami22/123456/11872.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------OSN--------
-http://123orca.com:25461/live/sami22/123456/9119.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Movies HD
-http://123orca.com:25461/live/sami22/123456/6375.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN BBC Fisrt HD
-http://123orca.com:25461/live/sami22/123456/6340.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Movies Action HD
-http://123orca.com:25461/live/sami22/123456/6369.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Movies Thriller HD
-http://123orca.com:25461/live/sami22/123456/6371.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Movies Action HD 2H
-http://123orca.com:25461/live/sami22/123456/6365.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Movies First HD
-http://123orca.com:25461/live/sami22/123456/6373.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Movies Comedy HD
-http://123orca.com:25461/live/sami22/123456/6366.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Movies Thriller 2H
-http://123orca.com:25461/live/sami22/123456/6353.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Fine Living
-http://123orca.com:25461/live/sami22/123456/6337.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN First HBO HD
-http://123orca.com:25461/live/sami22/123456/6349.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Series First HD
-http://123orca.com:25461/live/sami22/123456/6352.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Series Comedy HD
-http://123orca.com:25461/live/sami22/123456/6351.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Food Network HD
-http://123orca.com:25461/live/sami22/123456/6336.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Syfy HD
-http://123orca.com:25461/live/sami22/123456/6348.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN CINEMA 1
-http://123orca.com:25461/live/sami22/123456/6355.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN CINEMA 2
-http://123orca.com:25461/live/sami22/123456/6354.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Musalsalat  HD
-http://123orca.com:25461/live/sami22/123456/6357.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN YaHala HD
-http://123orca.com:25461/live/sami22/123456/6363.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN YaHala Oula HD
-http://123orca.com:25461/live/sami22/123456/6362.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Yahala Cinema HD
-http://123orca.com:25461/live/sami22/123456/6360.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN ALSAFWA
-http://123orca.com:25461/live/sami22/123456/6358.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN ALYOUM
-http://123orca.com:25461/live/sami22/123456/6359.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN H2 HD
-http://123orca.com:25461/live/sami22/123456/6325.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN E! Entertainment HD
-http://123orca.com:25461/live/sami22/123456/6338.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN History Channel HD
-http://123orca.com:25461/live/sami22/123456/6326.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Crime & Investigation
-http://123orca.com:25461/live/sami22/123456/6324.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Animal Planet HD
-http://123orca.com:25461/live/sami22/123456/6335.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Nat Geo HD
-http://123orca.com:25461/live/sami22/123456/6334.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Nat GEO Wild HD
-http://123orca.com:25461/live/sami22/123456/6333.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN NAT GEO People HD
-http://123orca.com:25461/live/sami22/123456/6332.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN KIds Zone HD
-http://123orca.com:25461/live/sami22/123456/6328.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Discovery Channel HD
-http://123orca.com:25461/live/sami22/123456/6331.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Discovery Science HD
-http://123orca.com:25461/live/sami22/123456/6330.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Travel
-http://123orca.com:25461/live/sami22/123456/6327.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Movies First HD 2H
-http://123orca.com:25461/live/sami22/123456/6367.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Nick JR
-http://123orca.com:25461/live/sami22/123456/6319.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Disney XD
-http://123orca.com:25461/live/sami22/123456/6321.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Disney Junior
-http://123orca.com:25461/live/sami22/123456/6320.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Disney Channel HD
-http://123orca.com:25461/live/sami22/123456/6322.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN TLC HD
-http://123orca.com:25461/live/sami22/123456/6343.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Fight Network HD
-http://123orca.com:25461/live/sami22/123456/6313.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN WWE Network
-http://123orca.com:25461/live/sami22/123456/6312.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",OSN Sports Cricket HD
-http://123orca.com:25461/live/sami22/123456/6306.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",--------KIDS--------
-http://123orca.com:25461/live/sami22/123456/6249.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MBC 3
-http://123orca.com:25461/live/sami22/123456/3014.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",MBC 3 HD
-http://123orca.com:25461/live/sami22/123456/3013.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Cartoon Network Arabic
-http://123orca.com:25461/live/sami22/123456/6376.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Nat Geo KIDS
-http://123orca.com:25461/live/sami22/123456/8268.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN Baraem
-http://123orca.com:25461/live/sami22/123456/3012.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Bein Junior
-http://123orca.com:25461/live/sami22/123456/2960.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",beIN DreamWorks
-http://123orca.com:25461/live/sami22/123456/9495.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Toyor Baby
-http://123orca.com:25461/live/sami22/123456/3009.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Toyor Al Janah
-http://123orca.com:25461/live/sami22/123456/3008.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",SpaceToon Arabic
-http://123orca.com:25461/live/sami22/123456/3010.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Majid Kids TV
-http://123orca.com:25461/live/sami22/123456/3007.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",HodHod TV
-http://123orca.com:25461/live/sami22/123456/3005.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Fix Foxi
-http://123orca.com:25461/live/sami22/123456/8174.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Baby' TV HD
-http://123orca.com:25461/live/sami22/123456/9283.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Mickey Channel
-http://123orca.com:25461/live/sami22/123456/3066.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",KARAMEESH
-http://123orca.com:25461/live/sami22/123456/3006.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Mody Kids
-http://123orca.com:25461/live/sami22/123456/4325.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Jeem TV
-http://123orca.com:25461/live/sami22/123456/3003.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",KOKKY TV
-http://123orca.com:25461/live/sami22/123456/4412.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",TAHA
-http://123orca.com:25461/live/sami22/123456/4362.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",S7T Cartoon
-http://123orca.com:25461/live/sami22/123456/8623.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER6",Tom And Jerry
-http://123orca.com:25461/live/sami22/123456/3017.m3u8
 
 
 
