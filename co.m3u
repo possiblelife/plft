@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,21/03/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,24/03/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -3847,297 +3847,80 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE 2 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16765
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE 2 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16764
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE 3 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16761
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE 3 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16760
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE 4 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16759
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE 4 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16758
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE 5 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16757
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE 5 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16756
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE Ô HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16754
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE Ô SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16753
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ARTE HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16810
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ARTE SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16809
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| M6 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16731
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| M6 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16729
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NUMERO 23 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16712
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NUMERO 23 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16711
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TV BREIZH SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16679
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| 6TER HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16817
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| 6TER SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16816
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NRJ 12 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16717
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NRJ12 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16714
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| W9 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16672
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| W9 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16671
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TFX HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16689
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TF1 SÉRIES ET FILMS HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16690
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| C8 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16789
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| C8 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16788
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CSTAR HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16775
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CSTAR SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16774
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TMC HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16686
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TMC SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16685
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CHERIE 25 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16784
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CHERIE 25 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16783
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE  PREMIER HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16777
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE  FRISSON HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16778
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE  EMOTION HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16780
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE  FAMIZ HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16779
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE  CLUB HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16781
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CINE  CLASSIC HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16782
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ACTION HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16813
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PARAMOUNT CHANNEL HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16707
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TCM CINEMA HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16697
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PARIS PREMIERE SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16706
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RTL9 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16700
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RTL9 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16699
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NT1 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16713
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| L'EQUIPE 21 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16739
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORTS 1 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16806
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORTS 2 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16805
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORTS 3 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16804
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORTS MAX 10 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16803
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORTS MAX 4 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16802
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORTS MAX 5 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16801
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORTS MAX 6 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16800
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORTS MAX 7 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16799
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORTS MAX 8 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16798
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BEIN SPORTS MAX 9 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16797
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OL TV HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16708
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EQUIDIA  HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16771
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EQUIDIA SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16770
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FIGHT SPORTS HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16766
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MOTOR TV HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16722
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MOTORVISION TV HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16721
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GOLF CHANNEL HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16748
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| AB MOTEURS HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16814
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| AB MOTEUR SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16815
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NATIONAL GEOGRAPHIC HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16719
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NATIONAL GEO WILD HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16720
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC DECOUVERTE HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16702
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RMC DECOUVERTE SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16701
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| HISTOIRE HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16742
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| HISTOIRE SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16741
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TOUTE L HISTOIRE HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16682
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TEVA HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16694
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TEVA SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16693
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| VOYAGE HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16673
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| USHUAIA TV HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16675
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| USHUAIA SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16676
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TREK HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16680
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CHASSE & PECHE HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16785
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISNEY CHANNEL  1 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16773
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| DISNEY CHANNEL SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16772
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TIJI HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16688
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MANGAS HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16728
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BOOMERANG HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16792
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CANAL J HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16786
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GAME ONE HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16751
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GAME ONE SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16750
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GULLI HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16746
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GULLI SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16745
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TOONAMI HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16683
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GINX SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16749
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ES1 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16769
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BBLACK CARIBBEAN HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16808
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BBLACK HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16807
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| M6 MUSIC HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16730
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MCM HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16727
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MCM POP HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16726
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MCM SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16725
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MFM TV HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16723
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NRJ HITS HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16716
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NRJ HITS SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16715
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TRACE URBAN SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16681
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BET HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16796
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OKLM TV HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16709
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| OFIVE TV SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16710
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| VIRGIN RADIO HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16674
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TV5 MONDE HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16678
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TV5 MONDE SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16677
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| CNEWS SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16776
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| EURONEWS HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16768
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE 24 HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16763
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| C-NEWS HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16790
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE 24 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16762
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FRANCE INFO SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16755
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| AFRICA 24 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16812
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BFM BUSINESS SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16795
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BFM TV HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16794
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BFM TV SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16793
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| LCI HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16738
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| LCI SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16737
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| LCP HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16736
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| LCP SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16735
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TLM SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16687
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| ALSACE 20 SD . (BYG)
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16811
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BRAVA  SD . (BYG)
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16791
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FASHION TV SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16767
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| FUEL TV HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16752
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| GONG SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16747
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| HD  1 SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16743
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| INDIES LIVE HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16740
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| LUCKY JACK SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16734
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| LUXE SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16733
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| M6 BOUTIQUE HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16732
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| MENSUP  SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16724
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| NAUTICAL CHANNEL HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16718
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PITCHOUN HD  TV
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16705
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| PUBLIC SENA SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16704
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| QVC HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16703
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| SOUVENIRS FROM EARTH HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16698
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TELE ANTILLES HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16696
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TELE SUD SD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16695
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| TN TV HD 
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/16684
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| BOOBA TV
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/18506
-#EXTINF:-1 group-title="France PREMIUM-SERVER2",|FR| RT FRANCE FHD
-http://iptvpro.vision-new.org:8789/iptvpro2vods/gNtmOxG/18737
-
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:France_2HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/400
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:France_3HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/399
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:France_4HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/398
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:France_5HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/397
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:France_OHD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/396
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:GOLF
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/342
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:TF1 series
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/364
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:M6_HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/394
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:M6_MUSIC_HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/393
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:mezzo
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/392
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:MY_CUISINE
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/326
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:NAT_GEO_WILD_HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/341
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:NATIONAL_GEO_CHANNEL_HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/340
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:NICKELODEON
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/316
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:NICKELODEON_Junior
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/314
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:NRJ_12HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/391
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:TFX
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/356
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:OCS_CHOC_HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/370
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:OCS_CITY
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/371
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:OCS_GEANTS
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/372
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:OCS_MAX_HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/373
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:PARAMOUNT_CHANNEL
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/368
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:PARAMOUNT_DECALE_HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/367
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:PARIE_PRMIERE_HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/365
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:MTV DANCE
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1646
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:MTV HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1648
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:MTV HITS
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1647
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:MTV ROCK
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1645
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:MYZEN TV HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1561
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:NICKELODEON  1 HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1548
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:NICKELODEON TEEN HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1547
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:NRJ HITS
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1634
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:PITCHOUN TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1650
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:POLAR  HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1579
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:RFM TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1640
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:RMC DECOUVERTE HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1586
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",FR:RMC Story HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1587
 
 
 
@@ -9794,1111 +9577,610 @@ http://www.elahmad.com/tv/m3u8/bahraintv.m3u8?id=bahrain_tv
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Bein Drama HD1
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2605.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Bein Fatafeat
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2589.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Bein Gourmet HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2588.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Bein Movies HD1
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2611.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Bein Movies HD2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2610.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Bein Movies HD3
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2609.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Bein Movies HD4
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2608.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Bein Series HD1
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2607.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Bein Series HD2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2606.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| FilmBox HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/35.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Fox Action Movies
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/28.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Fox Crime HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/23.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Fox Family Movies
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/29.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Fox Life HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/24.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Fox Rewayat HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/22.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| FX HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/30.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| MY Cinema
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/36.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Nat Geo Wild
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/26.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| National Geographic
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/25.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| ART Aflam 1
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/768.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| ART Aflam 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/769.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| ART Cinema
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/770.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| ART Hekayat
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/771.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| ART Hekayat 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/772.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| Nat_Geo_People
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2735.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| ALFAJER 1 HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3205.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Platinium| ALFAJER 2 HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3204.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",Bethlehem
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3210.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ALSALAM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3211.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DHABI SPORTS 3
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3206.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DHABI SPORTS 4
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3207.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DHABI SPORTS 5
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3208.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",DHABI SPORTS 6
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3209.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| Jeem
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/1378.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| baraeim
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/1379.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| Food Network
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/32.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| Atfal & mawaheb
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/629.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| Bein Cartoon Network
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2591.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| CN Arabia
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/410.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| HodHod  TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/323.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| KARAMEESH
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/231.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| KOKKY TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/309.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| Majid Kids TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/406.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| Mara7 TV-
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/621.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| MICKEY CHANNEL
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/145.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| Nat Geo Kids Abu Dhabi
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/283.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| SAT-7 KIDS
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/641.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| SPACETOON ARABIC-
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/598.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| TAHA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/234.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| TOYOR ALJANAH
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/235.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| TOYOR BABY
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/261.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Kids| Baby_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2804.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",▁▂▃▅▆▇★☀二【« Arabic Channels »】二☀★▇▆▅▃▂▁
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/839.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Manar
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2967.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| 2M Maroc
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/372.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| 7BESHA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/303.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| A TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/71.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| A1 Jordan
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/186.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Abu Dhabi
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/277.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AD DRAMA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/397.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AD Nat Geo
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/398.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Aden TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/580.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Adjwaa
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/541.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AFRAH TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/304.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Aghani Aghani TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/461.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AGHAPY TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/83.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Ahel Al Quran
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/532.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AHWAZNA TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/298.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| STAR CINEMA 1
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/290.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| STAR CINEMA 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/291.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| SUHAIL TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/233.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| SYRIA FM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/224.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| SYRIA Channel
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/204.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Syrian Drama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/206.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Tamazight
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/593.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| TANASUH TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/111.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| TATT7
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/205.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| TELE MAROC
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/62.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Telvza TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/335.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ten
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/176.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| TOKTOK AFLAM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/119.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| TOKTOK CIMA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/312.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| TRT ELARABIYE
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/262.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Tunisia NAT 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/337.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| TunisiaNat 1
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/69.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| TV5
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/359.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Wanasah
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/269.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Wasitakom TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/180.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| WATAN
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/585.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| WESAL TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/264.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| YEMEN SHABAB
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/149.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Yemen Today
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/572.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| YEMEN TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/571.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ZAD TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/408.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Zee Aflam
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/279.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Zee Alwan
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/281.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ZWEINA BALADNA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/126.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Koogi
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/1797.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AJMAN HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/401.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Aan
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/278.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Ahd
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/610.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Sport| Al Ahly TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/611.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL ALAM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/285.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL Anwar
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/618.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al AOULA Inter
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/594.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Arabiya
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/387.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL EKHBARIYA AL SORIYA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/256.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL EMARAT TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/407.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Falastiniah
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/666.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Forat
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/340.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Ghad
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/173.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Ghad Al Mushreq
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/463.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Hayat
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/150.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Hiwar TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/549.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL Hurra Iraq
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/778.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL JADEED
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/381.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL JANOUBIA TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/331.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Jazeera
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/526.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Jazeera Documentary
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/527.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Jazeera English
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/528.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Jazeera Mubasher
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/529.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AlKahera_WalNas
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/779.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL KAWTHAR
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/257.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Magharibia Two
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/156.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Maghribia
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/157.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Maghribia ELEKhbaria
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/1612.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL MALAKOOT
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/61.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL masriya
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/783.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Mawsleya
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/612.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL MAYADEEN TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/258.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Mergab
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/370.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Lana+
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/300.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Nahar Drama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/163.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Nahar One
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/164.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL oula
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/782.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL QANAT
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/306.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Rafiden
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/476.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL RASHEED TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/464.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Rayyan Al Qadeem HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/363.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Rayyan SD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/531.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL SA3A MASRA7
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/139.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Sa3aa Comedy
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/317.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL SHARQIYA HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/595.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al Sumaria TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/465.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL TEB ALBADEL
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/191.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al-Amaken
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/70.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al-Amaken Drama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/67.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL-Anbar
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/479.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al-Arabiya Alhadath
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/384.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al-Awhad TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/55.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al-EKhbaria
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/412.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| al-maaly
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/65.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Al-Majd3
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/617.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL-MUSTAKILA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/96.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL-WAHA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/462.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AlAfasy
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/47.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALARABY TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/49.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALASRAR TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/79.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALBAEENAH IRAQ
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/328.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALBAIT BAITAK CINEMA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/142.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AlBasira
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/81.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALFATH Quran
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/353.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Alfath TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/52.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALFURSAN
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/245.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Algérie 3
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2968.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Algérie 4
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/39.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Algérie 5
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/38.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AlGhadeer
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/113.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AlHadath
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/267.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AlHadath Alyoum
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/349.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALHADATH HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/653.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALhayah ALaan
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/172.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALhayat
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/390.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Alhayat 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/369.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Alhayat Muslsalat
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/481.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Alhayat We Alnas
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/391.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Alhurra
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/345.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALIMAN TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/255.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AlInsen TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/338.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALISTIQAMA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/360.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Alitejah TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/183.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALJAMAHIRIA TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/215.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| alkaherawalnas2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/177.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AlKarma Praise
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/628.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Alkofiya
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/265.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALL TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/128.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALMAAREF
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/227.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Almagad TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/92.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALMASA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/57.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALMASRAWIA AFLAM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/284.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALMASSAR ALOULA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/228.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALNABAA HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/299.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| alnadatv
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/178.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALORDON ALYOOM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/123.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALOSTORA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/200.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALQASSIM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/246.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALQUDS
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/229.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AlRafideen
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/182.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Alrai
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/679.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALResala
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/193.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AlSaeedah
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/354.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALSahraa
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/392.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALSALAM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/129.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALSHAREYYAH CHANNEL
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/230.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALSHARQIYA NEWS
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/114.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALSIRAT
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/305.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Altaghier
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/533.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ALTALEAA TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/315.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Althanya
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/162.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Althaqafiah
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/413.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Alwadi TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/542.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Amman TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/189.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| anb
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/248.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Angel TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/124.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Arabica TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/466.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Arrabiaa
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/590.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Arriadia Sat
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/591.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ASIA TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/122.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Assadissa
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/592.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Attessia TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/332.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Awdeh
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/668.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| azhari
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/179.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| B4U Aflam
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/280.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| B4U Plus
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/409.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| BABY CHANNEL
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/140.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Bahia TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/105.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Bahrain International
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/701.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Bahrain Quran
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/702.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Bahrain Sports
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/703.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Bahrain Sports 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/704.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Bahrain TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/705.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| BBC Arabic
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/393.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| BBCW
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/781.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Beity TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/254.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| BELODY AFLAM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/294.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| BELQEES
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/286.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Beur
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/100.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CANAL ALGERIE
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/41.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Carthage
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/330.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CATV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/402.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CBC
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/165.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CBC Drama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/166.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CBC Sofra
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/168.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CHADA TV HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/657.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CHAMS TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/106.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Christ Army
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/89.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Christ TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/558.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Cima
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/773.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CIMA ALI BABA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/307.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CINEMA 1
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/120.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Cinema 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/151.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Cinema Pro
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/115.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CNA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/85.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CNBC ARABIYA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/596.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CNN
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/403.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CTV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/76.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dewan
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/483.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dijlah TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/774.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Direct
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/599.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| dmc drama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/588.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| dmc HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/589.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| DOLLY MOSALSALAT
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/217.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| DR. ABO ELNASR
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/225.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dream2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/600.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| DUA CHANNEL
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/321.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dubai One
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/644.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dubai Racing 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/645.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dubai Racing 3
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/646.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dubai Sports 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/647.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dubai Sports 3
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/648.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dubai TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/649.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dubai Zaman
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/650.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| DW-TV ARABIA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/366.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dzair 25
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/543.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dzair Jannah
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/540.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dzair News
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/361.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Dzair TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/471.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| CBC Benna
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/99.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Echorouk News
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/97.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Echorouk TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/98.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| El Bilad TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/101.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| El Eiman
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/579.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| El Heddaf
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/103.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| El Sharq
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/550.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| El-Djazairia
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/102.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ELFADJR TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/107.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Elhiwar Ettounsi
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/333.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ELMOLED
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/144.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ENNAHAR TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/467.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ETIHAD TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/322.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| EuroNews
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/1272.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| eXtra News
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/167.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| FAMILY DRAMA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/130.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| FM TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/364.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| France 24
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/394.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| France 24 Eng
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/367.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| France_24 FR
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/1749.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Free TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/355.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| FUNoon
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/601.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Futuretv
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/63.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| GREEN LIFE
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/240.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Halaba TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/153.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Hannibal
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/339.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| HAREEM ELSULTAN
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/202.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Hawacom
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/382.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| HAWAS_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/1748.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| HEKAYA TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/219.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Hona Baghdad
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/362.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| IFILM ARABIC
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/326.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Imagine Movies
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/468.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| IMAM REDA TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/108.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Iqraa
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/776.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Iran Safaoi
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/259.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Iraq Future TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/439.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Iraqia
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/484.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Iraqia News
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/352.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Iraqia Sport
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/473.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| IUC
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/292.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Jordan
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/777.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Jordan HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/365.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| JORDAN SAMA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/539.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Jordan Sport
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/185.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Kaifa
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/249.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| KANA TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/405.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| KARBALA TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/308.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Khaleej Al Arab TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/192.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Khaleej Alarab 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/636.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| KTV 1
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/680.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| KTV 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/681.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| KTV ETHRAA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/682.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| KTV Plus
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/683.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| KTV Sports
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/684.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Lana_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/1746.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| LBC
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/699.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| LDC
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/469.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Lebanon TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/383.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| LIBYA 218
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/536.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Libya 218 News
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/548.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| LIBYA ALHADATH
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/132.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Libya_Al-Ahrar_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/84.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Libya elwatan
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/316.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| LIBYA PANORAMA HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/661.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| LIBYA RSMIA Ch
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/260.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| LIBYAS CHANNEL
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/125.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| M CINEMA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/296.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| M Classic
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/116.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| M TUNISIA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/334.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Maan TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/669.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Majan
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/174.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Majd
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/356.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Mar-Cil TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/90.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Marjaeyat 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/208.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MASDAR TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/287.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Maspero Zaman
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/602.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Masr alhayah
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/50.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MAZAZIKH TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/288.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Mazzika
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/357.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MBC 1
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/276.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MBC 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/275.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MBC 3
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/274.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MBC 4
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/273.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MBC Action
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/271.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MBC Bollywood
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/270.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MBC Drama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/272.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MBC MASR
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/371.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MBC Masr 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/346.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MBC MAX
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/268.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MBCode
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/241.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/242.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Mecca
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/537.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Medi1 TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/373.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Mehwer
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/347.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MEKAMELEEN
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/584.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Menhag Alnbowa
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/78.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MESat
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/152.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Miracle TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/86.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MOSALSALAT TUBE
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/220.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MOUDA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/190.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| MTV Lebanon
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/470.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| NBN HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/459.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Nessma
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/395.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Nile Cinema
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/603.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Nile Comedy
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/604.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Nile Culture
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/605.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Nile Drama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/606.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Nile Family
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/780.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Nile Life
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/607.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Nile News
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/608.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Nile Sport
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/609.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Nile TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/622.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Nogoum FM TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/358.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Noor Dubai
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/651.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| NOOR JORDAN
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/243.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| NOUR ELSHAM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/203.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| NourSat
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/94.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Noursat Alchabab
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/75.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| NUMIDIA TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/109.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Oman TV Culture HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/377.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Oman TV General HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/378.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Oman TV Live HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/379.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Oman TV Sport HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/380.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ON Drama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/421.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ON E
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/420.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Sport| ON Sport
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/419.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ORIENT
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/311.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Oscar TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/171.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| OTV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/117.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Oyoon Alwatan
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/187.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Palestine
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/351.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Palestine Live
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/671.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Palestine News
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/672.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Palestine Sport
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/673.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| PALESTINE TODAY
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/134.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Panorama Drama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/614.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Panorama Drama 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/615.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Panorama Film
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/45.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Panorama Food
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/616.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Publi Tools
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/209.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Qatar TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/530.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Quest Arabiya
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/597.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| QURAN TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/222.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| RO'YA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/538.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Rotana Aflam
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/695.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Rotana Cinema
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/194.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Rotana Classic
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/195.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Rotana Clip
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/196.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Rotana Drama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/199.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Rotana Khalijiah
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/197.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Rotana Music
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/198.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Russia Today
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/118.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Sada El Balad
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/348.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| sadaelbaladdrama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/175.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| safatv
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/66.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| SAHAR TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/223.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Sama Dubai
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/652.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Sama TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/207.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| SAMARRA TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/121.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Samira TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/472.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| SAT-7 ARABIC
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/640.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| SAUDI 24
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/289.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Saudi AlHaj
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/112.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Saudi Anti-terrorism
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/232.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Saudi Ch. For Quran
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/415.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Saudi Ch. For Sunnah
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/416.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| SAUDI FAMILY
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/110.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Saudi-1
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/414.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Scare TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/137.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Seraj
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/104.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| SHA3BEYAT
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/147.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Shabab TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/42.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| SHAM TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/1611.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| SHANPOO AFLAM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/135.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Sharjah SD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/676.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Sharjah Sport SD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/677.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| SHARO5AN HINDI
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/141.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Sky News Arabia
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/368.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] One TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2969.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AFAQ_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2987.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Al Fady
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3034.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Al Horreya
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3035.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Al Masar
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3056.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Al Turkmeni
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3058.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] AL_HAQEQA_AL_DAWLIAH
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3066.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] AL_QAMAR
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3001.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AL_RAHMA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2991.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Al_Sada_El_Balad_2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3019.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] AL-TEEB
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3022.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] ALHAQIQA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3065.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] ALJAMELA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2974.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Alkarma
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3032.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Almamlaka_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3014.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] AlOns TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3033.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] AlWaad_Channel
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2992.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] ALYOM_1
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3007.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Amel_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2990.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Amhara_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3082.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Anwar 2
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3036.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] APPLE_AFLAM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2984.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] APPLE_CINEMA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2983.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] APPLE_COMEDY
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2982.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] APPLE_HEKAYAT
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2981.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] APPLE_MOSLSALAT
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2980.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] APPLE_TODAY
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2979.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] CITRUSS_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2993.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| ELHAYAT_TV_ALGERIE
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2986.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] ElKeraza
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3038.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] ESTV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2973.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] FALAKSAT
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3040.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Glory of God
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3041.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Hala TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3027.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Charity TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3043.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Holy Spirit
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3044.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] i24_News_Arabic
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3075.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Kale Awadi
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3046.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|Sport| KSA_Sports_2_HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3017.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] LCD_MOVIES
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3006.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Libya_Almarsad_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3009.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] LIBYA_WAAD_FM
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3008.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Logos TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3047.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Maestro_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3012.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Mahaba
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2970.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Manhaj
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3028.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Mariam TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3048.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] MBBC Lamsat
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3049.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Minbij_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3076.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Misr EL Bald
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3050.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Music_alremas
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3030.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Music_Alhanen
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3020.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] NHK_World
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3016.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Nour Al Sharq
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3051.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Nour Koddass
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3052.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] ONTV LIVE
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3059.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Presence TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3053.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] PRESS_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2997.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Moga CLASSIC
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2988.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] SAT.TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2976.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] SBC
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3023.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Sheba_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3078.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] SUROYO_TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3079.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] TCHAD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3004.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Thaqalayn
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2996.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] The Savior
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3055.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] TRT World
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3031.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] TUNISNA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2995.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] VOA_24
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3068.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Yemen_Education
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3080.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Cairo Cinema
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3107.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Cairo Drama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3108.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[AR] Syria TV
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3106.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| AlNoujaba
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3134.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|AR| Hona_Alquds
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2637.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MODY_KIDS
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3198.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",SYRIAN EDUCATION
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3199.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",MBC IRAQ
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3200.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",ElSharq_ElAwast
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3378.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|10777| ALSeha_Waljamal
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3236.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|11179| DOLLY_CINEMA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3241.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|11315| ZAYTOONA
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3240.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|11334| Alerth-Alnbawi
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3239.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|12645| An-Najah_NBC
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3238.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|12645| QOU.EDU
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3237.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",•●★----| MYHD |---★●•
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/11.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|MYHD| MBC 1 HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/10.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|MYHD| MBC 2 HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/9.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|MYHD| MBC 3 HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/8.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|MYHD| MBC 4 HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/7.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|MYHD| MBC plus Drama
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/3.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|MYHD| MBC Bollywood HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/5.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|MYHD| MBC Max HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/2.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|MYHD| MBC Drama HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/1.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|MYHD| MBC Action HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/6.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",|MYHD| MBC Variety HD
-http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/4.m3u8
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A1-bahrain international
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/229
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A1-bahrain quran
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/228
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A1-bahrain tv
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/227
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A1-ksa sport 1
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/226
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A1-oman tv
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/225
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A1-oman tv live
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/224
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A1-oman tv sport
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/223
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A1-qatar tv
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/222
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A2--almajd 01
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/221
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A2--almajd 02
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/220
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A2--almajd 03
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/219
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A2--almajd 08
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/218
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| A2--KTV quran
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/217
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Abu Dhabi TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/216
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| AD DRAMA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/215
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| AD SPORT 1
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/214
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| AD Sport 2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/213
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| AD-Sport 3
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/212
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| AJMAN TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/211
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| AL EMARAT TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/210
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| AL RAYYAN
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/209
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Al-Amaken Drama
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/208
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Al-Khalij TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/207
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Al-Maaly
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/206
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| AL.SHARJAH
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/205
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| almajd 04
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/204
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Dubai One
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/203
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Dubai Racin 1
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/202
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Dubai Racing 2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/201
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Dubai Racing 3
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/200
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Dubai Sports 1
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/199
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Dubai Sports 2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/198
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Dubai Sports 3
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/197
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Dubai TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/196
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Dubai Zaman
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/195
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| FUJAIRAH TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/194
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| KTV 1
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/193
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| KTV 2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/192
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| KTV al arabia
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/191
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| KTV ethraa
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/190
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| KTV s.plus
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/189
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| KTV sport
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/188
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Noor Dubai
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/187
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| ORIENT TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/186
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Qatar today
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/185
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Sama Dubai
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/184
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Saudi - Al-EKhbaria
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/183
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Saudi - Althaqafiah
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/182
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| SAUDI 24
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/181
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Saudi Al Haj
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/180
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| SAUDI ANTI-TERRORISM
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/179
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| SAUDI FAMILY
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/178
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Saudi Sport 1
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/177
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Abu.AD.SAUDI]:|AR| Saudi-1
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/176
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--AL ANIS TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/300
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--Algerie 3
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/299
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--Algerie 4
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/298
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--Algerie 5
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/297
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--ALMAGHARIBIA 2 TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/296
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--ALMAGHARIBIA TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/295
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--Bahia TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/294
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--Beur TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/293
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--CANAL ALGERIE
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/292
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--CHAMS TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/291
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--CNA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/290
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--Dzair News
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/289
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--Dzair TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/288
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--Echorouk cbc BENNA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/287
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--Echorouk NEWS
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/286
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--Echorouk TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/285
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--EL BILAD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/284
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--EL DJAWHARA TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/283
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--EL DJAZAIRIA TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/282
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--EL FADJR TV DZ
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/281
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--EL HEDDAF TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/280
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--ENNAHAR TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/279
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--Nay Algeria HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/278
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--NUMIDIA TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/277
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--PROGRAMME NATIONAL
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/276
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--Sahara TV Algeria
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/275
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR--SamiraTV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/274
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR2--A1-berbere jeunesse
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/273
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR2--A1-berbere music
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/272
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ALGERIE]:AR2--A1-berbere tv
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/271
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ARABIC]:|AR| GM ALWAN
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/3
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ARABIC]:|AR| GM Comedia
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/2
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[ARABIC]:|AR| GM news
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Aghani Aghani TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/175
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Al Ahly TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/174
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| AL BAIT BAITAK CINEMA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/173
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Al Basira
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/172
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| AL HAYAT CRISTIAN
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/171
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Al Kahera Wal Nas
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/170
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Al Kahera Wal Nas  2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/169
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| AL MASRAWIA AFLAM
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/168
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| AL masriya
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/167
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| AL SHASHA CINEMA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/166
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Al-Nahar Drama
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/165
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Al-Nahar One
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/164
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| ALASKANDRIA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/163
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| AlHadath Alyoum
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/162
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| ALhayat
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/161
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Alhayat 2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/160
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Alhayat Muslsalat
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/159
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Alhayat We Alnas
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/158
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| ALKAHERA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/157
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| ALMASSAR AL OULA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/156
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Alqanat 9
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/155
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Arabica TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/154
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| ART Aflam 1
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/153
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| ART Aflam 2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/152
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| ART HEKAYAT 1
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/151
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| ART HEKAYAT 2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/150
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Azhari
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/149
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| BELODY AFLAM
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/148
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Cairo cinema
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/147
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Cairo Drama
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/146
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Cima
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/145
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| CIMA ALIBABA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/144
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Cinema
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/143
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| CINEMA 2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/142
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| CINEMA PRO
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/141
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| CINEMA.1
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/140
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| CITRUSS.TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/139
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| dmc
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/138
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| dmc drama
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/137
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| dmc Kids
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/136
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| dmc masraheyat
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/135
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| dmc News
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/134
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| dmc Sports
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/133
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Dream
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/132
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Extra News
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/131
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| FAMILY DRAMA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/130
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| FUNoon
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/129
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Hawacom
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/128
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| HAWAS TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/127
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Imagine Movies
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/126
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| LCD MOVIES
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/125
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Mara7 TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/124
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Maspero Zaman
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/123
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Masr alhayah
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/122
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| MAZAZIKH TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/121
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Mazzika
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/120
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Melody CINEMA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/119
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| MELODY CLASSIC
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/118
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| ON  E
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/117
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| ON  Live
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/116
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| ON  Sport
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/115
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| ON Drama
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/114
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Oscar TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/113
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Panorama Drama
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/112
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Panorama Drama 2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/111
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Panorama Film
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/110
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Panorama Food
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/109
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Sada El Balad
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/108
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Sada ElBalad Drama
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/107
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| SALDAE TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/106
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| SHARO5AN HINDI
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/105
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| STAR CINEMA 1
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/104
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| STAR CINEMA 2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/103
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| TOKTOK AFLAM
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/102
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| TOKTOK CIMA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/101
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[EGYPT]:|AR| Wanasah
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/100
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| Ajial
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/99
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| AR:Baraem.Europe
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/98
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| AR:FIX.FOXI
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/97
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| AR:GULLI.ARABIC
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/96
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| AR:JEEM.Europe
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/95
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| Atfal mawaheb
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/94
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| BABY CHANNEL
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/93
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| Cartoon Network Arabic
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/92
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| HodHod  TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/91
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| KARAMEESH
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/90
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| KOKKY TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/89
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| Majid Kids TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/88
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| MICKEY CHANNEL
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/87
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| MODY KIDS
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/86
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| Nat Geo Kids Abu Dhabi
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/85
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| SEMSEM
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/84
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| SPACETOON ARABIC
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/83
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| TAHA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/82
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| TOYOR AL JANAH
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/81
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Kids]:|AR| TOYOR BABY
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/80
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Lebanon]:|AR| AL JADEED
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/79
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Lebanon]:|AR| AL MINBAR TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/78
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Lebanon]:|AR| ALAAN TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/77
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Lebanon]:|AR| AR | AL MANAR
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/76
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Lebanon]:|AR| ETIHAD TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/75
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Lebanon]:|AR| Future TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/74
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Lebanon]:|AR| JAWNA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/73
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Lebanon]:|AR| LBC SAT
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/72
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Lebanon]:|AR| LDC
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/71
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Lebanon]:|AR| MTV Lebanon
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/70
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Lebanon]:|AR| OTV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/69
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Libya.Sudan.MOURABITiN]:|AR| ALMOURABITOUNE
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/68
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Libya.Sudan.MOURABITiN]:|AR| AR_ELMOURITANIA.2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/66
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Libya.Sudan.MOURABITiN]:|AR| Arriadia MOURITANIA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/67
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--2M Maroc
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/270
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--2M TNT
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/269
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--AflamTV.7.Maroc
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/268
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--Al Aoula HD TNT
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/267
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--Al Aoula Inter
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/266
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--AL AOULA LAYOUNE
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/245
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--Al MAGHRIBIA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/265
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--AL MAGHRIBIA TNT
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/264
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--Al Ons TV Maroc
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/244
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--Arrabiaa
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/263
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--ARRYADIA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/262
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--ARRYADIA HD LIVE
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/261
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--ARRYADIA TNT
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/260
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--Assadissa
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/259
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--CHADA TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/258
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--Gags TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/257
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--GM Aflam
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/256
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--GM Chaabi
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/255
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--GM katakit
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/254
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--GM Music tv
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/253
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--GM Tamazight
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/252
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--GM techno
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/251
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--MEDI1 TNT
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/250
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--Medi1.TV.HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/249
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--Tamazight
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/248
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR--TELE MAROC
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/247
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Maroc]:AR2-canal atlas
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/246
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[MBC.Rotana]:|AR| B4U Aflam
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/65
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[MBC.Rotana]:|AR| B4U Plus
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/64
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[MBC.Rotana]:|AR| ZEE AFLAM
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/63
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[MBC.Rotana]:|AR| ZEE ALWAN
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/62
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| A1-al jazeera
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/61
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| A1-al jazeera documentary
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/60
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| A1-al jazeera mubasher
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/59
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| AD Nat Geo
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/58
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| Al Arabiya
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/57
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| AL ARABY TV HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/56
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| Al Hadath
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/55
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| AL HIWAR HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/54
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| AL MAYADEEN TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/53
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| Al-Arabiya Alhadath
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/52
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| Alhurra
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/51
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| BBC Arabic
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/50
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| beIN SPORTS HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/49
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| beIN SPORTS NEWS HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/48
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| CNBC ARABIYA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/47
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| CNN
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/46
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| DW Arabia
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/45
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| France 24
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/44
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| Mehwer
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/43
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| Mekameleen.TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/42
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| QUEST ARABIYA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/41
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| RT Arab
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/40
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| Sky News Arabia
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/39
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| TRT_ELARABIYE
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/38
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| TV5 Maghreb
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/37
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[NEWS.doc]:|AR| UNRWA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/36
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| Ahel Al Quran
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/35
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| Al Nas
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/34
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| AL RAHMA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/33
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| AL Resala
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/32
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| Al-Majd3
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/31
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| AlAfasy
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/30
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| Alerth-Alnbawi
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/29
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| ALISTIQAMA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/28
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| AR_Hidayah-Albanian
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/27
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| AR_Hidayah-Bosnian
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/26
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| AR_Hidayah-English
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/25
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| AR_Hidayah-French
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/24
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| AR_Hidayah-German
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/23
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| AR_Hidayah-Persian
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/22
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| AR_Hidayah-Russian
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/21
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| AR_Hidayah-Spanish
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/20
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| BIN OTHAIMEEN
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/19
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| Iqraa
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/18
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| KAIFA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/17
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| Madinha For Sunnah
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/16
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| mahaba tv
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/15
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| Majd
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/14
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| Makkah live For Quran
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/13
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| Mecca
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/12
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| MOHAMMAD RASOUL ALLAH
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/11
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Quran]:|AR| Resalat ALIslam
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/10
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[SYRIA.Palestin]:|AR| SAMA TV SYRIA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/9
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[SYRIA.Palestin]:|AR| SYRIA AL EKHBARIYA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/8
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[SYRIA.Palestin]:|AR| SYRIA DRAMA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/7
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[SYRIA.Palestin]:|AR| SYRIA PLUS
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/6
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[SYRIA.Palestin]:|AR| SYRIA TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/5
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[SYRIA.Palestin]:|AR| SYRIAN EDUCATION
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/4
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--Al Insen TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/243
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--AL JANOUBIA TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/242
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--AL-MUSTAKILA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/241
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--Attessia TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/240
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--Carthage
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/239
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--Elhiwar Ettounsi
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/238
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--HANNIBAL TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/237
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--M TUNISIA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/236
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--Nessma
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/235
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--Telvza TV
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/234
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--Tunisia NAT 1
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/233
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--Tunisia Nat 2
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/232
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--TUNISNA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/231
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",[Tunisia]:AR--ZAYTOONA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/230
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR: CBC
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1326
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER2",AR: CBC DRAMA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1327
 
 
 
@@ -10916,272 +10198,154 @@ http://main.ipfox.co:9000/live/atlas/Q3vdYIzloa/4.m3u8
 
 #EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",
 
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC 1 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/14.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC 2 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/12.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC 3 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/11.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC 4 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/10.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC Action HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/5.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC Bollywood HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/8.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC Drama HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/6.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC IRAQ
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/13.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC Max HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/7.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC plus Drama
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/9.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MBC Variety HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/4.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| MY Cinema
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/3.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| FilmBox HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/2.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|MYHD| FilmBox Arthouse
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/1.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",•●★----| PLatinium Channels |---★●•
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/216.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium|  Yahala Oula HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/179.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Alyum HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/215.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Animal planet HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/214.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| BBC Fisrt HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/213.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Cinema1
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/212.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Cinema2
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/211.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Discovery HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/210.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Discovery Science HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/209.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Disney HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/208.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Disney Junior HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/207.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| First Movies 2 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/206.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| First Movies HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/205.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Fix Foxi HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/204.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Gulli Arabie HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/203.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| History HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/202.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Kids Zone  HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/201.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Living HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/200.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies  2h
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/199.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies Action HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/198.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies Action HD 2h
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/197.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies Comedy HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/196.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/195.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies Thriller 2h HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/194.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Movies Thriller HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/193.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Musalsalat HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/192.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Music Now
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/191.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Nat Geo People HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/189.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Nat Geo Wild HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/188.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| National Geographic HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/187.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Planet Earth HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/186.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Series Comedy HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/185.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Sport 2 Action HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/183.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Sport1 Action HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/184.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Star Movies HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/182.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Star World HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/181.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| SYFY HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/180.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Yahala HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/178.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| My Cinema HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/190.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ALFAJER 1 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/286.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ALFAJER 2 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/285.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ALFAJER 3 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/284.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ALFAJER 4 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/283.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ALFAJER 5 HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/282.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ART Aflam 1
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/264.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ART Aflam 2
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/263.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ART Cinema
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/262.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ART Hekayat
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/261.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| ART Hekayat 2
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/260.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Drama HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/281.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Fatafeat
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/280.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Gourmet HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/279.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Movies HD 1
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/278.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Movies HD 2
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/277.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Movies HD 3
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/276.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Movies HD 4
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/275.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Bein Series HD 1
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/274.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Fox Action Movies
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/272.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Fox Crime HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/271.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Fox Family Movies
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/270.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Fox Life HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/269.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Fox Rewayat HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/268.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| FX HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/267.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Nat Geo People
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/259.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| Nat Geo Wild
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/266.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Platinium| National Geographic
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/265.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",•●★----| Yahasat Channels |---★●•
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/386.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| BENZ
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/385.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| CM 1
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/384.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| CM 2
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/383.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| GM Comedia
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/381.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| GM Movies
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/380.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| GM Muzicana
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/379.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| HALA BOLLYWOOD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/378.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| HALA DRAMA
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/377.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| HALA MIX
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/376.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| HALA MOVIES
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/375.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| HALA SERIES
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/374.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| HALA TURK
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/373.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| M Chaabi
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/372.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| M Music
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/371.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Aflam
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/370.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Anime
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/369.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Bollywood
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/368.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Cartoon
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/367.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T CLASSIC
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/366.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Korean
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/365.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Movies
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/364.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Series
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/362.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|Yahsat| S7T Sport
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/361.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",•●★----| News Channels |---★●•
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/414.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Al Ahd
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/397.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Al Arabiya
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/406.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| AL Hurra Iraq
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/399.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Al Jazeera
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/405.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Al Jazeera Mubasher
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/404.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Al Mawsleya
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/393.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| AL MAYADEEN TV
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/396.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Al-Arabiya Alhadath
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/407.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| ALARABY TV
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/388.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| AlHadath
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/398.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| ALNABAA HD
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/391.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| ALSHARQIYA NEWS
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/394.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| BBC Arabic
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/412.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| BBCW
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/389.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| CNBC ARABIYA
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/409.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| CNN
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/411.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| DW-TV ARABIA
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/387.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Echorouk News
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/392.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| EuroNews
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/410.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| France 24
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/403.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| France 24 Eng
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/402.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Iraqia News
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/400.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Nile News
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/401.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Russia Today
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/408.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| SAUDI ALEKHBARIA
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/395.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| Sky News Arabia
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/413.m3u8
-#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|News| TRT ELARABIYE
-http://master2.ipfox.online:25461/live/linda_8ZHVFj/HpbaKyJG/390.m3u8
-
-
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_TUNISIE_NAT1_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/57.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_TUNISIE_NAT2_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/58.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Elhiwar_Ettounsi
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/91.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_ATTESSIA_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/56.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_ZITOUNA
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/60.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Dzair_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/93.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Aouala
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/55.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_2M_MAROC
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/44.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_medi1afrique
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/95.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Libya_Hadash
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/79.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Libya_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/81.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Libya_One
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/78.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Libya218
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/77.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Libya_24
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/80.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_MBC_1
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/61.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_MBC_2
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/65.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_MBC_4
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/62.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_MTV_lebenon
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/103.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_ROTANA_KHALIJIA_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/125.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_BAHRAIN_SPORTS
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/140.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_BAHRAIN_QURAN
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/139.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_BAHRAIN_INTERNATIONAL
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/138.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_TOYOR_ALJANAH
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/126.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_BAHRAIN_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/137.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Al_Jazeera_Documentaire
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/46.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Al_Arabiya
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/38.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Al_Hadath
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/40.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_FRANCE_24_AR
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/20.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Sky_News_Arabic
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/45.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_BBC_Arabic
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/28.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_ALAAN_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/19.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_RUSSIA ALYAOUM_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/88.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_hiwar_news
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/67.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Alalam_news
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/97.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_SAUDI_ALIKHBARIYA_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/3.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Space_Toon
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/75.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Majed_Kids
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/76.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Iqraa
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/68.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Makkah_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/89.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_SAUDI_SONNA_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/5.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_SAUDI_QURAN_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/4.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_SAUDI_THAKAFIYA_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/6.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_DUBAI_ONE_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/15.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_ABUDHABI_Emirat
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/70.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_AD_Drama
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/69.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_CBC_Drama
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/42.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Nahar_Drama_Egypt
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/72.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Palestine
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/101.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_ALMAYADEEN_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/87.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_TRT_Arabiya
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/73.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Nahar_TV_Egypt
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/71.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Jordon_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/74.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_ALCHARQIYA
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/98.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Al_Manar_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/54.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_ALRAI_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/50.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Syrian_Drama
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/29.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_SAMA_SYRIA
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/36.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_SHARQIYA_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/37.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_ON_E
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/43.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_Qatar_TV_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/27.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_ABU_DHABI_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/53.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_SAUDI_2_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/1.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_SAUDI_1_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/2.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_SAMA_DUBAI_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/12.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_NOUR_DUBAI
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/16.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_FUTURE_TV
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/17.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_DW_AR
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/22.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_DUBAI_ZAMAN
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/11.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_DUBAI_TV_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/10.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_SHARJAH_SPORTS
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/39.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_SAUDI_RIYADHIYA_1_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/9.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_DUBAI_RACING_1_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/13.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_DUBAI_RACING_2_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/14.ts
+#EXTINF:-1 group-title="United Arab Emirates PREMIUM-SERVER3",|AR|_DUBAI_SPORTS_3_HD
+http://163.172.107.234:1914/live/medoum1/FH6Oxe1vOH/18.ts
 
 
 
