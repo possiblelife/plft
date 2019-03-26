@@ -9956,6 +9956,53 @@ http://ivi.bupt.edu.cn/hls/lytv.m3u8
 
 
 
+#EXTINF:-1 group-title="Thailand",
+
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://news1live.com/images/news-logo.jpg" ,ASTV News1
+https://streamssl.com/stream/news1.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/b4507.jpg" ,Channel 3
+http://www.thaitv3.com/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/|agentnodown$$start=mediaURL:"$$end=",$$replace=mediaURL:"$$replacewith=$$add= 
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" ,MCOT HD
+https://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://www.psitv.tv/uploads/channels/c1509eee88e714d3047d28b75ff41b02.jpg" ,MCOT FAMILY
+https://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/b4911.jpg" ,MVTV
+https://edge1a.v2h-cdn.com/appt4/TVB.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/6785.jpg" ,Nation Channel - USE Thai VPN
+http://live.nationtv.tv/hls/ntv_th_sd.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/8265.jpg" ,NBT World
+http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/b6327.jpg" ,PBS TV
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/b6852.jpg" ,Peace TV Thai (Youtube)
+https://www.youtube.com/watch?v=f_DLG_yqvVE
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://true4u.truelife.com/images/t4u/logo.png" ,True4U
+http://true4u.truelife.com/|agentnodown$$start=mediaURL:"$$end=",$$replace=mediaURL:"$$replacewith=$$add= 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
