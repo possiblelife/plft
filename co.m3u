@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,27/03/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,29/03/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -2732,17 +2732,13 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)
 #EXTINF:-1 group-title="Romania-SERVER3",BOLLYWOOD CLASSIC
 http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",MOOZ HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1472768553044
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",MOOZ DANCE
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1472768812494
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",MOOZ RO
 http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",MOOZ HITS
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END&time=1472768646553
-#EXTINF:-1 group-title="Romania-SERVER3",DISNEY CHANNEL
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyChannel/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",DISNEY JUNIOR
-http://telekomtv.ro.edgesuite.net/shls/LIVE$DisneyJunior/6.m3u8/Level(545259)?start=LIVE&end=END
+http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",TV CITY
 http://telekomtv.ro.edgesuite.net/shls/LIVE$TVCITY/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",Erdely TV
@@ -9313,41 +9309,18 @@ http://ivi.bupt.edu.cn/hls/lytv.m3u8
 
 #EXTINF:-1 group-title="Thailand",
 
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://news1live.com/images/news-logo.jpg" ,ASTV News1
-https://streamssl.com/stream/news1.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/b4507.jpg" ,Channel 3
-http://www.thaitv3.com/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/|agentnodown$$start=mediaURL:"$$end=",$$replace=mediaURL:"$$replacewith=$$add= 
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" ,MCOT HD
-https://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="http://www.psitv.tv/uploads/channels/c1509eee88e714d3047d28b75ff41b02.jpg" ,MCOT FAMILY
-https://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/playlist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/b4911.jpg" ,MVTV
-https://edge1a.v2h-cdn.com/appt4/TVB.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/6785.jpg" ,Nation Channel - USE Thai VPN
-http://live.nationtv.tv/hls/ntv_th_sd.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/8265.jpg" ,NBT World
-http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/b6327.jpg" ,PBS TV
-http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/b6852.jpg" ,Peace TV Thai (Youtube)
-https://www.youtube.com/watch?v=f_DLG_yqvVE
-#EXTINF:-1 group-title="Thailand" tvg-logo="http://true4u.truelife.com/images/t4u/logo.png" ,True4U
-http://true4u.truelife.com/|agentnodown$$start=mediaURL:"$$end=",$$replace=mediaURL:"$$replacewith=$$add= 
-
 #EXTINF:-1 group-title="Thailand" tvg-logo="http://tv-online.in/wp-content/uploads/2014/09/13-Siam-Thai-live.gif" ,13 Siam Thai
 https://boonniyomtv-xefg3d.cdn.byteark.com/live/13wDt2b6g4/playlist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" ,Thairath TV
-https://live.thairath.co.th/trtv2/playlist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo.png" ,NEW 18
-https://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://spcdn.co/wp-content/themes/springnews-2018/icons/springnews-online-logo-2019.png" ,Spring News
-https://stream.livetube.in.th/live/springnews.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://news1live.com/images/news-logo.jpg" ,ASTV News1
+https://streamssl.com/stream/news1.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://webtvonlive.com/wp-content/uploads/Boonniyom-TV-webtvonlive.com_.jpg" ,Boonniyom TV
+https://livestream.com/accounts/1887170/events/7945810/player?width=960&height=540&enableInfoAndActivity=true&defaultDrawer=feed&autoPlay=true&mute=false|autoweb zoom=100 scroll=0,0
 #EXTINF:-1 group-title="Thailand" tvg-logo="https://www.brighttv.co.th/wp-content/uploads/2018/03/cropped-logo-brighttv-1.png" ,Bright TV
 https://stream.livetube.in.th/WebBrighttv20/Social/playlist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="http://live.parliament.go.th/public/images/logo.jpg" ,Thai Parliament TV
-http://202.122.40.36/livestream/encoder3/playlist.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://med.mahidol.ac.th/ramachannel/home/wp-content/uploads/2016/08/logo-rama-top.png" ,Rama Channel(Youtube)
-https://www.youtube.com/watch?v=Z5tClE1fvS8
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://cartoonclub.tv/dist/img/system/logo60.png" ,Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/b4507.jpg" ,Channel 3
+http://www.thaitv3.com/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/|agentnodown$$start=mediaURL:"$$end=",$$replace=mediaURL:"$$replacewith=$$add= 
 #EXTINF:-1 group-title="Thailand" tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/dltv-main-logo.png" ,DLTV 1
 http://dltv-live-edge.catcdn.cloud/dltv01_480p.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/dltv-main-logo.png" ,DLTV 2
@@ -9378,20 +9351,80 @@ http://dltv-live-edge.catcdn.cloud/dltv13_480p.m3u8
 http://dltv-live-edge.catcdn.cloud/dltv14_480p.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/dltv-main-logo.png" ,DLTV 15
 http://dltv-live-edge.catcdn.cloud/dltv15_480p.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="http://www.trueplookpanya.com/assets/tppy_v1/images/share/header/logo-true.png" ,True Plookpanya
-http://www.trueplookpanya.com/new/tv_live/|agentnodown$$start=file: "$$end=",$$replace=file: "$$replacewith=$$add= 
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://www.goodideatv.tv/images/gtvlogo-02.png" ,Good Idea TV
+http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBP33x1pL0-1GRjPIjSvdusqCXI48RiZtgPGw=s48-mo-c-c0xffffffff-rj-k-no" ,JATINGJA TV ถ่ายทอดสด(Youtube)
+https://www.youtube.com/watch?v=ng-uUf3GbX0
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://lh3.googleusercontent.com/-O2EZXVleIpw/UmjaYjTD-lI/AAAAAAAAACE/f0ROM5kLpWY/w530-h530-n-rw/logo_jctv_4x4.png" ,JCTV 1	
+http://www.jctvthai.com/live_ch1.php|autoweb zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://lh3.googleusercontent.com/-O2EZXVleIpw/UmjaYjTD-lI/AAAAAAAAACE/f0ROM5kLpWY/w530-h530-n-rw/logo_jctv_4x4.png" ,JCTV 2	
+http://www.jctvthai.com/live_ch2.php|autoweb zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://jwctv.com/store/skin/frontend/sns_trella/default/images/logo.png" ,Jewelry Channel
+http://27.254.62.49:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://www.m-channel.com/logo.png" ,M Channel
+http://203.151.83.104:1935/tdlive/tdlivest/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://tv.mcot.net/static/img/logo-mcothd.png" ,MCOT HD
+https://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://www.psitv.tv/uploads/channels/c1509eee88e714d3047d28b75ff41b02.jpg" ,MCOT FAMILY
+https://mcotdigital-5nrixa.cdn.byteark.com/mcotfamily/smil:mcotfamily.smil/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/b4911.jpg" ,MVTV
+https://edge1a.v2h-cdn.com/appt4/TVB.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://nattvthaitv.com/images/nattv.jpg" ,NAT TV
+https://livefta.malimarcdn.com/ftaedge00/nat.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/6785.jpg" ,Nation Channel - USE Thai VPN
+http://live.nationtv.tv/hls/ntv_th_sd.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/8265.jpg" ,NBT World
+http://live.prd.go.th:1935/live/ch1_L_L.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.newtv.co.th/assets/newtv/img/new18logo.png" ,NEW 18
+https://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/b6327.jpg" ,PBS TV
+http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://wwitv.com/tvlogos/b6852.jpg" ,Peace TV Thai (Youtube)
+https://www.youtube.com/watch?v=f_DLG_yqvVE
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://med.mahidol.ac.th/ramachannel/home/wp-content/uploads/2016/08/logo-rama-top.png" ,Rama Channel(Youtube)
+https://www.youtube.com/watch?v=Z5tClE1fvS8
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/9/97/SBT_logo_(6).jpg" ,SBT TV
+http://202.142.203.28:1935/live/sbt_tv_aac_300/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://spcdn.co/wp-content/themes/springnews-2018/icons/springnews-online-logo-2019.png" ,Spring News
+https://stream.livetube.in.th/live/springnews.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-logo="https://media.stou.ac.th/intro/img/logo.png" ,STOU Channel
 https://5ad6a8e19833e.streamlock.net/liveedge/stou_360p/playlist.m3u8
 #EXTINF:-1 group-title="Thailand" tvg-logo="http://thaich2.com/images/logoch2-nm.png" ,Thai Channel 2
 http://stream.rs.co.th/ch2-hi/index.m3u8?d=web
-#EXTINF:-1 group-title="Thailand" tvg-logo="http://www.m-channel.com/logo.png" ,M Channel
-http://203.151.83.104:1935/tdlive/tdlivest/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://live.parliament.go.th/public/images/logo.jpg" ,Thai Parliament TV
+http://202.122.40.36/livestream/encoder3/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.thairath.co.th/assets/2017/img/logo-tv.png" ,Thairath TV
+https://live.thairath.co.th/trtv2/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/daac2fc3-00f6-4372-b57e-3c88272e62aa-profile_image-300x300.jpg" ,Tiger Shopping
+https://player.twitch.tv/?channel=tigershopping|autoweb zoom=100 scroll=0,0
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://www.trueplookpanya.com/assets/tppy_v1/images/share/header/logo-true.png" ,True Plookpanya
+http://www.trueplookpanya.com/new/tv_live/|agentnodown$$start=file: "$$end=",$$replace=file: "$$replacewith=$$add= 
+#EXTINF:-1 group-title="Thailand" tvg-logo="http://true4u.truelife.com/images/t4u/logo.png" ,True4U
+http://true4u.truelife.com/|agentnodown$$start=mediaURL:"$$end=",$$replace=mediaURL:"$$replacewith=$$add= 
 #EXTINF:-1 group-title="Thailand" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/10/ac08e9d4-6e97-478f-9c29-fc8e851a8c89.png" ,Workpoint TV
 https://stream-06.ix7.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8u-suW25Ooepn2Ufv91XKDM)/dm/3/x6g9qjj/live.m3u8
-#EXTINF:-1 group-title="Thailand" tvg-logo="https://yt3.ggpht.com/a-/AAuE7mBP33x1pL0-1GRjPIjSvdusqCXI48RiZtgPGw=s48-mo-c-c0xffffffff-rj-k-no" ,JATINGJA TV ถ่ายทอดสด(Youtube)
-https://www.youtube.com/watch?v=ng-uUf3GbX0
-#EXTINF:-1 group-title="Thailand" tvg-logo="http://cartoonclub.tv/dist/img/system/logo60.png" ,Cartoon Club
-http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1 group-title="Thailand" tvg-logo="https://www.freeetv.com/images/01_logo/YATEEM_TV_THAILAND.jpg" ,Yateem TV
+http://radio2.thaidhost.com:8888/muslimonair1/live/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
