@@ -2978,26 +2978,26 @@ http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://channelpear.co/images/media/3673.gif",Radio Virgin TV
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://bit.ly/IMG_RAI1",Rai 1 HD (italy VPN)
+#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://www.altrospettacolo.it/wp-content/uploads/2018/01/raiuno-nuovo.jpg",Rai 1 HD (italy VPN)
 http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/master.m3u8 
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://bit.ly/2kXK6sh",Rai 2 (italy VPN)
+#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://www.tivusat.tv/pages/_common/images/loghi_canali/hd/rai2-hd.png",Rai 2 (italy VPN)
 http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/master.m3u8 
-#EXTINF:-1 group-title="Italy-WebTV",Rai 3 (italy VPN)
+#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://wondysonoio.org/wp-content/uploads/2017/05/rai3.png",Rai 3 (italy VPN)
 http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/master.m3u8
-#EXTINF:-1 group-title="Italy-WebTV",Rai 3 
+#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://wondysonoio.org/wp-content/uploads/2017/05/rai3.png",Rai 3 
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1 group-title="Italy-WebTV",RAI 4 
+#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://www.tvpertutti.it/IMG/rubon10.jpg",RAI 4 
 http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://channelpear.co/images/media/14177.jpg",Rai Gulp
 http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://oklivetv.co/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png",Rai Movie
+#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png",Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://oklivetv.co/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png",Rai Movie
+#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png",Rai Movie
 https://raimovie1-live.akamaized.net/hls/live/598324/raimovie1/raimovie_1200/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://oklivetv.co/wp-content/uploads/2015/04/500px-RAI_News24_2013.svg_.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://wikitv.eu/wp-content/uploads/2016/01/Rai-Premium.jpg",Rai Premium
+#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIPREMIUM.png",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://www.thelogodb.co/images/media/logo/vxuqsq1434616120.png",Rai Scuola
 http://originstream6.rai.it/italy/smil:raiscuola.smil/playlist.m3u8
