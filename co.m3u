@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,29/03/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,31/03/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -2747,10 +2747,6 @@ http://telekomtv.ro.edgesuite.net/shls/LIVE$ErdelyTV/6.m3u8/Level(545259)?start=
 http://telekomtv.ro.edgesuite.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",6 TV
 http://telekomtv.ro.edgesuite.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",BBC World News HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",BBC Earth HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",Speranta
 http://telekomtv.ro.edgesuite.net/shls/LIVE$SperantaTV/6.m3u8/Level(545259)?start=LIVE&end=END
 #EXTINF:-1 group-title="Romania-SERVER3",Travel Mix
@@ -2984,50 +2980,31 @@ http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://bit.ly/IMG_RAI1",Rai 1 HD (italy VPN)
 http://b2everyrai-lh.akamaihd.net/i/rai1_1@398068/master.m3u8 
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://bit.ly/IMG_RAI1" ,RAI 1 
-http://95.107.132.106/out/u/517_1.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://bit.ly/2kXK6sh",Rai 2 (italy VPN)
 http://b2everyrai-lh.akamaihd.net/i/rai2_1@66477/master.m3u8 
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://bit.ly/2kXK6sh" ,RAI 2 
-http://95.107.132.104/out/u/63_1.m3u8
 #EXTINF:-1 group-title="Italy-WebTV",Rai 3 (italy VPN)
 http://b2everyrai-lh.akamaihd.net/i/rai3_1@91501/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV",Rai 3 
 http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-#EXTINF:-1 group-title="Italy-WebTV",RAI 4 (italy VPN)
-http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV",RAI 4 
-https://raiquattro1-live.akamaized.net/hls/live/598315/raiquattro1/rai4_1200/chunklist.m3u8
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://www.digiterrestre.co/wp-content/uploads/2010/11/rai5.png",Rai 5
-http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://www.digiterrestre.co/wp-content/uploads/2010/11/rai5.png",Rai 5
-https://raicinque1-live.akamaized.net/hls/live/598318/raicinque1/rai5_800/chunklist.m3u8
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://channelpear.co/images/media/14177.jpg",Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://channelpear.co/images/media/14177.jpg",Rai Gulp
-https://raigulp1-live.akamaized.net/hls/live/598332/raigulp1/raigulp1/playlist.m3
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://oklivetv.co/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png",Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://oklivetv.co/wp-content/uploads/2015/04/500px-RAI_Movie_2010_Logo.svg_.png",Rai Movie
-https://raimovie1-live.akamaized.net/hls/live/598324/raimovie1/raimovie_1200/chunklist.m3u8
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://oklivetv.co/wp-content/uploads/2015/04/500px-RAI_News24_2013.svg_.png",Rai News 24
-http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+https://raimovie1-live.akamaized.net/hls/live/598324/raimovie1/raimovie_1200/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://oklivetv.co/wp-content/uploads/2015/04/500px-RAI_News24_2013.svg_.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://wikitv.eu/wp-content/uploads/2016/01/Rai-Premium.jpg",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://www.thelogodb.co/images/media/logo/vxuqsq1434616120.png",Rai Scuola
 http://originstream6.rai.it/italy/smil:raiscuola.smil/playlist.m3u8
-#EXTINF:-1 group-title="Italy-WebTV",RAI SPORT2
-http://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8
-#EXTINF:-1 group-title="Italy-WebTV",RAI SPORT
-http://raisportuno1-live.akamaized.net/hls/live/598320/raisportuno1/raisport1_1800/chunklist.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rai_Storia_logo_2017.svg/1200px-Rai_Storia_logo_2017.svg.png",Rai Storia
 http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/1200px-RAI_YoYo_2010_Logo.svg.png",Rai Yoyo
-http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1200_av-b.m3u8
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/RAI_YoYo_2010_Logo.svg/1200px-RAI_YoYo_2010_Logo.svg.png",Rai Yoyo
-https://raiyoyo1-live.akamaized.net/hls/live/598330/raiyoyo1/raiyoyo1/playlist.m3u8
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/19/Rete_55.png",Rete 55
 http://live.youiptv.ch:1935/Rete55/ngrp:R55.stream_all/livestream.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/19/Rete_55.png",Rete 55*
@@ -3142,87 +3119,87 @@ http://.....
 
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://banner2.kisspng.com/20180623/elh/kisspng-animal-planet-television-channel-cat-television-sh-5b2e4c5a33a651.1108237115297608582116.jpg" ,Animal Planet
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/824.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1"  tvg-logo="http://hd-dreambox.com/imag/Canale_5.svg.png",Canal 5 HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="http://hd-dreambox.com/imag/Canale_5.svg.png",Canal 5 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/825.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Cartoonito
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONITO.png",Cartoonito
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/826.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Cielo
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CIELO.png",Cielo
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/827.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Discovery HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",Discovery HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/828.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Discovery Science HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYSCIENCE.png",Discovery Science HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/829.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Discovery Travel&Living HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYTRAVEL&LIVING.png",Discovery Travel&Living HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/830.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Fox Crime HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png",Fox Crime HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/831.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",FOX HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOX.png",FOX HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/832.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Fox Life HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXLIFE.png",Fox Life HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/833.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Inter Channel
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/835.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Juventus TV
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/823.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Mediaset Extra
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEDIASETEXTRA.png",Mediaset Extra
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/836.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Milan Channel
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/865.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Nat Geo Wild HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEOWILD.png",Nat Geo Wild HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/837.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",NATIONAL GEOGRAPHIC HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NATGEO.png",NATIONAL GEOGRAPHIC HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/838.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Pesca e Caccia
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CACCIAEPESCA.png",Pesca e Caccia
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/839.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Premium Action
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ACTION.png",Premium Action
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/840.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Premium Calcio
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/841.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Premium Comedy
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/842.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Premium Disney Junior
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png",Premium Disney Junior
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/843.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Premium Studio Universal
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/STUDIOUNIVERSAL.png",Premium Studio Universal
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/845.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Rai Yoyo
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIYOYO.png",Rai Yoyo
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/846.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Supercalcio HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/861.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Teleticino
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/880.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",TOP CRIME
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TOPCRIME.png",TOP CRIME
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/881.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",CARTOON  NETWORK
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CARTOONNETWORK.png",CARTOON  NETWORK
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/862.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Discovery Focus
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/863.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Mediaset Iris
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/IRIS.png",Mediaset Iris
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/864.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Premium Disney Junior
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png",Premium Disney Junior
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/866.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Rai Gulp
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIGULP.png",Rai Gulp
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/867.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Real Time
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/868.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Super Tennis
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SUPERTENNIS.png",Super Tennis
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/879.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Alice
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ALICE.png",Alice
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/777.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Canale5 HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANALE5.png",Canale5 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/778.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Dmax HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAX.png",Dmax HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/779.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Fox Comedy HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCOMEDY.png",Fox Comedy HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/782.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Fox Crime HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/FOXCRIME.png",Fox Crime HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/783.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Italia 2
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA2.png",Italia 2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/784.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",italia1 HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ITALIA1.png",italia1 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/785.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",La7
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LA7.png",La7
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/786.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Mediaset Extra
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEDIASETEXTRA.png",Mediaset Extra
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/787.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Premium Calcio 1*
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/788.m3u8$http-refferer=http://localhost
@@ -3234,7 +3211,7 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/790.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/791.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Premium Calcio 5*
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/792.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Premium Cinema
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PREMIUMCINEMA.png",Premium Cinema
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/793.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Premium Cinema 2
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/795.m3u8$http-refferer=http://localhost
@@ -3248,9 +3225,9 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/797.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/798.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Premium Stories
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/799.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Rai Movie
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png",Rai Movie
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/800.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",Rai Premium
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIPREMIUM.png",Rai Premium
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/801.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://www.altrospettacolo.it/wp-content/uploads/2018/01/raiuno-nuovo.jpg" ,Rai1 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/804.m3u8$http-refferer=http://localhost
@@ -3264,9 +3241,9 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/807.m3u8$http-refferer=
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/808.m3u8$http-refferer=http://localhost
 #EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="http://hd-dreambox.com/imag/Rete_4.svg.png",Rete4 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/809.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",RSI La1 HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LA1.png",RSI La1 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/810.m3u8$http-refferer=http://localhost
-#EXTINF:-1 group-title="Italy PREMIUM-SERVER1",RSI La2 HD
+#EXTINF:-1 group-title="Italy PREMIUM-SERVER1" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/LA2.png",RSI La2 HD
 httphost://$http-raw=http://163.172.89.151:1234/live/1/2/811.m3u8$http-refferer=http://localhost
 
 
