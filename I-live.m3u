@@ -4,7 +4,7 @@
 
 #EXTINF:-1 group-title="Update Date" tvg-logo="http://bit.ly/logoe-doctor" ,Updated
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="Update Date" tvg-logo="http://bit.ly/logoe-doctor" ,07/03/19
+#EXTINF:-1 group-title="Update Date" tvg-logo="http://bit.ly/logoe-doctor" ,01/04/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 
@@ -106,6 +106,8 @@ acestream://42410e570ff0e43b42b7c7322ebc468a5825fd25
 acestream://66604bbfffc9c2b2623b9bbdb6c0c741d17a89ba
 #EXTINF:-1 group-title="P2P TV1",Playboy TV 
 acestream://2a2ecfa17d0f86ebe0b7a97f4c2e4c1e3bf9c87f
+#EXTINF:-1 group-title="P2P TV1",Playboy TV 
+acestream://abcfc10848e1cd144f3b7ad9e40be6ec543f8e56
 #EXTINF:-1 group-title="P2P TV1",НЮ АРТ 
 acestream://c4241183cafe41aadb5d7f86a3fb821383e1d9d2
 #EXTINF:-1 group-title="P2P TV1",Redlight HD 
