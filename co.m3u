@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,10/04/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,12/04/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -3822,7 +3822,254 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER2",
 
-
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",AB1
+http://212.8.248.71:8000/live/aprile/aprile123/42909.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",AB3
+http://212.8.248.71:8000/live/aprile/aprile123/42908.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Action
+http://212.8.248.71:8000/live/aprile/aprile123/42907.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Animaux
+http://212.8.248.71:8000/live/aprile/aprile123/42906.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Arte
+http://212.8.248.71:8000/live/aprile/aprile123/42905.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN SPORTS 1 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42904.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN SPORTS 2 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42903.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN SPORTS 3 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42902.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN SPORTS 4 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42901.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN SPORTS 5 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42900.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN SPORTS 6 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42899.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN SPORTS 7 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42898.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN SPORTS 8 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42896.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN SPORTS 9 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42895.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",beIN SPORTS 10 MAX
+http://212.8.248.71:8000/live/aprile/aprile123/42897.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",BFM TV
+http://212.8.248.71:8000/live/aprile/aprile123/42894.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Boing HD
+http://212.8.248.71:8000/live/aprile/aprile123/42893.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Boomerang HD
+http://212.8.248.71:8000/live/aprile/aprile123/42892.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",C8
+http://212.8.248.71:8000/live/aprile/aprile123/42891.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal  Cinema HD
+http://212.8.248.71:8000/live/aprile/aprile123/42890.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal  Cinéma HD 1
+http://212.8.248.71:8000/live/aprile/aprile123/42889.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal  Decale HD
+http://212.8.248.71:8000/live/aprile/aprile123/42888.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANAL  FAMILY HD
+http://212.8.248.71:8000/live/aprile/aprile123/42887.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal  HD
+http://212.8.248.71:8000/live/aprile/aprile123/42886.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal  Series HD
+http://212.8.248.71:8000/live/aprile/aprile123/42885.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal  Sport HD
+http://212.8.248.71:8000/live/aprile/aprile123/42884.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal Decale HD
+http://212.8.248.71:8000/live/aprile/aprile123/42883.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal J
+http://212.8.248.71:8000/live/aprile/aprile123/42882.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Canal Plus Sport HD
+http://212.8.248.71:8000/live/aprile/aprile123/42881.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY 1 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42805.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY 2 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42801.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY 3 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42800.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY 4 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42799.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY 5 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42798.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY 6 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42797.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY 7 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42796.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY 8 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42795.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY 9 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42794.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY 10 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42804.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY 11 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42803.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY 12 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42802.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY XTR 1 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42793.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY XTR 2 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42792.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY XTR 3 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42791.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY XTR 4 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42790.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY XTR 5 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42789.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CANALPLAY XTR 6 FHD
+http://212.8.248.71:8000/live/aprile/aprile123/42788.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Cartoon Network HD
+http://212.8.248.71:8000/live/aprile/aprile123/42880.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Chasse & Peche
+http://212.8.248.71:8000/live/aprile/aprile123/42879.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",CHERIE 25
+http://212.8.248.71:8000/live/aprile/aprile123/42878.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Cine  Classic HD.
+http://212.8.248.71:8000/live/aprile/aprile123/42877.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Cine  Club HD.
+http://212.8.248.71:8000/live/aprile/aprile123/42876.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Cine  Emotion HD.
+http://212.8.248.71:8000/live/aprile/aprile123/42875.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Cine  Famiz
+http://212.8.248.71:8000/live/aprile/aprile123/42874.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Cine  Frisson HD
+http://212.8.248.71:8000/live/aprile/aprile123/42873.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Cine  FX HD
+http://212.8.248.71:8000/live/aprile/aprile123/42872.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Cine  Premier HD
+http://212.8.248.71:8000/live/aprile/aprile123/42871.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Cine  Star HD.
+http://212.8.248.71:8000/live/aprile/aprile123/42870.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Cine Action HD
+http://212.8.248.71:8000/live/aprile/aprile123/42807.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Cine Comedie HD
+http://212.8.248.71:8000/live/aprile/aprile123/42806.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",DISCOVERY HD
+http://212.8.248.71:8000/live/aprile/aprile123/42869.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Disney Channel
+http://212.8.248.71:8000/live/aprile/aprile123/42868.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Disney Cinema HD
+http://212.8.248.71:8000/live/aprile/aprile123/42867.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Disney Junior HD
+http://212.8.248.71:8000/live/aprile/aprile123/42866.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Disney XD HD
+http://212.8.248.71:8000/live/aprile/aprile123/42865.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",E Entertainment
+http://212.8.248.71:8000/live/aprile/aprile123/42864.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Equidia Life HD
+http://212.8.248.71:8000/live/aprile/aprile123/42912.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",EuroNews
+http://212.8.248.71:8000/live/aprile/aprile123/42863.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Euronews fr
+http://212.8.248.71:8000/live/aprile/aprile123/42862.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Foot  24/24 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42861.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",France 24 en Anglais
+http://212.8.248.71:8000/live/aprile/aprile123/42859.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",France 24 News
+http://212.8.248.71:8000/live/aprile/aprile123/42858.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",France 2 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42860.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",France 3 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42857.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",France 4 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42856.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",France 5 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42855.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",France O
+http://212.8.248.71:8000/live/aprile/aprile123/42854.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",GONG
+http://212.8.248.71:8000/live/aprile/aprile123/42853.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Gulli
+http://212.8.248.71:8000/live/aprile/aprile123/42852.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",HD1
+http://212.8.248.71:8000/live/aprile/aprile123/42851.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",HISTOIRE
+http://212.8.248.71:8000/live/aprile/aprile123/42850.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",iTele
+http://212.8.248.71:8000/live/aprile/aprile123/42849.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",La Chaine Normande
+http://212.8.248.71:8000/live/aprile/aprile123/42848.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",LCP
+http://212.8.248.71:8000/live/aprile/aprile123/42847.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",M6 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42846.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",M6 Music
+http://212.8.248.71:8000/live/aprile/aprile123/42845.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Mangas
+http://212.8.248.71:8000/live/aprile/aprile123/42844.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",MTV
+http://212.8.248.71:8000/live/aprile/aprile123/42843.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",MTV HD
+http://212.8.248.71:8000/live/aprile/aprile123/42842.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Nat Geo HD
+http://212.8.248.71:8000/live/aprile/aprile123/42841.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",National Geo
+http://212.8.248.71:8000/live/aprile/aprile123/42840.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",National Geo Wild
+http://212.8.248.71:8000/live/aprile/aprile123/42839.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Nickelodeon
+http://212.8.248.71:8000/live/aprile/aprile123/42838.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Nickelodeon Junior
+http://212.8.248.71:8000/live/aprile/aprile123/42837.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",NT1
+http://212.8.248.71:8000/live/aprile/aprile123/42836.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS CHOC HD
+http://212.8.248.71:8000/live/aprile/aprile123/42835.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS CITY HD
+http://212.8.248.71:8000/live/aprile/aprile123/42834.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS GEANTS HD
+http://212.8.248.71:8000/live/aprile/aprile123/42833.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",OCS MAX HD
+http://212.8.248.71:8000/live/aprile/aprile123/42832.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",PARAMOUNT CHANNEL HD
+http://212.8.248.71:8000/live/aprile/aprile123/42831.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Paris Premiere HD
+http://212.8.248.71:8000/live/aprile/aprile123/42830.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Piwi
+http://212.8.248.71:8000/live/aprile/aprile123/42829.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Planete A&E HD
+http://212.8.248.71:8000/live/aprile/aprile123/42828.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Planete-A-and-E-HD
+http://212.8.248.71:8000/live/aprile/aprile123/42827.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Planete-HD
+http://212.8.248.71:8000/live/aprile/aprile123/42826.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",RMC Decouverte
+http://212.8.248.71:8000/live/aprile/aprile123/42825.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",RMC SPORT 1 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42824.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",RMC SPORT 2 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42823.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",RMC SPORT 3 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42822.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",RMC SPORT NEWS HD
+http://212.8.248.71:8000/live/aprile/aprile123/42821.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",RTS LA DEUX HD
+http://212.8.248.71:8000/live/aprile/aprile123/42820.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",RTS LA UN HD
+http://212.8.248.71:8000/live/aprile/aprile123/42819.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",SCIENCE ET VIE HD
+http://212.8.248.71:8000/live/aprile/aprile123/42818.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Serie Club
+http://212.8.248.71:8000/live/aprile/aprile123/42817.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Syfy HD
+http://212.8.248.71:8000/live/aprile/aprile123/42816.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",TCM CINEMA
+http://212.8.248.71:8000/live/aprile/aprile123/42815.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",TeleToon
+http://212.8.248.71:8000/live/aprile/aprile123/42814.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",TF1 HD
+http://212.8.248.71:8000/live/aprile/aprile123/42813.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",TIJI
+http://212.8.248.71:8000/live/aprile/aprile123/42812.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",TMC
+http://212.8.248.71:8000/live/aprile/aprile123/42811.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",TV 5 Monde
+http://212.8.248.71:8000/live/aprile/aprile123/42810.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",Vitrine CanalPlay Live
+http://212.8.248.71:8000/live/aprile/aprile123/42787.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",W9 Music
+http://212.8.248.71:8000/live/aprile/aprile123/42809.m3u8
+#EXTINF:-1 group-title="France PREMIUM-SERVER2",WEO HD
+http://212.8.248.71:8000/live/aprile/aprile123/42808.m3u8
 
 
 
@@ -3854,274 +4101,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/523.m3u8$http-refferer=
 
 #EXTINF:-1 group-title="France PREMIUM-SERVER4",
 
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : TF1 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8644.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: France 2
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8261.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: France 3
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8260.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: France 4 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8590.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: France 5
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8591.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: France O
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8592.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: M6
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/2920.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : 6TER
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8649.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: 6Ter HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9425.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: HD1 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8648.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Arte
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8593.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Paris Premiere
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8653.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: TV-breizh HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8654.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: RTS UN
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13073.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: RTS DEUX
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13074.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: I-Tele HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13078.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: 13 Rue
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17601.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",=====  Cineèma   =====
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13609.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Action
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8667.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Ocs max
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9397.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Ocs Choc HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9398.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: OCS City HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9450.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: OCS Géants HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9451.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Canal +
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9444.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Canal+ Cinema
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9419.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Canal+ Series
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9417.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: CANAL  Décalé
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9454.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Canal+ Family
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9445.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: CINE+ Famiz
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9448.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Cine  Classic
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9414.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: CINE+  Emotion
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9449.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: CINE  FRISSON
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9446.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Cine+ Premier
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9413.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Cine Fx
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9412.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Cine POLAR
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8665.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Serie club
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9393.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: PARAMOUNT
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8664.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: COMEDIE + HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8662.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Comedie+
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9447.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : Syfy
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8646.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : Serie Club
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8655.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: A LA CARTE 1
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9455.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: A la Carte 2
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9456.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: A la Carte 3
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9457.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: A la Carte 4
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9458.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: A la Carte 5
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9459.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: A la Carte 6
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9460.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: A la Carte 7
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9461.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: A la Carte 9
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9463.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: A la Carte 10
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9464.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",=====  Divertissement  =====
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13610.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: AB1_HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8658.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: E! Entertainment
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9453.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Tmc
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8666.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: NT1
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13076.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : NT1
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8650.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Téva HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9428.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : W9
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8645.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : RTL9
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8647.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : NRJ12
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8651.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: NRJ 12
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9422.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : D8
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8660.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : D17
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8661.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : CHERIE 25 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8656.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : AB3
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8659.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR : 13eme Rue
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8652.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",=====  Sport FR  =====
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13611.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Canal+  Sport
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9416.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Eurosport
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9407.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: EUROSPORT 1
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/14080.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Eurosport 2 FHD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9406.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Foot+24
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9405.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: SFR Sport 1 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13053.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: SFR Sport 2 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13054.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: SFR Sport 3 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13719.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: SFR Sport 5 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13720.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: RMC SPORTS 1
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26131.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: RMC SPORTS 2
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26130.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: RMC SPORTS 3
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26129.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: RMC SPORTS 4 FHD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26128.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Equida Live
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13703.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Infosport+
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9404.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: CHASSE & PECHE
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9452.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",=====  Culture  =====
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13612.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Discovery
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9411.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Discovery science
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9410.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: National geo wild
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9400.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: National geographic
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9399.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Planete+ CI
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9395.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Science&Vie TV
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9442.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Histoire
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9426.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Animaux
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9420.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: RMC DECOUVERTE
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9440.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Toute l'histoire
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9427.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: USHUAIA TV
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9441.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",=====  Musique  =====
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13613.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: M6 Music
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9429.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",=====  Enfants  =====
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13614.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: BOOMERANG
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9437.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Cartoon Network
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9415.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: DISNEY CHANNEL
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9435.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: DISNEY CHANNEL  HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9436.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Disney Cinema
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9430.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Disney junior
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9409.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Mangas
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9401.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: TELETOON + HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9431.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: GULLI
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9433.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",=====  Information  =====
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13615.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Cherie 25
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9421.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: BFM TV HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9438.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: Euronews
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9408.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: L'EQUIPE 21 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9465.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: LCI
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9439.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",FR: PIWI+
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9432.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",====== BELGIUM =======
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12594.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: La Une HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12995.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: LA DEUX
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12596.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE:RTL TVI
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12598.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: Plug RTL HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13717.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: PLUG RLT FHD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12599.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: LA TROIS
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12597.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: KETNET
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12608.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: EEN HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12609.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: CLUB RTL FHD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12600.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: CINEMA 1
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12607.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: CINEMA 2
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12606.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: CANVAS
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12610.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: BE CINE
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12603.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: Vier HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12996.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: ATV Antwerpen
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18089.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: VTM
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15908.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: NRJ HITS TV
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18090.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: Voo Sport 1
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/19508.m3u8
-#EXTINF:-1 group-title="France PREMIUM-SERVER4",BE: Voo Sport 2
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/19507.m3u8
 
 
 
