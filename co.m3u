@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,15/04/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,15/04/19!
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,TUTORIAL VIDEO
@@ -1103,7 +1103,7 @@ http://ustv247.com/nbc-live-stream/|agentnodown$$start=source: 'http://$$end=',$
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="http://ustv247.com/wp-content/uploads/2018/11/NFL-1-326x245.jpg",NFL Network
 http://ustv247.com/nfl-network-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="http://ustv247.com/wp-content/uploads/2019/01/Nickelodeon_2009.png",Nickelodeon
-http://ustv247.com/nickelodeon-live/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add=  
+http://ustv247.com/nickelodeon-live/|agentnodown$$start=source src='$$end=' type=$$replace=source src='$$replacewith=$$add= 
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="http://ustv247.com/wp-content/uploads/2018/11/PBS-326x245.png",PBS
 http://ustv247.com/pbs-live-stream/|agentnodown$$start=source: 'http://$$end=',$$replace=source: '$$replacewith=$$add= 
 #EXTINF:-1 group-title="USA-SERVER4" tvg-logo="http://ustv247.com/wp-content/uploads/2019/01/StarZ-269x151.png",Starz
