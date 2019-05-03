@@ -10044,34 +10044,31 @@ httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/Mbnc_bollywodi/2/
 #EXTINF:-1 group-title="United Arab Emirates-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" ,==U.A.E==
 http://..........
 
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports News
-httphost://$http-raw=http://unblocked.lol/beinsportsnews$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 1
-httphost://$http-raw=http://unblocked.lol/beinsports1$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 2
-httphost://$http-raw=http://unblocked.lol/beinsports2$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 3
-httphost://$http-raw=http://unblocked.lol/beinsports3$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 4
-httphost://$http-raw=http://unblocked.lol/beinsports4$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 5
-httphost://$http-raw=http://unblocked.lol/beinsports5$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 6
-httphost://$http-raw=http://unblocked.lol/beinsports6$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 7
-httphost://$http-raw=http://unblocked.lol/beinsports7$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 8
-httphost://$http-raw=http://unblocked.lol/beinsports8$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 9
-httphost://$http-raw=http://unblocked.lol/beinsports9$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 10
-httphost://$http-raw=http://unblocked.lol/beinsports10$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 11 English
-httphost://$http-raw=http://unblocked.lol/beinsports11$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 12 English
-httphost://$http-raw=http://unblocked.lol/beinsports12$http-refferer=https://unblocked.lol/tv
-#EXTINF:-1 group-title="United Arab Emirates-SERVER2",beIN Sports 13 English
-httphost://$http-raw=http://unblocked.lol/beinsports13$http-refferer=https://unblocked.lol/tv
+#EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 1 
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beinsports1hbdbz/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+#EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 2
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beinspors2hbff/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports2
+#EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 3
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beino3soi/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports3 
+#EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 4 
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beino4hisge/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports4
+#EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 5 
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beinsportshd5jh/2/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports5
+#EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 6 
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beinoinn6hsih/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports6
+#EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 7 
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beino7shi/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports7
+#EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 8
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beinsportsdd8za/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports8
+#EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 9
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beinsportshdhn99a/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports9
+#EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 10
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beinpsots10/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports10
+#EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 11
+httphost://$http-raw=https://www.247bay.tv/hembedplayer/beinsports11hbffaza/2/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports11
+
+
+
 
 
 
