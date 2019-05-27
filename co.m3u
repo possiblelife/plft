@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,25/05/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,27/05/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://www.sfcg.org/wp-content/uploads/2016/11/youtube-flat.png" ,TUTORIAL VIDEO CLICK HERE.
@@ -178,8 +178,6 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 https://www.youtube.com/watch?v=4U8YMAfDFGg
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI Youtube LIVE (OFFLINE)
-http://www.skaitv.gr/live|webnoagent$$start=https://www.youtube.com/embed/$$end=?controls$$replace=https://www.youtube.com/embed/$$replacewith=https://www.youtube.com/watch?v=$$add= 
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (use External Player)
 http://www.anacon.org/app/chans/gr/skai.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (Webview Player)
@@ -5877,11 +5875,11 @@ http://85.244.70.140:7000/play/a00p
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4",
 
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1HD.png",SPORT TV 1 HD
-http://185-8-178-138.livesports24.online/ptsporttv1.m3u8
+http://185-8-178-139.livesports24.online/ptsporttv1.m3u8
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png",SPORT TV 2 HD 
-http://185-8-178-138.livesports24.online/portugalsport2.m3u8
+http://185-8-178-139.livesports24.online/portugalsport2.m3u8
 #EXTINF:-1 group-title="Portugal PREMIUM-SERVER4" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3HD.png",SPORT TV 3 HD 
-http://185-8-178-138.livesports24.online/sport3tvpt.m3u8
+http://185-8-178-139.livesports24.online/sport3tvpt.m3u8
 
 
 
