@@ -2235,26 +2235,18 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1126.m3u8$http-refferer
 http://..........
 
 
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv.png",ITV 1 UK
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/52|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv2hd.png",ITV 2 UK
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/53|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv3hd.png",ITV 3 UK
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/54|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv4hd.png",ITV 4 UK
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/55|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png",BBC 1 UK
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/22|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbctwo.png" ,BBC 2 UK
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/23|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://www.tazoo.tv/wp-content/uploads/2014/04/bbc3hd.png",BBC 3 UK
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/24|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcfour.png",BBC 4 UK
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/25|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="https://dev.dishpromotions.com/wp-content/uploads/WLLOW-logo.png",Willow Cricket
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/117|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="https://dev.dishpromotions.com/wp-content/uploads/WLLOW-logo.png",Willow Cricket Backup
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/434|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Sports/wwe.jpg",WWE Network
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/146|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boxnation.png",Box Nation
@@ -2279,28 +2271,6 @@ http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/850|user-agent=245sdee654ere
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/49|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn2.png",ESPN USA
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/48|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmainevent.png",Sky Sports Main Event
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2131|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportscricet.png",Sky Sports Cricket
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2132|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportaction.png",Sky Sports Action
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2133|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportstheopen.png",Sky Sports Golf
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2134|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportspremierleague.png",Sky Sports Premier League
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2135|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsfootball.png",Sky Sports Football
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2137|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsarena.png",Sky Sports Arena
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2136|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport1.png",BT Sports 1
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2138|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport2.png",BT Sports 2
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2139|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport3.png",BT Sports 3
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2140|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/btsport.png",BT Sports ESPN
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2141|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportf1-phibruspel.png",Sky Sports F1
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/80|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportf1-phibruspel.png",Sky Sports F1 HQ
@@ -2319,44 +2289,26 @@ http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2463|user-agent=245sdee654er
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/57|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Sportsnet/sportsnet%20world.png",SportsNetWorld
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/467|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemafamily.png",Sky Cinema Hits
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2422|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaactionandadventure.png",Sky Movie Action&Adventure
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/65|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaactionandadventure.png",Sky Movie Action&Adventure (Backup)
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2421|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemacomedy.png",Sky Movie Comedy
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/66|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemacomedy.png",Sky Movie Comedy (Backup)
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2420|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/truechristmas.png",Sky Movie Christmas Ex-Drama
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/68|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/truechristmas.png",Sky Movie Christmas Ex-Drama (Backup)
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2419|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemagreats.png",Sky Movie Modern Greats
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/70|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemagreats.png",Sky Movie Modern Greats (Backup)
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2418|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemapremierehd.png",Sky Movie Premiere
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/71|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemapremierehd.png",Sky Movie Premiere (Backup)
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2417|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemathriller.png",Sky Movie Crime&Thriller
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/67|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemascifiandhorrorhd.png",Sky Movie SciFi&Horror
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/72|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemascifiandhorrorhd.png",Sky Movie SciFi&Horror (Backup)
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2416|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaselecthd.png",Sky Movie Select
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2415|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/showcasetv.jpg",Sky Movie Showcase
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2414|user-agent=245sdee654ere
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/73|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemafamily.png",Sky Movie Family
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/69|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemadisney1.png",SkyMovies Disney
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/154|user-agent=245sdee654ere
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaselecthd.png",SkyMovies Select
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/73|user-agent=245sdee654ere
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skyatlantic.png",Sky Atlantic
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/74|user-agent=245sdee654ere
 
