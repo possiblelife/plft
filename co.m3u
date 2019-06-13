@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,11/06/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,13/06/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://www.sfcg.org/wp-content/uploads/2016/11/youtube-flat.png" ,TUTORIAL VIDEO CLICK HERE.
@@ -132,11 +132,11 @@ http://..........
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============ PANELLADIKA ============
 http://.....
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1 WorldWide WebTV (Youtube)
-https://www.youtube.com/watch?v=Zx98moCvkpU
+https://www.youtube.com/watch?v=Rrpmhd-U7WM
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1
 http://www.anacon.org/app/chans/gr/ert1s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1 (USE GREECE VPN) (Youtube)
-https://www.youtube.com/watch?v=0XYWTzFlEyo
+https://www.youtube.com/watch?v=SbZQY3UYw_Y
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 WorldWide WebTV (Youtube)
 https://www.youtube.com/watch?v=qBxbnSwOrxE
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2
@@ -150,7 +150,7 @@ https://www.youtube.com/watch?v=5r5iftFbASw
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3
 http://www.anacon.org/app/chans/gr/ert3s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 (USE GREECE VPN) (Youtube)
-https://www.youtube.com/watch?v=ELB7cKTx5ig
+https://www.youtube.com/watch?v=x3IIDO6C-kc
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
 https://www.youtube.com/watch?v=MRDeOhioF3g
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
@@ -168,14 +168,14 @@ https://www.youtube.com/watch?v=bAyzQwA_pfU
 #EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-cL6bbbQTXTc/WiWWZUVOMEI/AAAAAAABwS8/yLQFnNU7qIU-FXk6ciMZLYdnRvo1ustFACLcBGAs/h120/ertplay2.jpg" ,ERT Play 2 Worldwide(Youtube)
 https://www.youtube.com/watch?v=K2x130LKwDU
 #EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/PzabKkj.jpg" ,ERT Play 3 Worldwide
-https://epa.ert.gr/events/_definst_/ertplay3-gr/playlist.m3u8
+https://www.youtube.com/watch?v=DNEd_p3qOrY
 #EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/PzabKkj.jpg" ,ERT Play 4 Worldwide
-https://epb.ert.gr/events/_definst_/ertplay4-gr/playlist.m3u8
+https://www.youtube.com/watch?v=S6Jnwa0VMsY
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA (Youtube)
-https://www.youtube.com/watch?v=4U8YMAfDFGg
+https://www.youtube.com/watch?v=5jQ1PkJ4Qo8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (use External Player)
@@ -282,6 +282,8 @@ https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
 http://bit.ly/2p6JqSo
 #EXTINF:-1 group-title="Greece",Cinema 2
 https://eco.streams.ovh/DiavataTV/DiavataTV/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/bh1iOFz.png",CINEFIL GR
+http://bit.ly/2Dn2Yty
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   MOUSIKI   ============
 http://.....
@@ -900,97 +902,97 @@ http://w2.11223344.host/live/wwe/chunks.m3u8|Referer=http://123tvnow.com/watch/w
 
 #EXTINF:-1 group-title="USA-SERVER3",
 
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/AE.png" ,A&E Networks (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/AE.png" ,A&E Networks 
 http://ustvgo.net/ae-networks-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/abc-269x151.jpg" ,ABC (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/abc-269x151.jpg" ,ABC 
 http://ustvgo.net/abc-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/AMC-1.png" ,AMC (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/AMC-1.png" ,AMC 
 http://ustvgo.net/amc-live/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/animal-planet.png" ,Animal Planet (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/animal-planet.png" ,Animal Planet 
 http://ustvgo.net/animal-planet-live/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/BBC.jpg" ,BBC America (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/BBC.jpg" ,BBC America 
 http://ustvgo.net/bbc-america-live/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/bravo-269x151.png" ,Bravo Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/bravo-269x151.png" ,Bravo Channel 
 http://ustvgo.net/bravo-channel-live-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/cartoon-network.jpg" ,Cartoon Network (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/cartoon-network.jpg" ,Cartoon Network 
 http://ustvgo.net/cartoon-network-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS 
 http://ustvgo.net/cbs-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/cnbc-1.jpg" ,CNBC (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/cnbc-1.jpg" ,CNBC 
 http://ustvgo.net/cnbc-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/CNN-1.png" ,CNN (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/CNN-1.png" ,CNN 
 http://ustvgo.net/cnn-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/comedy-central-269x151.png" ,Comedy Central (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/comedy-central-269x151.png" ,Comedy Central 
 http://ustvgo.net/comedy-central-live-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Discovery.png" ,Discovery Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Discovery.png" ,Discovery Channel 
 http://ustvgo.net/discovery-channel-live/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/disney-269x151.png" ,Disney Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/disney-269x151.png" ,Disney Channel 
 http://ustvgo.net/disney-channel-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/food-network-269x151.png" ,Food Network (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/food-network-269x151.png" ,Food Network 
 http://ustvgo.net/food-network-live-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/FOX-1.png" ,FOX HD (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/FOX-1.png" ,FOX HD 
 http://ustvgo.net/fox-hd-live-streaming/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/foxbusiness.jpg" ,Fox Business (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/foxbusiness.jpg" ,Fox Business 
 http://ustvgo.net/fox-business-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/foxnews.jpg" ,Fox News (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/foxnews.jpg" ,Fox News 
 http://ustvgo.net/fox-news-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/freeform-269x151.png" ,Freeform Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/freeform-269x151.png" ,Freeform Channel 
 http://ustvgo.net/freeform-channel-live-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/fx-269x151.png" ,FX Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/fx-269x151.png" ,FX Channel 
 http://ustvgo.net/fx-channel-live/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/golf-269x151.png" ,Golf Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/golf-269x151.png" ,Golf Channel 
 http://ustvgo.net/golf-channel-live-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" ,Hallmark Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" ,Hallmark Channel 
 http://ustvgo.net/hallmark-channel-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/HMM_logo_black-700x245.jpg" ,Hallmark Movies & Mysteries (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/HMM_logo_black-700x245.jpg" ,Hallmark Movies & Mysteries 
 http://ustvgo.net/hallmark-movies-mysteries-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/HGTV-269x151.png" ,HGTV (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/HGTV-269x151.png" ,HGTV 
 http://ustvgo.net/hgtv-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/History.png" ,History Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/History.png" ,History Channel 
 http://ustvgo.net/history-channel-live/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/id-269x151.jpg" ,Investigation Discovery (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/id-269x151.jpg" ,Investigation Discovery 
 http://ustvgo.net/investigation-discovery-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Lifetime-269x151.png" ,Lifetime Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Lifetime-269x151.png" ,Lifetime Channel 
 http://ustvgo.net/lifetime-channel-live/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB NETWORK (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB NETWORK 
 http://ustvgo.net/mlb-network/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/msnbc_logo-269x151.jpg" ,MSNBC (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/msnbc_logo-269x151.jpg" ,MSNBC 
 http://ustvgo.net/msnbc-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/National-Geographic-269x151.png" ,National Geographic (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/National-Geographic-269x151.png" ,National Geographic 
 http://ustvgo.net/national-geographic-live/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/NatGeoWild.jpeg" ,Nat Geo Wild (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/NatGeoWild.jpeg" ,Nat Geo Wild 
 http://ustvgo.net/nat-geo-wild-live/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/nbc-logo.jpg" ,NBC (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/nbc-logo.jpg" ,NBC 
 http://ustvgo.net/nbc/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Nickelodeon_2009.png" ,Nickelodeon (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Nickelodeon_2009.png" ,Nickelodeon 
 http://ustvgo.net/nickelodeon-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/nfln-logo-dark.png" ,NFL Network (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/nfln-logo-dark.png" ,NFL Network 
 http://ustvgo.net/nfl-network-live-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/PBS.jpg" ,PBS (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/PBS.jpg" ,PBS 
 http://ustvgo.net/pbs-live/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/StarZ-269x151.png" ,Starz Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/StarZ-269x151.png" ,Starz Channel 
 http://ustvgo.net/starz-channel-live/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/syfy-269x151.png" ,Syfy (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/syfy-269x151.png" ,Syfy 
 http://ustvgo.net/syfy-channel-live/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/tbs-269x151.png" ,TBS Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/tbs-269x151.png" ,TBS Channel 
 http://ustvgo.net/tbs-channel-live-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png" ,TCM (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png" ,TCM 
 http://ustvgo.net/tcm/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/TennisChannel.whiteBg.png" ,Tennis Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/TennisChannel.whiteBg.png" ,Tennis Channel 
 http://ustvgo.net/tennis-channel-live-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/cw-269x151.png" ,The CW (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/cw-269x151.png" ,The CW 
 http://ustvgo.net/the-cw-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/Weather-Channel-269x151.png" ,The Weather Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/Weather-Channel-269x151.png" ,The Weather Channel 
 http://ustvgo.net/the-weather-channel-live-streaming-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/tlc-269x151.png" ,TLC (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/tlc-269x151.png" ,TLC 
 http://ustvgo.net/tlc-live-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT 
 http://ustvgo.net/tnt/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Travel-269x151.png" ,Travel Channel (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Travel-269x151.png" ,Travel Channel 
 http://ustvgo.net/travel-channel-live-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/TVLand-269x151.png" ,TV Land (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/TVLand-269x151.png" ,TV Land 
 http://ustvgo.net/tv-land-live-free/|fullweb
-#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/USA-Network-269x151.png" ,USA Network (USA VPN REQUIRED)
+#EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/USA-Network-269x151.png" ,USA Network 
 http://ustvgo.net/usa-network-live/|fullweb
 
 
@@ -2234,83 +2236,86 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1126.m3u8$http-refferer
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
 
-
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv1hd.png",ITV 1 UK
+http://194.88.104.169:8081/freeee11sss11ss/itv1/playlist.m3u8|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv2hd.png",ITV 2 UK
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/53|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/53|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv3hd.png",ITV 3 UK
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/54|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/54|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv4hd.png",ITV 4 UK
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/55|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/55|user-agent=lolllololollol
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png" ,BBC 1 UK
+http://194.88.104.169:8081/freeee11sss11ss/bbc1/playlist.m3u8|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbctwo.png" ,BBC 2 UK
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/23|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/23|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://www.tazoo.tv/wp-content/uploads/2014/04/bbc3hd.png",BBC 3 UK
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/24|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/24|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcfour.png",BBC 4 UK
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/25|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/25|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Sports/wwe.jpg",WWE Network
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/146|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/146|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boxnation.png",Box Nation
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/44|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/44|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/boxnation.png",Box Nation Backup
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/780|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/780|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/eurosport1hd.png",British Eurosport 1
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/50|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/50|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/eurosport1hd.png",British Eurosport 1  Backup
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2156|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2156|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/eurosport2hd.png",British Eurosport 2
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/51|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/51|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Sports_Logos/eurosport2hd.png",British Eurosport 2 Backup
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2157|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2157|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/chelseatv.png" ,Chelsea TV
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/148|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/148|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/eirsport1.png",Eir Sports1
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/849|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/849|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/IRE_Logos/eirsport2.png",Eir Sports2
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/850|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/850|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn.png",ESPN 2 USA
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/49|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/49|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/espn2.png",ESPN USA
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/48|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/48|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportf1-phibruspel.png",Sky Sports F1
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/80|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/80|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportf1-phibruspel.png",Sky Sports F1 HQ
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/119|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/119|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportf1-phibruspel.png",Sky Sports F1 HD Backup
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2464|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2464|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsmix.png",Sky Sports Mix
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/860|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/860|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsnews.png",Sky Sports News
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/81|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/81|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsnews.png",Sky Sports News HQ
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/118|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/118|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skysportsnews.png",Sky Sports News HD Backup
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2463|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/2463|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Sports/setanta-sport-plus.png" ,Setanta Sports
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/57|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/57|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Sportsnet/sportsnet%20world.png",SportsNetWorld
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/467|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/467|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaactionandadventure.png",Sky Movie Action&Adventure
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/65|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/65|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemacomedy.png",Sky Movie Comedy
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/66|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/66|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/Ians_Logos/truechristmas.png",Sky Movie Christmas Ex-Drama
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/68|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/68|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemagreats.png",Sky Movie Modern Greats
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/70|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/70|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemapremierehd.png",Sky Movie Premiere
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/71|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/71|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemathriller.png",Sky Movie Crime&Thriller
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/67|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/67|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2"  tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemascifiandhorrorhd.png",Sky Movie SciFi&Horror
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/72|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/72|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemaselecthd.png",Sky Movie Select
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/73|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/73|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemafamily.png",Sky Movie Family
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/69|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/69|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skycinemadisney1.png",SkyMovies Disney
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/154|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/154|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/skyatlantic.png",Sky Atlantic
-http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/74|user-agent=wsssddsds
+http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/74|user-agent=lolllololollol
 
 
 
