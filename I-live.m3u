@@ -1,4 +1,4 @@
-﻿#EXTM3U 
+#EXTM3U 
 
 
 
@@ -36,7 +36,7 @@ rtmp://109.71.162.112:1935/live/sd.jasminchannel.stream
 #EXTINF:-1 group-title="LIVE TV" tvg-logo="http://lh6.ggpht.com/_9PDHPy5tdyU/S70enxyhZ9I/AAAAAAAAAH4/MHpKKNOd6Ts/classificacao_indicativa_18_anos_thumb%5B1%5D.gif" , Visit-X Tv 720P
 http://stream.visit-x.tv/vxtv/live/playlist.m3u8	
 #EXTINF:-1 group-title="LIVE TV" ,test
-http://oklivetv.com/pink-tv-korea-live/|webdeskdig
+http://oklivetv.com/pink-tv-korea-live/|webdeskalldig
 
 
 
