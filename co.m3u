@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,21/06/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,25/06/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://www.sfcg.org/wp-content/uploads/2016/11/youtube-flat.png" ,TUTORIAL VIDEO CLICK HERE.
@@ -51,11 +51,11 @@ http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="RIK1.cy" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png" ,RIK1
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-id="RIK1.cy" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1 (use External Player)
+#EXTINF:-1 group-title="Cyprus" tvg-id="RIK1.cy" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",RIK1
 http://www.fireshow.xyz/rik1.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png" ,RIK2
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
-#EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2 (use External Player)
+#EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://primetel.com.cy/wp-content/uploads/2017/10/image012.png",RIK2
 http://www.fireshow.xyz/rik2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/rik-hd-jpg-H1Uop6wxQ.jpg" ,RIK HD
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
@@ -178,6 +178,8 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 https://www.youtube.com/watch?v=5jQ1PkJ4Qo8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (Youtube)
+http://skaitv.gr/live|youtubedig
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI
 http://www.anacon.org/app/chans/gr/skai.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (Webview Player)
@@ -699,9 +701,9 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 
 
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E
-https://ok.ru/videoembed/644794359395?nochat=1&autoplay=1|agentnodown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
+https://ok.ru/videoembed/644794359395?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC 
-http://espn.tmedia.me/cache/abc.m3u8
+http://123tvnow.com/watch/abc/|webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/adultswim-269x151.png" ,Adult Swim 
 https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer6.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="https://www.chillglobal.com/images/channels/18-ahc-1432375751.jpg" ,AHC (American Heroes Channel) 
@@ -711,9 +713,9 @@ http://w1.11223344.host/live/amc/chunks.m3u8|Referer=http://123tvnow.com/watch/a
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/animal-planet-269x151.png" ,Animal Planet 
 http://w1.11223344.host/live/animalplanet/chunks.m3u8|Referer=http://123tvnow.com/watch/animal-planet/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bet-269x151.png" ,Bet
-http://espn.tmedia.me/cache/bet.m3u8
+http://123tvnow.com/watch/bet/|webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bravo-269x151.png" ,Bravo 
-https://ok.ru/videoembed/1082879581795?nochat=1&autoplay=1|agentnodown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
+https://ok.ru/videoembed/1082879581795?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/CMC-269x151.jpg" ,California Music Channel - CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cartoon-network-269x151.png" ,Cartoon Network
@@ -725,11 +727,11 @@ http://w1.11223344.host/live/cbs/chunks.m3u8|Referer=http://123tvnow.com/watch/c
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cbsn-269x151.jpg" ,CBS News (CBSN)
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" ,CMT (Country Music Television)
-http://espn.tmedia.me/cache/cmt.m3u8
+http://123tvnow.com/watch/cmt-country-music-television/|webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cnn-269x151.jpg" ,CNN 
 http://w1.11223344.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/comedy-central-269x151.png" ,Comedy Central
-http://espn.tmedia.me/cache/cc.m3u8
+http://123tvnow.com/watch/comedy-central/|webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Discovery-269x151.png" ,Discovery Channel 
 http://w1.11223344.host/live/discovery/chunks.m3u8|Referer=http://123tvnow.com/watch/discovery-channel/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Discovery_science_new_logo_2017.png",DISCOVERY SCIENCE
@@ -741,13 +743,13 @@ http://w2.11223344.host/live/diy/chunks.m3u8|Referer=http://123tvnow.com/watch/d
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E! 
 http://w3.11223344.host/live/enw/chunks.m3u8|Referer=http://123tvnow.com/watch/e-network/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN
-http://espn.tmedia.me/cache/espn1.m3u8
+http://123tvnow.com/watch/espn/|webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News 
-http://espn.tmedia.me/cache/espnews.m3u8
+http://123tvnow.com/watch/espn-news/|webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnu-269x151.png" ,ESPN U 
-http://espn.tmedia.me/cache/espnu.m3u8
+http://123tvnow.com/watch/espn-u-espnu/|webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2
-http://espn.tmedia.me/cache/espn2.m3u8
+http://123tvnow.com/watch/espn2/|webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ftv-269x151.png" ,Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="USA-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",FASION TV MIDNIGHT SECRETS
@@ -787,13 +789,13 @@ http://w2.11223344.host/live/id/chunks.m3u8|Referer=http://123tvnow.com/watch/in
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime
 http://w2.11223344.host/live/lifetime/chunks.m3u8|Referer=http://123tvnow.com/watch/lifetime-tv/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/12/logo-tv-grid-logo-1.jpg?w=300&h=200&crop=1" ,Logo TV
-http://espn.tmedia.me/cache/logotv.m3u8
+http://123tvnow.com/watch/logo-tv/|webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnlhn-269x151.png" ,Longhorn Network (ESPNLHN)
-http://espn.tmedia.me/cache/lghn.m3u8
+http://123tvnow.com/watch/longhorn-network-espnlhn/|webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" ,MSNBC 
 http://w3.11223344.host/live/msnbc/chunks.m3u8|Referer=http://123tvnow.com/watch/msnbc/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/mtv-269x151.png" ,MTV 
-http://espn.tmedia.me/cache/mtv.m3u8
+http://123tvnow.com/watch/mtv/|webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" ,NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic
@@ -815,7 +817,7 @@ http://w2.11223344.host/live/nick2/chunks.m3u8|Referer=http://123tvnow.com/watch
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Oxygen-269x151.png" ,Oxygen
 http://w3.11223344.host/live/oxygen/chunks.m3u8|Referer=http://123tvnow.com/watch/oxygen/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/spike-269x151.png" ,Spike Paramount Network
-http://espn.tmedia.me/cache/spikeus.m3u8
+http://123tvnow.com/watch/paramount-network-spike/|webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/rt-usa-269x151.png" ,RT USA 
 https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Showtime-269x151.png" ,Showtime 
@@ -835,23 +837,23 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/index_800_av-p.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC
 https://ok.ru/videoembed/1082887708259?nochat=1&autoplay=1|agentnodown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT
-https://ok.ru/videoembed/1125218786915?nochat=1&autoplay=1|agentnodown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
+https://ok.ru/videoembed/1125218786915?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Travel-269x151.png" ,Travel Channel 
 http://w2.11223344.host/live/travel/chunks.m3u8|Referer=http://123tvnow.com/watch/travel-channel/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TruTV-269x151.png" ,TruTV 
 http://w2.11223344.host/live/trutv/chunks.m3u8|Referer=http://123tvnow.com/watch/trutv/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TVLand-269x151.png" ,TV Land
-http://espn.tmedia.me/cache/tvland.m3u8
+http://ustvgo.net/tv-land-live-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/USA-Network-269x151.png" ,USA Network
 http://w2.11223344.host/live/usa/chunks.m3u8|Referer=http://123tvnow.com/watch/usa-network/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/vh1-269x151.png" ,VH1 
-http://espn.tmedia.me/cache/vh1.m3u8
+http://123tvnow.com/watch/vh1/webdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/VOA-269x151.png" ,Voice of America (VOA)
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/WeatherNation-269x148.png" ,WeatherNation TV
 http://klive.kaltura.com/dc-1/m/ny-live-publish109/live/legacy/p/931702/e/1_oorxcge2/sd/10000/t/BfzLUJ_m8tBbdNeSqAPsRg/playlist.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK
-http://w2.11223344.host/live/wwe/chunks.m3u8|Referer=http://123tvnow.com/watch/wwe-network/
+http://w2.11223344.host/live/wwe/chunks.m3u8|weballdig
 
 
 
@@ -903,97 +905,97 @@ http://w2.11223344.host/live/wwe/chunks.m3u8|Referer=http://123tvnow.com/watch/w
 #EXTINF:-1 group-title="USA-SERVER3",
 
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/AE.png" ,A&E Networks 
-http://ustvgo.net/ae-networks-live-streaming-free/|fullweb
+http://ustvgo.net/ae-networks-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/abc-269x151.jpg" ,ABC 
-http://ustvgo.net/abc-live-streaming-free/|fullweb
+http://ustvgo.net/abc-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/AMC-1.png" ,AMC 
-http://ustvgo.net/amc-live/|fullweb
+http://ustvgo.net/amc-live/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/animal-planet.png" ,Animal Planet 
-http://ustvgo.net/animal-planet-live/|fullweb
+http://ustvgo.net/animal-planet-live/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/BBC.jpg" ,BBC America 
-http://ustvgo.net/bbc-america-live/|fullweb
+http://ustvgo.net/bbc-america-live/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/bravo-269x151.png" ,Bravo Channel 
-http://ustvgo.net/bravo-channel-live-free/|fullweb
+http://ustvgo.net/bravo-channel-live-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/cartoon-network.jpg" ,Cartoon Network 
-http://ustvgo.net/cartoon-network-live-streaming-free/|fullweb
+http://ustvgo.net/cartoon-network-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS 
-http://ustvgo.net/cbs-live-streaming-free/|fullweb
+http://ustvgo.net/cbs-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/cnbc-1.jpg" ,CNBC 
-http://ustvgo.net/cnbc-live-streaming-free/|fullweb
+http://ustvgo.net/cnbc-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/CNN-1.png" ,CNN 
-http://ustvgo.net/cnn-live-streaming-free/|fullweb
+http://ustvgo.net/cnn-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/comedy-central-269x151.png" ,Comedy Central 
-http://ustvgo.net/comedy-central-live-free/|fullweb
+http://ustvgo.net/comedy-central-live-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Discovery.png" ,Discovery Channel 
-http://ustvgo.net/discovery-channel-live/|fullweb
+http://ustvgo.net/discovery-channel-live/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/disney-269x151.png" ,Disney Channel 
-http://ustvgo.net/disney-channel-live-streaming-free/|fullweb
+http://ustvgo.net/disney-channel-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/food-network-269x151.png" ,Food Network 
-http://ustvgo.net/food-network-live-free/|fullweb
+http://ustvgo.net/food-network-live-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/FOX-1.png" ,FOX HD 
-http://ustvgo.net/fox-hd-live-streaming/|fullweb
+http://ustvgo.net/fox-hd-live-streaming/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/foxbusiness.jpg" ,Fox Business 
-http://ustvgo.net/fox-business-live-streaming-free/|fullweb
+http://ustvgo.net/fox-business-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/foxnews.jpg" ,Fox News 
-http://ustvgo.net/fox-news-live-streaming-free/|fullweb
+http://ustvgo.net/fox-news-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/freeform-269x151.png" ,Freeform Channel 
-http://ustvgo.net/freeform-channel-live-free/|fullweb
+http://ustvgo.net/freeform-channel-live-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/fx-269x151.png" ,FX Channel 
-http://ustvgo.net/fx-channel-live/|fullweb
+http://ustvgo.net/fx-channel-live/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/golf-269x151.png" ,Golf Channel 
-http://ustvgo.net/golf-channel-live-free/|fullweb
+http://ustvgo.net/golf-channel-live-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" ,Hallmark Channel 
-http://ustvgo.net/hallmark-channel-live-streaming-free/|fullweb
+http://ustvgo.net/hallmark-channel-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/HMM_logo_black-700x245.jpg" ,Hallmark Movies & Mysteries 
-http://ustvgo.net/hallmark-movies-mysteries-live-streaming-free/|fullweb
+http://ustvgo.net/hallmark-movies-mysteries-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/HGTV-269x151.png" ,HGTV 
-http://ustvgo.net/hgtv-live-streaming-free/|fullweb
+http://ustvgo.net/hgtv-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/History.png" ,History Channel 
-http://ustvgo.net/history-channel-live/|fullweb
+http://ustvgo.net/history-channel-live/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/id-269x151.jpg" ,Investigation Discovery 
-http://ustvgo.net/investigation-discovery-live-streaming-free/|fullweb
+http://ustvgo.net/investigation-discovery-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Lifetime-269x151.png" ,Lifetime Channel 
-http://ustvgo.net/lifetime-channel-live/|fullweb
+http://ustvgo.net/lifetime-channel-live/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB NETWORK 
-http://ustvgo.net/mlb-network/|fullweb
+http://ustvgo.net/mlb-network/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/msnbc_logo-269x151.jpg" ,MSNBC 
-http://ustvgo.net/msnbc-live-streaming-free/|fullweb
+http://ustvgo.net/msnbc-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/National-Geographic-269x151.png" ,National Geographic 
-http://ustvgo.net/national-geographic-live/|fullweb
+http://ustvgo.net/national-geographic-live/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/NatGeoWild.jpeg" ,Nat Geo Wild 
-http://ustvgo.net/nat-geo-wild-live/|fullweb
+http://ustvgo.net/nat-geo-wild-live/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/nbc-logo.jpg" ,NBC 
-http://ustvgo.net/nbc/|fullweb
+http://ustvgo.net/nbc/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Nickelodeon_2009.png" ,Nickelodeon 
-http://ustvgo.net/nickelodeon-live-streaming-free/|fullweb
+http://ustvgo.net/nickelodeon-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/nfln-logo-dark.png" ,NFL Network 
-http://ustvgo.net/nfl-network-live-free/|fullweb
+http://ustvgo.net/nfl-network-live-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/PBS.jpg" ,PBS 
-http://ustvgo.net/pbs-live/|fullweb
+http://ustvgo.net/pbs-live/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/StarZ-269x151.png" ,Starz Channel 
-http://ustvgo.net/starz-channel-live/|fullweb
+http://ustvgo.net/starz-channel-live/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/syfy-269x151.png" ,Syfy 
-http://ustvgo.net/syfy-channel-live/|fullweb
+http://ustvgo.net/syfy-channel-live/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/tbs-269x151.png" ,TBS Channel 
-http://ustvgo.net/tbs-channel-live-free/|fullweb
+http://ustvgo.net/tbs-channel-live-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TCM_logo.svg/2000px-TCM_logo.svg.png" ,TCM 
-http://ustvgo.net/tcm/|fullweb
+http://ustvgo.net/tcm/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/TennisChannel.whiteBg.png" ,Tennis Channel 
-http://ustvgo.net/tennis-channel-live-free/|fullweb
+http://ustvgo.net/tennis-channel-live-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/cw-269x151.png" ,The CW 
-http://ustvgo.net/the-cw-live-streaming-free/|fullweb
+http://ustvgo.net/the-cw-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2018/10/Weather-Channel-269x151.png" ,The Weather Channel 
-http://ustvgo.net/the-weather-channel-live-streaming-free/|fullweb
+http://ustvgo.net/the-weather-channel-live-streaming-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/tlc-269x151.png" ,TLC 
-http://ustvgo.net/tlc-live-free/|fullweb
+http://ustvgo.net/tlc-live-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT 
-http://ustvgo.net/tnt/|fullweb
+http://ustvgo.net/tnt/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/Travel-269x151.png" ,Travel Channel 
-http://ustvgo.net/travel-channel-live-free/|fullweb
+http://ustvgo.net/travel-channel-live-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/TVLand-269x151.png" ,TV Land 
-http://ustvgo.net/tv-land-live-free/|fullweb
+http://ustvgo.net/tv-land-live-free/|webprodig
 #EXTINF:-1 group-title="USA-SERVER3" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/USA-Network-269x151.png" ,USA Network 
-http://ustvgo.net/usa-network-live/|fullweb
+http://ustvgo.net/usa-network-live/|webprodig
 
 
 
@@ -1635,47 +1637,47 @@ https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
 http://.........
 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
-https://easyview.eu/watch.php?stream=bbc-1|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-1|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-1$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2 
-https://easyview.eu/watch.php?stream=bbc-two|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-two|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-two$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4 
-https://easyview.eu/watch.php?stream=bbc-four|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-four|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-four$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc   
-https://easyview.eu/watch.php?stream=cbbc|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=cbbc|refererdown$$referer=https://easyview.eu/watch.php?stream=cbbc$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies  
-https://easyview.eu/watch.php?stream=cbeebies|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=cbeebies|refererdown$$referer=https://easyview.eu/watch.php?stream=cbeebies$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales 
-https://easyview.eu/watch.php?stream=bbc-one-wales|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-one-wales|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-wales$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland  
-https://easyview.eu/watch.php?stream=bbc-one-scotland|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-one-scotland|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-scotland$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland 
-https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-northern-ireland$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament 
-https://easyview.eu/watch.php?stream=bbc-parliament|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-parliament|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-parliament$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News 
-https://easyview.eu/watch.php?stream=bbc-news|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-news|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-news$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba
-https://easyview.eu/watch.php?stream=bbc-alba|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-alba|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-alba$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV 
-https://easyview.eu/watch.php?stream=itv|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=itv|refererdown$$referer=https://easyview.eu/watch.php?stream=itv$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2 
-https://easyview.eu/watch.php?stream=itv2|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=itv2|refererdown$$referer=https://easyview.eu/watch.php?stream=itv2$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3 
-https://easyview.eu/watch.php?stream=itv3|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=itv3|refererdown$$referer=https://easyview.eu/watch.php?stream=itv3$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4 
-https://easyview.eu/watch.php?stream=itv4|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=itv4|refererdown$$referer=https://easyview.eu/watch.php?stream=itv4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV
-https://easyview.eu/watch.php?stream=citv|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=citv|refererdown$$referer=https://easyview.eu/watch.php?stream=citv$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be. 
-https://easyview.eu/watch.php?stream=itvbe|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=itvbe|refererdown$$referer=https://easyview.eu/watch.php?stream=itvbe$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/More4-269x151.png",More 4
-https://easyview.eu/watch.php?stream=more4|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=more4|refererdown$$referer=https://easyview.eu/watch.php?stream=more4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg",Really
-https://easyview.eu/watch.php?stream=really|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=really|refererdown$$referer=https://easyview.eu/watch.php?stream=really$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png",Channel 4
-https://easyview.eu/watch.php?stream=channel4|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=channel4|refererdown$$referer=https://easyview.eu/watch.php?stream=channel4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://i.imgur.com/JwXwTpkm.png",Dave
-https://easyview.eu/watch.php?stream=dave|agentnodown$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=dave|refererdown$$referer=https://easyview.eu/watch.php?stream=dave$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 
 
 
@@ -8462,27 +8464,27 @@ httphost://$http-raw=https://www.janjuaplayer.com/hembedplayer/Mbnc_bollywodi/2/
 http://..........
 
 #EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 1 
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/bieno1isk/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports1
+https://arembed.com/live.php?ch=Bein_Sports1|webdeskalldig
 #EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 2
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports2h1nd/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports2
+https://arembed.com/live.php?ch=Bein_Sports2|webdeskalldig
 #EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 3
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports3hzbaaac/1/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports3 
+http://arembed.com/live.php?ch=Bein_Sports3|webdeskalldig
 #EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 4 
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports4ad/1/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports4
+http://arembed.com/live.php?ch=Bein_Sports4|webdeskalldig
 #EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 5 
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/stream_bein5az/1/600/420$http-refferer=http://arembed.com/live.php?ch=Bein_Sports5
+http://arembed.com/live.php?ch=Bein_Sports5|webdeskalldig
 #EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 6 
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/beino6sij/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports6
+https://arembed.com/live.php?ch=Bein_Sports6|webdeskalldig
 #EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 7 
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/stream_bein7hz/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports7
+https://arembed.com/live.php?ch=Bein_Sports7|webdeskalldig
 #EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 8
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports_8/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports8
+https://arembed.com/live.php?ch=Bein_Sports8|webdeskalldig
 #EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 9
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports9a/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports9
+https://arembed.com/live.php?ch=Bein_Sports9|webdeskalldig
 #EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 10
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/beinsports10hdaz/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports10
+https://arembed.com/live.php?ch=Bein_Sports10|webdeskalldig
 #EXTINF:-1 group-title="United Arab Emirates-SERVER2" ,Bein Sports 11
-httphost://$http-raw=https://www.janjua.tv/hembedplayer/bein_stream11/1/600/420$http-refferer=https://arembed.com/live.php?ch=Bein_Sports11
+https://arembed.com/live.php?ch=Bein_Sports11|webdeskalldig
 
 
 
