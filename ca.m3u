@@ -522,6 +522,7 @@ http://ustvgo.net/starz-channel-live/|webprodig
 #EXTINF:-1 group-title="Cinema" tvg-logo="http://ustv247.com/wp-content/uploads/2018/11/TCM-326x245.png",Turner Classic Movies (TCM)
 http://ustvgo.net/tcm/|webprodig
 
-
+#EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-5] 
+https://hindimean.com/tk/amc.php|webdeskdig
 #EXTINF:-1 tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC [Option-6] 
 https://www.streamlive.to/view/76666/AMC-(SD)|webdeskalldig
