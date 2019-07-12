@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,08/07/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,12/07/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://www.sfcg.org/wp-content/uploads/2016/11/youtube-flat.png" ,TUTORIAL VIDEO CLICK HERE.
@@ -136,15 +136,13 @@ https://www.youtube.com/watch?v=Rrpmhd-U7WM
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1
 http://www.anacon.org/app/chans/gr/ert1s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1 (USE GREECE VPN) (Youtube)
-https://www.youtube.com/watch?v=SbZQY3UYw_Y
+https://www.youtube.com/watch?v=XB5EniQqFT4
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 WorldWide WebTV (Youtube)
 https://www.youtube.com/watch?v=qBxbnSwOrxE
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2
-http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-nrg-hsslive-25f-4x3-SDh/chunklist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2
 http://www.anacon.org/app/chans/gr/ert2s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 (USE GREECE VPN) (Youtube)
-https://www.youtube.com/watch?v=AOVVjaLbGEk
+https://www.youtube.com/watch?v=H8cREgvj1oU
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 Worldwide WebTV (Youtube)
 https://www.youtube.com/watch?v=5r5iftFbASw
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3
@@ -153,25 +151,26 @@ http://www.anacon.org/app/chans/gr/ert3s2.html|agentdown$$start=src:  "$$end=.m3
 https://www.youtube.com/watch?v=x3IIDO6C-kc
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
 https://www.youtube.com/watch?v=bxJIXgqbxkI
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD
-http://freeview.ashttp9.visionip.tv/live/tvnetwork-hellenictv-ertworld-hsslive-25f-4x3-SDh/chunklist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://webtv.ert.gr/wp-content/uploads/2019/02/ERTSports-logoPage1.png",ERT SPORTS HD (USE GREECE VPN) (Youtube)
 https://www.youtube.com/watch?v=MP8Htwny-T4
 #EXTINF:-1 group-title="Greece" tvg-logo="https://webtv.ert.gr/wp-content/uploads/2019/02/ERTSports-logoPage1.png",ERT SPORTS WORLDWIDE (Youtube)
 https://www.youtube.com/watch?v=M0InlvUsshM
-#EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg" ,ERT Play WebTV (Youtube)
-https://www.youtube.com/watch?v=dupGV_GjnOQ
-#EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg" ,ERT Play Worldwide (Youtube)
-https://www.youtube.com/watch?v=p00OZAtx3ew
-#EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-cL6bbbQTXTc/WiWWZUVOMEI/AAAAAAABwS8/yLQFnNU7qIU-FXk6ciMZLYdnRvo1ustFACLcBGAs/h120/ertplay2.jpg" ,ERT Play 2 WebTV (Youtube)
-https://www.youtube.com/watch?v=bAyzQwA_pfU
-#EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-cL6bbbQTXTc/WiWWZUVOMEI/AAAAAAABwS8/yLQFnNU7qIU-FXk6ciMZLYdnRvo1ustFACLcBGAs/h120/ertplay2.jpg" ,ERT Play 2 Worldwide(Youtube)
-https://www.youtube.com/watch?v=K2x130LKwDU
-#EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/PzabKkj.jpg" ,ERT Play 3 Worldwide
-https://www.youtube.com/watch?v=DNEd_p3qOrY
-#EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/PzabKkj.jpg" ,ERT Play 4 Worldwide
-https://www.youtube.com/watch?v=S6Jnwa0VMsY
 
+#EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg" ,ERT Play WebTV (Youtube)
+https://www.youtube.com/watch?v=8hPJexRiYWU
+#EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg" ,ERT Play Worldwide (Youtube)
+https://www.youtube.com/watch?v=QaZaCTcjGnk
+#EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-cL6bbbQTXTc/WiWWZUVOMEI/AAAAAAABwS8/yLQFnNU7qIU-FXk6ciMZLYdnRvo1ustFACLcBGAs/h120/ertplay2.jpg" ,ERT Play 2 WebTV (Youtube)
+https://www.youtube.com/watch?v=mQXiXN_u8LA
+#EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-cL6bbbQTXTc/WiWWZUVOMEI/AAAAAAABwS8/yLQFnNU7qIU-FXk6ciMZLYdnRvo1ustFACLcBGAs/h120/ertplay2.jpg" ,ERT Play 2 Worldwide(Youtube)
+https://www.youtube.com/watch?v=L53fHmaDtpc
+#EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/PzabKkj.jpg" ,ERT Play 3 Worldwide
+https://www.youtube.com/watch?v=5ubNWuKvzgE
+#EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/PzabKkj.jpg" ,ERT Play 4 Worldwide
+https://www.youtube.com/watch?v=WjpMwGJg9ao
+
+#EXTINF:-1 group-title="Greece" tvg-name="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
+https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
 https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="MEGA" tvg-logo="http://greektv.pbworks.com/f/MEGA.png",MEGA (Youtube)
@@ -193,7 +192,7 @@ http://www.anacon.org/app/chans/gr/starg.html|agentdown$$start=src:  "$$end=.m3u
 http://www.anacon.org/app/chans/gr/starg.html|fullweb
 #EXTINF:-1 group-title="Greece" tvg-id="star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://master.cystreams.com:25461/live/greek/macedonia/40.ts
-#EXTINF:-1 group-title="Greece" tvg-id="star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD (USE GREECE VPN)
+#EXTINF:-1 group-title="Greece" tvg-id="star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA (USE GREECE VPN)
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
@@ -215,10 +214,11 @@ http://gr.euronews.com/live|webdig
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============= PERIFERIAKA ============
 http://.....
+
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/0Ovqq2f.png" ,TILESPORT
 http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-id="Action24.gr" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png" ,Action 24
-http://action24.gr/live/|webview zoom=100 scroll=100,100
+#EXTINF:-1 group-title="Greece" tvg-id="Action24.gr" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png" ,Action 24 (Use External Player)
+https://www.dailymotion.com/video/x61fbhs|webdig
 #EXTINF:-1 group-title="Greece" tvg-logo="http://4.bp.blogspot.com/-CSt3UGbihus/U_D9TOsr3CI/AAAAAAAAZv4/z1L9SCenBKo/s1600/best_tv.png" ,BEST TV 
 https://best-tv.gr/HLS/hls/best/index.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/skTCR6" ,TV100
@@ -227,8 +227,6 @@ http://178.62.176.153/hls/tv100/index.m3u8
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/09/Samiaki-TV.jpg" ,SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/BYFmhv" ,OMEGA
-http://stream2.omegatv.net/hls-live/livepkgr/_definst_/liveevent/omegatv.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png" ,EPSILON TV
 https://neotv.streamings.gr/live/tv/index.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/WSfOWs" ,NEA TV
@@ -244,11 +242,11 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Kontra Channel" tvg-id="Kontra.gr" tvg-logo="https://goo.gl/S96RUr" ,KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/3EsuCz" ,AIGAIO
-https://ssh101.com/m3u8/dyn/aigaiotvlive/index.m3u8
+http://ad.mysisli.com/live/aigaiotvonline/index.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/mNqHoo" ,AXELOOS
 http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/nYsDIa" ,ASTRA
-https://www.youtube.com/watch?v=Ef2CKjtMjco
+https://www.astratv.gr/live-streaming/|youtubedig
 #EXTINF:-1 group-title="Greece" tvg-logo="http://v4.deltatv.gr/images/deltaTV-logo.png",DELTA TV
 http://video.onestreaming.com:8081/deltatv/live/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/aVVUtg" ,SYROS TV1
@@ -264,13 +262,10 @@ http://176.9.123.140:1935/messinia/messinia/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
 http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="4Ε" tvg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
-rtmp://82.192.84.30:1935/live/myStream.sdp
+rtmp://stream2.svbllc.com:1935/4e/4e.stream
 #EXTINF:-1 group-title="Greece" tvg-name="4Ε" tvg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
 http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="4Ε" tvg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
-rtmp://stream2.svbllc.com:1935/4e/4e.stream
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/Gjqw3Z" ,AGIOS NIKOLAOS MICHIGAN WEB TV
-http://greekhls-lh.akamaihd.net/i/stnicholas_mi@98986/master.m3u8
+
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   TAINIES   ============
 http://.....
@@ -282,16 +277,6 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
 #EXTINF:-1 group-title="Greece",Cinema 1
 http://bit.ly/2p6JqSo
-#EXTINF:-1 group-title="Greece",Cinema 2
-https://eco.streams.ovh/DiavataTV/DiavataTV/playlist.m3u8
-#EXTINF:-1 group-title="Greece",CINEMA 3
-http://78.31.67.124/Cinema3/mpegts
-#EXTINF:-1 group-title="Greece",CINEMA 4
-http://78.31.67.124/Cinema4/mpegts
-#EXTINF:-1 group-title="Greece",CINEMA 5
-http://78.31.67.124/Cinema5/mpegts
-#EXTINF:-1 group-title="Greece",CINEMA 6
-http://78.31.67.124/Cinema6/mpegts
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/bh1iOFz.png",CINEFIL GR
 http://bit.ly/2Dn2Yty
 
@@ -301,7 +286,7 @@ http://.....
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
 http://tv.nrg91.gr:1935/onweb/live/master.m3u8
-#EXTINF:-1 group-title="Greece",Magic TV
+#EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/QZQhg6C.png",Magic TV
 https://itv.streams.ovh/magictv/magictv/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/kkjOp4" ,ZOUGLA
 https://zglive1-mdc-secure.akamaized.net/hls/live/570950/z1/master_Layer1.m3u8
@@ -311,8 +296,7 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="Greece",NGRadio
 https://live.streams.ovh/NGradio/NGradio/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/7TFlXBi.png" ,CANNALI
-http://live.streams.ovh:1935/cannali/cannali/playlist.m3u8
+
 
 
 
@@ -323,8 +307,7 @@ http://.....
 http://wpso.com:1936/hls/kidshd.m3u8
 #EXTINF:-1 group-title="Greece" ,Cartoon World
 http://bit.ly/2rvaV7Q
-#EXTINF:-1 group-title="Greece"  tvg-logo="http://i.imgur.com/wcodbFA.png",LIFE TV
-rtmp://live.streams.ovh:1935/LIFEHD/LIFEHD
+
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   Diethni    ============
 http://.....
@@ -711,9 +694,7 @@ http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E
 https://ok.ru/videoembed/644794359395?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC 
-http://123tvnow.com/watch/abc/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC 
-httphost://$http-raw=http://123tvnow.com/watch/abc/$http-refferer=http://123tvnow.com/watch/abc/
+http://123tvnow.com/watch/abc/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/adultswim-269x151.png" ,Adult Swim 
 https://adultswimhls-i.akamaihd.net/hls/live/238460/adultswim/main/1/master_Layer6.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="https://www.chillglobal.com/images/channels/18-ahc-1432375751.jpg" ,AHC (American Heroes Channel) 
@@ -729,9 +710,7 @@ http://c6.123cdn.host/live/animalplanet/chunks.m3u8|Referer=http://123tvnow.com/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/animal-planet-269x151.png" ,Animal Planet 
 httphost://$http-raw=http://123tvnow.com/watch/animal-planet/$http-refferer=http://123tvnow.com/watch/animal-planet/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bet-269x151.png" ,Bet
-http://123tvnow.com/watch/bet/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bet-269x151.png" ,Bet
-httphost://$http-raw=http://123tvnow.com/watch/bet/$http-refferer=http://123tvnow.com/watch/bet/
+http://123tvnow.com/watch/bet/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bravo-269x151.png" ,Bravo 
 https://ok.ru/videoembed/1082879581795?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/CMC-269x151.jpg" ,California Music Channel - CMC
@@ -749,17 +728,13 @@ httphost://$http-raw=http://123tvnow.com/watch/cbs/$http-refferer=http://123tvno
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cbsn-269x151.jpg" ,CBS News (CBSN)
 https://cbsnhls-i.akamaihd.net/hls/live/264710/cbsn_hlsprod_2/master_1200.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" ,CMT (Country Music Television)
-http://123tvnow.com/watch/cmt-country-music-television/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cmtcanada.png" ,CMT (Country Music Television)
-httphost://$http-raw=http://123tvnow.com/watch/cmt-country-music-television/$http-refferer=http://123tvnow.com/watch/cmt-country-music-television/
+http://123tvnow.com/watch/cmt-country-music-television/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cnn-269x151.jpg" ,CNN 
 http://c6.123cdn.host/live/cnn/chunks.m3u8|Referer=http://123tvnow.com/watch/cnn/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cnn-269x151.jpg" ,CNN 
 httphost://$http-raw=http://123tvnow.com/watch/cnn/$http-refferer=http://123tvnow.com/watch/cnn/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/comedy-central-269x151.png" ,Comedy Central
-http://123tvnow.com/watch/comedy-central/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/comedy-central-269x151.png" ,Comedy Central
-httphost://$http-raw=http://123tvnow.com/watch/comedy-central/$http-refferer=http://123tvnow.com/watch/comedy-central/
+http://123tvnow.com/watch/comedy-central/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" ,CW 
 http://c6.123cdn.host/live/cw/chunks.m3u8|Referer=http://123tvnow.com/watch/the-cw/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cw-269x151.png" ,CW 
@@ -785,19 +760,13 @@ http://c8.123cdn.host/live/enw/chunks.m3u8|Referer=http://123tvnow.com/watch/e-n
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E!
 httphost://$http-raw=http://123tvnow.com/watch/e-network/$http-refferer=http://123tvnow.com/watch/e-network/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN
-http://123tvnow.com/watch/espn/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN
-httphost://$http-raw=http://123tvnow.com/watch/espn/$http-refferer=http://123tvnow.com/watch/espn/
+http://123tvnow.com/watch/espn/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News 
-http://123tvnow.com/watch/espn-news/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News 
-httphost://$http-raw=http://123tvnow.com/watch/espn-news/$http-refferer=http://123tvnow.com/watch/espn-news/
+http://123tvnow.com/watch/espn-news/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnu-269x151.png" ,ESPN U 
-http://123tvnow.com/watch/espn-u-espnu/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnu-269x151.png" ,ESPN U 
-httphost://$http-raw=http://123tvnow.com/watch/espn-u-espnu/$http-refferer=http://123tvnow.com/watch/espn-u-espnu/
+http://123tvnow.com/watch/espn-u-espnu/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2
-http://123tvnow.com/watch/espn2/|webdig
+http://123tvnow.com/watch/espn2/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2
 httphost://$http-raw=http://123tvnow.com/watch/espn2/$http-refferer=http://123tvnow.com/watch/espn2/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ftv-269x151.png" ,Fashion TV
@@ -861,21 +830,15 @@ http://c4.123cdn.host/live/lifetime/chunks.m3u8|Referer=http://123tvnow.com/watc
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime
 httphost://$http-raw=http://123tvnow.com/watch/lifetime-tv/$http-refferer=http://123tvnow.com/watch/lifetime-tv/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/12/logo-tv-grid-logo-1.jpg?w=300&h=200&crop=1" ,Logo TV
-http://123tvnow.com/watch/logo-tv/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="https://pmcdeadline2.files.wordpress.com/2014/12/logo-tv-grid-logo-1.jpg?w=300&h=200&crop=1" ,Logo TV
-httphost://$http-raw=http://123tvnow.com/watch/logo-tv/$http-refferer=http://123tvnow.com/watch/logo-tv/
+http://123tvnow.com/watch/logo-tv/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnlhn-269x151.png" ,Longhorn Network (ESPNLHN)
-http://123tvnow.com/watch/longhorn-network-espnlhn/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnlhn-269x151.png" ,Longhorn Network (ESPNLHN)
-httphost://$http-raw=http://123tvnow.com/watch/longhorn-network-espnlhn/$http-refferer=http://123tvnow.com/watch/longhorn-network-espnlhn/
+http://123tvnow.com/watch/longhorn-network-espnlhn/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" ,MSNBC 
 http://c8.123cdn.host/live/msnbc/chunks.m3u8|Referer=http://123tvnow.com/watch/msnbc/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" ,MSNBC 
 httphost://$http-raw=http://123tvnow.com/watch/msnbc/$http-refferer=http://123tvnow.com/watch/msnbc/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/mtv-269x151.png" ,MTV 
-http://123tvnow.com/watch/mtv/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/mtv-269x151.png" ,MTV 
-httphost://$http-raw=http://123tvnow.com/watch/mtv/$http-refferer=http://123tvnow.com/watch/mtv/
+http://123tvnow.com/watch/mtv/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nasatv-269x151.jpg" ,NASA TV
 http://iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/National-Geographic-269x151.png" ,National Geographic
@@ -913,9 +876,7 @@ http://c8.123cdn.host/live/oxygen/chunks.m3u8|Referer=http://123tvnow.com/watch/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Oxygen-269x151.png" ,Oxygen
 httphost://$http-raw=http://123tvnow.com/watch/oxygen/$http-refferer=http://123tvnow.com/watch/oxygen/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/spike-269x151.png" ,Spike Paramount Network
-http://123tvnow.com/watch/paramount-network-spike/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/spike-269x151.png" ,Spike Paramount Network
-httphost://$http-raw=http://123tvnow.com/watch/paramount-network-spike/$http-refferer=http://123tvnow.com/watch/paramount-network-spike/
+http://123tvnow.com/watch/paramount-network-spike/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/rt-usa-269x151.png" ,RT USA 
 https://secure-streams.akamaized.net/rt/index.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Showtime-269x151.png" ,Showtime 
@@ -957,17 +918,13 @@ http://c4.123cdn.host/live/trutv/chunks.m3u8|Referer=http://123tvnow.com/watch/t
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TruTV-269x151.png" ,TruTV 
 httphost://$http-raw=http://123tvnow.com/watch/trutv/$http-refferer=http://123tvnow.com/watch/trutv/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TVLand-269x151.png" ,TV Land
-http://123tvnow.com/watch/tvland/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TVLand-269x151.png" ,TV Land
-httphost://$http-raw=http://123tvnow.com/watch/tvland/$http-refferer=http://123tvnow.com/watch/tvland/
+http://123tvnow.com/watch/tvland/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/USA-Network-269x151.png" ,USA Network
 http://c4.123cdn.host/live/usa/chunks.m3u8|Referer=http://123tvnow.com/watch/usa-network/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/USA-Network-269x151.png" ,USA Network
 httphost://$http-raw=http://123tvnow.com/watch/usa-network/$http-refferer=http://123tvnow.com/watch/usa-network/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/vh1-269x151.png" ,VH1 
-http://123tvnow.com/watch/vh1/|webdig
-#EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/vh1-269x151.png" ,VH1 
-httphost://$http-raw=http://123tvnow.com/watch/vh1/$http-refferer=http://123tvnow.com/watch/vh1/
+http://123tvnow.com/watch/vh1/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/VOA-269x151.png" ,Voice of America (VOA)
 https://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/index_0540_av-p.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/WeatherNation-269x148.png" ,WeatherNation TV
@@ -1527,113 +1484,6 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1117.m3u8$http-refferer
 #EXTINF:-1 group-title="USA PREMIUM-SERVER2",
 
 
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",And TV
-http://161.0.157.38/PLTV/88888888/224/3221226705/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",Animal Planet HD
-http://161.0.157.38/PLTV/88888888/224/3221226253/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",axs tv HD
-http://161.0.157.38/PLTV/88888888/224/3221226568/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",BASHMENT
-http://161.0.157.38/PLTV/88888888/224/3221226311/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",B4U MOVIES
-http://161.0.157.38/PLTV/88888888/224/3221226255/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",B4U music
-http://161.0.157.38/PLTV/88888888/224/3221226332/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",Big Ten Network
-http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",BRAVO
-http://161.0.157.38/PLTV/88888888/224/3221226804/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",Cartoon Network HD
-http://161.0.157.38/PLTV/88888888/224/3221226843/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",Catch
-http://161.0.157.38/PLTV/88888888/224/3221226865/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",Catch 2
-http://161.0.157.38/PLTV/88888888/224/3221226874/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",CBC CANADA
-http://161.0.157.38/PLTV/88888888/224/3221227004/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",CBS
-http://161.0.157.50/PLTV/88888888/224/3221227041/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",cnbc
-http://161.0.157.38/PLTV/88888888/224/3221227005/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",CNN
-http://161.0.157.38/PLTV/88888888/224/3221226831/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",CNN
-http://161.0.157.38/PLTV/88888888/224/3221226845/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",CNN
-http://161.0.157.38/PLTV/88888888/224/3221226781/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",Cooking Channel
-http://161.0.157.38/PLTV/88888888/224/3221226201/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",DISNEY
-http://161.0.157.38/PLTV/88888888/224/3221226299/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",ESPN 2
-http://161.0.157.38/PLTV/88888888/224/3221226881/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",Fish Channel
-http://161.0.157.38/PLTV/88888888/224/3221226811/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",FLOW Sports 1 HD
-http://161.0.157.38/PLTV/88888888/224/3221226899/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",FOX
-http://161.0.157.38/PLTV/88888888/224/3221226321/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",FOX
-http://161.0.157.51/PLTV/88888888/224/3221227042/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",FOX HD
-http://161.0.157.38/PLTV/88888888/224/3221227013/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",FOX COMEDY
-http://161.0.157.38/PLTV/88888888/224/3221226800/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",FOX SPORT
-http://161.0.157.38/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",FOX PREMIUM CINEMA
-http://161.0.157.38/PLTV/88888888/224/3221226793/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",France 24
-http://161.0.157.38/PLTV/88888888/224/3221226821/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",GBV 
-http://161.0.157.38/PLTV/88888888/224/3221226729/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",HBO HD
-http://161.0.157.38/PLTV/88888888/224/3221226127/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",HBO 2
-http://161.0.157.38/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",HBO 2 International
-http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",HYPE
-http://161.0.157.38/PLTV/88888888/224/3221226726/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",MAX Prime HD
-http://161.0.157.38/PLTV/88888888/224/3221226834/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",mm
-http://161.0.157.38/PLTV/88888888/224/3221226847/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",MTV
-http://161.0.157.38/PLTV/88888888/224/3221226825/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",my9
-http://161.0.157.38/PLTV/88888888/224/3221226727/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",NBC
-http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",NBC GOLF
-http://161.0.157.38/PLTV/88888888/224/3221226812/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",SPORTS MAX
-http://161.0.157.38/PLTV/88888888/224/3221226766/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",SPORTSMAX
-http://161.0.157.5/PLTV/88888888/224/3221226766/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",SPORTS MAX 2
-http://161.0.157.38/PLTV/88888888/224/3221226777/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",TELESHOP HD
-http://161.0.157.38/PLTV/88888888/224/3221226207/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",TEN CRICKET
-http://161.0.157.38/PLTV/88888888/224/3221226394/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",Trident 10 TV
-http://161.0.157.38/PLTV/88888888/224/3221226832/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",Trinity TV
-http://161.0.157.38/PLTV/88888888/224/3221226638/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",TV Jaagriti
-http://161.0.157.38/PLTV/88888888/224/3221226848/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",Universal Channel HD
-http://161.0.157.38/PLTV/88888888/224/3221226828/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",ZEE World
-http://161.0.157.38/PLTV/88888888/224/3221226542/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",Zee Cinema
-http://161.0.157.38/PLTV/88888888/224/3221226709/index.m3u8
-
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",unknown HD
-http://161.0.157.38/PLTV/88888888/224/3221226145/index.m3u8
-#EXTINF:-1 group-title="USA PREMIUM-SERVER2",unknown
-http://161.0.157.38/PLTV/88888888/224/3221226398/index.m3u8
 
 
 
@@ -2332,8 +2182,9 @@ httphost://$http-raw=http://163.172.89.151:1234/live/1/2/1126.m3u8$http-refferer
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://..........
 
+
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv1hd.png",ITV 1 UK
-http://194.88.104.169:8081/freeee11sss11ss/itv1/playlist.m3u8|user-agent=lolllololollol
+http://194.88.104.169:8081/12s3d1see/itv1/playlist.m3u8|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv2hd.png",ITV 2 UK
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/53|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv3hd.png",ITV 3 UK
@@ -2341,7 +2192,7 @@ http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/54|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/itv4hd.png",ITV 4 UK
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/55|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbcone.png" ,BBC 1 UK
-http://194.88.104.169:8081/freeee11sss11ss/bbc1/playlist.m3u8|user-agent=lolllololollol
+http://194.88.104.169:8081/12s3d1see/bbc1/playlist.m3u8|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/UK_Logos/bbctwo.png" ,BBC 2 UK
 http://s1.wssiptv.com:8000/wsspassphp/234654d54f6d5/23|user-agent=lolllololollol
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://www.tazoo.tv/wp-content/uploads/2014/04/bbc3hd.png",BBC 3 UK
@@ -3368,8 +3219,7 @@ http://urtmpkal-f.akamaihd.net/i/156m2vpg5_1@322941/index_1_av-p.m3u8
 #EXTINF:-1 group-title="France-SERVER2" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/4109Z2o0HuL._SX355_.jpg" ,==France==
 http://..........
 
-#EXTINF:-1 group-title="France-SERVER2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beIN Sports 1 France
-http://cricfree.live/update/sky3ita.php|webdeskalldig
+
 #EXTINF:-1 group-title="France-SERVER2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beIN Sports 1 France
 https://cricfree.stream/watch/site/update/bein1fr|webdeskalldig
 #EXTINF:-1 group-title="France-SERVER2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beIN Sports 1 France
@@ -7000,235 +6850,6 @@ http://eshare.live.otvcloud.com/otv/nyz/live/channel90/700.m3u8
 
 #EXTINF:-1 group-title="China-SERVER1",
 
-#EXTINF:-1 group-title="China-SERVER1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/255px-Flag_of_the_People%27s_Republic_of_China.svg.png" ,==China==
-http://..........
-
-#EXTINF:-1 group-title="China-SERVER1",CCTV2
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000002/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV4
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000004/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV6
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000006/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV8
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000008/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV10
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000010/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV12
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000012/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV14
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000014/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Zhejiang Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000016/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Jiangsu Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000018/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Anhui Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000020/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000022/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shenzhen Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000024/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Liaoning Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000026/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Southeast Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000028/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Travel Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000030/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shanxi TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000032/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Hebei Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000034/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Jilin TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000036/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Guangxi Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000038/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Inner Mongolia Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000040/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Qinghai TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000042/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Xinjiang TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000044/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Gansu TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000046/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Card Cool children
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000048/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",shine cartoon
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000050/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shandong Qilu
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000052/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shandong Variety Arts
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000054/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shandong Film and Television
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000056/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shandong Agricultural Sciences
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000058/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shandong Internationa
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000060/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shandong Education
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL10000062/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Jinan Film and Television
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000064/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",sea look healthy
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000401/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",watching theater
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000403/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",sea
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000405/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Qingdao News General
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000500/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Qingdao Life Service
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000502/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Qingdao City Channel
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000504/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV population health
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000602/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Food Tianfu
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000604/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV Securities Information
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000606/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Career Guide
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000608/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Home Affairs Channel
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000610/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",People Channel
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000612/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV First Theater
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000614/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV-2
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000002/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV-4
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000004/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV-6
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000006/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV-8
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000008/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV-10
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000010/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV-12
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000012/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV-14
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000014/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Zhejiang Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000016/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Jiangsu Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000018/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Anhui Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000020/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000022/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shenzhen Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000024/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Liaoning Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000026/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Southeast Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000028/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Travel Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000030/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shanxi TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000032/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Hebei Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000034/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Jilin TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000036/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Guangxi Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000038/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Inner Mongolia Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000040/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Qinghai TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000042/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Xinjiang TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000044/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Gansu Satellite TV
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000046/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Card Cool Kids
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000048/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Hyun moving cartoon
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000050/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shandong Qilu
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000052/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shandong Variety
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000054/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shandong Film and Television
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000056/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shandong Agricultural Sciences
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000058/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Shandong International
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000060/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Education
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL10000062/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Jinan Television
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000064/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Linyi agricultural science
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000121/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",sea ​​look education
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000204/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Weifang city
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000216/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",sunshine science and education
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000263/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Weihai Public
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000275/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Laizhou Public
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000281/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Beijing TV FHD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000302/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Zhejiang TV FHD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000305/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Guangdong TV FHD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000307/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",TV FHD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000309/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV-1FHD
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000311/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",the sea and the performing arts
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000400/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Looking at children
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000402/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",sea
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000404/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",channel
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000406/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Qingdao News News
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000501/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Qingdao Financial Information
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000503/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Qingdao Youth Tourism
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000505/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV Central Health
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000603/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Family Finance
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000605/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Wealth of the World
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000607/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV China Meteorology
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000609/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Electronic Sports
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000611/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV Storm Music
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000613/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV World Geography
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000615/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV Theatre
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000617/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV Golf Tennis
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000620/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV Nostalgia Theatre
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000622/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV Shinco Animation
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000625/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV Urban Construction
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000628/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV Martial Arts World
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000634/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Channel
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000636/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV Health
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000639/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",Home shopping
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000701/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV文化精品
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000621/index.m3u8
-#EXTINF:-1 group-title="China-SERVER1",CCTV моды
-http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/SNM/CHANNEL00000616/index.m3u8
 
 
 
@@ -7257,20 +6878,7 @@ http://223.99.186.132:6410/shandong_cabletv.live.zte.com/223.99.189.25:8089/00/S
 
 #EXTINF:-1 group-title="China-SERVER2"
 
-#EXTINF:-1 group-title="China-SERVER2",YUNNAN
-http://103.242.13.90:5555/udp/239.4.1.92:10000
-#EXTINF:-1 group-title="China-SERVER2",SanSha
-http://103.242.13.90:5555/udp/239.4.1.94:10000
-#EXTINF:-1 group-title="China-SERVER2",HubeiTV
-http://103.242.13.90:5555/udp/239.4.1.4:10000
-#EXTINF:-1 group-title="China-SERVER2",JSWS
-http://103.242.13.90:5555/udp/239.4.1.1:10000
-#EXTINF:-1 group-title="China-SERVER2",FJTV
-http://103.242.13.90:5555/udp/239.4.1.7:10000
-#EXTINF:-1 group-title="China-SERVER2",sichuan
-http://103.242.13.90:5555/udp/239.4.1.27:10000
-#EXTINF:-1 group-title="China-SERVER2",Tianjin TV
-http://103.242.13.90:5555/udp/239.4.1.25:10000
+
 
 #EXTINF:-1 group-title="China-SERVER2",CCTV 1
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
@@ -8264,161 +7872,6 @@ http://182.73.122.74:10004/bysid/1111
 
 #EXTINF:-1 group-title="India PREMIUM-SERVER4",
 
-#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/255px-Flag_of_India.svg.png" ,==India==
-http://..........
-
-#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://i.imgur.com/nNuWCbP.jpg",Canada Star TV
-http://981680400.publishstream.fdccdn.net/P981680400/canadastartv/playlist.m3u8
-#EXTINF:0 group-title="India PREMIUM-SERVER4" tvg-logo="http://2.bp.blogspot.com/_-qopbcDRK8o/TInsy19v4_I/AAAAAAAAAgE/95IN5mwwKQ0/s1600/STAR_Utsav_10.jpg" ,Star Utsav
-https://vrz.gigabitcdn.com/secure/JTV/U1RBL2oVVRTQVYX3QUlVUU0FW/playlist.m3u8|User-Agent=a2p1m0s4lu77opq/1.0
-#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://pbs.twimg.com/profile_images/587586043626393600/rXsu0Mb6_400x400.png" ,& TV
-http://z5ams.akamaized.net/andtvsd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://4.bp.blogspot.com/-ht81qA7Zbac/V-jrIZa3GOI/AAAAAAAAJws/m96aT2EAbE8AdGRCps5XRh2sphbUKU7LQCLcB/s1600/AndTV_HD-mt-wiki.png",& TV HD
-http://z5ams.akamaized.net/andtvhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest?cb=20171104165600" ,& Pictures HD
-http://z5ams.akamaized.net/andpicshd/tracks-v1a1/index.m3u8
-
-
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Yuva (Opt-2)
-http://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Uttar Pradesh Uttarakhand
-http://z5ams.akamaized.net/zeenewsupuk/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee TV (Opt-5)
-http://z5ams.akamaized.net/zeetvhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",BBC World News
-http://z5ams.akamaized.net/bbcworldnews/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD Bihar
-http://z5ams.akamaized.net/ddbihar/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD Bangla
-http://z5ams.akamaized.net/ddbangla/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD India
-http://z5ams.akamaized.net/ddindia/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD Girnar
-http://z5ams.akamaized.net/ddgirnar/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD News
-http://z5ams.akamaized.net/ddnews/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD Malayalam
-http://z5ams.akamaized.net/ddmalayalam/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD Odia
-http://z5ams.akamaized.net/ddodia/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD Punjabi
-http://z5ams.akamaized.net/ddpunjabi/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD Podhigai
-http://z5ams.akamaized.net/ddpodhigai/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD Sahyadri
-http://z5ams.akamaized.net/ddsahyadri/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD Rajasthan
-http://z5ams.akamaized.net/ddrajasthan/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD Yadagiri
-http://z5ams.akamaized.net/ddyadagiri/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Living Foodz
-http://z5ams.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Makkal TV
-http://z5ams.akamaized.net/makkaltv/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Flowers TV
-http://z5ams.akamaized.net/flowerstv/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Пого
-http://z5ams.akamaized.net/pogo/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Raj Musix (Малаялам)
-http://z5ams.akamaized.net/rajmusixmal/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Raj Musix (Kannada)
-http://z5ams.akamaized.net/rajmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Raj Musix (телугу)
-http://z5ams.akamaized.net/rajmusixtracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Raj Musix (тамильский)
-http://z5ams.akamaized.net/rajmusix/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Raj News (Малаялам)
-http://z5ams.akamaized.net/rajnewsmal/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Raj News (Kannada)
-http://z5ams.akamaized.net/rajnewskan/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Raj Новости 24×7
-http://z5ams.akamaized.net/rajnews/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Raj News (Телугу)
-http://z5ams.akamaized.net/rajnewstel/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Raj TV
-http://z5ams.akamaized.net/rajtv/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Satsang
-http://z5ams.akamaized.net/satsangtv/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Sanskar
-http://z5ams.akamaized.net/sanskartv/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Wion
-http://z5ams.akamaized.net/wion/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Vissa TV
-http://z5ams.akamaized.net/vissatv/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee 24 Taas
-http://z5ams.akamaized.net/24taas/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee 24 Ghanta
-http://z5ams.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Action
-http://z5ams.akamaized.net/action/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Bangla HD
-http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Bangla
-http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Business
-http://z5ams.akamaized.net/zeebusiness/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Bihar JH
-http://z5ams.akamaized.net/biharjharkh/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Cafe HD
-http://z5ams.akamaized.net/zeecafehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Cafe
-http://z5ams.akamaized.net/zeecafesd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Cinema
-http://z5ams.akamaized.net/zcinemasd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Cinema SD
-http://z5ams.akamaized.net/zcinemalusd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Cinema HD
-http://z5ams.akamaized.net/zcinemahd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Etc
-http://z5ams.akamaized.net/etc/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Зее Калинга
-http://z5ams.akamaized.net/kalinga/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Зи Хиндустан
-http://z5ams.akamaized.net/hindustan/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Kannada
-http://z5ams.akamaized.net/zkannada/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee MP CG
-http://z5ams.akamaized.net/newsmpcg/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Magic
-http://z5ams.akamaized.net/magic/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee News
-http://z5ams.akamaized.net/zeenews/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Зее Раджастхан
-http://z5ams.akamaized.net/rajasthan/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Punjabi
-http://z5ams.akamaized.net/punjabi/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Salaam
-http://z5ams.akamaized.net/zeesalaam/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zing
-http://z5ams.akamaized.net/zing/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Marathi (Opt-2)
-http://z5ams.akamaized.net/zmarathihd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Marathi (Opt-1)
-http://z5ams.akamaized.net/zmarathisd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Sarthak (Opt-2)
-http://z5ams.akamaized.net/sarthaktv/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee 24 Kalak
-http://z5ams.akamaized.net/kalak/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Talkies (Opt-3)
-http://z5ams.akamaized.net/ztalkieshd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Talkies (Opt-2)
-http://z5ams.akamaized.net/zeetalkies/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee TV (Opt-3)
-http://z5ams.akamaized.net/zeetvsd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Tamil
-http://z5ams.akamaized.net/zeetamil/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Divya
-http://z5ams.akamaized.net/divyatv/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",DD Kisan
-http://z5ams.akamaized.net/ddkisan/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",India Today
-http://z5ams.akamaized.net/indiatoday/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",EZ mall
-http://z5ams.akamaized.net/ezmall/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Zee Classic
-http://z5ams.akamaized.net/classic/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="India PREMIUM-SERVER4",Raj Musix (Telugu)
-http://z5ams.akamaized.net/rajmusixtel/tracks-v1a1/index.m3u8
 
 
 
