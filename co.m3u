@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,22/07/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,25/07/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://www.sfcg.org/wp-content/uploads/2016/11/youtube-flat.png" ,TUTORIAL VIDEO CLICK HERE.
@@ -713,7 +713,7 @@ httphost://$http-raw=http://123tvnow.com/watch/animal-planet/$http-refferer=http
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bet-269x151.png" ,Bet
 http://123tvnow.com/watch/bet/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bravo-269x151.png" ,Bravo 
-https://ok.ru/videoembed/1082879581795?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
+https://ok.ru/videoembed/1133752819299?nochat=1&autoplay=1|agentdown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/CMC-269x151.jpg" ,California Music Channel - CMC
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/chunklist.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/cartoon-network-269x151.png" ,Cartoon Network
@@ -803,7 +803,7 @@ httphost://$http-raw=http://123tvnow.com/watch/fox-sports-2-fs2/$http-refferer=h
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/free-speech-269x151.png" ,Free Speech TV
 https://edge.free-speech-tv-live.top.comcast.net/out/u/39569_5.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/freeform-269x151.png" ,Freeform (ABC Family) 
-https://ok.ru/videoembed/1082884824675?nochat=1&autoplay=1|agentnodown$$start=PlaylistUrl\&quot;:\&quot;$$end=?p\&quot;,$$replace=PlaylistUrl\&quot;:\&quot;$$replacewith=$$add= 
+http://123tvnow.com/watch/freeform-abc-family/|weballdig
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fx-269x151.png" ,FX Live 
 http://c4.123cdn.host/live/fx/chunks.m3u8|Referer=http://123tvnow.com/watch/fx-live/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fx-269x151.png" ,FX Live 
@@ -3223,17 +3223,7 @@ http://..........
 
 #EXTINF:-1 group-title="France-SERVER2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beIN Sports 1 France
 https://cricfree.stream/watch/site/update/bein1fr|webdeskalldig
-#EXTINF:-1 group-title="France-SERVER2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beIN Sports 1 France
-http://channelstream.club/stream/bein_1.php|webdeskalldig
-#EXTINF:-1 group-title="France-SERVER2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beIN Sports 2 France
-http://channelstream.club/stream/bein_2.php|webdeskalldig
-#EXTINF:-1 group-title="France-SERVER2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beIN Sports 2 France
-http://1me.club/lx/1/2.html?id=33z|webdeskalldig
 
-#EXTINF:-1 group-title="France-SERVER2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beIN Sports 3 France
-http://channelstream.club/stream/bein_3.php|weballdig
-#EXTINF:-1 group-title="France-SERVER2" tvg-logo="http://212.8.253.112/logo/BEIN/BEINSPORTS.png" ,beIN Sports 3 France
-http://1me.club/lx/1/3.html?id=34z|weballdig
 
 
 
