@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,03/08/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,09/08/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://www.sfcg.org/wp-content/uploads/2016/11/youtube-flat.png" ,TUTORIAL VIDEO CLICK HERE.
@@ -105,7 +105,7 @@ http://gr.euronews.com/live|webdig
 http://master.cystreams.com:25461/live/tvmall/tvmall/539.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
 https://istoikona.com/CYSPORTS|weballdig
-#EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.radioepistrofi.com/templates/olympus/images/logo.jpg" ,RADIO EPISTROFI - TopFM99.9
+#EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.radioepistrofi.com/templates/olympus/images/logo.jpg" ,RADIO EPISTROFI
 http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.ts
 #EXTINF:-1 group-title="Cyprus"  tvg-logo="http://www.lakatamiatv.xyz/app/img/cycinema.jpg",CYPRUS CINEMA
 http://master.cystreams.com:25461/live/cycinema/cycinema123/1868.m3u8
@@ -197,56 +197,111 @@ http://gr.euronews.com/live|webdig
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============= PERIFERIAKA ============
 http://.....
 
-#EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/0Ovqq2f.png" ,TILESPORT
-http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-id="Action24.gr" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png" ,Action 24 (Use External Player)
-https://www.dailymotion.com/video/x61fbhs|webdig
-#EXTINF:-1 group-title="Greece" tvg-logo="http://4.bp.blogspot.com/-CSt3UGbihus/U_D9TOsr3CI/AAAAAAAAZv4/z1L9SCenBKo/s1600/best_tv.png" ,BEST TV 
+#EXTINF:-1 group-title="Greece" tvg-id="4Ε" tvg-logo="https://goo.gl/2eMR7A" ,4E
+rtmp://stream2.svbllc.com:1935/4e/4e.stream
+#EXTINF:-1 group-title="Greece" tvg-id="4Ε" tvg-logo="https://goo.gl/2eMR7A" ,4E
+http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="ACTION24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png" ,Action 24
+https://www.dailymotion.com/embed/video/x61fbhs?logo=0&hideInfos=1&related=0&autoplay=1|webdig
+#EXTINF:-1 group-title="Greece" tvg-id="AIGAIOTV" tvg-logo="https://goo.gl/3EsuCz" ,AIGAIO
+http://ad.mysisli.com/live/aigaiotvonline/index.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="ALERT" tvg-logo="https://www.digea.gr/images/channel-icons/ALERT.jpg" ,ALERT
+https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="ART TV" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" ,ART
+http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="ASTRA TV" tvg-logo="https://goo.gl/nYsDIa" ,ASTRA (Youtube)
+https://www.astratv.gr/live-streaming/|youtube2dig
+#EXTINF:-1 group-title="Greece" tvg-id="ATTICA TV" tvg-logo="https://www.digea.gr/images/channel-icons/ATTICATV.png" ,ATTICA TV
+http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="AXELWOS TV" tvg-logo="https://goo.gl/mNqHoo" ,AXELWOS
+http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="BEST TV" tvg-logo="http://4.bp.blogspot.com/-CSt3UGbihus/U_D9TOsr3CI/AAAAAAAAZv4/z1L9SCenBKo/s1600/best_tv.png" ,BEST TV 
 https://best-tv.gr/HLS/hls/best/index.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/skTCR6" ,TV100
-http://178.62.176.153/hls/tv100/index.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/fFjaAp" ,START
-https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/09/Samiaki-TV.jpg" ,SAMIAKI TV
-http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="BLUE SKY" tvg-logo="https://www.digea.gr/images/channel-icons/BLUESKY.png" ,BLUE SKY  (Youtube)
+http://blueskytv.gr/live-tv/|agentnodown$$start=https://www.youtube.com/embed$$end=?feature$$replace=embed/$$replacewith=watch?v=$$add= 
+#EXTINF:-1 group-title="Greece" tvg-id="CHANNEL 9" tvg-logo="https://www.channel9.gr/images/logo_channel9_header.png" ,CHANNEL 9 
+https://server.tvdj.info:8222/channel9/channel9/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="CORFU TV" tvg-logo="https://www.digea.gr/images/channel-icons/CORFU%20TV%20EPG.jpg" ,CORFU TV
+https://itv.streams.ovh/corfuchannel/corfuchannel/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="CRETA" tvg-logo="https://goo.gl/naS6gM" ,CretaTV
+http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="DELTA TV" tvg-logo="https://mindspark.gr/wp-content/uploads/2016/03/delta-tv.jpg" ,DELTA TV
+http://video.onestreaming.com:8081/deltatv/live/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="DION TV" tvg-logo="https://www.diontv.gr/wp-content/uploads/2019/03/logo_red.png" ,Dion TV
+https://www.diontv.gr/webtv/|webdig
+#EXTINF:-1 group-title="Greece" tvg-id="DIKTYO TV" tvg-logo="https://diktyotv.gr/wp-content/uploads/2016/12/MAIN_Logo-1.png" ,DIKTYO
+https://diktyotv.gr/live/|webdig
+#EXTINF:-1 group-title="Greece" tvg-id="ENA CHANNEL" tvg-logo="http://enachannel.gr/uploads/logo.png" ,ENA CHANNEL
+http://176.9.123.140:1935/1c/stream/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020096/E.png" ,EPSILON TV
 https://neotv.streamings.gr/live/tv/index.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/WSfOWs" ,NEA TV
+#EXTINF:-1 group-title="Greece" tvg-id="ETV" tvg-logo="https://www.digea.gr/images/channel-icons/E%20TV%20EPG.jpg" ,E TV
+http://176.9.30.75:1935/live/epsilon/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="EPIRUS TV1" tvg-logo="https://www.digea.gr/images/channel-icons/EPIRUS%20TV1%20EPG.jpg" ,EPIRUS TV1
+http://176.9.123.140:1935/radioepirus/radioepirus/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="EXTRA CHANNEL" tvg-logo="https://www.digea.gr/images/channel-icons/ABCHANNEL.png" ,EXTRA CHANNEL
+https://extratv.streamings.gr/live/tv/index.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="HIGH TV" tvg-logo="http://greektv.pbworks.com/f/HIGH.png" ,HIGH TV
+http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="IONIAN CHANNEL" tvg-logo="https://www.digea.gr/images/channel-icons/IONIAN-CHANNEL.png" ,IONIAN CHANNEL
+https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="IRIDA TV" tvg-logo="https://www.digea.gr/images/channel-icons/IRIDA%20TV%20EPG.jpg" ,IRIDA TV
+https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="KONTRA" tvg-logo="https://goo.gl/S96RUr" ,KONTRA
+http://flashcloud.mediacdn.com/live/kontratv/.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="KPHTH TV" tvg-logo="https://goo.gl/BnX9DJ" ,ΚΡΗΤΗ TV
+http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="LYCHNOS" tvg-logo="https://goo.gl/pgniZC" ,LYCHNOS
+http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="MESOGEIOS TV" tvg-logo="https://www.digea.gr/images/channel-icons/MESOGEIOS-TV.png" ,MESOGEIOS TV
+http://176.9.123.140:1935/mesogeiostv/stream/master.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="NEA TV CRETE" tvg-logo="https://goo.gl/WSfOWs" ,NEA TV ΚΡΗΤΗΣ
 https://live.neatv.gr:8888/hls/neatv_low/index.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="PLP" tvg-logo="https://www.digea.gr/images/channel-icons/PLP%20TV%20EPG.png" ,PLP
+https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="TV RODOPI" tvg-logo="http://www.tvrodopi.gr/images/logo.png" ,R Channel
+https://5d00db0e0fcd5.streamlock.net/7150/7150/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="SAMIAKI TV" tvg-logo="http://www.itver.cc/wp-content/uploads/2015/09/Samiaki-TV.jpg" ,SAMIAKI TV
+http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="STAR B. ELLADOS" tvg-logo="http://www.anacon.org/app/img/starbe.jpg" ,STAR B. ELLADOS
+http://www.startvfm.gr/live/|webdig
+#EXTINF:-1 group-title="Greece" tvg-id="STAR K.E." tvg-logo="https://www.digea.gr/images/channel-icons/STAR%20KENTIKHS%20ELLADAS.jpg" ,Star KENTIKHS ELLADAS
+http://www.anacon.org/app/chans/gr/starke.html|webdig
+#EXTINF:-1 group-title="Greece" tvg-id="START TV" tvg-logo="https://goo.gl/fFjaAp" ,START
+https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="SUPER B" tvg-logo="https://www.digea.gr/images/channel-icons/SUPER-B-TV.png" ,SUPER B
+https://live.streams.ovh/Superb/Superb/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="SYROS TV1" tvg-logo="https://goo.gl/aVVUtg" ,SYROS TV1
+http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="THRAKINET" tvg-logo="https://goo.gl/oJ9YrY" ,ΘΡΑΚΗNET
+http://video.onestreaming.com:8081/thraki/thrakinettv/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="TOP CHANNEL" tvg-logo="https://topchannelkozani.webnode.gr/_files/200000015-72b7773afa/450/8okv76.jpg" ,TOP CHANNEL
+https://itv.streams.ovh/topchannel/topchannel/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="TRT" tvg-logo="https://www.digea.gr/images/channel-icons/TRT%20EPG.jpg" ,TRT TV
+http://trtstream.hellasnet.tv:1935/rest/trt2/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="TV 100" tvg-logo="https://goo.gl/skTCR6" ,TV100
+http://178.62.176.153/hls/tv100/index.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="KOSMOS" tvg-logo="https://www.digea.gr/images/channel-icons/TV%20KOSMOS%20EPG.jpg" ,TV KOSMOS
+https://5948d12b760bb.streamlock.net/TvKosmosLive/TvKosmosLive/playlist.m3u8
+ 
+ 
+ 
+ 
+#EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============= WEBTV ============
+http://.....
+#EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/0Ovqq2f.png" ,TILESPORT
+http://tv3.streampulse.eu:1935/tilesport/movie1/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/GdgekUL.png" ,TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="Κρήτη TV" tvg-id="KritiTV.gr" tvg-logo="https://goo.gl/BnX9DJ" ,KRHTHTV
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="Κρήτη TV" tvg-id="KritiTV.gr" tvg-logo="https://goo.gl/BnX9DJ" ,KRHTHTV
-rtmp://live.cretetv.gr/cretetv/myStream
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/naS6gM" ,CretaTV
-http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="Kontra Channel" tvg-id="Kontra.gr" tvg-logo="https://goo.gl/S96RUr" ,KONTRA
-http://flashcloud.mediacdn.com/live/kontratv/.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/3EsuCz" ,AIGAIO
-http://ad.mysisli.com/live/aigaiotvonline/index.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/mNqHoo" ,AXELOOS
-http://srv.viiideo.gr:1935/axeloos/live/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/nYsDIa" ,ASTRA
-https://www.astratv.gr/live-streaming/|youtubedig
-#EXTINF:-1 group-title="Greece" tvg-logo="http://v4.deltatv.gr/images/deltaTV-logo.png",DELTA TV
-http://video.onestreaming.com:8081/deltatv/live/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/aVVUtg" ,SYROS TV1
-http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/6xRxPun.png" ,TV GOLD
 mms://tvgold.webcast.mediacdn.com/tvgold
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/oJ9YrY" ,THRAKI NET
-http://video.onestreaming.com:8081/thraki/thrakinettv/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/pgniZC" ,LYXNOC
-http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-logo="http://www.anacon.org/app/img/eoe.jpg" ,EOE
+https://live.cast-control.eu/organismos/organismos/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-logo="http://www.anacon.org/app/img/montreal.jpg" ,Montreal
+http://94.130.180.175:8081/live/greektv/chunks.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/RmY1lD" ,MESSINIA WEB TV
 http://176.9.123.140:1935/messinia/messinia/master.m3u8
-#EXTINF:-1 group-title="Greece" tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
-http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
-#EXTINF:-1 group-title="Greece" tvg-name="4Ε" tvg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
-rtmp://stream2.svbllc.com:1935/4e/4e.stream
-#EXTINF:-1 group-title="Greece" tvg-name="4Ε" tvg-id="4E.gr" tvg-logo="https://goo.gl/2eMR7A" ,4E
-http://82.192.84.30:554/live/myStream.sdp/playlist.m3u8
+ 
 
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   TAINIES   ============
@@ -264,6 +319,8 @@ http://bit.ly/2Dn2Yty
 
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,=============   MOUSIKI   ============
 http://.....
+#EXTINF:-1 tvg-id="RISE TV" tvg-logo="https://www.digea.gr/images/channel-icons/RISE%20EPG%20WHITE%203.png" ,Rise
+https://www.rise.gr/el/live-tv/|webprodig
 #EXTINF:-1 group-title="Greece" tvg-logo="https://goo.gl/7tKqOl" ,THLE MOUSIKH
 http://wpso.com:1936/hls/music1.m3u8
 #EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
