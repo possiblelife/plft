@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,19/08/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,26/08/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://www.sfcg.org/wp-content/uploads/2016/11/youtube-flat.png" ,TUTORIAL VIDEO CLICK HERE.
@@ -96,7 +96,7 @@ http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
 http://master.cystreams.com:25461/live/greek/macedonia/119.ts
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://www.cosmote.gr/portal/image/journal/article?img_id=41710152&t=1524412369195" ,SMILE TV
-http://www.lakatamia.tv/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
+http://www.anacon.org/app/chans/cy/smilecy.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS (Youtube)
 https://www.youtube-nocookie.com/embed/live_stream?channel=UC8HJZNfDPoySgW9DN3YGNaA&modestbranding=1|youtubedig
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://goo.gl/QMXKek" ,EURONEWS
@@ -127,25 +127,25 @@ http://..........
 #EXTINF:-1 group-title="Greece" tvg-logo="https://assets.winsornewton.com/imagefiles/listing/2757.jpg" ,============ PANELLADIKA ============
 http://.....
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1 WebTV (Youtube)
-https://webtv.ert.gr/ert1-live/|youtubedig
+https://webtv.ert.gr/ert1-live/|youtube2dig
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1
 http://www.anacon.org/app/chans/gr/ert1s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 WebTV (Youtube)
-https://webtv.ert.gr/ert2-live/|youtubedig
+https://webtv.ert.gr/ert2-live/|youtube2dig
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2
 http://www.anacon.org/app/chans/gr/ert2s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 WebTV (Youtube)
-https://webtv.ert.gr/ert3-live/|youtubedig
+https://webtv.ert.gr/ert3-live/|youtube2dig
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3
 http://www.anacon.org/app/chans/gr/ert3s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
-https://webtv.ert.gr/ertworld-live/|youtubedig
+https://webtv.ert.gr/ertworld-live/|youtube2dig
 #EXTINF:-1 group-title="Greece" tvg-logo="https://webtv.ert.gr/wp-content/uploads/2019/02/ERTSports-logoPage1.png",ERT SPORTS (Youtube)
 https://webtv.ert.gr/ert-sports-live/|youtubedig
 #EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-S2QJbqLn1yE/WiWWTHETdVI/AAAAAAABwS4/OP2uqUbwWgM9fnxVdoWjaYouA8cHBn3LQCLcBGAs/h120/ertplay1.jpg" ,ERT Play WebTV (Youtube)
-https://webtv.ert.gr/ert-play-live/|youtubedig
+https://webtv.ert.gr/ert-play-live/|youtube2dig
 #EXTINF:-1 group-title="Greece" tvg-logo="https://lh3.googleusercontent.com/-cL6bbbQTXTc/WiWWZUVOMEI/AAAAAAABwS8/yLQFnNU7qIU-FXk6ciMZLYdnRvo1ustFACLcBGAs/h120/ertplay2.jpg" ,ERT Play 2 WebTV (Youtube)
-https://webtv.ert.gr/ert-play-2-live/|youtubedig
+https://webtv.ert.gr/ert-play-2-live/|youtube2dig
 #EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/PzabKkj.jpg" ,ERT Play 3 WebTV (Youtube)
 https://webtv.ert.gr/ertplay-3-live/|youtubedig
 #EXTINF:-1 group-title="Greece" tvg-logo="https://i.imgur.com/PzabKkj.jpg" ,ERT Play 4 WebTV (Youtube)
@@ -209,6 +209,8 @@ http://ad.mysisli.com/live/aigaiotvonline/index.m3u8
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="ART TV" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png" ,ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+#EXTINF:-1 group-title="Greece" tvg-id="ASTRA TV" tvg-logo="https://goo.gl/nYsDIa" ,ASTRA
+https://live.gointernet.gr:7342/hls/astratv/astratv.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="ATTICA TV" tvg-logo="https://www.digea.gr/images/channel-icons/ATTICATV.png" ,ATTICA TV
 http://176.9.123.140:1935/atticatv/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="AXELWOS TV" tvg-logo="https://goo.gl/mNqHoo" ,AXELWOS
