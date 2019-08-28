@@ -813,7 +813,7 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_p
 #EXTINF:-1 group-title="USA-SERVER1"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png",FASION TV MIDNIGHT SECRETS
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/food-network-269x151.png" ,Food Network 
-http://sv6.dailymotion.com.1cdn.host/live/foodnetwork/chunks.m3u8|Referer=http://123tvnow.com/watch/food-network/
+http://sv6.dailymotion.com.1cdn.host/live/food/playlist.m3u8|Referer=http://123tvnow.com/watch/food-network/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/food-network-269x151.png" ,Food Network 
 httphost://$http-raw=http://123tvnow.com/watch/food-network/$http-refferer=http://123tvnow.com/watch/food-network/
 #EXTINF:-1 group-title="USA-SERVER1" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fbn-269x151.jpg" ,FOX Business
