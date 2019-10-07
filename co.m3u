@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,24/09/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,07/10/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://www.sfcg.org/wp-content/uploads/2016/11/youtube-flat.png" ,TUTORIAL VIDEO CLICK HERE.
@@ -153,12 +153,11 @@ https://vermantia.secure2.footprint.net/egress/bhandler/telmacortmp/vermantia/pl
 #EXTINF:-1 group-title="Greece" tvg-logo="http://i.imgur.com/w37uJo1.png",MEGA COSMOS
 http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (Youtube)
-http://skaitv.gr/live|youtubedig
+http://www.skaitv.gr/json/settings.php|agentnodown$$start="live_url":"$$end=",$$replace="live_url":"$$replacewith=https://www.youtube.com/watch?v=$$add=
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI
 http://www.anacon.org/app/chans/gr/skai.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI
 http://master.cystreams.com:25461/live/greek/macedonia/42.ts
-
 #EXTINF:-1 group-title="Greece" tvg-id="star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
 http://www.anacon.org/app/chans/gr/starg.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-id="star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
