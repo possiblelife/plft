@@ -101,7 +101,8 @@ https://s1.cystream.net/live/cycinema/chunks.m3u8
 https://s1.cystream.net/live/faros1/chunks.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
 https://webtv.ert.gr/ertworld-live/|youtubedig
-
+#EXTINF:-1 group-title="Cyprus" tvg-logo="http://citychannel.live/wp-content/uploads/2019/08/cropped-53146093_327305117905839_3890747505498914816_n.png" ,City Channel
+http://citychannel.live/watch-live/|webdig
 
 
 
