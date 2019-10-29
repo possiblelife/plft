@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,UPDATED
 https://www.youtube.com/watch?v=7sIsiHbDi_0
-#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,16/10/19
+#EXTINF:-1 group-title="UPDATED DATE" tvg-logo="http://bit.ly/logoe-doctor" ,29/10/19
 https://www.youtube.com/watch?v=7sIsiHbDi_0
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://www.sfcg.org/wp-content/uploads/2016/11/youtube-flat.png" ,TUTORIAL VIDEO CLICK HERE.
@@ -120,20 +120,14 @@ http://.....
 https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1 WebTV (Youtube)
 https://webtv.ert.gr/ert1-live/|youtube2dig
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="EPT1.gr" tvg-logo="https://goo.gl/hD0NSD" ,ERT1
-http://www.anacon.org/app/chans/gr/ert1s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 WebTV 
 https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2 WebTV (Youtube)
 https://webtv.ert.gr/ert2-live/|youtube2dig
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ2" tvg-id="EPT2.gr" tvg-logo="https://goo.gl/quc9Qp" ,ERT2
-http://www.anacon.org/app/chans/gr/ert2s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 WebTV
 https://ert-live.siliconweb.com/media/ert_3/ert_3.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3 WebTV (Youtube)
 https://webtv.ert.gr/ert3-live/|youtube2dig
-#EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ3" tvg-id="EPT3.gr" tvg-logo="https://goo.gl/FOIiN8" ,ERT3
-http://www.anacon.org/app/chans/gr/ert3s2.html|agentdown$$start=src:  "$$end=.m3u8$$replace=src:  "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="ΕΡΤ1" tvg-id="ERTWorld.gr" tvg-logo="https://goo.gl/DLhMC3" ,ERT WORLD WebTV (Youtube)
 https://webtv.ert.gr/ertworld-live/|youtube2dig
 #EXTINF:-1 group-title="Greece" tvg-logo="https://webtv.ert.gr/wp-content/uploads/2019/02/ERTSports-logoPage1.png",ERT SPORTS
@@ -154,8 +148,12 @@ http://stream2.svbllc.com:1935/mega/mega.stream/playlist.m3u8
 http://www.skaitv.gr/json/settings.php|agentnodown$$start="live_url":"$$end=",$$replace="live_url":"$$replacewith=https://www.youtube.com/watch?v=$$add=
 #EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI
 http://www.anacon.org/app/chans/gr/skai.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
-#EXTINF:-1 group-title="Greece" tvg-id="star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
+#EXTINF:-1 group-title="Greece" tvg-id="Skai.gr" tvg-logo="https://imgur.com/download/F6QyuBY" ,SKAI (Alternate)
+http://www.anacon.org/app/chans/gr/skai.php|weballdig
+#EXTINF:-1 group-title="Greece" tvg-id="star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR (Alternate)
 http://www.anacon.org/app/chans/gr/star.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
+#EXTINF:-1 group-title="Greece" tvg-id="star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR
+http://www.anacon.org/app/chans/gr/star.php|weballdig
 #EXTINF:-1 group-title="Greece" tvg-id="star.gr" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 http://klive-a.akamaihd.net/dc-1/live/hls/p/713821/e/1_fp7fyi3j/sd/6000/t/4YED1wipGXOZMnV1TrhLhQ/index-s32.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="Alpha" tvg-logo="http://www.freeetv.com/images/tv8/alpha.jpg" ,ALPHA (USE GREECE VPN)
@@ -164,7 +162,7 @@ https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 https://epsilonlivehls.akamaized.net/hls/live/683532/stream1a/master.m3u8
 #EXTINF:-1 group-title="Greece" tvg-name="E TV" tvg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV 
 http://www.anacon.org/app/chans/gr/open.php|agentdown$$start=src:  "$$end=",$$replace=src:  "$$replacewith=$$add=
-#EXTINF:-1 group-title="Greece" tvg-name="E TV" tvg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV (Webview Player)
+#EXTINF:-1 group-title="Greece" tvg-name="E TV" tvg-id="ETV.gr" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV (Alternate)
 http://www.anacon.org/app/chans/gr/open.html|weballdig
 #EXTINF:-1 group-title="Greece" tvg-id="vouli.gr" tvg-logo="https://goo.gl/m1ZYJB" ,VOULI
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -1403,17 +1401,19 @@ http://.........
 
 
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1
-https://tvpc.us/player/embed.php?cid=5|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+https://streamonion.com/manager/uk/fo/pyplayer.php?cid=14|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland
 https://tvpc.us/player/embed.php?cid=227|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg" ,BBC 2
-https://tvpc.us/player/embed.php?cid=6|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+https://streamonion.com/manager/uk/fo/pyplayer.php?cid=25|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg" ,BBC 4
 https://tvpc.us/player/embed.php?cid=15|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/bbc_news.jpg" ,BBC News
-https://tvpc.us/player/embed.php?cid=12|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+https://streamonion.com/manager/uk/fo/pyplayer.php?cid=27|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
+#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc
+https://streamonion.com/manager/uk/fo/pyplayer.php?cid=29|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV 1
-https://tvpc.us/player/embed.php?cid=62|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+https://streamonion.com/manager/uk/fo/pyplayer.php?cid=11|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" ,ITV 1+1
 https://tvpc.us/player/embed.php?cid=223|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2
@@ -1421,7 +1421,7 @@ https://tvpc.us/player/embed.php?cid=7|agentnodown$$start=src: "$$end=" $$replac
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1
 https://tvpc.us/player/embed.php?cid=222|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3
-https://tvpc.us/player/embed.php?cid=8|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+https://streamonion.com/manager/uk/fo/pyplayer.php?cid=26|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1
 https://tvpc.us/player/embed.php?cid=224|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV 4 
@@ -1431,11 +1431,11 @@ https://tvpc.us/player/embed.php?cid=225|agentnodown$$start=src: "$$end=" $$repl
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg" ,ITV Be. 
 https://tvpc.us/player/embed.php?cid=226|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://vignette.wikia.nocookie.net/bigbrother/images/9/99/Channel_5_Logo.png" ,5
-https://tvpc.us/player/embed.php?cid=11|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+https://streamonion.com/manager/uk/fo/pyplayer.php?cid=22|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://www.digitaltveurope.com/files/2011/09/FilmFour.jpg" ,Film 4
-https://tvpc.us/player/embed.php?cid=2|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+https://streamonion.com/manager/uk/fo/pyplayer.php?cid=13|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png" ,Channel 4
-https://tvpc.us/player/embed.php?cid=3|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+https://streamonion.com/manager/uk/fo/pyplayer.php?cid=2|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/175px-E4_%28channel%29_logo.svg.png" ,E4
 https://tvpc.us/player/embed.php?cid=13|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="http://123tv.live/wp-content/uploads/2018/08/More4-269x151.png" ,More 4 
@@ -1451,7 +1451,7 @@ https://tvpc.us/player/embed.php?cid=220|agentnodown$$start=src: "$$end=" $$repl
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo178.png" ,5usa
 https://tvpc.us/player/embed.php?cid=221|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png",aljazeera
-https://tvpc.us/player/embed.php?cid=70|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
+https://streamonion.com/manager/uk/fo/pyplayer.php?cid=4|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/371/big_logo.png",Pick
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/371?protocol=hls
 
