@@ -1026,7 +1026,52 @@ httphost://$http-raw=http://123tvnow.com/watch/wwe-network/$http-refferer=http:/
 
 #EXTINF:-1 group-title="USA-SERVER2", 
 
-
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/2vQ8yIX.png" ,HGTV HD
+http://free.cloudepg.com:34444/stream/0ab73cd002c3c8abcf894271d3d77066
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/f0FtDEI.png" ,Court TV
+http://free.cloudepg.com:34444/stream/d558c4be110ecb00d8a2c6cfddde8396
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/ejXfHa4.png" ,History HD
+http://free.cloudepg.com:34444/stream/30a7a07225e004e9fb3cc8da1a491270
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/JtSSvss.png" ,ESPN 2 HD
+http://free.cloudepg.com:34444/stream/5ba895c1b0601130570dc547307e9f73
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/zQSTKzm.png" ,ESPN HD
+http://free.cloudepg.com:34444/stream/4a1542435888e9c15a564f720076eb3a
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/Q2VN3Rr.png" ,A&E HD
+http://free.cloudepg.com:34444/stream/ef898d2fc84bcc7f96b467917071962b
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/2ettxWH.png" ,Lifetime HD
+http://free.cloudepg.com:34444/stream/69a105bb9c28d55c5c77b3a39b00e2c3
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/fnc.png" ,FOX News HD
+http://free.cloudepg.com:34444/stream/50377e63114710f65e73146cbb45d443
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/s9SouED.png" ,CNN HD
+http://free.cloudepg.com:34444/stream/d27c7af50c54a48b77a627f2e67ffcff
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/7EKaPtE.png" ,Disney Junior
+http://free.cloudepg.com:34444/stream/e6ef23d37a00b0f24fec62345578048e
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/vHYFQYR.png" ,Fox Sports 1
+http://free.cloudepg.com:34444/stream/75d5569e845a30b7be64fdd28d6a0ef6
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/mlbnetwork.png" ,MLB Network
+http://free.cloudepg.com:34444/stream/5ea1061be4707b16ca7e1d7764c3a921
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/fjMg1wx.png" ,TBS HD
+http://free.cloudepg.com:34444/stream/46f5be25cf7e40035372b7c42fd0858e
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/weatherchannel.png" ,The Weather Channel
+http://free.cloudepg.com:34444/stream/bf39784d10c84874127bf2f7f026d3b7
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/yAuE4iE.png" ,TNT HD
+http://free.cloudepg.com:34444/stream/d76c6c9027fd95b3ecd61a84dd4c1eff
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/tIaICiP.jpg" ,USA HD
+http://free.cloudepg.com:34444/stream/07aaa46319da862984556b339a826cc5
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/vh1.png" ,VH1
+http://free.cloudepg.com:34444/stream/d5474006eefcdb6a8d48521238b310dc
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/wzBD6fy.png" ,TMZ
+http://free.cloudepg.com:34444/stream/3ec459dbfc7532081fa5f3c670e5bd10
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/homeshop.png" ,HSN
+http://free.cloudepg.com:34444/stream/f6c9797659fd87b35f15c9c5e74affe4
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/abc.png" ,ABC 7 Sarasota FL (WWSB)
+http://free.cloudepg.com:34444/stream/d66dada2425455e5c8bf0d589ca5acdd
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/cbs.png" ,CBS
+http://free.cloudepg.com:34444/stream/6b3ccd8fc3d94a9501a06c44e1e3faaa
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" ,CBSN
+http://free.cloudepg.com:34444/stream/3ad6e8b9b9149bd3a4d6dfce1ac0e48d
+#EXTINF:-1 group-title="USA-SERVER2" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/nbc.png" ,NBC
+http://free.cloudepg.com:34444/stream/cf764f9ca9d3fd0895ee9a450af84356
 
 
 
