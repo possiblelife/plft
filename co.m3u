@@ -76,7 +76,7 @@ https://www.ant1.com.cy/web-tv-live/|webdig
 #EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy"  tvg-logo="https://assets.nav.mtn.com.cy/mtntv/ant1cyprusmtntv-jpg-ByZhut5qx.jpg",Ant1 Cyprus
 http://www.anacon.org/app/chans/cy/ant1cy.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Cyprus" tvg-id="CapitalTV.cy" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
-http://www.anacon.org/app/chans/cy/capitalcy.php|webepg zoom=100 scroll=0,400
+http://www.anacon.org/app/chans/cy/capitalcy.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Cyprus" tvg-id="Extra.cy" tvg-logo="https://assets.nav.mtn.com.cy/mtntv/extra-tv-jpg-Sk1AgztkZ.jpg" ,EXTRA 
 http://www.anacon.org/app/chans/cy/extracy.php|webepg zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Cyprus" tvg-id="PlusTV.cy" tvg-logo="http://primetel.com.cy/tvg/logos/201.png",Plus 
