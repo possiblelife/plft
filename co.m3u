@@ -1335,7 +1335,7 @@ https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
 http://.........
 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
-https://easyview.eu/watch.php?stream=bbc-1|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-1$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
+https://easyview.eu/watch.php?stream=bbc-london|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-london$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2 
 https://easyview.eu/watch.php?stream=bbc-two|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-two$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 #EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4 
