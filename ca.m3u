@@ -105,9 +105,9 @@ http://wpso.com:1936/hls/kidshd.m3u8
 http://bit.ly/2rvaV7Q
 #EXTINF:-1 group-title="KIDS" ,Jim Jam
 http://37.192.100.141:81/udp/239.1.3.2:1234
-#EXTINF:-1 group-title="Kids" tvg-id="2268" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/057/original/pic_boomerang.png?1522177819" ,Boomerang
+#EXTINF:-1 group-title="KIDS" tvg-id="2268" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/057/original/pic_boomerang.png?1522177819" ,Boomerang
 http://185.246.209.109:8080/BOOMERANG/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kids" tvg-id="2268" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/057/original/pic_boomerang.png?1522177819" ,Boomerang
+#EXTINF:-1 group-title="KIDS" tvg-id="2268" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/057/original/pic_boomerang.png?1522177819" ,Boomerang
 http://ustvgo.tv/boomerang/|weballdig
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://extremehosts.info/Logos/Collection_Logos/USA_Logos/cartoonnetwork.png",CARTOON NETWORK
 http://ustvgo.net/cartoon-network-live-streaming-free/|weballdig
@@ -115,13 +115,13 @@ http://ustvgo.net/cartoon-network-live-streaming-free/|weballdig
 http://37.192.100.141:81/udp/239.1.3.3:1234
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ustvgo.net/wp-content/uploads/2019/01/disney-269x151.png" ,Disney Channel
 http://ustvgo.net/disney-channel-live-streaming-free/|weballdig
-#EXTINF:-1 group-title="Kids" tvg-id="595" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/disney-269x151.png" ,Disney Channel
+#EXTINF:-1 group-title="KIDS" tvg-id="595" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/disney-269x151.png" ,Disney Channel
 http://123tvnow.com/watch/disney-channel/|weballdig
-#EXTINF:-1 group-title="Kids" tvg-id="6867" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" ,Disney Junior 
+#EXTINF:-1 group-title="KIDS" tvg-id="6867" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" ,Disney Junior 
 http://123tvnow.com/watch/disney-junior/|weballdig
-#EXTINF:-1 group-title="Kids" tvg-id="1053" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest/scale-to-width-down/250?cb=20171202144958" ,Disney XD
+#EXTINF:-1 group-title="KIDS" tvg-id="1053" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest/scale-to-width-down/250?cb=20171202144958" ,Disney XD
 http://ustvgo.tv/disneyxd/|weballdig
-#EXTINF:-1 group-title="Kids" tvg-id="1053" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest/scale-to-width-down/250?cb=20171202144958" ,Disney XD
+#EXTINF:-1 group-title="KIDS" tvg-id="1053" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/DisneyXD_2009.svg/revision/latest/scale-to-width-down/250?cb=20171202144958" ,Disney XD
 http://123tvnow.com/watch/disney-xd/|weballdig
 #EXTINF:-1 group-title="KIDS" tvg-logo="http://ustv247.com/wp-content/uploads/2019/01/Nickelodeon_2009.png",Nickelodeon
 http://ustvgo.net/nickelodeon-live-streaming-free/|weballdig
