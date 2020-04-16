@@ -1,0 +1,179 @@
+#EXTM3U
+
+
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://www.sfcg.org/wp-content/uploads/2016/11/youtube-flat.png" ,TUTORIAL VIDEO CLICK HERE.
+https://www.youtube.com/watch?v=7sIsiHbDi_0
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,OFFICIAL e-Doctor
+https://www.youtube.com/watch?v=7sIsiHbDi_0
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,IPTV LIST
+https://www.youtube.com/watch?v=7sIsiHbDi_0
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,Powered by e-Doctor.
+https://www.youtube.com/watch?v=7sIsiHbDi_0
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/world-wide-web-12-1176706.png" ,http://edoctorcy.xyz
+http://edoctorcy.xyz|webview zoom=100 scroll=0,0
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,Download Official
+http://edoctorcy.xyz/eDoctor-IPTV-FREE-Edition/|webview zoom=100 scroll=0,0
+#EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,app from Website.
+http://edoctorcy.xyz/eDoctor-IPTV-FREE-Edition/|webview zoom=100 scroll=0,0
+
+
+
+
+#EXTINF:-1 group-title="Sports"  tvg-id="10853" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/BeIN_SPORTS_USA_logo_2017.jpg" ,Bein Sports USA
+https://cricfree.stream/watch/site/update/beinusa|webdeskalldig
+#EXTINF:-1 group-title="Sports"   tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b3a4249444e05d09cc46/featuredImage.jpg" ,Cars 
+http://stitcher.pluto.tv/stitch/hls/channel/5812b3a4249444e05d09cc46/master.m3u8?
+#EXTINF:-1 group-title="Sports" tvg-id="3115"  tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/dc/c4/8f/dcc48f79-3697-1935-9cb9-bdeba30d3575/AppIcon-0-1x_U007emarketing-0-0-GLES2_U002c0-512MB-sRGB-0-0-0-85-220-0-0-0-7.png/246x0w.jpg" ,CBS Sports (USA VPN REQUIRE) 
+https://sportshq-mediapackage-fastly.cbsaavideo.com/out/v1/9bce4c1bfbde4f8bbba602a090ec77e3/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN
+https://ustreamix.org/embed.php?id=espn|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN
+https://ustv247.tv/espn/|webdeskalldig
+#EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN
+http://123tvnow.com/watch/espn-2/|weballdig
+#EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN
+httphost://$http-raw=http://123tvnow.com/watch/espn-2/$http-refferer=http://123tvnow.com/watch/espn-2/
+#EXTINF:-1 group-title="Sports" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN
+https://www.streamlive.to/view/76659/ESPN-(SD)|webdeskalldig
+#EXTINF:-1 group-title="Sports" tvg-id="1527" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News
+http://123tvnow.com/watch/espn-news/|weballdig
+#EXTINF:-1 group-title="Sports" tvg-id="1527" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnews-269x151.png" ,ESPN News
+httphost://$http-raw=http://123tvnow.com/watch/espn-news/$http-refferer=http://123tvnow.com/watch/espn-news/
+#EXTINF:-1 group-title="Sports" tvg-id="3331" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnu-269x151.png" ,ESPN U
+http://123tvnow.com/watch/espn-u-espnu/|weballdig
+#EXTINF:-1 group-title="Sports" tvg-id="3331" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnu-269x151.png" ,ESPN U
+httphost://$http-raw=http://123tvnow.com/watch/espn-u-espnu/$http-refferer=http://123tvnow.com/watch/espn-u-espnu/
+#EXTINF:-1 group-title="Sports" tvg-id="3331" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnu-269x151.png" ,ESPN U
+https://www.streamlive.to/view/76663/ESPNU-(SD)|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="650" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2
+https://ustreamix.org/embed.php?id=espn2|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports"  tvg-id="650" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2
+http://123tvnow.com/watch/espn2/|weballdig
+#EXTINF:-1 group-title="Sports"  tvg-id="650" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2
+httphost://$http-raw=http://123tvnow.com/watch/espn2/$http-refferer=http://123tvnow.com/watch/espn2/
+#EXTINF:-1 group-title="Sports"  tvg-id="650" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2
+https://www.streamlive.to/view/69028/ESPN2-(SD)|webdeskalldig
+#EXTINF:-1 group-title="Sports"   tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5812b0f2237a6ff45d16c3f9/featuredImage.jpg" ,Fight 
+http://stitcher.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 group-title="Sports" tvg-logo="http://ulango.tv/uploads/channels/3781870/logo_fightbox.png" ,FightBox
+http://ott-cdn.ucom.am/s86/index.m3u8?fluxustv.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="668" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs1-269x151.png" ,FOX Sports 1
+http://123tvnow.com/watch/fox-sports-1/|weballdig
+#EXTINF:-1 group-title="Sports" tvg-id="668" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs1-269x151.png" ,FOX Sports 1
+httphost://$http-raw=http://123tvnow.com/watch/fox-sports-1-fs1/$http-refferer=http://123tvnow.com/watch/fox-sports-1-fs1/
+#EXTINF:-1 group-title="Sports" tvg-id="668" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs1-269x151.png" ,FOX Sports 1
+https://hindimean.com/tk/fs1.php|webdeskdig
+#EXTINF:-1 group-title="Sports" tvg-id="668" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs1-269x151.png" ,FOX Sports 1
+https://ustvgo.tv/fox-sports-1/|webproalldig
+#EXTINF:-1 group-title="Sports" tvg-id="2114" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs2-269x151.png" ,FOX Sports 2
+http://123tvnow.com/watch/fox-sports-2/|weballdig
+#EXTINF:-1 group-title="Sports" tvg-id="2114" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs2-269x151.png" ,FOX Sports 2
+httphost://$http-raw=http://123tvnow.com/watch/fox-sports-2-fs2/$http-refferer=http://123tvnow.com/watch/fox-sports-2-fs2/
+#EXTINF:-1 group-title="Sports" tvg-id="2114" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs2-269x151.png" ,FOX Sports 2
+https://hindimean.com/tk/fs2.php|webdeskdig
+#EXTINF:-1 group-title="Sports" tvg-id="2114" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs2-269x151.png" ,FOX Sports 2
+https://ustvgo.tv/fox-sports-2/|webproalldig
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png" ,Fox Sports 
+http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 group-title="Sports"   tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5417a212ff9fba68282fbf5e/featuredImage.jpg" ,Glory Kickboxing 
+http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 group-title="Sports" tvg-id="193"   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/835_300.png" ,Golf Channel
+https://ustv247.tv/golf-channel/|webdeskalldig
+#EXTINF:-1 group-title="Sports" tvg-id="193"   tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/835_300.png" ,Golf Channel
+https://ustvgo.tv/golf-channel-live-free/|webproalldig
+#EXTINF:-1 group-title="Sports"   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Impact_Wrestling_Logo.svg/800px-Impact_Wrestling_Logo.svg.png" ,Impact Wrestling 
+http://stitcher.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=7&deviceId=-&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
+#EXTINF:-1 group-title="Sports" tvg-id="11516" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnlhn-269x151.png" ,Longhorn Network (ESPNLHN)
+http://123tvnow.com/watch/longhorn-network-espnlhn/|weballdig
+#EXTINF:-1 group-title="Sports" tvg-id="11516" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/espnlhn-269x151.png" ,Longhorn Network (ESPNLHN)
+httphost://$http-raw=http://123tvnow.com/watch/longhorn-network-espnlhn/$http-refferer=http://123tvnow.com/watch/longhorn-network-espnlhn/
+#EXTINF:-1 group-title="Sports"  tvg-logo="https://metv.org/wp-content/uploads/2017/08/metv-3d-logo2.png" ,Middle East Television (METV)
+http://cdg3.edge.tmed.pw/metv/abr_live/metv/live_1024p/chunks.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="6178"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" ,MLB NETWORK
+https://ustvgo.tv/mlb-network/|webproalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="6178" tvg-logo="http://channelpear.com/images/media/5249.jpg" ,MLB Network
+http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="3116" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV
+http://123tvnow.com/watch/nba-tv/|weballdig
+#EXTINF:-1 group-title="Sports" tvg-id="3116" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbatv-269x151.jpg" ,NBA TV
+httphost://$http-raw=http://123tvnow.com/watch/nba-tv/$http-refferer=http://123tvnow.com/watch/nba-tv/
+#EXTINF:-1 group-title="Sports"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN)
+http://123tvnow.com/watch/nbc-sports-network-nbcsn/|weballdig
+#EXTINF:-1 group-title="Sports"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN)
+httphost://$http-raw=http://123tvnow.com/watch/nbc-sports-network-nbcsn/$http-refferer=http://123tvnow.com/watch/nbc-sports-network-nbcsn/
+#EXTINF:-1 group-title="Sports"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN)
+https://www.streamlive.to/view/71137/NBCSports-(SD)|webdeskalldig
+#EXTINF:-1 group-title="Sports"   tvg-id="3349"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nfl-269x151.png" ,NFL Network
+https://ustv247.tv/nfl-network/|webdeskalldig
+#EXTINF:-1 group-title="Sports"   tvg-id="3349"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nfl-269x151.png" ,NFL Network
+https://ustvgo.tv/nfl-network-live-free/|webproalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="3349"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nfl-269x151.png" ,NFL Network
+http://123tvnow.com/watch/nfl-network/|weballdig
+#EXTINF:-1 group-title="Sports"  tvg-id="3349"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nfl-269x151.png" ,NFL Network
+httphost://$http-raw=http://123tvnow.com/watch/nfl-network/$http-refferer=http://123tvnow.com/watch/nfl-network/
+#EXTINF:-1 group-title="Sports"   tvg-id="7443"  tvg-logo="https://img7.androidappsapk.co/300/7/3/7/jp.or.nhk.nhkworld.tv.png" ,NHK WORLD HD
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1180.m3u8
+#EXTINF:-1 group-title="Sports"   tvg-id="14156"  tvg-logo="https://pbs.twimg.com/profile_images/1069587614985056256/d4Kl2nIv_400x400.jpg" ,NHL Network
+http://123tvnow.com/watch/nhl-network/|weballdig
+#EXTINF:-1 group-title="Sports"   tvg-id="14156" tvg-logo="https://pbs.twimg.com/profile_images/1069587614985056256/d4Kl2nIv_400x400.jpg" ,NHL Network
+httphost://$http-raw=http://123tvnow.com/watch/nhl-network/$http-refferer=http://123tvnow.com/watch/nhl-network/
+#EXTINF:-1 group-title="Sports"  tvg-id="2086" tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052018/untitled-1_198.png" ,Olympic Channel
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_1_4064000.m3u8
+#EXTINF:-1 group-title="Sports"  tvg-id="10715"  tvg-logo="https://static.pac-12.com/images/logos/pac-12-arizona-logo.png" ,PAC-12 Arizona
+https://pac12hd2-lh.akamaihd.net/i/adhoc_ariz_ch_1@138572/master.m3u8
+#EXTINF:-1 group-title="Sports"   tvg-id="10722" tvg-logo="https://static.pac-12.com/images/logos/pac-12-bayarea-logo.png" ,PAC-12 Bay Area 
+https://p12b.pac-12.com/index.m3u8
+#EXTINF:-1 group-title="Sports"  tvg-id="10713" tvg-logo="https://static.pac-12.com/images/logos/pac-12-losangeles-logo.png" ,PAC-12 Los Angeles
+https://p12l.pac-12.com/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="10724" tvg-logo="https://static.pac-12.com/images/logos/pac-12-oregon-logo.png" ,PAC-12 Oregon 
+https://pac12hd2-lh.akamaihd.net/i/adhoc_ore_ch_1@138581/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-id="10717" tvg-logo="https://static.pac-12.com/images/logos/pac-12-washington-logo.png" ,PAC-12 Washington  
+https://pac12hd2-lh.akamaihd.net/i/adhoc_wash_ch_1@138599/master.m3u8
+#EXTINF:-1 group-title="Sports"  tvg-logo="https://performanceracing.com/sites/default/files/news/revn_1.jpg" ,REV'N
+https://dcunilive28-lh.akamaihd.net/i/dclive_1@624563/index_1_av-p.m3u8?sd=6&rebase=on
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a203.png" ,sportsnet ontario
+https://ustreamix.stream/embed.php?id=sportsnet-ontario|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports"  tvg-logo="https://sport-tv-guide.live/images/stations/a200.png" ,sportsnet one
+https://ustreamix.stream/embed.php?id=sportsnet-one|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a202.png" ,sportsnet world
+https://ustreamix.stream/embed.php?id=sports-net-world|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a201.png" ,sportsnet 360
+https://ustreamix.stream/embed.php?id=sportsnet-360|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a198.png" ,sportsnet pacific
+https://ustreamix.stream/embed.php?id=sportsnet-pacific|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a199.png" ,sportsnet west
+https://ustreamix.stream/embed.php?id=sportsnet-west|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports" tvg-logo="https://sport-tv-guide.live/images/stations/a197.png" ,sportsnet east
+https://ustreamix.stream/embed.php?id=sportsnet-east|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports"  tvg-id="2269" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel
+https://ustv247.tv/tennis-channel/|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="2269" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel
+https://ustreamix.live/embed.php?id=tennis-channel|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports"   tvg-logo="https://sport-tv-guide.live/images/stations/a188.png" ,tsn1
+http://free.crichd.online/embed2.php?id=tsn1|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="11182" tvg-logo="https://sport-tv-guide.live/images/stations/a188.png" ,tsn1 
+https://ustreamix.live/embed.php?id=tsn1|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports"   tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" ,tsn2
+http://free.crichd.online/embed2.php?id=tsn2|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="18990" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" ,tsn2 
+https://ustreamix.live/embed.php?id=tsn-2|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports"  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" ,tsn3
+http://free.crichd.online/embed2.php?id=tsn3|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="90118" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" ,tsn3 
+https://ustreamix.live/embed.php?id=tsn3|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports"   tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" ,tsn4
+http://free.crichd.online/embed2.php?id=tsn4|webdeskalldig
+#EXTINF:-1 group-title="Sports"  tvg-id="90122" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" ,tsn4 
+https://ustreamix.live/embed.php?id=tsn4|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports"  tvg-id="90122" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" ,tsn5 
+http://free.crichd.online/embed2.php?id=tsn5
+#EXTINF:-1 group-title="Sports"  tvg-id="90122" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" ,tsn5
+https://ustreamix.live/embed.php?id=tsn5|downdig$$start=/go.php?interlink=$$end=', '$$replace=/go.php?$$replacewith=https://ustreamix.stream/go.php?$$add=
+#EXTINF:-1 group-title="Sports"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK
+http://123tvnow.com/watch/wwe-network/|weballdig
+#EXTINF:-1 group-title="Sports"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK
+httphost://$http-raw=http://123tvnow.com/watch/wwe-network/$http-refferer=http://123tvnow.com/watch/wwe-network/
+#EXTINF:-1 group-title="Sports"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK
+http://crichd.ws/update/wwe.php|webdeskdig
+#EXTINF:-1 group-title="Sports"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK
+https://ustvgo.tv/wwe-network/|webproalldig
