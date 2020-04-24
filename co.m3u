@@ -2526,6 +2526,211 @@ http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4?pr
 
 
 
+#EXTINF:4 group-title="Bulgaria-WebTV",
+
+#EXTINF:-1 group-title="Bulgaria-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/255px-Flag_of_Bulgaria.svg.png" ,==Bulgaria==
+http://..........
+
+
+#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/ONAIR.png",Bulgaria On Air
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:0 group-title="Bulgaria-WebTV"  tvg-logo="https://www.firstonetv.net/images/logos/bg/AUTO_MOTO.png",channel Auto TV
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
+#EXTINF:0 group-title="Bulgaria-WebTV",Cherno More
+http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
+#EXTINF:0 group-title="Bulgaria-WebTV",Cherno more
+http://lb.blb.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
+#EXTINF:-1 group-title="Bulgaria-WebTV",MU-VI tv
+http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
+#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/ROMATV.png",ROMA TV
+http://185.46.161.3/hls/sd.m3u8
+#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/TRAVELTV.png",Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
+#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/TRAVELTV.png",Travel TV HD
+http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
+#EXTINF:0 group-title="Bulgaria-WebTV",TV+ Kumanovo
+http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
+#EXTINF:-1 group-title="Bulgaria-WebTV",TV+
+http://141.136.14.18/kanal1/kanal1.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",
+
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",bnt hd (MX-PLAYER)
+http://bul-tv.com/bnt-hd|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",bnt1 (MX-PLAYER)
+http://bul-tv.com/bnt1|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",bnt2 (MX-PLAYER)
+http://bul-tv.com/bnt2|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",dstv (MX-PLAYER)
+http://bul-tv.com/dstv-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",city (MX-PLAYER)
+http://bul-tv.com/city-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",evrokom (MX-PLAYER)
+http://bul-tv.com/evrokom-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",fashion tv (MX-PLAYER)
+http://bul-tv.com/fashion-tv-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",balkanika (MX-PLAYER)
+http://bul-tv.com/balkanika-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",the voice (MX-PLAYER)
+http://bul-tv.com/the-voice-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",magic tv (MX-PLAYER)
+http://bul-tv.com/magic-tv-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",vtv (MX-PLAYER)
+http://bul-tv.com/vtv-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",bulgaria on air (MX-PLAYER)
+http://bul-tv.com/bulgaria-on-air-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",planeta folk (MX-PLAYER)
+http://bul-tv.com/planeta-folk-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",diema family (MX-PLAYER)
+http://bul-tv.com/diema-family-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",diema (MX-PLAYER)
+http://bul-tv.com/diema-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",nova sport (MX-PLAYER)
+http://bul-tv.com/nova-sport-online-2|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",fen tv (MX-PLAYER)
+http://bul-tv.com/fen-tv-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",planeta (MX-PLAYER)
+http://bul-tv.com/planeta-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",discovery (MX-PLAYER)
+http://bul-tv.com/discovery-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",nova tv (MX-PLAYER)
+http://bul-tv.com/nova-tv-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",kino nova (MX-PLAYER)
+http://bul-tv.com/kino-nova-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",national geographic (MX-PLAYER)
+http://bul-tv.com/national-geographic-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",viasat explorer (MX-PLAYER)
+http://bul-tv.com/viasat-explorer-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",ntvspor (MX-PLAYER)
+http://bul-tv.com/ntvspor-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",fox crime (MX-PLAYER)
+http://bul-tv.com/fox-crime-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",disney channel (MX-PLAYER)
+http://bul-tv.com/disney-channel-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",cartoon network (MX-PLAYER)
+http://bul-tv.com/cartoon-network-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",fox-life (MX-PLAYER)
+http://bul-tv.com/fox-life-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",diema sport (MX-PLAYER)
+http://bul-tv.com/diema-sport-live|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",diema sport 2 (MX-PLAYER)
+http://bul-tv.com/diema-sport-2-live|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",eurosport (MX-PLAYER)
+http://bul-tv.com/eurosport-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",eurosport 2 (MX-PLAYER)
+http://bul-tv.com/eurosport-2-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",axn (MX-PLAYER)
+http://bul-tv.com/axn-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",animal planet (MX-PLAYER)
+http://bul-tv.com/animal-planet-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",history (MX-PLAYER)
+http://bul-tv.com/history-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",kanal 3 (MX-PLAYER)
+http://bul-tv.com/kanal-3-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",tlc (MX-PLAYER)
+http://bul-tv.com/tlc-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",cinemax (MX-PLAYER)
+http://bul-tv.com/cinemax-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",film plus (MX-PLAYER)
+http://bul-tv.com/film-plus-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",tv1000 (MX-PLAYER)
+http://bul-tv.com/tv1000-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",mtv (MX-PLAYER)
+http://bul-tv.com/mtv-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",tv plus (MX-PLAYER)
+http://bul-tv.com/tv-plus-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",national geographic wild (MX-PLAYER)
+http://bul-tv.com/national-geographic-wild-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",btv (MX-PLAYER)
+http://bul-tv.com/btv|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",btv action (MX-PLAYER)
+http://bul-tv.com/btv-action-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",btv cinema (MX-PLAYER)
+http://bul-tv.com/btv-cinema-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",btv comedy (MX-PLAYER)
+http://bul-tv.com/btv-comedy-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",btv lady (MX-PLAYER)
+http://bul-tv.com/btv-lady-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",ringbg (MX-PLAYER)
+http://bul-tv.com/ringbg-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",hbo (MX-PLAYER)
+http://bul-tv.com/hbo-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",super 7 (MX-PLAYER)
+http://bul-tv.com/super-7-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",hbo comedy (MX-PLAYER)
+http://bul-tv.com/hbo-comedy-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",tv7 (MX-PLAYER)
+http://bul-tv.com/tv7-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",news7 (MX-PLAYER)
+http://bul-tv.com/news7-online|weballdig
+#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",pvtv (MX-PLAYER)
+http://bul-tv.com/pvtv-online|weballdig
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2643,245 +2848,6 @@ http://95.77.16.72:81/tv15/playlist.m3u8
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:4 group-title="Bulgaria-WebTV",
-
-#EXTINF:-1 group-title="Bulgaria-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Bulgaria.svg/255px-Flag_of_Bulgaria.svg.png" ,==Bulgaria==
-http://..........
-
-
-#EXTINF:0 group-title="Bulgaria-WebTV",2EK Евроком
-http://live.eurocom.bg:8080/hls/stream.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV",alfa ataka
-http://ataka.tv:1935/live/live/playlist.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV",AL JAZEERA Balcan
-http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/160.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV"  tvg-logo="https://www.firstonetv.net/images/logos/bg/BALKANIKA.png",Balkanika
-rtsp://stream.teracomm.bg/balkanika
-#EXTINF:0 group-title="Bulgaria-WebTV",BG DNES
-http://80.72.95.40:8088
-#EXTINF:0 group-title="Bulgaria-WebTV",BG-Dnes HD
-http://80.72.95.40:8088i
-#EXTINF:-1 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/BNT1.png",BNT
-http://46.10.150.113/alpha/alpha/playlist.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV",BTK
-http://46.249.95.180/vtk/high.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV",BNP TV
-mms://bnptv.tv:10801A3
-#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/ONAIR.png",Bulgaria On Air
-http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV",CAPITAL TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0 group-title="Bulgaria-WebTV"  tvg-logo="https://www.firstonetv.net/images/logos/bg/AUTO_MOTO.png",channel Auto TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV",channel 100 gaz
-mms://100automoto.tv/100gaz
-#EXTINF:0 group-title="Bulgaria-WebTV",channel bmw
-mms://100automoto.tv/bmw
-#EXTINF:0 group-title="Bulgaria-WebTV",channel electric
-mms://100automoto.tv/channel_electric
-#EXTINF:0 group-title="Bulgaria-WebTV",channel italy
-mms://100automoto.tv/channel_italy
-#EXTINF:0 group-title="Bulgaria-WebTV",channel mercendes
-mms://100automoto.tv/channel_mercedes
-#EXTINF:0 group-title="Bulgaria-WebTV",channel porsche
-mms://100automoto.tv/channel_porsche
-#EXTINF:0 group-title="Bulgaria-WebTV",Cherno More
-http://ios.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV",Cherno more
-http://lb.blb.cdn.bg:2006/fls/chmore.stream/playlist.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/CITYTV.png",CITY
-http://nodeb.gocaster.net:1935/CGL/mp4:TODAYFM_TEST2/playlist.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV",Clubland TV
-http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV",etv
-http://195.24.89.20/tvs/etv.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/FENTV.png",FEN
-rtsp://stream.teracomm.bg/fen
-#EXTINF:-1 group-title="Bulgaria-WebTV",Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/PLANETA.png",Planeta
-rtsp://stream.teracomm.bg/planeta
-#EXTINF:-1 group-title="Bulgaria-WebTV",MU-VI tv
-http://ios.cdn.bg:2013/fls/livetv.stream/playlist.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV",NRJ Hits
-rtsp://5.196.138.6:1935/live/nrjbelgique_360p
-#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/ROMATV.png",ROMA TV
-http://185.46.161.3/hls/sd.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/ROMATV.png",Roma TV
-http://77.78.130.123/hls/sd.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/ROMATV.png",Roma TV HD
-http://77.78.130.123/hls/hd.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/TRAVELTV.png",Travel TV
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8?hash=?
-#EXTINF:0 group-title="Bulgaria-WebTV" tvg-logo="https://www.firstonetv.net/images/logos/bg/TRAVELTV.png",Travel TV HD
-http://31.13.223.103/travel/community.stream/playlist.m3u8?hash=943212345
-#EXTINF:-1 group-title="Bulgaria-WebTV",TV Evropa 
-http://lb.blb.cdn.bg:2018/fls/tvevropa.stream/playlist.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV",TV+ Kumanovo
-http://141.136.14.18/kanal1/kanal1_1500/index.m3u8
-#EXTINF:-1 group-title="Bulgaria-WebTV",TV+
-http://141.136.14.18/kanal1/kanal1.m3u8
-#EXTINF:0 group-title="Bulgaria-WebTV",TV
-rtmp://79.98.109.134:1935/big/live 
-#EXTINF:-1 group-title="Bulgaria-WebTV",Делта Русе
-http://185.134.228.141:8891
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",
-
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",bnt hd
-http://bul-tv.com/bnt-hd|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",bnt1
-http://bul-tv.com/bnt1|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",bnt2
-http://bul-tv.com/bnt2|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",dstv
-http://bul-tv.com/dstv-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",city
-http://bul-tv.com/city-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",evrokom
-http://bul-tv.com/evrokom-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",fashion tv
-http://bul-tv.com/fashion-tv-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",balkanika
-http://bul-tv.com/balkanika-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",the voice
-http://bul-tv.com/the-voice-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",magic tv
-http://bul-tv.com/magic-tv-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",vtv
-http://bul-tv.com/vtv-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",bulgaria on air
-http://bul-tv.com/bulgaria-on-air-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",planeta folk
-http://bul-tv.com/planeta-folk-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",diema family
-http://bul-tv.com/diema-family-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",diema
-http://bul-tv.com/diema-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",nova sport
-http://bul-tv.com/nova-sport-online-2|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",fen tv
-http://bul-tv.com/fen-tv-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",planeta
-http://bul-tv.com/planeta-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",discovery
-http://bul-tv.com/discovery-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",nova tv
-http://bul-tv.com/nova-tv-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",kino nova
-http://bul-tv.com/kino-nova-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",national geographic
-http://bul-tv.com/national-geographic-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",viasat explorer
-http://bul-tv.com/viasat-explorer-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",ntvspor
-http://bul-tv.com/ntvspor-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",fox crime
-http://bul-tv.com/fox-crime-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",disney channel
-http://bul-tv.com/disney-channel-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",cartoon network
-http://bul-tv.com/cartoon-network-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",fox-life
-http://bul-tv.com/fox-life-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",diema sport
-http://bul-tv.com/diema-sport-live|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",diema sport 2
-http://bul-tv.com/diema-sport-2-live|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",eurosport
-http://bul-tv.com/eurosport-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",eurosport 2
-http://bul-tv.com/eurosport-2-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",axn
-http://bul-tv.com/axn-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",animal planet
-http://bul-tv.com/animal-planet-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",history
-http://bul-tv.com/history-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",kanal 3
-http://bul-tv.com/kanal-3-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",tlc
-http://bul-tv.com/tlc-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",cinemax
-http://bul-tv.com/cinemax-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",film plus
-http://bul-tv.com/film-plus-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",tv1000
-http://bul-tv.com/tv1000-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",mtv
-http://bul-tv.com/mtv-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",tv plus
-http://bul-tv.com/tv-plus-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",national geographic wild
-http://bul-tv.com/national-geographic-wild-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",btv
-http://bul-tv.com/btv|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",btv action
-http://bul-tv.com/btv-action-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",btv cinema
-http://bul-tv.com/btv-cinema-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",btv comedy
-http://bul-tv.com/btv-comedy-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",btv lady
-http://bul-tv.com/btv-lady-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",ringbg
-http://bul-tv.com/ringbg-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",hbo
-http://bul-tv.com/hbo-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",super 7
-http://bul-tv.com/super-7-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",hbo comedy
-http://bul-tv.com/hbo-comedy-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",tv7
-http://bul-tv.com/tv7-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",news7
-http://bul-tv.com/news7-online|weballdig
-#EXTINF:-1 group-title="Bulgaria PREMIUM-SERVER1",pvtv
-http://bul-tv.com/pvtv-online|weballdig
 
 
 
