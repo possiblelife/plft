@@ -3011,9 +3011,8 @@ http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/master.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIMOVIE.png",Rai Movie
 https://raimovie1-live.akamaized.net/hls/live/598324/raimovie1/raimovie_1200/master.m3u8
-#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://oklivetv.co/wp-content/uploads/2015/04/500px-RAI_News24_2013.svg_.png",Rai News 24
+#EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://www.open-live.org/it/wp-content/uploads/2017/08/RaiNews-1.png",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RAIPREMIUM.png",Rai Premium
 http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/master.m3u8
 #EXTINF:-1 group-title="Italy-WebTV" tvg-logo="http://www.thelogodb.co/images/media/logo/vxuqsq1434616120.png",Rai Scuola
