@@ -2257,71 +2257,70 @@ https://wfc.bonus-tv.ru/cdn/wfcint/index.m3u8
 
 
 
-#EXTINF:-1 group-title="UK-SERVER1",
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1",
 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://.........
 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/bbc1.jpg",BBC 1 
 https://ihavevirus.com/index.php/bbc-one/|refererdown$$referer=https://ihavevirus.com/index.php/bbc-one/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg",BBC 2 
 https://ihavevirus.com/index.php/bbc-two/|refererdown$$referer=https://ihavevirus.com/index.php/bbc-two/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg",BBC 4 
 https://ihavevirus.com/index.php/bbc-four/|refererdown$$referer=https://ihavevirus.com/index.php/bbc-four/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc   
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/CBBC.jpg",Cbbc   
 https://ihavevirus.com/index.php/cbbc/|refererdown$$referer=https://ihavevirus.com/index.php/cbbc/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies  
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/cbeebies.jpg",cbeebies  
 https://ihavevirus.com/index.php/cbeebies/|refererdown$$referer=https://ihavevirus.com/index.php/cbeebies/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg",BBC 1 Wales 
 https://easyview.eu/watch.php?stream=bbc-one-wales|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-wales$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland  
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg",BBC 1 Scotland  
 https://easyview.eu/watch.php?stream=bbc-one-scotland|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-scotland$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg",BBC 1 Northern Ireland 
 https://easyview.eu/watch.php?stream=bbc-one-northern-ireland|refererdown$$referer=https://easyview.eu/watch.php?stream=bbc-one-northern-ireland$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/bbc-parliament.jpg",BBC Parliament 
 https://ihavevirus.com/index.php/bbc-parliament/|refererdown$$referer=https://ihavevirus.com/index.php/bbc-parliament/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/bbc_news.jpg",BBC News 
 https://ihavevirus.com/index.php/bbc-news/|refererdown$$referer=https://ihavevirus.com/index.php/bbc-news/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/BBC_Alba.jpg",BBC alba
 https://ihavevirus.com/index.php/bbc-alba/|refererdown$$referer=https://ihavevirus.com/index.php/bbc-alba/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg",ITV 
 https://ihavevirus.com/index.php/itv1/|refererdown$$referer=https://ihavevirus.com/index.php/itv1/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg",ITV 2 
 https://ihavevirus.com/index.php/itv2/|refererdown$$referer=https://ihavevirus.com/index.php/itv2/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg",ITV 3 
 https://ihavevirus.com/index.php/itv3/|refererdown$$referer=https://ihavevirus.com/index.php/itv3/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg",ITV 4 
 https://ihavevirus.com/index.php/itv4/|refererdown$$referer=https://ihavevirus.com/index.php/itv4/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/citv_logo_2015-400x284.jpg",CITV
 https://easyview.eu/watch.php?stream=citv|refererdown$$referer=https://easyview.eu/watch.php?stream=citv$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be. 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg",ITV Be. 
 https://easyview.eu/watch.php?stream=itvbe|refererdown$$referer=https://easyview.eu/watch.php?stream=itvbe$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/More4-269x151.png",More 4
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/More4-269x151.png",More 4
 https://easyview.eu/watch.php?stream=more4|refererdown$$referer=https://easyview.eu/watch.php?stream=more4$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg",Really
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg",Really
 https://easyview.eu/watch.php?stream=really|refererdown$$referer=https://easyview.eu/watch.php?stream=really$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png",Channel 4
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png",Channel 4
 https://ihavevirus.com/index.php/channel-4/|refererdown$$referer=https://ihavevirus.com/index.php/channel-4/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-logo="https://i.imgur.com/JwXwTpkm.png",Dave
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-logo="https://i.imgur.com/JwXwTpkm.png",Dave
 https://easyview.eu/watch.php?stream=dave|refererdown$$referer=https://easyview.eu/watch.php?stream=dave$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-id="S4C" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/03/channel-logo-s4c.png" ,S4C
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-id="S4C" tvg-logo="https://www.skymedia.co.uk/wp-content/uploads/2016/03/channel-logo-s4c.png" ,S4C
 https://ihavevirus.com/index.php/s4c/|refererdown$$referer=https://ihavevirus.com/index.php/s4c/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-
-#EXTINF:-1 group-title="UK-SERVER1" tvg-id="alibi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/150px-Alibi.svg.png" ,Alibi
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-id="alibi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Alibi.svg/150px-Alibi.svg.png" ,Alibi
 https://ihavevirus.com/index.php/alibi/|refererdown$$referer=https://ihavevirus.com/index.php/alibi/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-id="4seven" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/4Seven_2018.svg/revision/latest/scale-to-width-down/340?cb=20180927102458" ,4seven
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-id="4seven" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/42/4Seven_2018.svg/revision/latest/scale-to-width-down/340?cb=20180927102458" ,4seven
 https://ihavevirus.com/index.php/4seven/|refererdown$$referer=https://ihavevirus.com/index.php/4seven/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-id="5STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star [Option-1]
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-id="5STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star [Option-1]
 https://ihavevirus.com/index.php/5star/|refererdown$$referer=https://ihavevirus.com/index.php/5star/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-id="5STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star [Option-2]
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-id="5STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star [Option-2]
 https://ihavevirus.com/index.php/5star-2/|refererdown$$referer=https://ihavevirus.com/index.php/5star-2/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-id="Channel 5" tvg-logo="http://picon.webhop.net/logo/uk/channel_5_uk.png" ,channel5
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-id="Channel 5" tvg-logo="http://picon.webhop.net/logo/uk/channel_5_uk.png" ,channel5
 https://ihavevirus.com/index.php/channel5/|refererdown$$referer=https://ihavevirus.com/index.php/channel5/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-id="gold" tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_gold.jpg" ,Gold
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-id="gold" tvg-logo="https://www.comedy.co.uk/images/library/comedies/300/c/channel_gold.jpg" ,Gold
 https://ihavevirus.com/index.php/gold/|refererdown$$referer=https://ihavevirus.com/index.php/gold/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-id="e!"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E!  
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-id="e!"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/e-267x151.png" ,E!  
 https://ihavevirus.com/index.php/e/|refererdown$$referer=https://ihavevirus.com/index.php/e/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER1" tvg-id="true-movies"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/True_Movies.png" ,True Movies 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER1" tvg-id="true-movies"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/True_Movies.png" ,True Movies 
 https://ihavevirus.com/index.php/true-movies/|refererdown$$referer=https://ihavevirus.com/index.php/true-movies/$$start=hls.loadSource('http$$end=');$$replace=hls.loadSource('$$replacewith=$$add= 
 
 
@@ -2335,66 +2334,159 @@ https://ihavevirus.com/index.php/true-movies/|refererdown$$referer=https://ihave
 
 
 
-#EXTINF:-1 group-title="UK-SERVER2", 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2", 
 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://www.clipartbest.com/cliparts/eiM/KGa/eiMKGayin.jpeg" ,===UK===
 http://.........
 
 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/bbc1.jpg" ,BBC 1
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=14|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland
 https://tvpc.us/player/embed.php?cid=227|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg" ,BBC 2
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/BBC_Two_HD.jpg" ,BBC 2
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=25|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg" ,BBC 4
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/bbc4-logo-400x284.jpg" ,BBC 4
 https://tvpc.us/player/embed.php?cid=15|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/bbc_news.jpg" ,BBC News
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/bbc_news.jpg" ,BBC News
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=27|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=29|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV 1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/ITV-Where-Drama-Lives-1-400x284.jpg" ,ITV 1
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=11|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" ,ITV 1+1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" ,ITV 1+1
 https://tvpc.us/player/embed.php?cid=223|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2
 https://tvpc.us/player/embed.php?cid=7|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1
 https://tvpc.us/player/embed.php?cid=222|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/itv3-400x284.jpg" ,ITV 3
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=26|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1
 https://tvpc.us/player/embed.php?cid=224|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV 4 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/itv4-400x284.jpg" ,ITV 4 
 https://tvpc.us/player/embed.php?cid=9|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/1826/extra_big_logo.png" ,ITV 4+1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/1826/extra_big_logo.png" ,ITV 4+1
 https://tvpc.us/player/embed.php?cid=225|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg" ,ITV Be. 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/itvbe-400x284.jpg" ,ITV Be. 
 https://tvpc.us/player/embed.php?cid=226|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://vignette.wikia.nocookie.net/bigbrother/images/9/99/Channel_5_Logo.png" ,5
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://vignette.wikia.nocookie.net/bigbrother/images/9/99/Channel_5_Logo.png" ,5
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=22|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://www.digitaltveurope.com/files/2011/09/FilmFour.jpg" ,Film 4
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://www.digitaltveurope.com/files/2011/09/FilmFour.jpg" ,Film 4
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=13|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png" ,Channel 4
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png" ,Channel 4
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=2|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/175px-E4_%28channel%29_logo.svg.png" ,E4
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_%28channel%29_logo.svg/175px-E4_%28channel%29_logo.svg.png" ,E4
 https://tvpc.us/player/embed.php?cid=13|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="http://123tv.live/wp-content/uploads/2018/08/More4-269x151.png" ,More 4 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://123tv.live/wp-content/uploads/2018/08/More4-269x151.png" ,More 4 
 https://tvpc.us/player/embed.php?cid=14|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://www.tvwise.co.uk/wp-content/uploads/2013/04/Yesterday-300x232.jpg" ,Yesterday
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://www.tvwise.co.uk/wp-content/uploads/2013/04/Yesterday-300x232.jpg" ,Yesterday
 https://tvpc.us/player/embed.php?cid=29|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star
 https://tvpc.us/player/embed.php?cid=152|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg" ,Really
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://www.watchallchannels.com/wp-content/uploads/2015/02/Really-1-520x245.jpg" ,Really
 https://tvpc.us/player/embed.php?cid=219|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/5947/big_logo.png" ,Box Hits
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/5947/big_logo.png" ,Box Hits
 https://tvpc.us/player/embed.php?cid=220|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo178.png" ,5usa
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo178.png" ,5usa
 https://tvpc.us/player/embed.php?cid=221|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png",aljazeera
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png",aljazeera
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=4|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
-#EXTINF:-1 group-title="UK-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/371/big_logo.png",Pick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3", 
+
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1" tvg-logo="http://picon.webhop.net/logo/uk/bbc_one.png" ,BBC 1 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/14?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC2" tvg-logo="http://picon.webhop.net/logo/uk/bbc_two_uk.png" ,BBC 2  
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/25?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC4 HD" tvg-logo="http://picon.webhop.net/logo/uk/bbc_four_uk.png" ,BBC 4 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/103?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBBC" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/29?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBeebies" tvg-logo="https://easyview.eu/img/cbeebies.jpg" ,Cbeebies 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3191?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC 1 HD Wales" tvg-logo="https://easyview.eu/img/bbc-one-wales.jpg" ,BBC 1 Wales 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/27?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1 Scotland" tvg-logo="https://easyview.eu/img/BBC-One-Scotland.jpg" ,BBC 1 Scotland 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3166?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC1 N Ireland" tvg-logo="https://easyview.eu/img/BBC-Northern-Ireland.jpg" ,BBC 1 Northern Ireland 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/361?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC Parliament" tvg-logo="http://picon.webhop.net/logo/uk/bbc_parliament.png" ,BBC Parliament 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1666?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="BBC News" tvg-logo="http://picon.webhop.net/logo/uk/bbc_news.png" ,BBC News 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3227?protocol=hls 
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/11?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV Anglia +1" tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" ,ITV 1+1 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1817?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV2" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_2.png" ,ITV 2 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/67?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV2 +1" tvg-logo="https://static.filmon.com/assets/channels/1820/extra_big_logo.png" ,ITV 2+1 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1820?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV3" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_3.png" ,ITV 3 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/26?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV3+1" tvg-logo="https://static.filmon.com/assets/channels/1823/extra_big_logo.png" ,ITV 3+1 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1823?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV4" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_4.png" ,ITV 4 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/101?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITV4 + 1" tvg-logo="https://static.filmon.com/assets/channels/1826/extra_big_logo.png" ,ITV 4+1 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1826?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="ITVBe" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk_be.png" ,ITV Be. 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/3211?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Drama" tvg-logo="https://www.youview.com/wp-content/uploads/2016/06/12111755/drama-400x390.png" ,Drama 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/5944?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBS Reality" tvg-logo="https://pbs.twimg.com/profile_images/854674078254411776/P_yzfBIn_400x400.jpg" ,CBS Reality 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1808?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBS Reality +1" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo191.png" ,CBS Reality +1 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1811?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBS Drama" tvg-logo="http://www.cbsdrama.tv/uk/content/wp-content/uploads/2016/05/CBS-Drama-Logo.jpg" ,CBS Drama 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1805?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="CBS Action" tvg-logo="http://hytham.net/logo/CBS%20action.png" ,CBS Action 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1952?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Channel 4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_uk_hd.png" ,Channel 4 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/2?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Film4" tvg-logo="https://i.imgur.com/LClp2vem.png" ,Film4 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/13?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="E4" tvg-logo="http://picon.webhop.net/logo/uk/e4_uk.png" ,E4 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/65?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="More4" tvg-logo="http://picon.webhop.net/logo/uk/channel_4_more4_uk.png" ,More 4 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/97?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="YESTERDAY" tvg-logo="http://picon.webhop.net/logo/uk/yesterday_uktv.png" ,Yesterday 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1039?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="5STAR" tvg-logo="http://static.iptv-epg.com/gb/5star.uk.png" ,5Star 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/851?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3"  tvg-id="5USA" tvg-logo="http://oklivetv.com/wp-content/uploads/2015/04/extra_big_logo178.png" ,5usa 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/845?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Really" tvg-logo="http://picon.webhop.net/logo/uk/really_uktv.png" ,Really 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/372?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Pick" tvg-logo="http://picon.webhop.net/logo/uk/pick_tv_uk.png" ,Pick
 http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/371?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Challenge" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fb/Challenge_logo_2016.png" ,Challenge 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/1036?protocol=hls
+#EXTINF:-1 group-title="UK PREMIUM-SERVER3" tvg-id="Al Jazeera English" tvg-logo="https://i.pinimg.com/originals/64/cd/32/64cd32bd821a9b3b020260b27f9b5cb4.png" ,Al Jazeera 
+http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/4?protocol=hls
 
 
 
@@ -2417,167 +2509,7 @@ http://57channels.info/filmon.php?url=https://www.filmon.com/api-v2/channel/371?
 
 
 
-#EXTINF:-1 group-title="UK-SERVER3", 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="UK-SERVER4", 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="UK-SERVER5", 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="UK-SERVER6", 
-
-
-#EXTINF:-1 group-title="UK-SERVER6",ANIMAL PLANET
-http://80.80.160.168/live/1/live.m3u8
-#EXTINF:-1 group-title="UK-SERVER6",TLC
-http://80.80.160.168/live/2/live.m3u8
-#EXTINF:-1 group-title="UK-SERVER6",Travel Channel
-http://80.80.160.168/live/3/live.m3u8
-#EXTINF:-1 group-title="UK-SERVER6",GREEN PLANET
-http://80.80.160.168/live/4/live.m3u8
-#EXTINF:-1 group-title="UK-SERVER6",ID
-http://80.80.160.168/live/5/live.m3u8
-#EXTINF:-1 group-title="UK-SERVER6",ESPN
-http://80.80.160.168/live/6/live.m3u8
-#EXTINF:-1 group-title="UK-SERVER6",SHO HD
-http://80.80.160.168/live/7/live.m3u8
-#EXTINF:-1 group-title="UK-SERVER6",DISCOVERY HD
-http://80.80.160.168/live/8/live.m3u8
-#EXTINF:-1 group-title="UK-SERVER6",SCI HD
-http://80.80.160.168/live/9/live.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="UK PREMIUM-SERVER1",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="UK PREMIUM-SERVER3",
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="UK PREMIUM-SERVER4",
 
 
 
@@ -2727,87 +2659,6 @@ http://95.77.16.72:81/tv15/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Romania-SERVER2",
-
-#EXTINF:-1 group-title="Romania-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg/250px-Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg.png" ,=ROMANIA=
-http://..........
-
-#EXTINF:-1 group-title="Romania-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg/250px-Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg.png" ,MORE AT
-http://..........
-
-#EXTINF:-1 group-title="Romania-SERVER2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg/250px-Flag_of_the_United_Principalities_of_Romania_%281862_-_1866%29.svg.png" ,P2P TV
-http://..........
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Romania-SERVER3",
-
-
-#EXTINF:-1 group-title="Romania-SERVER3",BOLLYWOOD TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",BOLLYWOOD CLASSIC
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",MOOZ HD
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",MOOZ DANCE
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozDanceHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",MOOZ RO
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozRoSD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",MOOZ HITS
-http://telekomtv.ro.edgesuite.net/shls/LIVE$MoozHitsSD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",TV CITY
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TVCITY/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",Erdely TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$ErdelyTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",Alfa Omega TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$AlfaOmegaTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",6 TV
-http://telekomtv.ro.edgesuite.net/shls/LIVE$6TV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",Speranta
-http://telekomtv.ro.edgesuite.net/shls/LIVE$SperantaTV/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1 group-title="Romania-SERVER3",Travel Mix
-http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelMix/6.m3u8/Level(545259)?start=LIVE&end=END
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 #EXTINF:4 group-title="Bulgaria-WebTV",
@@ -2892,29 +2743,6 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 rtmp://79.98.109.134:1935/big/live 
 #EXTINF:-1 group-title="Bulgaria-WebTV",Делта Русе
 http://185.134.228.141:8891
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Bulgaria-SERVER2",
 
 
 
