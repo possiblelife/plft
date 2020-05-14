@@ -2339,7 +2339,7 @@ https://tvpc.us/player/embed.php?cid=15|agentnodown$$start=src: "$$end=" $$repla
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=27|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/CBBC.jpg" ,Cbbc
 https://streamonion.com/manager/uk/fo/pyplayer.php?cid=29|agentnodown$$start=loadSource('$$end=');$$replace=loadSource('$$replacewith=$$add=
-#EXTINF:-1 group-title="Entertainment" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1
 https://tvpc.us/player/embed.php?cid=62|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://static.filmon.com/assets/channels/1817/extra_big_logo.png" ,ITV 1+1
 https://tvpc.us/player/embed.php?cid=223|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
