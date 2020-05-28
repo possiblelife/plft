@@ -11345,14 +11345,16 @@ http://tjktv.ercdn.net/tjktv.m3u8
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
 #EXTINF:-1 group-title="Turkey-WebTV" tvg-id="TLC TR" tvg-name="TLC TR"  tvg-logo="https://i.ibb.co/rp1rtsC/Mp1BWwp.png" ,TLC
 https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 group-title="Turkey-WebTV" ,TRT 1
+#EXTINF:-1 group-title="Turkey-WebTV" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-03-20-10.50.19/17ddfc2658604509a952019f6ce55452.png ,TRT 1
 https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="Turkey-WebTV" ,TRT 2
+#EXTINF:-1 group-title="Turkey-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Logo_of_TRT_2_%282005-2009%29.png" ,TRT 2
 https://tv-trt2.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkey-WebTV" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" ,TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkey-WebTV" tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" ,TRT Avaz
 https://tv-trtavaz.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Turkey-WebTV" tvg-logo="https://trtkurumsal.trt.net.tr/Uploads/image/png/2019-01-16-16.27.00/2eeb7efc804b4a0ab9a02a2ca0722dcc.png",TRT BELGESER
+https://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Turkey-WebTV" tvg-id="TRT Cocuk TR" tvg-name="TRT Cocuk TR"  tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" ,TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkey-WebTV" tvg-id="TRT Haber TR" tvg-name="TRT Haber TR"  tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" ,TRT Haber
@@ -11361,6 +11363,10 @@ https://tv-trthaber.live.trt.com.tr/master.m3u8
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkey-WebTV" tvg-id="TRT Muzik TR" tvg-name="TRT Muzik TR"  tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" ,TRT Muzik
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="Turkey-WebTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/TRT_Spor_kurumsal_logo.png",TRT SPOR (TURKEY VPN)
+https://tv-trtspor1.live.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Turkey-WebTV" tvg-logo="https://www.thf.org.tr/lib/uploads/d7b20d0bb26eb71B.png",TRT SPOR2 (TURKEY VPN)
+https://tv-trtspor2.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Turkey-WebTV" tvg-logo="https://i.ibb.co/Br1knP7/R8SJH2m.png" ,TRT Türk
 https://tv-trtturk.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turkey-WebTV" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" ,TRT World
