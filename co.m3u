@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="http://sgcpm.com/epg/devilcosta.gz"
 
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://www.sfcg.org/wp-content/uploads/2016/11/youtube-flat.png" ,TUTORIAL VIDEO CLICK HERE.
-https://www.youtube.com/watch?v=7sIsiHbDi_0
+https://www.youtube.com/watch?v=E_BWNbuLJxI
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,OFFICIAL e-Doctor
-https://www.youtube.com/watch?v=7sIsiHbDi_0
+https://www.youtube.com/watch?v=E_BWNbuLJxI
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,IPTV
-https://www.youtube.com/watch?v=7sIsiHbDi_0
+https://www.youtube.com/watch?v=E_BWNbuLJxI
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,Powered by e-Doctor.
-https://www.youtube.com/watch?v=7sIsiHbDi_0
+https://www.youtube.com/watch?v=E_BWNbuLJxI
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="https://cdn.iconscout.com/icon/premium/png-256-thumb/world-wide-web-12-1176706.png" ,http://edoctorcy.xyz
 http://edoctorcy.xyz|webview zoom=100 scroll=0,0
 #EXTINF:-1 group-title="e-Doctor Message" tvg-logo="http://bit.ly/logoe-doctor" ,Download Official
