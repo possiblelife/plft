@@ -2111,28 +2111,79 @@ https://stitcher.pluto.tv/stitch/hls/channel/58e2cd77a84e99942f414e68/master.m3u
 
 #EXTINF:-1 group-title="USA PREMIUM-SERVER6",
 
-#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="177" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/amc-269x151.png" ,AMC
-https://www.streamlive.to/view/76666/AMC-(SD)|webdeskalldig
-#EXTINF:-1 group-title="USA PREMIUM-SERVER6"  tvg-logo="https://sportsfly.cbsistatic.com/fly-136/bundles/sportsmediacss/images/team-logos/ncaa/OHIOST.svg" ,CBS Ohio
-https://www.streamlive.to/view/69956/CBS-(SD)|webdeskalldig
-#EXTINF:-1 group-title="USA PREMIUM-SERVER6"  tvg-id="70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/150px-CNN.svg.png" ,CNN
-https://www.streamlive.to/view/68967/CNN-(SD)|webdeskalldig
-#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN
-https://www.streamlive.to/view/69029/ESPN-(SD)|webdeskalldig
-#EXTINF:-1 group-title="USA PREMIUM-SERVER6"  tvg-id="650" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn2-269x151.png" ,ESPN2
-https://www.streamlive.to/view/69028/ESPN2-(SD)|webdeskalldig
-#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-logo="https://static1.squarespace.com/static/5680412ca128e603baa2dd79/56a2a82d1115e0921167e3dc/5756ef078a65e253c6af90e5/1506612437952/Fox+45+Dayton+OH.png" ,FOX 45 Ohio
-https://www.streamlive.to/view/70048/FOX-(SD)|webdeskalldig
-#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="1083"  tvg-logo="http://jlcauvin.com/wp-content/uploads/2014/04/fox-news-logo.png" ,Fox News
-https://www.streamlive.to/view/68968/FoxNews-(SD)|webdeskalldig
-#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="614" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/hbo-269x151.png" ,HBO
-https://www.streamlive.to/view/69021/HBO-(SD)|webdeskalldig
-#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="626" tvg-logo="https://www.pickcinema.com/images/tv/logos/hbo2.png" ,HBO 2
-https://www.streamlive.to/view/76742/HBO2-(SD)|webdeskalldig 
-#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="7105" tvg-logo="https://www.directhd.tv/wp-content/uploads/2018/09/hbo-comedy-200.png" ,HBO Comedy
-https://www.streamlive.to/view/38214/HBOComedy-(SD)|webdeskalldig
-#EXTINF:-1 group-title="USA PREMIUM-SERVER6"  tvg-id="1386"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/nbcsn-269x151.jpg" ,NBC SPORTS Network (NBCSN)
-https://www.streamlive.to/view/71137/NBCSports-(SD)|webdeskalldig
+
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="2" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/ae-269x151.png" ,A&E 
+https://www.streamlive.to/view/77069/A&E|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="2840" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC Family
+https://www.streamlive.to/view/76553/ABC-Family|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="2840" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC
+https://www.streamlive.to/view/89516/USA-ABC-East-SD|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="323" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/bet-269x151.png" ,Bet Her
+https://www.streamlive.to/view/77546/BET-Her|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="2268" tvg-logo="https://www.lamac.org/system/channels/logos/000/000/057/original/pic_boomerang.png?1522177819" ,Boomerang
+https://www.streamlive.to/view/36575/Boomerang-East|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6"  tvg-id="646" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Bravo_TV.svg/220px-Bravo_TV.svg.png" ,Bravo Channel
+https://www.streamlive.to/view/77113/Bravo|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="17195" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/09/cbs-269x151.png" ,CBS 4 Miami
+https://www.streamlive.to/view/77285/CBS-4-Miami|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="647"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/comedy-central-269x151.png" ,Comedy Central
+https://www.streamlive.to/view/77116/Comedy-Central|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6"  tvg-id="649" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Discovery-269x151.png" ,Discovery Channel
+https://www.streamlive.to/view/77274/Discovery-Channel|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="595" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/disney-269x151.png" ,Disney Channel
+https://www.streamlive.to/view/76782/Disney-Channel|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="6867" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" ,Disney Junior Pacific
+https://www.streamlive.to/view/77071/Disney-Junior-Pacific-(SD)|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="6867" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" ,Disney Junior Pacific HD
+https://www.streamlive.to/view/76577/Disney-Junior-Pacific-(HD)|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="6867" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" ,Disney Junior East HD
+https://www.streamlive.to/view/76878/Disney-Junior-East-(HD)|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="6867" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012014/logo_disney_junior.png?itok=4qSQzM4I" ,Disney Junior East
+https://www.streamlive.to/view/38687/Disney-Junior-East|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="668" tvg-logo="https://pbs.twimg.com/profile_images/824007776489738241/pFk_8LLO_400x400.jpg" ,FOX Sports
+https://www.streamlive.to/view/80082/FOX-SPORTS|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="668" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs1-269x151.png" ,FOX Sports 1 
+https://www.streamlive.to/view/77118/Fox-Sports-1|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="2114" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/fs2-269x151.png" ,FOX Sports 2
+https://www.streamlive.to/view/77119/Fox-Sports-2|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="1052" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" ,Hallmark Channel
+https://www.streamlive.to/view/76572/Hallmark-Channel|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/21/Hallmark_Drama_Logo.png" ,Hallmark Drama
+https://www.streamlive.to/view/76583/Hallmark-Drama|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6"   tvg-id="623" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/HGTV-269x151.png" ,HGTV 
+https://www.streamlive.to/view/76711/HGTV|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="2090"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/id-269x151.jpg" ,Investigation Discovery 
+https://www.streamlive.to/view/77272/Investigation-Discovery|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6"  tvg-id="654"   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/Lifetime-269x151.png" ,Lifetime Channel
+https://www.streamlive.to/view/77303/Lifetime|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6"  tvg-id="655" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/msnbc_logo-269x151.jpg" ,MSNBC 
+https://www.streamlive.to/view/77067/MSNBC|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="2839"  tvg-logo="https://s31242.pcdn.co/wp-content/uploads/2019/06/NBC2.png" ,NBC
+https://www.streamlive.to/view/77574/NBC|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="658" tvg-logo="http://www.kidvertisers.com/images/biglogo_nickelodeon.gif" ,Nickelodeon 
+https://www.streamlive.to/view/76584/Nickelodeon|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-logo="https://images.pluto.tv/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" ,Nicktoons
+https://www.streamlive.to/view/49500/Nicktoons-East|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" ,Nick Jr.
+https://www.streamlive.to/view/76880/Nick-Jr.-East|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-logo="https://images.pluto.tv/channels/5ca6748a37b88b269472dad9/featuredImage.jpg" ,Nick Jr. HD
+https://www.streamlive.to/view/79292/Nick-Jr.-East-HD|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6"  tvg-id="470"  tvg-logo="https://tcaptx.com/wp-content/uploads/2012/03/tcap13.jpg" ,PBS 
+https://www.streamlive.to/view/73202/PBS|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE9m9FvkoIJfQ/company-logo_200_200/0?e=2159024400&v=beta&t=lTiKDCyOYAWOUKAFhaMxUIopehcooURt3q0ra_OtDoU" ,Sportsnet New York
+https://www.streamlive.to/view/77309/Sportsnet-New-York|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="596"   tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/syfy-269x151.png" ,Syfy
+https://www.streamlive.to/view/76884/Syfy|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="61" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/tbs-269x151.png" ,TBS
+https://www.streamlive.to/view/77120/TBS|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-logo="https://pbs.twimg.com/profile_images/1201537129572163585/uotYCBJW_400x400.jpg" ,TeenNick
+https://www.streamlive.to/view/79296/TeenNick-HD|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6" tvg-id="1252"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/TVLand-269x151.png" ,TV Land
+https://www.streamlive.to/view/76886/TVLand-East|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6"  tvg-id="640"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/USA-Network-269x151.png" ,USA Network
+https://www.streamlive.to/view/76809/USA-Network|webdeskalldig
+#EXTINF:-1 group-title="USA PREMIUM-SERVER6"  tvg-logo="https://puui.qpic.cn/vupload/0/20190709_1562668877886_mv37iexf5oh.jpeg/0" ,WE TV
+https://www.streamlive.to/view/77279/WE-TV|webdeskalldig
 
 
 
