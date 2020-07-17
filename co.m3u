@@ -2154,14 +2154,6 @@ https://www.streamlive.to/view/71137/NBCSports-(SD)|webdeskalldig
 
 
 
-
-
-
-
-
-
-
-
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7",
 
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7" tvg-id="594" tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/espn-269x151.png" ,ESPN
@@ -2185,23 +2177,23 @@ https://ustreamix.to/stream.php?id=sportsnet-east|webdeskalldig
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7"  tvg-id="2269" tvg-logo="https://rbr.com/wp-content/uploads/Tennis_Channel.jpg" ,Tennis Channel  
 https://ustreamix.to/stream.php?id=tennis-channel|webdeskalldig
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7"   tvg-logo="https://sport-tv-guide.live/images/stations/a188.png" ,tsn1
-http://free.crichd.online/embed2.php?id=tsn1|webdeskalldig
+http://cdn.crichd.cx/embed2.php?id=tsn1|webdeskalldig
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7"  tvg-id="11182" tvg-logo="https://sport-tv-guide.live/images/stations/a188.png" ,tsn1 
 https://ustreamix.to/stream.php?id=tsn1|webdeskalldig
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7"   tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" ,tsn2
-http://free.crichd.online/embed2.php?id=tsn2|webdeskalldig
+http://cdn.crichd.cx/embed2.php?id=tsn2|webdeskalldig
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7"  tvg-id="18990" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn2-2018.png" ,tsn2 
 https://ustreamix.to/stream.php?id=tsn-2|webdeskalldig
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7"  tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" ,tsn3
-http://free.crichd.online/embed2.php?id=tsn3|webdeskalldig
+http://cdn.crichd.cx/embed2.php?id=tsn3|webdeskalldig
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7"  tvg-id="90118" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn3-2018.png" ,tsn3 
 https://ustreamix.to/stream.php?id=tsn3|webdeskalldig
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7"   tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" ,tsn4
-http://free.crichd.online/embed2.php?id=tsn4|webdeskalldig
+http://cdn.crichd.cx/embed2.php?id=tsn4|webdeskalldig
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7"  tvg-id="90122" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn4-2018.png" ,tsn4 
 https://ustreamix.to/stream.php?id=tsn4|webdeskalldig
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7"  tvg-id="90122" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" ,tsn5 
-http://free.crichd.online/embed2.php?id=tsn5|webdeskalldig
+http://cdn.crichd.cx/embed2.php?id=tsn5|webdeskalldig
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7"  tvg-id="90122" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/tsn5-2018.png" ,tsn5 
 https://ustreamix.to/stream.php?id=tsn5|webdeskalldig
 #EXTINF:-1 group-title="USA PREMIUM-SERVER7"  tvg-logo="http://123tvnow.com/wp-content/uploads/2018/08/wwe-269x151.png" ,WWE NETWORK 
