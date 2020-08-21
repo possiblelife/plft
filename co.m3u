@@ -47,34 +47,52 @@ http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-sat/|agentnodown$$start=file: "htt
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-1/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="RIK1.cy" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png",RIK1
 http://www.anacon.org/app/chans/cy/rik1.php|weballdig
+#EXTINF:-1 group-title="Cyprus" tvg-id="RIK1.cy" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/02/RIK1-4.png",RIK1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/cy/rik1.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png" ,RIK2
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-2/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png",RIK2
 http://www.anacon.org/app/chans/cy/rik2.php|weballdig
+#EXTINF:-1 group-title="Cyprus" tvg-id="RIK2.cy" tvg-logo="http://cybc.com.cy/wp-content/uploads/daphne-lopezcybc-com-cy/2018/03/RIK2.png",RIK2 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/cy/rik2.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://cybc.com.cy/wp-content/uploads/admin/2018/10/rik-hd-bubble-border.png" ,RIK HD
 http://cybc.com.cy/live-tv/%CF%81%CE%B9%CE%BA-hd/|agentnodown$$start=file: "http://$$end=.m3u8$$replace=file: "$$replacewith=$$add=.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-id="TVOne.cy" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA
 http://www.omegatv.com.cy/live/|agentnodown$$start="src": "$$end="}$$replace="src": "$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus" tvg-id="TVOne.cy" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA
 http://www.anacon.org/app/chans/cy/megacy.php|weballdig
+#EXTINF:-1 group-title="Cyprus" tvg-id="TVOne.cy" tvg-logo="http://bit.ly/omegatvlogo" ,OMEGA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/cy/megacy.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma TV" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,SIGMA
 https://sl3.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma TV" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,SIGMA
 http://www.anacon.org/app/chans/cy/sigma.php|weballdig
+#EXTINF:-1 group-title="Cyprus" tvg-name="Sigma" tvg-id="Sigma TV" tvg-logo="http://i.imgur.com/BMvgdlc.png" ,SIGMA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/cy/sigma.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Cyprus"  tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus 
 http://www.alphacyprus.com.cy/page/live|agentnodown$$start=url: '$$end=',$$replace=url: '$$replacewith=$$add=
 #EXTINF:-1 group-title="Cyprus"  tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus 
 http://www.anacon.org/app/chans/cy/alphacy.php|weballdig
+#EXTINF:-1 group-title="Cyprus"  tvg-id="ALPHACYPRUS.cy" tvg-logo="https://pbs.twimg.com/profile_images/983978801528008705/Bh0xANAY_400x400.jpg" ,Alpha Cyprus (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/cy/alphacy.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png",Ant1 Cyprus
 https://www.ant1.com.cy/web-tv-live/|webdig
 #EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png",Ant1 Cyprus
 http://www.anacon.org/app/chans/cy/ant1cy.php|weballdig
+#EXTINF:-1 group-title="Cyprus" tvg-id="ANT1.cy"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/66/ANT1_%28logo%29.png",Ant1 Cyprus (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/cy/ant1cy.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Cyprus" tvg-id="CapitalTV.cy" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital
 http://www.anacon.org/app/chans/cy/capitalcy.php|weballdig
+#EXTINF:-1 group-title="Cyprus" tvg-id="CapitalTV.cy" tvg-logo="https://s19.postimg.cc/fa5e6iw7n/capital.png" ,Capital (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/cy/capitalcy.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Cyprus" tvg-id="Extra.cy" tvg-logo="http://www.lakatamiatv.xyz/media/images/articles/extracy.jpg" ,EXTRA 
 http://www.anacon.org/app/chans/cy/extracy.php|weballdig
-#EXTINF:-1 group-title="Cyprus" tvg-id="PlusTV.cy" tvg-logo="http://www.anacon.org/app/img/plus.jpg",Plus 
+#EXTINF:-1 group-title="Cyprus" tvg-id="Extra.cy" tvg-logo="http://www.lakatamiatv.xyz/media/images/articles/extracy.jpg" ,EXTRA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/cy/extracy.php|autoweb zoom=100 scroll=0,400
+#EXTINF:-1 group-title="Cyprus" tvg-id="PlusTV.cy" tvg-logo="http://www.anacon.org/app/img/plus.jpg",Plus
 http://www.anacon.org/app/chans/cy/pluscy.php|weballdig
+#EXTINF:-1 group-title="Cyprus" tvg-id="PlusTV.cy" tvg-logo="http://www.anacon.org/app/img/plus.jpg",Plus (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/cy/pluscy.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://3.bp.blogspot.com/-_b7Ny-5Xy5c/V-1fWCCPSxI/AAAAAAAAE4M/mjLo3ZSMdCUZOjDyM6mhKTs0IEhqIk8HgCLcB/s1600/arttv1.png",ART
 http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://yt3.ggpht.com/-HQamnwjhf6M/AAAAAAAAAAI/AAAAAAAAAAA/RR0l9Otdjl4/s100-mo-c-c0xffffffff-rj-k-no/photo.jpg" ,SMILE TV
@@ -113,14 +131,20 @@ http://.....
 https://ert-live.siliconweb.com/media/ert_1/ert_1.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="ert1" tvg-logo="https://goo.gl/hD0NSD" ,ΕΡΤ1 
 http://www.anacon.org/app/chans/gr/ert1s2.php|weballdig
+#EXTINF:-1 group-title="Greece"  tvg-id="ert1" tvg-logo="https://goo.gl/hD0NSD" ,ΕΡΤ1 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/gr/ert1s2.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Greece"  tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2 WebTV
 https://ert-live.siliconweb.com/media/ert_2/ert_2.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2 
 http://www.anacon.org/app/chans/gr/ert2s2.php|weballdig
+#EXTINF:-1 group-title="Greece"  tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/gr/ert2s2.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Greece"  tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 WebTV 
 https://ert-live.siliconweb.com/media/ert_3/ert_3.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 
 http://www.anacon.org/app/chans/gr/ert3s2.php|weballdig
+#EXTINF:-1 group-title="Greece"  tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/gr/ert3s2.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Greece"  tvg-id="ert1" tvg-logo="https://goo.gl/DLhMC3" ,ΕΡΤ WORLD WebTV
 https://ert-live.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="ertsports" tvg-logo="https://webtv.ert.gr/wp-content/uploads/2019/02/ERTSports-logoPage1.png" ,ΕΡΤ SPORTS
@@ -137,18 +161,26 @@ https://www.youtube.com/watch?v=CmqbY_Gzsdo&feature=emb_title
 https://www.skaitv.gr/live|agentnodown$$start=https:\/\/www.youtube.com$$end=",$$replace=\$$replacewith=$$add=
 #EXTINF:-1 group-title="Greece"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,SKAI 
 http://www.anacon.org/app/chans/gr/skai.php|weballdig
+#EXTINF:-1 group-title="Greece"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,SKAI (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/gr/skai.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Greece"  tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR HD
 https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR 
 http://www.anacon.org/app/chans/gr/star.php|weballdig
+#EXTINF:-1 group-title="Greece"  tvg-id="STAR" tvg-logo="https://goo.gl/z2xi2U" ,STAR (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/gr/star.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Greece"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ALPHA (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://alphalive-i.akamaihd.net/hls/live/682300/live/master.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ALPHA 
 http://www.anacon.org/app/chans/gr/alpha.php|weballdig
+#EXTINF:-1 group-title="Greece"  tvg-id="ALPHA" tvg-logo="https://www.tornosnews.gr/en/files/Alpha_TV_Logo_100618079.png" ,ALPHA (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/gr/alpha.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Greece"  tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV 
 http://www.anacon.org/app/chans/gr/open.php|weballdig
+#EXTINF:-1 group-title="Greece"  tvg-id="OPEN BEYOND" tvg-logo="https://3.bp.blogspot.com/-V1IiQyuH6h4/W9DD7I-i0XI/AAAAAAACPZM/y7BR6r3wzowUF7J7RC-pJAZi-yPqaxEEQCLcBGAs/s1600/open-tv.jpg" ,OPEN Beyond TV (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
+http://www.anacon.org/app/chans/gr/open.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Greece"  tvg-id="vouli" tvg-logo="https://goo.gl/m1ZYJB" ,ΒΟΥΛΗ
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-logo="https://goo.gl/m1ZYJB" ,ΒΟΥΛΗ2
