@@ -2408,9 +2408,9 @@ http://.........
 
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-id="ITV Anglia" tvg-logo="http://picon.webhop.net/logo/uk/itv_uk.png" ,ITV 1
 https://tvpc.us/player/embed.php?cid=62|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-id="ITV2" tvg-logo="https://easyview.eu/img/itv2_logo_new_2015-400x284.jpg" ,ITV 2
 https://tvpc.us/player/embed.php?cid=7|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add= 
-#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png" ,Channel 4
+#EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-id="Channel 4" tvg-logo="https://vector.me/files/images/3/4/34689/channel_4.png" ,Channel 4
 https://tvpc.us/player/embed.php?cid=3|agentnodown$$start=src: "$$end=" $$replace=src: "$$replacewith=$$add=
 #EXTINF:-1 group-title="UK PREMIUM-SERVER2" tvg-id="Sky Sports Main Events" tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SKYSPORTSMAINEVENT.png" ,Sky Sports Main Event
 https://tvpc.us/player/embed.php?cid=511|weballdig
@@ -2583,6 +2583,14 @@ https://ustreamix.to/stream.php?id=sky-sports-arena|webdeskalldig
 http://cdn.crichd.cx/embed2.php?id=skyarena&q=Sky Sports Arena|weballdig
 #EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-id="Sky Sports Racing UK" tvg-logo="https://static1.squarespace.com/static/5767bd2120099e297415297a/t/5cdaa9b724a694cb4996e3f2/1557834178044/Sky+Sports+Racing+Logo+Square.png?format=1500w" ,Sky Sports Racing UK 
 https://ustreamix.to/stream.php?id=sky-sports-racing|webdeskalldig
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-id="Sky Sports Action" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1135.1507600377.png" ,Sky Sports Action
+https://ustreamix.to/stream.php?id=sky-sports-action|webdeskalldig
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-id="Sky Sports Action" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1135.1507600377.png" ,Sky Sports Action [Server 2]
+http://cdn.crichd.cx/embed2.php?id=skysp3&q=Sky Sports Action|weballdig
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-id="Sky Sports Mix" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1135.1507600377.png" ,Sky Sports Mix
+https://ustreamix.to/stream.php?id=sky-sports-mix|webdeskalldig
+#EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-id="Sky Sports Mix" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/f/1/1135.1507600377.png" ,Sky Sports Mix [Server 2]
+http://cdn.crichd.cx/embed2.php?id=skymix&q=Sky Sports Mix|weballdig
 #EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-id="BT Sport 1" tvg-logo="https://icdb.tv/images/f712337727fd8922f45402fa933ad664.jpg" ,BT Sport 1
 https://ustreamix.to/stream.php?id=bt-sport-1|webdeskalldig
 #EXTINF:-1 group-title="UK PREMIUM-SERVER4" tvg-id="BT Sport 1" tvg-logo="https://icdb.tv/images/f712337727fd8922f45402fa933ad664.jpg" ,BT Sport 1 [Server 2]
