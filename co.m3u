@@ -140,9 +140,7 @@ http://www.anacon.org/app/chans/gr/ert2s2.php|weballdig
 #EXTINF:-1 group-title="Greece"  tvg-id="ert2" tvg-logo="https://goo.gl/quc9Qp" ,ΕΡΤ2 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
 http://www.anacon.org/app/chans/gr/ert2s2.php|autoweb zoom=100 scroll=0,400
 #EXTINF:-1 group-title="Greece"  tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 WebTV 
-https://www.youtube.com/watch?v=F_jfMlJiDcc
-#EXTINF:-1 group-title="Greece"  tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 WebTV  WORLDWIDE
-https://www.youtube.com/watch?v=TNVdb0tT0PM
+https://ert-live-ert3.siliconweb.com/live/smil:ert3-live.smil/playlist.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 
 http://www.anacon.org/app/chans/gr/ert3s2.php|weballdig
 #EXTINF:-1 group-title="Greece"  tvg-id="ert3" tvg-logo="https://goo.gl/FOIiN8" ,ΕΡΤ3 (ΚΑΝΤΕ ΚΛΙΚ ΣΤΟ "PLAY VIDEO" ΜΕΤΑΞΥ ΔΙΑΦΗΜΙΣΕΩΝ)
@@ -151,6 +149,12 @@ http://www.anacon.org/app/chans/gr/ert3s2.php|autoweb zoom=100 scroll=0,400
 https://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_world.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="ertsports" tvg-logo="https://webtv.ert.gr/wp-content/uploads/2019/02/ERTSports-logoPage1.png" ,ΕΡΤ SPORTS
 https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sports.m3u8
+#EXTINF:-1 group-title="Greece"  tvg-id="ertsports1" tvg-logo="https://i.ibb.co/mhBPc1n/sports.jpg" ,ΕΡΤ SPORTS 1
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_1/ert_sports_1.m3u8
+#EXTINF:-1 group-title="Greece"  tvg-id="ertsports1" tvg-logo="https://i.ibb.co/mhGshmN/sports.jpg" ,ΕΡΤ SPORTS 2
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_2/ert_sports_2.m3u8
+#EXTINF:-1 group-title="Greece"  tvg-id="ertsports1" tvg-logo="https://i.ibb.co/8XJRX8z/sports3.jpg" ,ΕΡΤ SPORTS 3
+https://ert-live-bcbs15228.siliconweb.com/media/ert_sports_3/ert_sports_3.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="ONE Channel" tvg-logo="https://i.imgur.com/yHiFVKK.jpg" ,ONE TV
 https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="ANT1" tvg-logo="https://goo.gl/q5aDRg" ,ANT1 HD
@@ -158,7 +162,7 @@ https://antennalivesp-lh.akamaihd.net/i/live_1@715138/master.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="Mega" tvg-logo="http://greektv.pbworks.com/f/MEGA.png" ,MEGA (ΜΟΝΟ ΓΙΑ ΕΛΛΑΔΑ)
 https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/chunklist_b2628000.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,SKAI
-https://skai-live-gr-cy-back.siliconweb.com/media/cambria4/index.m3u8
+https://skai-live-back.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="Greece"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,SKAI (ΕΝΑΛΛΑΚΤΙΚΟ)
 https://www.skaitv.gr/live|weballdig
 #EXTINF:-1 group-title="Greece"  tvg-id="SKAI" tvg-logo="https://www.skai.gr/logo.jpg" ,SKAI 
