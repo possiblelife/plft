@@ -104,7 +104,7 @@ http://www.anacon.org/app/chans/cy/mall.html|weballdig
 #EXTINF:-1 group-title="Cyprus" tvg-logo="https://i.imgur.com/w9Je47D.png",CYSPORTS
 https://istoikona.com/CYSPORTS|weballdig
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://www.radioepistrofi.com/templates/olympus/images/logo.jpg" ,RADIO EPISTROFI
-http://master.cystreams.com:25461/live/epistrofi/epistrofi123/44.ts
+https://s1.cystream.net/live/epistrofi/playlist.m3u8
 #EXTINF:-1 group-title="Cyprus"  tvg-logo="http://www.lakatamiatv.xyz/app/img/cycinema.jpg",CYPRUS CINEMA
 http://www.anacon.org/app/chans/cy/cycinema.php|weballdig
 #EXTINF:-1 group-title="Cyprus" tvg-logo="http://farosonair.com/iconfaros.png",FAROS on Air
