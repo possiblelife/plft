@@ -1431,7 +1431,7 @@ http://api.new.livestream.com/accounts/22998687/events/6864865/live.m3u8
 https://tv247.us/watch/ae-free-stream/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-id="10840" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/abc-269x151.jpg" ,ABC 
 https://tv247.us/watch/abc-us/|webdelayalldig$$delay=0
-#EXTINF:-1 group-title"USA PREMIUM-SERVER1"  tvg-id="10021" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/amc-269x151.png" ,AMC 
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1"  tvg-id="10021" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/amc-269x151.png" ,AMC 
 https://tv247.us/watch/amc-us-free-stream/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-id="57394" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/animal-planet-269x151.png" ,Animal Planet 
 https://tv247.us/watch/animal-planet-us/|webdelayalldig$$delay=0
@@ -1469,7 +1469,7 @@ https://tv247.us/watch/espn-u/|webdelayalldig$$delay=0
 https://tv247.us/watch/espn2/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="USA PREMIUM-SERVER1"  tvg-id="33648" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/food-network-269x151.png" ,Food Network 
 https://tv247.us/watch/food-network-us/|webdelayalldig$$delay=0
-#EXTINF:-1 group-title"USA PREMIUM-SERVER1"  tvg-id="58574" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/fox-269x151.png" ,FOX HD 
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1"  tvg-id="58574" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/fox-269x151.png" ,FOX HD 
 https://tv247.us/watch/fox-free-stream/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="USA PREMIUM-SERVER1"  tvg-id="16374"  tvg-logo="http://jlcauvin.com/wp-content/uploads/2014/04/fox-news-logo.png" ,Fox News 
 https://tv247.us/watch/fox-news-us/|webdelayalldig$$delay=0
@@ -1481,11 +1481,11 @@ https://tv247.us/watch/fox-sports-2-us/|webdelayalldig$$delay=0
 https://tv247.us/watch/freeformus/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="USA PREMIUM-SERVER1"  tvg-id="17927"  tvg-logo="https://www.rbr.com/wp-content/uploads/FXX.jpg" ,FXX
 https://tv247.us/watch/fxx-us/|webdelayalldig$$delay=0
-#EXTINF:-1 group-title"USA PREMIUM-SERVER1" tvg-id="11221" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" ,Hallmark Channel 
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-id="11221" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/hallmark-chanel-logo.jpg" ,Hallmark Channel 
 https://tv247.us/watch/hallmark-tv/|webdelayalldig$$delay=0
-#EXTINF:-1 group-title"USA PREMIUM-SERVER1" tvg-id="61522" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/HMM_logo_black-700x245.jpg" ,Hallmark Movies & Mysteries 
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-id="61522" tvg-logo="https://ustvgo.tv/wp-content/uploads/2019/01/HMM_logo_black-700x245.jpg" ,Hallmark Movies & Mysteries 
 https://tv247.us/watch/hallmark-movies-mysteries-tv/|webdelayalldig$$delay=0
-#EXTINF:-1 group-title"USA PREMIUM-SERVER1"  tvg-id="10240" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/hbo-269x151.png" ,HBO 
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1"  tvg-id="10240" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/hbo-269x151.png" ,HBO 
 https://tv247.us/watch/hbo-us/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="USA PREMIUM-SERVER1"  tvg-id="34215" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/HGTV-269x151.png" ,HGTV 
 https://tv247.us/watch/hgtv-us/|webdelayalldig$$delay=0
@@ -1521,7 +1521,7 @@ https://tv247.us/watch/syfy-us/|webdelayalldig$$delay=0
 https://tv247.us/watch/tbs-us/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="USA PREMIUM-SERVER1"  tvg-id="57391"  tvg-logo="https://123tv.live/wp-content/uploads/2018/08/tlc-269x151.png" ,TLC 
 https://tv247.us/watch/tlc-us/|webdelayalldig$$delay=0
-#EXTINF:-1 group-title"USA PREMIUM-SERVER1"  tvg-id="11164" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT 
+#EXTINF:-1 group-title="USA PREMIUM-SERVER1"  tvg-id="11164" tvg-logo="https://123tv.live/wp-content/uploads/2018/08/tnt-269x151.png" ,TNT 
 https://tv247.us/watch/tnt-us-free/|webdelayalldig$$delay=0
 #EXTINF:-1 group-title="USA PREMIUM-SERVER1" tvg-id="662"  tvg-logo="https://123tv.live/wp-content/uploads/2018/08/Travel-269x151.png" ,Travel Channel 
 https://tv247.us/watch/travel-channel/|webdelayalldig$$delay=0
